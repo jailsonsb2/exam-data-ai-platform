@@ -1,0 +1,741 @@
+[p1c0] Colégio Sala Ordem
+[p1c0] 00001 0001 0001
+[p1c0] Fevereiro/2023
+[p1c0] Concurso Público para o Provimento de Cargos de
+[p1c0] Analista Judiciário
+[p1c0] Área Judiciária
+[p1c0] Nome do Candidato No de Inscrição No do Caderno
+[p1c0] TIPO−001
+[p1c0] Caderno de Prova ’H08’, Tipo 001 MODELO
+[p1c0] ASSINATURA DO CANDIDATO
+[p1c0] No do Documento
+[p1c0] 0000000000000000
+[p1c0] Conhecimentos Gerais
+[p1c0] P R O VA
+[p1c0] Conhecimentos Específicos
+[p1c0] Discursiva-Redação
+[p1c0] I N S T R U Ç Õ E S
+[p1c0] Quando autorizado pelo fiscal
+[p1c0] de sala, transcreva a frase Que seja livre o que chegar, que seja doce o que ficar
+[p1c0] ao lado, com sua caligrafia
+[p1c0] e que seja breve o que tiver que ir.
+[p1c0] usual, no espaço apropriado
+[p1c0] na Folha de Respostas.
+[p1c0] - Verifique se este caderno:
+[p1c0] - corresponde à sua opção de cargo.
+[p1c0] - contém 60 questões, numeradas de 1 a 60.
+[p1c0] - contém a proposta e o espaço para o rascunho da Prova Discursiva-Redação.
+[p1c0] Caso contrário, solicite imediatamente ao fiscal da sala a substituição do caderno.
+[p1c0] Não serão aceitas reclamações posteriores.
+[p1c0] - Para cada questão existe apenas UMAresposta certa.
+[p1c0] - Leia cuidadosamente cada uma das questões e escolha a resposta certa.
+[p1c0] - Essa resposta deve ser marcada na FOLHADE RESPOSTAS que você recebeu.
+[p1c0] VOCÊ DEVE
+[p1c0] - Procurar, na FOLHADE RESPOSTAS, o número da questão que você está respondendo.
+[p1c0] - Verificar no caderno de prova qual a letra (A,B,C,D,E) da resposta que você escolheu.
+[p1c0] - Marcar essa letra na FOLHADE RESPOSTAS, conforme o exemplo: A C D E
+[p1c0] - Ler o que se pede na Prova Discursiva-Redação e utilizar, se necessário, o espaço para rascunho.
+[p1c0] ATENÇÃO
+[p1c0] - Marque as respostas com caneta esferográfica de material transparente e tinta preta ou azul. Não será permitida a
+[p1c0] utilização de lápis, lapiseira, marca-texto, régua ou borracha durante a realização da prova.
+[p1c0] - Marque apenas uma letra para cada questão. Será anulada a questão em que mais de uma letra estiver assinalada.
+[p1c0] - Responda a todas as questões.
+[p1c0] - Não será permitida nenhuma espécie de consulta ou comunicação entre os candidatos, nem a utilização de livros,
+[p1c0] anotações, códigos, manuais, notas ou impressos não permitidos, máquina calculadora ou similar.
+[p1c0] - Em hipótese alguma o rascunho da Prova Discursiva-Redação será corrigido.
+[p1c0] - Você deverá transcrever a sua Prova Discursiva-Redação a tinta, na folha apropriada.
+[p1c0] - A duração da prova é de 4 horas e 30 minutos, para responder a todas as questões objetivas, preencher a Folha de
+[p1c0] Respostas e fazer a Prova Discursiva-Redação (rascunho e transcrição) na folha correspondente.
+[p1c0] - Ao terminar a prova, chame o fiscal e devolva todo o material recebido para conferência.
+[p1c0] - É proibida a divulgação ou impressão parcial ou total da presente prova. Direitos Reservados.
+[p2c0] CONHECIMENTOS GERAIS
+[p2c0] Língua Portuguesa
+[p2c0] Atenção: Para responder às questões de números 1 a 8, baseie-se no texto abaixo.
+[p2c0] [Acerca da “Igualdade”]
+[p2c0] “Liberdade, Igualdade, Fraternidade” foi o grito de guerra da Revolução Francesa. Hoje há disciplinas inteiras − ramos da filo-
+[p2c0] sofia, da ciência política e dos estudos jurídicos − que têm a “igualdade” como tema central de estudos. Todos concordam que a
+[p2c0] igualdade é um valor; ninguém parece concordar quanto ao que se refere o termo. Igualdade de oportunidades? Igualdade de con-
+[p2c0] dições? Igualdade formal perante a lei?
+[p2c0] Estaremos falando de uma ideologia, a crença de que todos na sociedade deveriam ser iguais − claro que não em todos os
+[p2c0] aspectos, mas nos mais importantes? Ou será uma sociedade em que as pessoas são efetivamente iguais? O que isso significaria de
+[p2c0] fato, na prática, em ambos os casos? Que todos os membros da sociedade têm igual acesso à terra, ou tratam uns aos outros com
+[p2c0] igual dignidade, ou são igualmente livres para expor suas opiniões em assembleias públicas?
+[p2c0] A igualdade seria o apagamento do indivíduo ou a celebração do indivíduo? Numa sociedade, por exemplo, em que os mais
+[p2c0] poderosos são tratados como divindades e tomam as decisões mais importantes, é possível falar em igualdade? E as relações de
+[p2c0] gênero? Muitas sociedades tratadas como “igualitárias” na verdade têm seu igualitarismo restrito aos homens adultos. Em casos
+[p2c0] assim, podemos falar em igualdade de gêneros?
+[p2c0] Como não existe nenhuma resposta clara e consensual a questões desse tipo, o uso do termo “igualitário” tem levado a
+[p2c0] discussões infindáveis. Para alguns teóricos do século XVII, a igualdade se manifestava no estado da Natureza. Igualdade, pois,
+[p2c0] seria um termo definido por omissão: identificaria uma humanidade que pudesse estar livre depois de removidas todas as armadilhas
+[p2c0] da civilização. Povos “igualitários” seriam, pois, aqueles sem príncipes, sem juízes, sem inspetores, sem sacerdotes, possivelmente
+[p2c0] sem cidades, sem escrita ou sequer agricultura. Seriam sociedades de iguais apenas no sentido estrito de que estariam ausentes
+[p2c0] todos os sinais mais evidentes de desigualdade.
+[p2c0] Não há dúvida, pensando-se sempre no ideal de “igualdade”, de que algo deu muito errado no mundo. Uma ínfima parte da
+[p2c0] população controla o destino de quase todos os outros, e de uma maneira cada vez mais desastrosa.
+[p2c0] (Adaptado de: GRAEBER, David, e WENGROW, David. O despertar de tudo − Uma nova história da humanidade. Trad. Denise Bottmann e
+[p2c0] Claudio Marcondes. São Paulo: Companhia das Letras, 2022, p. 91 a 94, passim)
+[p2c0] 1. A utilização do termo igualdade tem mostrado que esse conceito
+[p2c0] (A) somente ganhou precisão rigorosamente objetiva ao longo da Revolução Francesa.
+[p2c0] (B) tem sido objeto de várias áreas de conhecimento, sem consenso quanto ao seu sentido.
+[p2c0] (C) apenas ganha sentido para esclarecer o que ocorre positivamente entre os gêneros.
+[p2c0] (D) tem sido objeto de discussões infindáveis porque ninguém lhe reconhece um valor prático.
+[p2c0] (E) teve plena vigência somente entre os primitivos que reconheciam o valor da natureza.
+[p2c0] 2. Segundo alguns teóricos do século XVII (4o parágrafo), a igualdade
+[p2c0] (A) só ocorreria no caso de supressão do que consideravam obstáculos criados pela própria civilização.
+[p2c0] (B) seria alcançada somente quando os homens aperfeiçoassem com todo o rigor suas mais caras instituições.
+[p2c0] (C) teria alcançado seu esplendor ao tempo em que o cultivo da natureza inspirava a conduta social de todos.
+[p2c0] (D) teria se tornado um valor abstrato por conta das revoluções que suprimiram suas formas objetivas de vigência.
+[p2c0] (E) constituiria um ideal tão alto que será preciso aguardar a ocasião historicamente propícia para sua efetivação.
+[p2c0] 3. Na pergunta A igualdade seria o apagamento do indivíduo ou a celebração do indivíduo?, o autor
+[p2c0] (A) articula uma relação de causa e efeito entre os termos que a constituem.
+[p2c0] (B) indaga sobre o que seria um natural desenvolvimento das práticas igualitárias.
+[p2c0] (C) considera os extremos antagônicos relativos ao entendimento de um mesmo conceito.
+[p2c0] (D) levanta a hipótese de que haja duas possibilidades alternáveis dentro de uma prática.
+[p2c0] (E) sustenta uma relação de antagonismo entre os que vivenciam um mesmo ideal.
+[p2c0] 4. Considerando-se o contexto, traduz-se adequadamente o sentido de um segmento do texto em:
+[p2c0] (A) têm a “igualdade” como tema central de estudos (1o parágrafo) = trabalham de modo igualitário um conceito essencial
+[p2c0] (B) tratam uns aos outros com igual dignidade (2 o parágrafo) = fazem-se dignos do mesmo tratamento
+[p2c0] (C) igualitarismo restrito aos homens adultos (3o parágrafo) = restrição de igualdade entre os mais bem formados
+[p2c0] (D) resposta clara e consensual a questões desse tipo (4o parágrafo) = solução límpida para as dissensões de tal ordem
+[p2c0] (E) estariam ausentes todos os sinais mais evidentes (4o parágrafo) = não se apresentariam os traços mais visíveis
+[p3c0] 5 . As normas de concordância verbal estão plenamente observadas na frase:
+[p3c0] (A) Não correspondem aos conceitos defendidos pelos revolucionários franceses nenhuma prática moderna plenamente objetiva.
+[p3c0] (B) Restam aos que ainda se proponham a bem definir o que seja igualdade o desafio de comprová-la nas vivência sociais.
+[p3c0] (C) Não deve satisfazer a um defensor intransigente da igualdade entre os homens as convicções abstratas dos idealistas.
+[p3c0] (D) Por mais dúvidas que se coloquem diante do conceito de igualdade, não se apaga o ânimo dos humanistas esperançosos.
+[p3c0] (E) Deverá sobrevir como efeito imediato do fim das práticas autoritárias as práticas possíveis de um real igualitarismo.
+[p3c0] 6. Transpondo-se para a voz ativa a frase os mais poderosos são tratados como divindades, a forma verbal obtida deverá ser
+[p3c0] (A) tratam-se
+[p3c0] (B) tratam
+[p3c0] (C) devem ser tratados
+[p3c0] (D) tratar-se-ão
+[p3c0] (E) podem tratar-se
+[p3c0] 7. É plenamente adequada a pontuação da seguinte frase:
+[p3c0] (A) Diga-me, então: se você acha de fato pertinente esse quadro de definições, do termo “igualdade”.
+[p3c0] (B) Eu desejaria saber qual a dificuldade, que se apresenta, desde sempre para se definir o que é igualdade?
+[p3c0] (C) Sem dúvida não há consenso: devido ao fato de um conceito como este ser, dúbio já na raiz.
+[p3c0] (D) Há ainda os que esperam, apesar de tudo, que um dia se estabeleça, como prática real, um efetivo igualitarismo.
+[p3c0] (E) O conceito de igualitarismo, desde sempre vacilante aguarda, que sua prática, enfim venha a se dar, entre os que nele
+[p3c0] confiam.
+[p3c0] 8. A frase o uso do termo “igualitário” tem levado a discussões infindáveis permanecerá gramaticalmente correta caso se substitua
+[p3c0] o elemento sublinhado por
+[p3c0] (A) tem sido propiciado de
+[p3c0] (B) vem ensejando
+[p3c0] (C) abrange-se em
+[p3c0] (D) investe-se para
+[p3c0] (E) conclama à essas
+[p3c0] Atenção: Para responder às questões de números 9 a 13, baseie-se no texto abaixo.
+[p3c0] Encenação da morte
+[p3c0] A vida nos quer, a morte nos quer. Somos o resultado da tensão ocasionada pelas duas forças que nos puxam. Esse equilíbrio
+[p3c0] não é estável. Amplo, diverso e elástico é o campo de força da vida, e vale a mesma coisa para o campo da morte. Se ficamos
+[p3c0] facilmente deprimidos ou exaltados é em razão das oscilações de intensidade desses dois campos magnéticos, sendo o tédio o
+[p3c0] relativo equilíbrio entre os dois.
+[p3c0] Às vezes é mais intensa a pressão da vida, outras vezes é mais intensa a pressão da morte. Não se quer dizer com isso que a
+[p3c0] exaltação seja a morte e a depressão seja a vida. Há exaltações e exultações que se polarizam na morte, assim como há sistemas de
+[p3c0] depressão que gravitam em torno da vida. O estranho, do ponto de vista biológico, é que somos medularmente solitários com ambos
+[p3c0] os estados de imantação mais intensa, os da vida e os da morte. Não aproveitamos apenas a vida, mas usufruímos também as
+[p3c0] experiências da morte, desde que essas não nos matem.
+[p3c0] Ganhei várias vezes da morte, isto é, inúmeras vezes os papéis que a morte representou para mim não chegaram a ser
+[p3c0] convincentes ou não chegaram a fazer grande sucesso. Matei várias mortes. (...) Mas outro dia dei dentro de mim com uma morte tão
+[p3c0] madura, tão forte, tão irrespondível, tão parecida comigo que fiquei no mais confuso dos sentimentos. Esta eu não posso matar, esta é
+[p3c0] a minha morte. O Vinícius de Moraes, que entende muito de morte, disse que nesse terreno há sempre margem de erro, e que talvez
+[p3c0] eu tenha ainda de andar um bocado mais antes de encontrar a minha morte. Pode ser. Não sei. Quem sabe?
+[p3c0] (Adaptado de CAMPOS, Paulo Mendes. Os sabiás da crônica. Antologia. Org. Augusto Massi. Belo Horizonte: Autêntica, 2021, p. 246-248,
+[p3c0] passim)
+[p3c0] 9. Ao situar especificamente a tensão ocasionada pelas duas forças que nos puxam, no início do texto, o cronista está se referindo
+[p3c0] a um fenômeno que expressará em outro lugar como
+[p3c0] (A) estados de imantação mais intensa.
+[p3c0] (B) diverso e elástico é o campo da vida.
+[p3c0] (C) somos medularmente solitários.
+[p3c0] (D) há sempre uma margem de erro.
+[p3c0] (E) talvez eu tenha ainda de andar um bocado.
+[p4c0] 1 0. Ao afirmar Matei várias mortes, o cronista está sugerindo que
+[p4c0] (A) superou bravamente todos os riscos de morrer.
+[p4c0] (B) encenou a própria morte para sentir como seria.
+[p4c0] (C) venceu os desafios de uma ilusória fatalidade.
+[p4c0] (D) imaginou morrer quando nada o ameaçava.
+[p4c0] (E) supôs ter morrido num estado de delírio.
+[p4c0] 11. Considerando-se o contexto, um segmento do texto tem seu significado bem interpretado em:
+[p4c0] (A) Amplo, diverso e elástico é o campo de força da vida (1o parágrafo) = O campo de força da vida é previsível em sua
+[p4c0] singularidade.
+[p4c0] (B) nesse terreno há sempre margem de erro (3o parágrafo) = em assuntos como esse é fatal que nos equivoquemos.
+[p4c0] (C) há sistemas de depressão que gravitam em torno da vida (2o parágrafo) = sobrevém a depressão quando nos entregamos
+[p4c0] aos instintos de viver.
+[p4c0] (D) usufruímos também as experiências da morte (2o parágrafo) = gerenciamos sobretudo uma vivência da eternidade.
+[p4c0] (E) sendo o tédio o relativo equilíbrio entre os dois (1o parágrafo) = ocorre o tédio quando somos atraídos por ambos os
+[p4c0] campos.
+[p4c0] 12. Ao longo do texto o autor se vale de vários paradoxos, tal como o que ocorre na seguinte formulação:
+[p4c0] (A) Somos o resultado da tensão ocasionada pelas duas forças que nos puxam.
+[p4c0] (B) oscilações de intensidade desses dois campos magnéticos.
+[p4c0] (C) Às vezes é mais intensa a pressão da vida
+[p4c0] (D) usufruímos também as experiências da morte, desde que essas não nos matem.
+[p4c0] (E) O Vinícius de Moraes (...) disse que nesse terreno há sempre margem de erro.
+[p4c0] 13. Ao tratar da morte, o cronista atribui à morte um poder de imantação tal que acaba por identificar a morte como uma força que,
+[p4c0] paradoxalmente, exerce uma estranha atração até mesmo sobre os que temem a morte.
+[p4c0] Evitam-se as viciosas repetições do período acima substituindo-se os elementos sublinhados, na ordem dada, por:
+[p4c0] (A) atribui-lhe − identificá-la − a temem
+[p4c0] (B) lhe atribui − identificar a ela − lhe temem
+[p4c0] (C) atribui-lhe − a identificar − temem-lhe
+[p4c0] (D) atribui nela − lhe identificar − temem-na
+[p4c0] (E) a atribui − identificar-lhe − a temem
+[p4c0] Atenção: Para responder às questões de números 14 a 17, baseie-se no texto abaixo.
+[p4c0] Uma visita
+[p4c0] Era já no fim da tarde quando a moça − muito linda, mas muito aflita −, de nome Francisca Bastos Cordeiro, foi entrando pela
+[p4c0] porta entreaberta do chalé, seguiu direto ao quarto (antiga sala de costura da casa, ao tempo em que sua dona era viva), onde
+[p4c0] encontrou, estendido e frágil numa pequena cama de ferro, aquele homem, muito velhinho já, agonizante quase, que lhe fora bom
+[p4c0] companheiro em noites idas de sua infância, quando com ela jogava o sete e meio e lhe ensinava a recitar poemas na casa de sua
+[p4c0] avó.
+[p4c0] − Vim vê-lo, foi dizendo a moça, inventando uma alegria na voz que lhe disfarçasse a emoção. Estou com muitas saudades
+[p4c0] suas. E o senhor, não está com saudades de mim?
+[p4c0] − Estou, sim − disse o velho, numa voz muito cava e muito triste. Estou com saudade da vida.
+[p4c0] No dia seguinte morria Machado de Assis. A tarde era a de 28 de setembro de 1908. A rua era a do Cosme Velho.
+[p4c0] (Adaptado de: MELLO, Thiago de. Escritor por escritor − Machado de Assis por seus pares – 1939-2008. São Paulo: Imprensa Oficial do
+[p4c0] Estado, 2019, p. 278-279)
+[p4c0] 14. As informações que identificam aquele homem, muito velhinho já, agonizante quase, surgem tão somente no fecho do texto.
+[p4c0] Como efeito desse procedimento,
+[p4c0] (A) a visita comovida da moça se explica plenamente em virtude da celebridade do moribundo, a quem ela foi prestar home-
+[p4c0] nagem.
+[p4c0] (B) reverencia-se melhor a humildade com que um célebre escritor acolhia admiradores de sua importante obra literária.
+[p4c0] (C) toda a visitação acaba marcada pela razão simples da profunda amizade que ligava a moça a um seu velho amigo.
+[p4c0] (D) fica a impressão de que a visitante desconhecia a real importância histórica daquele seu amigo agonizante.
+[p4c0] (E) a declinação do nome completo da moça não deixa dúvida em qualquer leitor quanto a quem seja o doente visitado.
+[p5c0] 15. − Vim vê-lo, foi dizendo a moça, estou com muitas saudades suas. E o senhor, não está com saudades de mim?
+[p5c0] Transpondo o texto acima para o discurso indireto, ele deverá ficar:
+[p5c0] A moça foi dizendo que...
+[p5c0] (A) fora visitá-lo, por estar com muitas saudades dele, se ele também estava com as mesmas saudades suas.
+[p5c0] (B) estou vindo pra lhe visitar, que estou com muitas saudades suas, e se ele também estava com as mesmas.
+[p5c0] (C) tinha vindo para lhe ver, e que estava com muitas saudades dele, tanto quanto ele as tinha por ela.
+[p5c0] (D) fora vê-lo por ter estado com saudades dele, e se o senhor também estava com muitas saudades dela.
+[p5c0] (E) tinha ido vê-lo, que estava com muitas saudades dele, e se ele também não estaria com saudades dela.
+[p5c0] 16. Está plenamente adequada a correlação entre os tempos e os modos verbais na frase:
+[p5c0] (A) A moça fora visitar o soberbo escritor em respeito à amizade que desde os tempos de sua meninice cultivasse com ele.
+[p5c0] (B) Foi tocante a sinceridade das palavras que o grande escritor Machado de Assis houvera dito assim que a moça lhe fez
+[p5c0] aquela confissão.
+[p5c0] (C) Caso não houvesse entre ambos uma antiga e sólida amizade, a cena de despedida não viesse a despertar a comoção
+[p5c0] final.
+[p5c0] (D) Mal faz a moça sua declaração de saudades e já ouve do mestre as palavras gratas e melancólicas de quem da vida se
+[p5c0] despede.
+[p5c0] (E) A moça disfarçaria sua emoção inventando uma alegria que o escritor recebera com a melancólica consciência de quem
+[p5c0] esteja à morte.
+[p5c0] 17. Ela encontrou estendido na cama, agonizante quase, aquele que lhe fora um valioso companheiro em noites idas de sua
+[p5c0] infância.
+[p5c0] Numa nova redação, o período acima permanecerá gramaticalmente correto no caso de se substituir os elementos sublinhados,
+[p5c0] na ordem dada, por:
+[p5c0] (A) à beira da agonia − cuja companhia fora preciosa
+[p5c0] (B) em eminente agonia − na qual companhia se enriquecera
+[p5c0] (C) à margem da agonia − a quem obtivera a rica companhia
+[p5c0] (D) relativamente agônico − de quem usufruíra bom companheirismo
+[p5c0] (E) agonizando mesmo − de cujo valor de companhia tivera
+[p5c0] Matemática e Raciocínio Lógico
+[p5c0] 18. Um professor observou que em sua disciplina 70% dos alunos foram aprovados sem necessidade de fazer a prova de recupe-
+[p5c0] ração. Na prova de recuperação, ele verificou que compareceram apenas 90% dos reprovados na primeira avaliação e que
+[p5c0] todos os que compareceram foram aprovados. Sabendo-se que 3 alunos foram reprovados na disciplina, o total de alunos nessa
+[p5c0] disciplina era
+[p5c0] (A) 80
+[p5c0] (B) 100
+[p5c0] (C) 70
+[p5c0] (D) 200
+[p5c0] (E) 120
+[p5c0] 19. Abelardo gasta sua renda mensal da seguinte maneira: metade da renda é destinada para gastos fixos, tais como moradia e
+[p5c0] supermercado. Para os gastos variáveis, como lazer, ele destina 25% da renda, e com saúde ele gasta 15% de sua renda. O
+[p5c0] restante ele destina à sua poupança. Se no mês de novembro Abelardo poupou R$ 1.200,00, sua renda nesse mês foi de
+[p5c0] (A) R$ 12.000,00
+[p5c0] (B) R$ 6.000,00
+[p5c0] (C) R$ 24.000,00
+[p5c0] (D) R$ 8.000,00
+[p5c0] (E) R$ 10.000,00
+[p6c0] 2 0. Sabe-se que 10% da metade de um número mais 80% do dobro desse mesmo número vale 33. Esse número é:
+[p6c0] (A) 21
+[p6c0] (B) 12
+[p6c0] (C) 20
+[p6c0] (D) 14
+[p6c0] (E) 18
+[p6c0] 21. João recebeu um aumento de 2% em sua remuneração semanal e Maria, que ganhava o dobro de João antes do aumento de
+[p6c0] 2%, recebeu um aumento de 10% em sua remuneração semanal. A soma das duas remunerações semanais após os respec-
+[p6c0] tivos aumentos é de R$ 3.220,00. O valor da remuneração semanal de João antes do aumento era de
+[p6c0] (A) R$ 780,00
+[p6c0] (B) R$ 720,00
+[p6c0] (C) R$ 1.360,00
+[p6c0] (D) R$ 1.200,00
+[p6c0] (E) R$ 1.000,00
+[p6c0] −1 −1 −1 −1
+[p6c0]  1  2   3   4 
+[p6c0] 22. O valor da expressão   +   +   +   é:
+[p6c0]  3   3   3   3 
+[p6c0] 2
+[p6c0]  5 
+[p6c0] (A)  
+[p6c0]  2 
+[p6c0] 2
+[p6c0]  2 
+[p6c0] (B)  
+[p6c0]  5 
+[p6c0] −1
+[p6c0]  5 
+[p6c0] (C)  
+[p6c0]  3 
+[p6c0] 2
+[p6c0]  5 
+[p6c0] (D)  
+[p6c0]  3 
+[p6c0] 2
+[p6c0]  3 
+[p6c0] (E)  
+[p6c0]  5 
+[p6c0] 23. Dois números diferentes são escolhidos do conjunto {1, 2, 3, 4, 5, 6, 7, 8, 9}. Em relação aos dois números escolhidos, sabe-se
+[p6c0] que a soma deles é igual ao produto deles menos 2 e que a diferença entre eles é 2. A soma dos dois números escolhidos é:
+[p6c0] (A) 4
+[p6c0] (B) 8
+[p6c0] (C) 14
+[p6c0] (D) 6
+[p6c0] (E) 10
+[p6c0] 24. Em uma turma de 60 alunos, 10 foram reprovados. Sabendo-se que a média dos alunos aprovados foi 8,5 e a média dos alunos
+[p6c0] reprovados foi de 3,4, a média da turma foi
+[p6c0] (A) 8,35
+[p6c0] (B) 7,65
+[p6c0] (C) 7,95
+[p6c0] (D) 6,95
+[p6c0] (E) 7,05
+[p6c0] 25. João pediu emprestado R$ 1.000,00 a serem pagos em 30 dias com acréscimo de 10%, mas como pagou antes do prazo
+[p6c0] recebeu desconto de 5% sobre o valor que deveria pagar. O valor pago pelo empréstimo foi de:
+[p6c0] (A) R$ 1.105,00
+[p6c0] (B) R$ 1.005,00
+[p6c0] (C) R$ 1.045,00
+[p6c0] (D) R$ 1.255,00
+[p6c0] (E) R$ 1.095,00
+[p7c0] Legislação
+[p7c0] 26. Nos termos do Regimento Interno do Tribunal Regional do Trabalho da 18a Região, são inelegíveis aos cargos de Presidente e
+[p7c0] Vice-Presidente os Desembargadores que
+[p7c0] (A) respondam a Processo Administrativo Disciplinar, cuja instauração tenha sido determinada pelo Tribunal Pleno.
+[p7c0] (B) tenham menos de 15 anos de efetivo exercício do cargo.
+[p7c0] (C) tenham sido membros do Conselho Nacional de Justiça.
+[p7c0] (D) tenham exercido esses cargos por três mandatos consecutivos.
+[p7c0] (E) não tenham se licenciado do cargo nos últimos dez anos.
+[p7c0] 27. Foram impetrados no Tribunal Regional do Trabalho da 18a Região três habeas corpus: 1) contra ato do Tribunal; 2) contra ato
+[p7c0] de uma das Turmas; 3) contra ato de um Juiz do Trabalho. Conforme dispõe o Regimento Interno do referido Tribunal, processar
+[p7c0] e julgar esses habeas corpus compete, respectivamente,
+[p7c0] (A) ao Tribunal Pleno − à Turma − e à Turma.
+[p7c0] (B) ao Tribunal Pleno − à Turma − e ao Juiz do Trabalho.
+[p7c0] (C) ao Juiz do Trabalho − ao Juiz do Trabalho − e ao Juiz do Trabalho.
+[p7c0] (D) ao Tribunal Pleno − ao Tribunal Pleno − e ao Tribunal Pleno.
+[p7c0] (E) à Turma − à Turma − e à Turma.
+[p7c0] 28. De acordo com o Regimento Interno do Tribunal Regional do Trabalho da 18a Região, no que concerne às correições,
+[p7c0] (A) a realização da correição ordinária anual independe de afixação de edital por ser processo sigiloso.
+[p7c0] (B) os trabalhos de correição extraordinária dispensam a comunicação prévia à unidade judiciária a que se destinar.
+[p7c0] (C) a realização da correição parcial não pode ser instaurada de ofício.
+[p7c0] (D) não há previsão legal para concessão de liminar.
+[p7c0] (E) não há previsão legal para recurso das decisões proferidas pelo Corregedor Regional.
+[p7c0] 29. Considere o seguinte histórico, referente a servidor no mesmo município:
+[p7c0] - data da publicação do ato de provimento: 10/3/2022.
+[p7c0] - data da posse: 20/3/2022.
+[p7c0] - data da entrada em exercício: 30/5/2022.
+[p7c0] Nos termos constantes da Lei no 8.112/1990, há ilegalidade, uma vez que
+[p7c0] (A) a data da posse não tem como referência a data da publicação do ato de provimento.
+[p7c0] (B) a posse deve ocorrer no prazo de quinze dias contados da publicação do ato de provimento.
+[p7c0] (C) a posse e a entrada em exercício devem ocorrer na mesma data.
+[p7c0] (D) a entrada em exercício independe da data da posse.
+[p7c0] (E) é de quinze dias o prazo para o servidor empossado em cargo público entrar em exercício, contados da data da posse.
+[p7c0] 30. Nos termos da Lei no 8.112/1990,
+[p7c0] (A) a remoção do servidor está condicionada à mudança de sede.
+[p7c0] (B) a redistribuição é processo previsto para cargos de provimento efetivo e em comissão.
+[p7c0] (C) o servidor estável inabilitado em estágio probatório relativo a outro cargo será submetido à recondução ao cargo ante-
+[p7c0] riormente ocupado, desde que não provido.
+[p7c0] (D) a reintegração é a reinvestidura do servidor estável ou em estágio probatório.
+[p7c0] (E) a reversão é o processo que alcança servidores ativos e aposentados.
+[p8c0] CONHECIMENTOS ESPECÍFICOS
+[p8c0] Direito Constitucional
+[p8c0] 31. Martina nasceu quando seus pais, brasileiros natos, faziam um intercâmbio para aprender inglês em um determinado país
+[p8c0] estrangeiro. Ela foi registrada em repartição brasileira competente e, logo após seu nascimento, seus pais com ela voltaram para
+[p8c0] o Brasil, onde residem até o momento. Martina irá completar dezoito anos e deseja fazer curso superior com o objetivo de, futu-
+[p8c0] ramente, exercer cargo da carreira diplomática no Brasil. De acordo com a Constituição Federal, baseando-se apenas nas
+[p8c0] informações fornecidas, com relação ao cargo pretendido, Martina poderá exercê-lo
+[p8c0] (A) independentemente de possuir nacionalidade brasileira.
+[p8c0] (B) apenas se se naturalizar brasileira, pois que não é considerada brasileira nata.
+[p8c0] (C) em razão de ser brasileira nata.
+[p8c0] (D) apenas se optar pela nacionalidade brasileira depois que atingida a sua maioridade.
+[p8c0] (E) apenas se seus pais tiverem feito a opção pela nacionalidade brasileira de Martina assim que chegaram no Brasil.
+[p8c0] 32. De acordo com a Constituição Federal, compete à União, dentre outras possibilidades,
+[p8c0] (A) declarar a guerra e celebrar a paz, sendo uma de suas competências privativas a de legislar sobre o direito do trabalho.
+[p8c0] (B) manter o serviço postal e o correio aéreo nacional, sendo que a competência para legislar sobre o direito do trabalho é
+[p8c0] concorrente da União, dos Estados e do Distrito Federal.
+[p8c0] (C) declarar a guerra e celebrar a paz, sendo que a competência para legislar sobre o direito do trabalho é concorrente da
+[p8c0] União, dos Estados e do Distrito Federal.
+[p8c0] (D) manter o serviço postal e o correio aéreo nacional, sendo que a competência para legislar sobre o direito do trabalho é
+[p8c0] comum da União, dos Estados e do Distrito Federal.
+[p8c0] (E) declarar a guerra e celebrar a paz, sendo que a competência para legislar sobre o direito do trabalho é comum da União,
+[p8c0] dos Estados e do Distrito Federal.
+[p8c0] 33. Jacinto foi eleito, em 2020, Prefeito do Município “X”, estando em seu primeiro mandato, sendo que, em 2022, sua esposa, Eleo-
+[p8c0] nora, ganhou, pela primeira vez, as eleições para Governadora do Estado “XY”, que engloba o Município “X”. Nas eleições de
+[p8c0] 2024, Jacinto pretende tentar a reeleição. De acordo com a Constituição Federal, com base apenas nas informações fornecidas
+[p8c0] e considerando que as demais condições de elegibilidade foram atendidas, Jacinto
+[p8c0] (A) poderá se candidatar como pretende, pois não é inelegível para Prefeito, no território de jurisdição do Governador, o seu
+[p8c0] cônjuge, independentemente de ser candidato à reeleição.
+[p8c0] (B) não poderá se candidatar como pretende, pois é cônjuge da Governadora do Estado que engloba o Município “X”.
+[p8c0] (C) poderá se candidatar como pretende apenas se renunciar ao cargo de Prefeito seis meses antes do pleito.
+[p8c0] (D) poderá se candidatar como pretende, pois já é titular de mandato eletivo (Prefeito) e candidato à reeleição.
+[p8c0] (E) não poderá se candidatar como pretende, salvo se Eleonora renunciar ao seu mandato de Governadora até seis meses
+[p8c0] antes do pleito.
+[p8c0] 34. De acordo com a Constituição Federal, compete ao Supremo Tribunal Federal processar e julgar, originariamente, dentre outros
+[p8c0] casos, o mandado de segurança contra ato
+[p8c0] (A) da Mesa da Câmara dos Deputados e o habeas corpus, quando o coator for Tribunal Superior.
+[p8c0] (B) da Mesa da Câmara dos Deputados e o habeas corpus decidido em única instância pelos Tribunais Superiores, se dene-
+[p8c0] gatória a decisão.
+[p8c0] (C) de Ministro de Estado e o habeas corpus quando o coator for Tribunal Superior.
+[p8c0] (D) da Mesa da Câmara dos Deputados e o habeas data contra ato de Comandante da Marinha.
+[p8c0] (E) de Ministro de Estado e o habeas data contra o ato de Comandante do Exército.
+[p8c0] 35. De acordo com a Constituição Federal, a incumbência para defender os direitos individuais daquele que comprovar a insu-
+[p8c0] ficiência de recursos é
+[p8c0] (A) da Advocacia Pública, representada pela Advocacia-Geral da União, em todos os graus, apenas judicialmente, de forma
+[p8c0] integral e gratuita.
+[p8c0] (B) da Advocacia Pública, representada pela Advocacia-Geral da União, em todos os graus, judicial e extrajudicial, de forma
+[p8c0] integral e gratuita.
+[p8c0] (C) de qualquer integrante da advocacia privada, pois o advogado é indispensável à administração da justiça, sendo, nesse
+[p8c0] caso, violável por seus atos e manifestações no exercício da profissão.
+[p8c0] (D) da Defensoria Pública, em todos os graus, apenas judicialmente, de forma integral e gratuita.
+[p8c0] (E) da Defensoria Pública, em todos os graus, judicial e extrajudicial, de forma integral e gratuita.
+[p9c0] Direito Adm inistrativo
+[p9c0] 36. A conclusão da instrução do processo administrativo regido pela Lei federal no 9.784/1999
+[p9c0] (A) enseja a faculdade de a Administração proferir decisão sobre o objeto do processo ou, alternativamente, sobrestar o
+[p9c0] trâmite do feito por até 90 dias, independentemente de oitiva do interessado ou de justificativa.
+[p9c0] (B) pode autorizar a tomada de decisão coordenada, caso, por exemplo, seja necessária a participação de 3 ou mais órgãos
+[p9c0] da Administração e não se trate de processo sancionador.
+[p9c0] (C) obriga a Administração a proferir decisão no prazo de 30 dias, sob pena de se considerar deferido o pleito, reconhecido o
+[p9c0] direito ou afastada a infração disciplinar imputada ao interessado.
+[p9c0] (D) permite que, nos casos de processos disciplinares, a Administração solicite a participação de outras autoridades hierarqui-
+[p9c0] camente superiores, para deliberação mediante decisão coordenada.
+[p9c0] (E) dá lugar à fase decisória do processo, na qual a autoridade competente profere decisão ou, mediante justificativa, delega
+[p9c0] este ato a outros órgãos ou setores integrantes da mesma estrutura administrativa, para que seja adotada a chamada
+[p9c0] decisão coordenada.
+[p9c0] 37. Dentre as alterações introduzidas pela Lei federal no 14.230/2021, na Lei federal no 8.429/92, destaca-se a
+[p9c0] (A) expressa previsão da responsabilização solidária dos representantes legais das pessoas jurídicas, quando a estas forem
+[p9c0] imputados atos de improbidade.
+[p9c0] (B) extensão da responsabilização solidária aos sucessores, herdeiros e outros beneficiados pelo ato de improbidade prati-
+[p9c0] cado, desde que seja demonstrada dolo ou culpa do sujeito ativo principal.
+[p9c0] (C) expressa exigência do elemento subjetivo dolo para extensão das disposições da lei aos particulares que induzirem ou
+[p9c0] concorrerem para a prática de ato de improbidade, ainda que não se enquadrem no conceito de agente público.
+[p9c0] (D) exclusão da previsão de responsabilização de pessoas jurídicas, restringindo-se os efeitos da lei aos limites da partici-
+[p9c0] pação dos respectivos representantes legais, em razão da exigência do aspecto volitivo dolo.
+[p9c0] (E) exclusão da previsão de responsabilidade dos servidores públicos que não detenham vínculo funcional em razão de cargo
+[p9c0] efetivo ou emprego público.
+[p9c0] 38. A contratação de uma parceria público-privada impõe à Administração Pública a observância de critérios previstos na Lei federal
+[p9c0] no 11.079/2004, além de lhe facultar a previsão de disposições específicas, de forma que
+[p9c0] (A) a vigência contratual seja obrigatoriamente superior a 20 anos, como forma de garantir a amortização dos investimentos
+[p9c0] realizados pelo parceiro privado, com exceção dos contratos de concessão administrativa nos quais não haja previsão de
+[p9c0] aporte de recursos públicos, os quais podem ter vigência por prazo inferior.
+[p9c0] (B) seja prevista, no contrato firmado, a repartição de riscos entre as partes, inclusive com tratamento sobre caso fortuito e
+[p9c0] força maior, inexistindo vedação para que estes sejam integralmente assumidos pelo parceiro público, sendo justificada a
+[p9c0] escolha.
+[p9c0] (C) seja facultada a previsão contratual de exigência de garantias, a serem prestadas pelo parceiro privado e pelo parceiro pú-
+[p9c0] blico, proporcional aos valores envolvidos para a execução do contrato e para a realização dos aportes de recursos pú-
+[p9c0] blicos.
+[p9c0] (D) haja tratamento, no edital de licitação e no respectivo contrato, sobre a repartição de riscos entre as partes, não se admi-
+[p9c0] tindo integral assunção de responsabilidade pela Administração Pública, com exceção daqueles atinentes a caso fortuito e
+[p9c0] força maior, que não podem ser trespassados ao parceiro privado, em razão de disposição legal expressa.
+[p9c0] (E) seja permitido à Administração Pública a realização de aporte de recursos exclusivamente para fins de aquisição de
+[p9c0] bens reversíveis, na medida em que referidos ativos serão transferidos ao poder concedente quando da extinção do con-
+[p9c0] trato.
+[p9c0] 39. Considerando a natureza jurídica dos atos administrativos e a competência para sua edição,
+[p9c0] (A) somente autoridades integrantes da Administração Pública podem proferi-los, na medida em que representam ou veiculam
+[p9c0] manifestação de vontade do Poder Executivo.
+[p9c0] (B) somente os atos vinculados editados com vício de competência podem ser convalidados, não se admitindo convalidação
+[p9c0] de atos de natureza discricionária.
+[p9c0] (C) são proferidos pelas autoridades indicadas pela legislação, não se admitindo convalidação de atos discricionários ou
+[p9c0] vinculados.
+[p9c0] (D) podem ser editados por agentes públicos integrantes da estrutura da Administração Pública, mas também por integrantes
+[p9c0] do Poder Judiciário, quando no exercício de funções executivas típicas.
+[p9c0] (E) os atos praticados com vício de forma ou de procedimento admitem convalidação, o que não se aplica ao vício de compe-
+[p9c0] tência, porque insanável.
+[p10c0] 40. A apreensão de documentos pertencentes à pessoa jurídica, por agentes da Administração Pública durante ação de fiscalização
+[p10c0] de estabelecimentos em determinado segmento,
+[p10c0] (A) é expressão do princípio da eficiência, que, em razão de expressa previsão constitucional e de seu status hierarqui-
+[p10c0] camente superior, prescinde de fundamento legal para o respectivo exercício.
+[p10c0] (B) depende de expressa autorização judicial, diante da natureza cautelar da medida, o que excederia os limites da ação fisca-
+[p10c0] lizatória disciplinar da Administração Pública.
+[p10c0] (C) configura exercício do poder disciplinar, que submete não apenas os servidores públicos à autoridade administrativa, mas
+[p10c0] também os administrados à tutela estatal.
+[p10c0] (D) é manifestação do poder normativo da Administração Pública, que pode editar atos normativos originários para funda-
+[p10c0] mentar a adoção de ações e medidas cautelares repressivas em face dos administrados.
+[p10c0] (E) configura legítima atuação do poder de polícia administrativa, que não dispensa a observância do contraditório em favor da
+[p10c0] empresa, admitido, contudo, de forma justificada, o diferimento desse exercício.
+[p10c0] Direito do Trabalho
+[p10c0] 41. O princípio norteador do exercício do jus variandi pelo empregador, conforme disciplina a Consolidação das Leis do Trabalho
+[p10c0] é o
+[p10c0] (A) do in dubio pro operario, desde que haja acordo mútuo entre empregado e empregador, sendo irrelevante o resultado de
+[p10c0] prejuízo ao trabalhador.
+[p10c0] (B) da ausência de prejuízo ao empregado, independente de haver ou não mútuo consentimento.
+[p10c0] (C) da primazia da realidade, não sendo relevante o resultado de prejuízo ao empregado.
+[p10c0] (D) da condição mais benéfica ao trabalhador, não sendo condição essencial a concordância do empregado.
+[p10c0] (E) do mútuo consentimento, aliado ao da ausência de prejuízo, quer direto, quer indireto ao empregado.
+[p10c0] 42. Penélope e seu empregador, o Restaurante Cuccina, pretendem rescindir, por acordo mútuo, o vínculo empregatício que mantêm
+[p10c0] desde 10/10/2020. Sabe-se que Penélope possui saldo de R$ 3.000,00 na conta do Fundo de Garantia do Tempo de Serviço
+[p10c0] (FGTS). Nesses termos, com base no que prevê a Consolidação das Leis do Trabalho, com relação ao FGTS, poderá a empre-
+[p10c0] gada sacar
+[p10c0] (A) o valor total de R$ 3.000,00 da conta vinculada, mas a indenização sobre o saldo do FGTS ficará limitada a R$ 960,00.
+[p10c0] (B) até o valor de R$ 1.500,00 da conta vinculada, e a indenização sobre o saldo do FGTS ficará limitada a R$ 600,00.
+[p10c0] (C) o valor total de R$ 3.000,00 da conta vinculada, mas a indenização sobre o saldo do FGTS ficará limitada a R$ 600,00.
+[p10c0] (D) até o valor de R$ 2.400,00 da conta vinculada, e a indenização sobre o saldo do FGTS ficará limitada a R$ 600,00.
+[p10c0] (E) o valor total de R$ 3.000,00 da conta vinculada, mas a indenização sobre o saldo do FGTS ficará limitada a R$ 720,00.
+[p10c0] 43. Poliana está prestando serviços em teletrabalho para o Banco Mediterrâneo. O seu empregador pretende fazer a reversão do tra-
+[p10c0] balho da empregada para a modalidade presencial. Para que a mesma se efetive, conforme prevê a Consolidação das Leis do
+[p10c0] Trabalho,
+[p10c0] (A) deve haver a concordância da empregada, além de ser respeitado o prazo mínimo de transição de 10 dias.
+[p10c0] (B) é necessária a observância do prazo mínimo de transição de 15 dias, podendo ser realizada por ato unilateral do empregador.
+[p10c0] (C) é imprescindível a concordância da trabalhadora, além de ser respeitado o prazo mínimo de transição de 15 dias.
+[p10c0] (D) é necessária a observância do prazo mínimo de transição de 10 dias, podendo ser realizada por ato unilateral do empre-
+[p10c0] gador.
+[p10c0] (E) não há necessidade de prazo de transição, desde que haja concordância da empregada.
+[p10c0] 44. Sócrates trabalha na empresa de segurança Alerta Máximo em jornada das 19 horas às 7 horas, exercendo as funções de
+[p10c0] vigilante ronda. Conforme previsão da Consolidação das Leis do Trabalho, o período laborado pelo empregado das
+[p10c0] (A) 22 horas às 6 horas será considerado noturno, e a sua remuneração em relação à hora diurna deve ser no mínimo em
+[p10c0] 15% a mais.
+[p10c0] (B) 21 horas às 5 horas será considerado noturno, e a sua remuneração em relação à hora diurna deve ser no mínimo em
+[p10c0] 20% a mais.
+[p10c0] (C) 21 horas às 4 horas será considerado noturno, e a sua remuneração em relação à hora diurna deve ser no mínimo em
+[p10c0] 15% a mais.
+[p10c0] (D) 22 horas às 6 horas será considerado noturno, e a sua remuneração em relação à hora diurna deve ser no mínimo em
+[p10c0] 10% a mais.
+[p10c0] (E) 22 horas às 5 horas será considerado noturno, e a sua remuneração em relação à hora diurna deve ser no mínimo em
+[p10c0] 20% a mais.
+[p11c0] 45. Tibério, de 60 anos, é empregado na empresa metalúrgica Açoforte, e seu empregador, para organização interna da empresa,
+[p11c0] pretende fracionar as suas próximas férias em 4 períodos, sendo um período de 10 dias, dois períodos de 7 dias e um período
+[p11c0] de 6 dias. Conforme prevê a Consolidação das Leis do Trabalho, esse fracionamento é
+[p11c0] (A) irregular, porque para os empregados menores de 18 e maiores de 50 anos, as férias só podem ser concedidas em no
+[p11c0] máximo dois períodos, sendo um deles de no mínimo 20 dias corridos.
+[p11c0] (B) possível, eis que atendido o requisito de ter no mínimo um período de 10 dias, para empregados com mais de 55 anos de idade.
+[p11c0] (C) possível, desde que haja a concordância do empregado, na medida em que as férias podem ser concedidas em até
+[p11c0] 4 períodos, sendo um deles de no mínimo 10 dias.
+[p11c0] (D) irregular, eis que as férias, desde haja concordância do empregado, pode ter seu período fracionado em até 3 períodos,
+[p11c0] sendo um deles de no mínimo 14 dias corridos.
+[p11c0] (E) irregular, porque para os empregados menores de 18 e maiores de 55 anos, as férias só podem ser concedidas em no
+[p11c0] máximo três períodos, sendo um deles de no mínimo 15 dias corridos.
+[p11c0] 46. Temístocles foi indicado pelo seu empregador para exercer cargo de direção na Comissão Interna de Prevenção de Acidentes
+[p11c0] (CIPA). Com base no que prevê o ordenamento jurídico brasileiro vigente, referido empregado
+[p11c0] (A) não possui garantia de emprego, pois esta é restrita a membros eleitos pelos empregados, desde o registro da candidatura
+[p11c0] até 1 ano após o término do mandato.
+[p11c0] (B) é detentor de garantia de emprego, desde o início do mandato até 1 ano após seu término.
+[p11c0] (C) goza de garantia no emprego, desde a sua indicação até 2 anos após o final de seu mandato.
+[p11c0] (D) tem seu emprego garantido, desde sua aprovação no Conselho de Representantes da CIPA até 1 ano após o término do
+[p11c0] mandato.
+[p11c0] (E) não possui garantia de emprego, pois esta é restrita a membros eleitos pelos empregados, desde o registro da candidatura
+[p11c0] até 2 anos após o término do mandato.
+[p11c0] Direito Processual do Trabalho
+[p11c0] 47. O Tribunal Regional do Trabalho julgou improcedente um dissídio coletivo de greve, condenando o Sindicato autor a uma multa
+[p11c0] de R$ 100.000,00 por dia em caso de não restabelecimento das atividades consideradas essenciais. O autor pretende recorrer
+[p11c0] da decisão. Nessa hipótese, poderá interpor
+[p11c0] (A) recurso ordinário ao Tribunal Superior do Trabalho no prazo de 8 dias.
+[p11c0] (B) recurso de revista ao Tribunal Superior do Trabalho no prazo de 10 dias.
+[p11c0] (C) agravo de petição ao Tribunal Superior do Trabalho no prazo de 8 dias.
+[p11c0] (D) recurso ordinário ao Tribunal Superior do Trabalho no prazo de 10 dias.
+[p11c0] (E) recurso de revista ao Tribunal Superior do Trabalho no prazo de 8 dias.
+[p11c0] 48. Arquimedes, tendo contratado advogado particular, teve julgada procedente a sua ação trabalhista proposta em face da sua
+[p11c0] empregadora, a empresa de segurança Águia de Ouro, tendo a Fazenda Pública do Estado de Goiás como litisconsorte, por ser a
+[p11c0] tomadora de serviços. O juízo condenou a empresa prestadora e, de forma subsidiária, a Fazenda Pública ao pagamento, além das
+[p11c0] verbas devidas decorrentes do contrato de trabalho, também de honorários sucumbenciais no importe de 20% do valor que resultar
+[p11c0] da liquidação de sentença. Analisando a hipótese em tela, à luz do que prevê a Consolidação das Leis do Trabalho, a sentença está
+[p11c0] (A) incorreta, na medida em que extrapola o limite máximo de 10%, nas hipóteses em que esteja presente a Fazenda Pública
+[p11c0] no polo passivo.
+[p11c0] (B) incorreta, eis que no processo do trabalho não são devidos honorários sucumbenciais, ressalvada a situação de assistên-
+[p11c0] cia judiciária pelo sindicato.
+[p11c0] (C) incorreta, eis que o limite máximo de condenação em honorários sucumbenciais é de 15% do que resultar da liquidação de
+[p11c0] sentença.
+[p11c0] (D) correta quanto ao limite máximo de 20% de honorários sucumbenciais, mas deve ser reformada a sentença quanto à
+[p11c0] Fazenda Pública, que não pode suportar tal condenação.
+[p11c0] (E) correta, tanto em relação ao percentual, quanto em relação à Fazenda Pública, que também pode ser condenada em
+[p11c0] honorários sucumbenciais.
+[p11c0] 49. O juízo do trabalho de Aparecida de Goiânia publica uma sentença em 3 de janeiro, condenando a empresa Terra Plana a pagar
+[p11c0] verbas rescisórias da sua ex-empregada Vênus. Pretendendo recorrer da sentença, com base no que prevê a Consolidação das
+[p11c0] Leis do Trabalho, a empresa deverá fazê-lo no prazo legal, contando-se o prazo a partir de
+[p11c0] (A) 7 de janeiro, quando voltam a fluir os prazos na Justiça do Trabalho, pois de 20 de dezembro a 6 de janeiro os prazos
+[p11c0] estão suspensos.
+[p11c0] (B) 21 de janeiro, quando voltam a fluir os prazos na Justiça do Trabalho, pois de 20 de dezembro a 20 de janeiro, inclusive,
+[p11c0] os prazos estão suspensos.
+[p11c0] (C) 7 de janeiro, quando voltam a fluir os prazos na Justiça do Trabalho, pois de 20 de dezembro a 6 de janeiro os prazos
+[p11c0] estão interrompidos.
+[p11c0] (D) 20 de janeiro, quando voltam a fluir os prazos na Justiça do Trabalho, pois de 20 de dezembro a 20 de janeiro os prazos
+[p11c0] estão suspensos.
+[p11c0] (E) 20 de janeiro, quando voltam a fluir os prazos na Justiça do Trabalho, pois de 20 de dezembro a 19 de janeiro os prazos
+[p11c0] estão interrompidos.
+[p12c0] 50. Cícero propôs ação trabalhista em face do seu ex-empregador, o Banco Poupe Aqui, perante a Vara do Trabalho da localidade
+[p12c0] em que reside, diante da facilidade e para ter o pleno acesso à Justiça. O réu pretende arguir exceção de incompetência
+[p12c0] territorial. Nessa situação, com base no que dispõe a Consolidação das Leis do Trabalho, deverá fazê-lo
+[p12c0] (A) no prazo para a juntada de contestação, em peça apartada.
+[p12c0] (B) por escrito, ou ainda de forma oral, em audiência.
+[p12c0] (C) no prazo de 5 dias a contar da notificação, antes da audiência.
+[p12c0] (D) como matéria preliminar de defesa, dentro de 10 dias após a notificação.
+[p12c0] (E) apenas por escrito, em audiência, onde o juiz dará a palavra à parte contrária e decidirá em 48 horas.
+[p12c0] 51. Considere as assertivas abaixo a respeito da Ação Civil Pública:
+[p12c0] I. A ação civil pública será distribuída no foro do local onde ocorrer o dano, cujo juízo terá competência funcional para pro-
+[p12c0] cessar e julgar a causa.
+[p12c0] II. O Ministério Público, se não intervier no processo como parte, não atuará como fiscal da lei.
+[p12c0] III. O único requisito para uma associação ser legitimada para propor ação civil pública é estar constituída há pelo menos 1 ano.
+[p12c0] IV. Para instruir a inicial, o interessado poderá requerer às autoridades competentes as certidões e informações que julgar
+[p12c0] necessárias, a serem fornecidas no prazo de 15 dias.
+[p12c0] V. A ação civil pública poderá ter por objeto a condenação em dinheiro ou o cumprimento de obrigação de fazer ou não
+[p12c0] fazer.
+[p12c0] Com base na legislação federal que rege a matéria, está correto o que se afirma APENAS em
+[p12c0] (A) II, III e V.
+[p12c0] (B) I, IV e V.
+[p12c0] (C) I, II e IV.
+[p12c0] (D) II, III e IV.
+[p12c0] (E) I, III e V.
+[p12c0] 52. De acordo com a Consolidação das Leis do Trabalho, considere:
+[p12c0] I. Perpétua é empregadora doméstica.
+[p12c0] II. Circo Alegria é um empresa em recuperação judicial.
+[p12c0] III. Banco Atual é uma sociedade de economia mista.
+[p12c0] IV. Fundabem é uma Fundação Pública Estadual.
+[p12c0] V. Bem Me Quer é uma Autarquia Municipal.
+[p12c0] Podem ser réus de reclamatória trabalhista submetida ao procedimento sumaríssimo o que consta APENAS em
+[p12c0] (A) I e III.
+[p12c0] (B) II e V.
+[p12c0] (C) I, II e III.
+[p12c0] (D) IV e V.
+[p12c0] (E) IV.
+[p12c0] Direito Civil
+[p12c0] 53. João e Paulo, maiores e capazes, agindo em conjunto, praticaram ato ilícito do qual resultaram danos a Letícia. De acordo com
+[p12c0] o Código Civil, a responsabilidade civil de João e Paulo pelos danos causados a Letícia
+[p12c0] (A) é solidária, mas um tem direito de regresso em face do outro, caso venha a arcar sozinho com a reparação.
+[p12c0] (B) é solidária, inexistindo direito de regresso entre eles, ainda que um venha a arcar sozinho com a reparação.
+[p12c0] (C) não é solidária, respondendo cada um deles limitada e proporcionalmente à importância da sua respectiva participação
+[p12c0] para a consumação dos danos.
+[p12c0] (D) não é solidária, respondendo cada um deles limitada e proporcionalmente à importância do seu respectivo patrimônio.
+[p12c0] (E) não é solidária, respondendo cada um deles pela metade dos danos causados, independentemente da importância das
+[p12c0] suas respectivas participações para a consumação dos danos ou dos seus patrimônios.
+[p12c0] 54. De acordo com o Código Civil, é possível perder a propriedade, entre outras causas, por
+[p12c0] (A) renúncia e abandono, mas não por perecimento da coisa.
+[p12c0] (B) renúncia e perecimento da coisa, mas não por abandono.
+[p12c0] (C) abandono e perecimento da coisa, mas não por renúncia.
+[p12c0] (D) renúncia, mas não por abandono ou perecimento da coisa.
+[p12c0] (E) abandono, renúncia e perecimento da coisa.
+[p13c0] 5 5. De acordo com o Código Civil, a anuência das partes à celebração dos negócios jurídicos em geral
+[p13c0] (A) depende, necessariamente, de declaração de vontade expressa, que deverá ser sempre formalizada por escrito, sob pena
+[p13c0] de não valer.
+[p13c0] (B) depende, necessariamente, de declaração de vontade expressa, que tanto poderá ser formalizada por escrito quanto ma-
+[p13c0] nifestada oralmente.
+[p13c0] (C) só depende de declaração de vontade expressa nos casos em que a lei exigir instrumento público para a validade do
+[p13c0] negócio.
+[p13c0] (D) pode ocorrer pelo silêncio, quando as circunstâncias ou os usos o autorizarem, e não for necessária a declaração de
+[p13c0] vontade expressa.
+[p13c0] (E) pode ocorrer pelo silêncio, mas somente nos casos em que a lei expressamente assim autorizar.
+[p13c0] 56. De acordo com o Código Civil, o casamento contraído por infringência de impedimento é
+[p13c0] (A) anulável, assim como o casamento do menor em idade núbil quando não autorizado por seu representante legal.
+[p13c0] (B) anulável, diferentemente do casamento decorrente de vício da vontade, que é nulo de pleno direito.
+[p13c0] (C) anulável, diferentemente do casamento do menor em idade núbil quando não autorizado por seu representante legal, que
+[p13c0] é nulo de pleno direito.
+[p13c0] (D) nulo de pleno direito, diferentemente do casamento decorrente de vício da vontade, que é meramente anulável.
+[p13c0] (E) nulo de pleno direito, assim como o casamento do menor em idade núbil quando não autorizado por seu representante
+[p13c0] legal.
+[p13c0] Direito Processual Civil
+[p13c0] 57. Em ação movida por Pedro contra José, este arguiu, em preliminar de contestação, sua ilegitimidade passiva, indicando Patrícia como
+[p13c0] sujeito passivo da relação jurídica discutida no processo. Nesse caso, de acordo com o Código de Processo Civil, o juiz deverá
+[p13c0] (A) facultar a Pedro a alteração da petição inicial para substituição do réu, sendo que, realizada a substituição, Pedro reem-
+[p13c0] bolsará as despesas de José, mas ficará isento do pagamento de honorários ao procurador deste.
+[p13c0] (B) facultar a Pedro a alteração da petição inicial para substituição do réu, sendo que, realizada a substituição, Pedro reembol-
+[p13c0] sará as despesas de José e pagará honorários ao procurador deste.
+[p13c0] (C) extinguir o processo sem resolução do mérito, caso conclua pela ilegitimidade de José, sendo-lhe vedado facultar a Pedro
+[p13c0] a emenda da petição inicial para substituição do réu depois de apresentada a contestação.
+[p13c0] (D) extinguir o processo com resolução do mérito, caso conclua pela ilegitimidade de José, sendo-lhe vedado facultar a Pedro
+[p13c0] a emenda da petição inicial para substituição do réu depois de apresentada a contestação.
+[p13c0] (E) determinar a substituição de José por Patrícia, independentemente de pedido ou mesmo da concordância de Pedro, caso
+[p13c0] conclua que ela é, de fato, sujeito passivo da relação jurídica discutida no processo.
+[p13c0] 58. De acordo com o Código de Processo Civil, a competência em razão do valor é
+[p13c0] (A) relativa, tal como a competência em razão da pessoa, podendo ser modificada por convenção das partes.
+[p13c0] (B) relativa, tal como a competência em razão da função, não podendo ser modificada por convenção das partes.
+[p13c0] (C) absoluta, tal como a competência em razão da pessoa, não podendo ser modificada por convenção das partes.
+[p13c0] (D) absoluta, tal como a competência em razão da matéria, podendo ser modificada por convenção das partes.
+[p13c0] (E) relativa, tal como a competência em razão do território, podendo ser modificada por convenção das partes.
+[p13c0] 59. De acordo com o Código de Processo Civil, a distribuição do ônus da prova
+[p13c0] (A) pode ser modificada a critério exclusivo da parte hipossuficiente.
+[p13c0] (B) pode ser modificada pelas partes, desde que plenamente capazes, ainda que torne excessivamente difícil a uma delas o
+[p13c0] exercício do direito.
+[p13c0] (C) só pode ser modificada pelas partes se recair sobre direito disponível.
+[p13c0] (D) nunca pode ser modificada por convenção das partes, por constituir matéria de ordem pública.
+[p13c0] (E) pode ser modificada pelas partes por convenção feita antes do processo, mas não durante ele.
+[p13c0] 60. De acordo com o Código de Processo Civil, a desistência da ação pode ser apresentada
+[p13c0] (A) somente até a sentença.
+[p13c0] (B) somente até a contestação.
+[p13c0] (C) somente até o saneamento do processo.
+[p13c0] (D) somente até a citação.
+[p13c0] (E) a qualquer tempo, inclusive depois da sentença.
+[p14c0] Discursiva -Redação
+[p14c0] Instruções Gerais:
+[p14c0] Conforme Edital publicado [...] Capítulo 10. [...] 10.3 Na Prova Discursiva-Redação, o candidato deverá desenvolver texto dissertativo-argumentativo a partir de
+[p14c0] proposta única, sobre assunto de interesse geral não atrelado necessariamente ao Conteúdo Programático de Conhecimentos Específicos referido no presente
+[p14c0] Edital. 10.3.1 A Prova Discursiva-Redação tem o objetivo de avaliar a proficiência em Língua Portuguesa em sua modalidade escrita, considerando a capa-
+[p14c0] cidade de compreender e expor argumentos com clareza, concisão, precisão, coerência e objetividade a respeito do tema e com base nos textos de apoio
+[p14c0] propostos, avaliando inclusive a correção gramatical, segundo os critérios definidos nos itens 10.4 a 10.9. 10.4 Considerando que o texto constitui uma unidade,
+[p14c0] os itens discriminados a seguir serão avaliados em estreita correlação, do que não decorre proporcionalidade na atribuição dos pontos para cada um deles:
+[p14c0] 10.4.1 Conteúdo − até 4 (quatro) pontos: a) perspectiva adotada no tratamento do tema; b) capacidade de análise e senso crítico em relação ao tema
+[p14c0] proposto; c) consistência dos argumentos, clareza e coerência no seu encadeamento. 10.4.2 Estrutura − até 3 (três) pontos: a) respeito ao gênero solicitado; b)
+[p14c0] progressão textual e encadeamento de ideias; c) articulação de frases e parágrafos (coesão textual). 10.4.2.1 A nota será prejudicada, proporcionalmente, caso
+[p14c0] ocorra, quanto ao Conteúdo, abordagem tangencial, parcial ou diluída em meio a divagações e/ou colagem de textos e de questões apresentados na prova.
+[p14c0] 10.4.3 Expressão − até 3 (três) pontos: A avaliação da expressão não será feita de modo estanque ou mecânico, mas sim de acordo com sua estreita
+[p14c0] correlação com os demais critérios, considerando-se: a) desempenho linguístico de acordo com o nível de conhecimento exigido; adequação do nível de
+[p14c0] linguagem adotado à produção proposta e coerência no uso; b) domínio da norma culta formal, com atenção aos seguintes itens: estrutura sintática de orações e
+[p14c0] períodos; propriedade vocabular; concordância verbal e nominal; pontuação; regência verbal e nominal; emprego de pronomes; flexão verbal e nominal; uso de
+[p14c0] tempos e modos verbais; grafia e acentuação. 10.5 Na aferição do critério de correção gramatical, por ocasião da avaliação do desempenho na Prova
+[p14c0] Discursiva-Redação, deverão os candidatos valer-se das normas ortográficas em vigor, implementadas pelo Decreto Presidencial no 6.583, de 29 de setembro
+[p14c0] de 2008, e alterado pelo Decreto Federal no 7.875, de 27 de dezembro de 2012, que estabeleceu o Acordo Ortográfico da Língua Portuguesa. 10.6 Será
+[p14c0] atribuída nota ZERO à Prova Discursiva-Redação que: a) fugir à modalidade de texto solicitada e/ou ao tema proposto; b) não atender aos critérios dispostos
+[p14c0] no item 10.4 deste Capítulo. c) apresentar texto sob forma não articulada verbalmente (apenas com desenhos, números e palavras soltas ou em versos) ou
+[p14c0] qualquer fragmento de texto escrito fora do local apropriado; d) for assinada fora do local apropriado; e) apresentar qualquer sinal que, de alguma forma,
+[p14c0] possibilite a identificação do candidato; f) estiver em branco; g) apresentar letra ilegível e/ou incompreensível; h) não atender aos requisitos definidos na grade
+[p14c0] correção/máscara de critérios pela Banca Examinadora. 10.7 Na Prova Discursiva-Redação, a folha para rascunho no Caderno de Provas será de
+[p14c0] preenchimento facultativo. Em hipótese alguma o rascunho elaborado pelo candidato será considerado na correção pela Banca Examinadora. 10.8 Na Prova
+[p14c0] Discursiva-Redação, para os candidatos a cargos de nível superior, deverão ser rigorosamente observados os limites mínimo de 30 (trinta) linhas e
+[p14c0] máximo de 40 (quarenta) linhas, sob pena de perda de pontos a serem atribuídos à Redação. [...] 10.9 A Prova Discursiva-Redação terá caráter eliminatório e
+[p14c0] classificatório e será avaliada na escala de 0 (zero) a 10 (dez) pontos, considerando-se habilitado o candidato que nela obtiver nota igual ou superior a 6 (seis)
+[p14c0] pontos.
+[p14c0] Tempos vivos da História
+[p14c0] Na modernidade, o conceito de progresso atingiu um prestígio absoluto: muitos acreditam que vivemos
+[p14c0] apenas em função de um futuro consagrador, numa progressão contínua. Tal concepção de tempo elege esse
+[p14c0] ansiado futuro como um patamar a ser obsessivamente buscado e pode, muitas vezes, anular o sentido de tudo o
+[p14c0] que já se viveu no passado.
+[p14c0] O historiador Eric Hobsbawm (1917-2012) afirmou que nunca o conhecimento da História foi tão importante
+[p14c0] em nosso tempo, justamente porque nos dias que correm nosso passado histórico foi relegado a um segundo
+[p14c0] plano, quando não simplesmente “cancelado”. Hobsbawm lembra que todas as nossas experiências contempo-
+[p14c0] râneas têm forte vínculo com experiências do passado da humanidade. O que é moderno e aspira ao progresso
+[p14c0] não se desvincula do que já existiu, mas continua traçando seu caminho. Conhecer a História não é, portanto,
+[p14c0] passear por meras curiosidades do passado da humanidade; é reconhecer dentro do nosso tempo as fortes raízes
+[p14c0] que permanecem vivas e iluminadoras no caminho que estamos seguindo.
+[p14c0] Com base no que se afirma, redija um texto dissertativo-argumentativo no qual você exponha com
+[p14c0] clareza sua posição crítica diante do tema nele tratado.
+[p14c0] 01
+[p14c0] 02
+[p14c0] 03
+[p14c0] 04
+[p14c0] 05
+[p14c0] 06
+[p14c0] 07
+[p14c0] 08
+[p14c0] 09
+[p14c0] 10
+[p14c0] 11
+[p15c0] 12
+[p15c0] 13
+[p15c0] 14
+[p15c0] 15
+[p15c0] 16
+[p15c0] 17
+[p15c0] 18
+[p15c0] 19
+[p15c0] 20
+[p15c0] 21
+[p15c0] 22
+[p15c0] 23
+[p15c0] 24
+[p15c0] 25
+[p15c0] 26
+[p15c0] 27
+[p15c0] 28
+[p15c0] 29
+[p15c0] 30
+[p15c0] 31
+[p15c0] 32
+[p15c0] 33
+[p15c0] 34
+[p15c0] 35
+[p15c0] 36
+[p15c0] 37
+[p15c0] 38
+[p15c0] 39
+[p15c0] 40

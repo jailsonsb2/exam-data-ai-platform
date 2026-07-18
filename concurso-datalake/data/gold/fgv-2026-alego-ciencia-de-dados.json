@@ -1,0 +1,1353 @@
+{
+ "prova": "fgv-2026-alego-ciencia-de-dados",
+ "banca": "FGV",
+ "ano": 2026,
+ "orgao": "ALEGO",
+ "cargo": "Analista Legislativo - Analista de Ciência de Dados",
+ "tipo": "TIPO 1",
+ "pdf": "fgv-2026-al-go-analista-legislativo-analista-de-ciencia-de-dados-prova.pdf",
+ "questoes": [
+  {
+   "numero": 1,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Leia com atenção o seguinte texto, retirado do Livro dos Erros,\norganizado por Mário Goulart:\n“Conta a jornalista Virginie Leite que Gilberto Chateaubriand\ncomprou um quadro de Di Cavalcanti ainda fresco e o deixou\nsecando no atelier do pintor. Quando foi buscar a obra no dia\nseguinte, Di tinha vendido. Chateaubriand escolheu então outro\nquadro”, Mulheres de Pescadores, que recebia as últimas\npinceladas. Mas, dessa vez, precaveu-se: - Esse vai secar lá em\ncasa.”\nAssinale a afirmativa correta obre os nomes próprios empregados\nnesse pequeno texto.",
+   "alternativas": {
+    "A": "Virginie Leite é identificada por sua profissão, jornalista, para dar mais credibilidade ao narrado.",
+    "B": "Gilberto Chateaubriand não recebe inicialmente qualquer identificação, pois sua identidade é revelada na continuidade do texto.",
+    "C": "A primeira menção do nome do pintor é feita da forma pela qual o artista é mais conhecido.",
+    "D": "A segunda menção do nome do pintor foi reduzida a “Di”, forma inadequada em função da formalidade do texto.",
+    "E": "Na segunda menção do nome do comprador, foi empregada a forma Chateaubriand, forma adequada, já que nomes de homens são sempre abreviados pelo sobrenome."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 2,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Observe este segmento:\n“Conta a jornalista Virginie Leite que Gilberto Chateaubriand\ncomprou um quadro de Di Cavalcanti ainda fresco e o deixou\nsecando no atelier do pintor.”\nNesse trecho, aparece um galicismo, ou seja, uma palavra de\norigem francesa presente na língua portuguesa: atelier.\nEntre as frases abaixo, aquela que mostra um galicismo com seu\nequivalente em língua portuguesa, corretamente indicado, é:",
+   "alternativas": {
+    "A": "O cinema apresentava naquela semana a avant-première do filme mais moderno de Walt Disney. / primeira versão.",
+    "B": "Como exigia a moda da época, o cavalheiro trazia em seus braços um bouquet de flores. / a caixa.",
+    "C": "O cliente do restaurante sempre solicitava que retirassem do arroz o champignon. / a pimenta.",
+    "D": "Os funcionários eram obrigados a usar crachat colocado em volta do pescoço. / cartaz.",
+    "E": "Os restaurantes são obrigados a deixar um menu na porta de entrada para consulta dos clientes. / cardápio."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 3,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A coesão é uma das marcas da textualidade e pode ser construída\npor meio de diferentes processos.\nEm todas as opções abaixo, há um termo sublinhado que é referido\nna continuidade do texto. A opção, em que o processo de coesão\nestá corretamente identificado, é:",
+   "alternativas": {
+    "A": "“Conta a jornalista Virginie Leite que Gilberto Chateaubriand comprou um quadro de Di Cavalcanti ainda fresco e o deixou secando no atelier do pintor.” / substituição por um pronome demonstrativo.",
+    "B": "“Conta a jornalista Virginie Leite que Gilberto Chateaubriand comprou um quadro de Di Cavalcanti ainda fresco e o deixou secando no atelier do pintor.” / substituição por um termo sinônimo.",
+    "C": "“Quando foi buscar a obra no dia seguinte, Di tinha vendido.” / omissão por elipse.",
+    "D": "“Chateaubriand escolheu então outro quadro, Mulheres de Pescadores, que recebia as últimas pinceladas.” / substituição por pronome indefinido.",
+    "E": "“Chateaubriand escolheu então outro quadro, Mulheres de Pescadores. Mas dessa vez, precaveu-se: - Esse vai secar lá em casa.” / substituição por advérbio."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 4,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O verbo agradecer é geralmente empregado com objeto direto de\ncoisa e objeto indireto de pessoa.\nAssinale a frase abaixo em que esse verbo mostra uma regência\ndiferente dessa.",
+   "alternativas": {
+    "A": "As pessoas agradeciam-lhe a simpatia e o obséquio.",
+    "B": "Quando chegaram, os demais convidados agradeceram-lhes os elogios.",
+    "C": "Ouvimos missa na catedral; ao levantar a Deus, agradecia a vida e a saúde de meu filho.",
+    "D": "Os candidatos eleitos agradeceram aos eleitores todos os votos recebidos.",
+    "E": "Os feirantes agradeceram os fregueses por todas as compras feitas."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 5,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A frase abaixo, retirada de obras machadianas, com maior número\nde adjetivos é:",
+   "alternativas": {
+    "A": "“Carlos Maria achava os homens declamadores, grosseiros, cansativos, pesados, frívolos, chulos, triviais.” (Quincas Borba)",
+    "B": "“Duas tristes luzes alumiavam aquela pequena sala.” (Helena)",
+    "C": "“As roupas eram rafadas; o chapéu velho que lhe cobria a cabeça tinha já uma cor inverossímil.” (Helena)",
+    "D": "“Luís Garcia tinha o costume de guar tudo, cartas, exemplares de jornais em que havia alguma coisa de interesse, apontamentos, simples cópias.” (Iaiá Garcia)",
+    "E": "Quincas Borba mal podia encobrir a satisfação do triunfo. Tinha uma asa de frango no prato e trincava-a com filosófica serenidade.” (Memórias Póstumas de Brás Cubas)"
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 6,
+   "pagina": 4,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A frase abaixo, retirada do romance O Coruja, de Aluísio Azevedo,\nque mostra uma troca indevida entre acidente e incidente, é:",
+   "alternativas": {
+    "A": "“Não procuravam as suas relações, nem ele as de ninguém, e, apesar das vaias e das repetidas pilhérias dos colegas, teria passado tranquilamente os primeiros dias da sua nova existência, se um incidente desagradável não o viesse perturbar.”",
+    "B": "“Amavam-se brutalmente, e ambos sabiam disso. Esse amor irracional e empírico carregara-se muito mais, de parte a parte, com o trágico incidente da viagem, em que ele fora vítima.”",
+    "C": "“Chegaram sem o menor incidente ao destino que levaram.”",
+    "D": "“Coruja resignou-se, sem um gesto de contrariedade e não falou a ninguém sobre esse incidente, nem mesmo ao amigo.”",
+    "E": "“E às quatro da tarde, sem nenhum outro incidente desagradável, voltavam à fazenda, trazendo consigo o tal Hipólito, que parecia embirrar com o Coruja ainda mais do que a própria noiva.”"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 7,
+   "pagina": 4,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Dentre as frases a seguir, retiradas do romance O Coruja, de Aluísio\nAzevedo, assinale aquela em que o acento grave indicativo da\ncrase foi corretamente usado.",
+   "alternativas": {
+    "A": "“... mas caiu logo em si, lembrando-se de que já se fazia tarde e naquele dia, distraído com a morte do amigo, descuidara-se da gente que tinha à sua conta.”",
+    "B": "“Nunca fazia à ninguém interrogação de espécie alguma, e, certo dia perguntando-lhe o padre se ele o estimava, o menino sacudiu com a cabeça, negativamente.”",
+    "C": "“Mas, no íntimo, abominava o pupilo; mil vezes preferia não o ter à seu lado; suportava-o, sabia Deus como! como quem suporta uma obrigação inevitável e aborrecida.”",
+    "D": "“E cada vez detestava mais o pequeno; afinal era já um ódio violento, uma antipatia especial, que se manifestava à todo o instante...”",
+    "E": "“- Ora, que mono fora ele descobrir!... dizia de si para si, à contemplar o rapaz por cima dos óculos.”"
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 8,
+   "pagina": 4,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Entre as palavras sublinhadas nas frases abaixo, aquela em que o\nU (em QUE ou QUI) deve ser pronunciado, é:",
+   "alternativas": {
+    "A": "Ser ou não ser: eis a questão. (Shakespeare)",
+    "B": "Quem abre o coração à ambição, fecha-o à tranquilidade. (provérbio chinês)",
+    "C": "Cada ideologia tem a inquisição que merece. (Millôr Fernandes)",
+    "D": "Antes dele, outros quatro chefes de polícia saíram da instituição, responsável por um inquérito interno sobre o caso que começou em 2007 com a denúncia de uma vítima, mas que foi arquivado sem chegar a nenhuma conclusão. (FSP- 26/06/2009)",
+    "E": "Descubra a Europa sobre trilhos Segóvia exibe aqueduto romano bem conservado Biarritz combina surfe, glamour e bons restaurantes. (FSP-18/10/2012)"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 9,
+   "pagina": 4,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Entre as palavras sublinhadas nas frases abaixo, propositalmente\ngrafadas sem acentos, aquela que deve ser pronunciada como\nparoxítona, é:",
+   "alternativas": {
+    "A": "A história do viúvo pudico, que se apaixona por uma prostituta com vocação para amante e, graças às armações do irmão invejoso, acaba traído pelo filho e pela amada, traz as marcas inconfundíveis do autor, que a definia como \"uma obsessão em três atos\". (FSP-01/11/2012)",
+    "B": "O valor do pagamento de benefícios da Previdência Social superou a arrecadação em julho e provocou um deficit de R$ 3,09 bilhões. (FSP-19/08/2009)",
+    "C": "Uma fábrica chinesa de iPhones, da Apple, informou que suspendeu o trabalho de funcionários, após um empregado ter cometido suicídio, aparentemente sob ameaça quando um prototipo foi perdido. (FSP-22/07/2009)",
+    "D": "Qualquer violeta ou crisantemo de supermercado já ajuda. (FSP-26/07/2011)",
+    "E": "Nesse interim, Colting vê seu livro ser traduzido para o húngaro e para o coreano --línguas em que jamais sonhara publicar. (FSP-11/12/2010)"
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 10,
+   "pagina": 4,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Assinale o segmento textual a seguir que é classificado como de\ntipo textual publicitário.",
+   "alternativas": {
+    "A": "As mulheres sofrem de ansiedade com mais frequência do que os homens: Especialistas revelam o porquê.",
+    "B": "Enem em Sergipe: mais de 78 mil candidatos devem fazer provas de matemática e ciências da natureza.",
+    "C": "Fundada em homenagem a Gregório Thaumaturgo de Azevedo, figura histórica da anexação do Acre ao Brasil, a cidade de Marechal Thaumaturgo é um retrato singular do Brasil profundo.",
+    "D": "Estudo do Observatório Nacional da Violência contra Educadores traça cenário de desvalorização e violência enfrentados por docentes em instituições públicas e privadas no país.",
+    "E": "O benefício que motiva, retém e alimenta resultados. Com Ticket Restaurante, sua empresa cuida de quem faz acontecer com menos custo e mais valor percebido."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 11,
+   "pagina": 4,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Na pronúncia descuidada, muitas palavras são proferidas com\neliminação ou troca de fonemas; em todas as opções abaixo, há\npalavras sublinhadas que mostram esse problema.\nA única opção em que a palavra sublinhada mostra forma correta,\né:",
+   "alternativas": {
+    "A": "Para enterter as crianças durante o recesso escolar -- determinado pela Secretaria de Estado da Saúde em função da gripe A--, os apresentadores do \"Cambalhota\" também dão dicas de brincadeiras e atividades que podem ser realizadas dentro de casa. (FSP-05/08/2009)",
+    "B": "Bistrô crepe de Paris Aqui, a raclette (prato com queijo suíço homônimo derretido) é acompanhada por batatas, tauba de frios, pães caseiros e molhos (R$ 58, por pessoa). (FSP- 17/07/2009)",
+    "C": "O supérfluo dos ricos é propiedade dos pobres. (Santo Agostinho)",
+    "D": "Outras 251 pessoas morreram ao atravessar regularmente a fronteira, principalmente por enfarte, disseram os pesquisadores. (FSP-12/08/2009)",
+    "E": "Uma conduta irrepreensível consiste em manter cada um a sua dignidade sem perjudicar a liberdade alheia. (Voltaire)"
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 12,
+   "pagina": 5,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Assinale o segmento textual abaixo que é classificado como de\nmodo injuntivo.",
+   "alternativas": {
+    "A": "O Instituto Nacional de Meteorologia (Inmet) emitiu, neste domingo (16), um alerta de tempestade severa para municípios de quatro estados brasileiros — Rio Grande do Sul, Santa Catarina, Paraná e Mato Grosso do Sul.",
+    "B": "Para os idosos, o conforto e a segurança são aspectos cruciais na escolha de um carro. O Fiat 500e, por exemplo, é um carro compacto que facilita manobras e estacionamento, equipado com sensores de estacionamento 360º para maior segurança ao dirigir.",
+    "C": "A dinâmica do relacionamento pode ser complexa, mas o que dizemos e como falamos pode ter um grande impacto em como o nosso parceiro se sente.",
+    "D": "André declarou: “Ganhei mais músculos nesse último mês do que nos últimos 3 anos de academia. Incrível! Queria ter descoberto isso antes.”",
+    "E": "Sentir-se cansado após um dia longo ou depois de atividades físicas intensas é comum e geralmente normal"
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 13,
+   "pagina": 5,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Entre as palavras destacadas nas frases a seguir, aquela em que,\nna forma plural, a pronúncia é feita com O aberto (ó) é:",
+   "alternativas": {
+    "A": "O aeroporto mais prejudicado é o de Heathrow, onde centenas de pessoas passaram a noite no terminal. (FSP-21/12/2010)",
+    "B": "Segundo Yigit, o produto não tem o objetivo de ser um mero adorno decorativo: também tem a pretensão de dialogar com o conjunto arquitetônico do espaço. (FSP-05/07/2012)",
+    "C": "Considero como uma das felicidades da minha vida não escrever nos jornais; isto faz mal ao meu bolso, mas faz bem à minha consciência. (Gustave Flaubert)",
+    "D": "O planeta, porém, está longe demais para que astrônomos consigam enxergar seu contorno diretamente. (FSP- 15/09/2011)",
+    "E": "O clássico é também um esboço para 2013, ano em que as duas equipes podem polarizar a rivalidade estadual. (FSP- 02/12/2012)"
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 14,
+   "pagina": 5,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Nas opções abaixo há termos destacados que são referidos de\nforma diferente na continuidade do texto; a opção em que essa\nsegunda referência é feita por uma intensificação do termo\nanterior, é:",
+   "alternativas": {
+    "A": "O mesmo dever que prende o servo ao soberano, liga, ao tutor, o cachorro.",
+    "B": "Enquanto alguns já estão na terceira onda, outros ainda não saíram da primeira marola.",
+    "C": "Muitas pessoas têm vontade de morar no interior enquanto outros mostram ânsia em morar na cidade.",
+    "D": "Há bons casamentos, porém não há compromissos deliciosos.",
+    "E": "É ruim dois cônjuges se aborrecerem mutuamente; porém é muito pior somente um dos parceiros aborrecer o outro."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 15,
+   "pagina": 6,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere verdadeiras as afirmações:\n• Todos os sapos são verdes.\n• Nenhum animal verde vive na água.\nÉ correto concluir que",
+   "alternativas": {
+    "A": "alguns sapos vivem na água.",
+    "B": "nenhum sapo vive na água.",
+    "C": "nem todo sapo é verde.",
+    "D": "todos os animais verdes são sapos.",
+    "E": "todos os animais que não vivem na água não são verdes."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 16,
+   "pagina": 6,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Sejam 𝑝 e 𝑞 duas proposições. Considere a sentença 𝑆 dada por:\n(𝑝 → 𝑞) ↔ (~𝑝 ∨ 𝑞) e a tabela verdade abaixo.\n𝑝 𝑞 𝑆\nV V\nV F\nF V\nF F\nConstruindo a tabela verdade acima, os valores lógicos da\nsentença 𝑆 (de cima para baixo) são:",
+   "alternativas": {
+    "A": "V – V – V – V.",
+    "B": "V – F – V – V.",
+    "C": "V – V – V – F.",
+    "D": "V – F – F – V.",
+    "E": "V – F – V – F."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2026-alego-ciencia-de-dados/q16-0.png"
+   ]
+  },
+  {
+   "numero": 17,
+   "pagina": 6,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Cinco bolinhas iguais estão em uma caixa e cada uma delas contém\numa letra diferente da sigla ALEGO.\nRetirando ao acaso duas bolinhas da caixa em sequência e sem\nreposição, a probabilidade de que uma bolinha contenha uma\nvogal e a outra uma consoante é",
+   "alternativas": {
+    "A": "1/2.",
+    "B": "2/3.",
+    "C": "3/4.",
+    "D": "2/5.",
+    "E": "3/5."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 18,
+   "pagina": 6,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Na faixa quadriculada abaixo, as linhas verticais estão numeradas\nda esquerda para a direita e o lado de cada quadradinho mede 1\nunidade.\nUm objeto iniciou seu movimento no ponto A e andou sobre as\nlinhas mais escuras do desenho mantendo o padrão visível na\nfigura.\nApós percorrer 2026 unidades o objeto estará na linha vertical de\nnúmero",
+   "alternativas": {
+    "A": "867.",
+    "B": "868.",
+    "C": "869.",
+    "D": "870.",
+    "E": "871."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 19,
+   "pagina": 6,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere a afirmação:\n”se tenho febre então não vou trabalhar”.\nA negação dessa afirmação é:",
+   "alternativas": {
+    "A": "se não tenho febre então vou trabalhar.",
+    "B": "tenho febre e vou trabalhar.",
+    "C": "não tenho febre e não vou trabalhar.",
+    "D": "não tenho febre ou não vou trabalhar.",
+    "E": "tenho febre ou vou trabalhar."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 20,
+   "pagina": 6,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere todas as sequências de 5 letras diferentes utilizando as\nletras da sigla A L E G O. Essas sequências são escritas em ordem\nalfabética.\nNessa ordenação, a sequência G E L O A ocupa a posição de\nnúmero",
+   "alternativas": {
+    "A": "55.",
+    "B": "56.",
+    "C": "57.",
+    "D": "58.",
+    "E": "59. Realidade Étnica, Social, Histórica, Geográfica, Cultural, Política e Econômica do Estado de Goiás"
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 21,
+   "pagina": 7,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O período de maior intensidade do Ciclo do Ouro em Goiás ocorreu\nentre os séculos XVIII e XIX, quando a região se tornou um\nimportante centro de mineração no Brasil colonial. A descoberta\nde grandes depósitos de ouro atraiu trabalhadores, comerciantes\ne aventureiros, estimulando o crescimento de assentamentos na\nregião.\nAssinale a opção que apresenta corretamente os impactos da\nmineração na ocupação de Goiás durante o auge do ciclo do ouro.",
+   "alternativas": {
+    "A": "A técnica de perfuração permitiu uma exploração intensa e prolongada das lavras, o que evitou seu esgotamento e favoreceu o assentamento de uma população permanente.",
+    "B": "O uso predominante da mão de obra indígena, valorizada por suas habilidades específicas na mineração, contribuiu para o crescimento da população nativa na região.",
+    "C": "A extração do ouro de aluvião exigiu a presença de especialistas e tecnologia avançada na região, o que deu origem a um polo industrial local.",
+    "D": "O uso do mercúrio na mineração facilitou a extração do ouro, o que tornou a atividade mais produtiva e atraiu trabalhadores, resultando no surgimento de vilas e arraiais.",
+    "E": "A mineração de morro tornou a agropecuária a principal atividade econômica da região, voltada à criação de animais de tração, o que resultou no assentamento da população."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 22,
+   "pagina": 7,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Leia o trecho a seguir.\nO bandeirismo no período colonial deu origem a democracia\nbrasileira, graças a mobilidade externa que conseguiu uma\ngeografia antitotalitária; hierarquização do negro e do índio, que\nforam deslocados do comunismo tribal para a área social em que\noperavam os bandeirantes; absorção de grupos étnicos através da\nassimilação de seus elementos; desfeudalização dos engenhos. O\nobjetivo era incrementar o povoamento. O “Projeto Rondon”, hoje\nem pleno desenvolvimento, completa o bandeirismo. Portanto, o\nbandeirismo como foi praticado pelos paulistas durante três\nséculos pertence, naturalmente, a História. Até hoje existe uma\n“personalidade bandeirante” na sociedade brasileira. Quando se\nfala em “Estado bandeirante”, já se sabe qual é; “povo\nbandeirante”, também. Mas “bandeirar”, hoje em dia, é imposição\ndo Brasil inteiro, que atende ao seu “imperialismo interno” e\ndepende, muito ainda, da aventura criadora tradicional do período\ncolonial.\nAdaptado de: RICARDO, Cassiano. Marcha para Oeste. São Paulo:\nUniversidade de São Paulo, 4 edição, 1970, pp. xxxi – xxxix.\nO trecho, de Cassiano Ricardo, ideólogo do Estado Novo e\npublicado em 1940, serviu de base para a política de “Marcha para\no Oeste” do governo Vargas.\nCom base na sua leitura, é correto afirmar que a imagem do\nbandeirismo do período colonial brasileiro foi usada pelo governo\nVargas como símbolo de",
+   "alternativas": {
+    "A": "decadência, ao destacar o período colonial como atrasado, em consonância com o projeto modernizador e de desenvolvimento do Estado Novo para a superação desse passado.",
+    "B": "expansão territorial, ao destacar a ampliação do espaço geográfico e a ocupação do interior do país, em consonância com os projetos do Estado Novo de integração do território nacional.",
+    "C": "heroísmo, ao destacar o extermínio dos povos nativos pelos bandeirantes como elemento positivo, em consonância com o projeto do Estado Novo de conquista e integração das populações indígenas ao Estado brasileiro.",
+    "D": "mobilidade social, ao destacar a participação igualitária dos grupos sociais na sociedade brasileira, em consonância com o ideal de democracia racial defendido pelo Estado Novo.",
+    "E": "valentia, ao destacar a atuação dos bandeirantes europeus na ocupação do território nacional, em consonância com a busca do Estado Novo por modelos estrangeiros para a construção da identidade nacional."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 23,
+   "pagina": 8,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O Cerrado em Goiás, um dos biomas mais ricos em biodiversidade\ndo Brasil, vem sofrendo intensa devastação nos últimos anos, com\ngrande parte de sua vegetação nativa sendo destruída, o que\nameaça diversas espécies de fauna e flora e compromete a\nqualidade da água e do solo.\nAs opções a seguir descrevem corretamente fatores que explicam\na devastação do cerrado goiano, à exceção de uma. Assinale-a.",
+   "alternativas": {
+    "A": "A construção de rodovias e estrada fragmenta o Cerrado e compromete a biodiversidade e os recursos naturais da região.",
+    "B": "O crescimento desordenado de cidades e vilarejos, ocupando áreas do Cerrado, leva à destruição da vegetação e ao aumento da pressão sobre os recursos naturais da região.",
+    "C": "A expansão da agricultura e da pecuária em larga escala contribui para a destruição da vegetação nativa e a degradação do solo no Cerrado.",
+    "D": "O uso frequente do fogo para preparar o solo, aliado à inexistência de bacias hidrográficas no Cerrado, favorece a ocorrência de incêndios fora de controle.",
+    "E": "A introdução de espécies exóticas, ao competir com a flora nativa, dificulta a regeneração natural do Cerrado e provoca alterações em seus ecossistemas."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 24,
+   "pagina": 8,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Em 2023, foi sancionada a Lei Complementar nº 181, que cria a\nRegião Metropolitana do Entorno do Distrito Federal (RME). A\nlegislação prevê a realização de ações integradas entre os\ngovernos de Goiás, do Distrito Federal e da União.\nFazem parte da RME os seguintes municípios: Águas Lindas de\nGoiás, Cidade Ocidental, Cocalzinho de Goiás, Cristalina, Formosa,\nLuziânia, Novo Gama, Padre Bernardo, Planaltina, Santo Antônio\ndo Descoberto e Valparaíso de Goiás.\nAssinale a opção que apresenta corretamente os objetivos\nda criação da Região Metropolitana do Entorno do Distrito Federal\n(RME).",
+   "alternativas": {
+    "A": "Controlar o crescimento populacional na região, a fim de reduzir os problemas socioeconômicos decorrentes da expansão urbana.",
+    "B": "Estruturar a administração de Goiás segundo as demandas do Distrito Federal, de modo a articular políticas públicas que atendam às prioridades da capital.",
+    "C": "Garantir a proteção dos recursos e do desenvolvimento da região, que se destaca positivamente nos indicadores sociais em comparação às demais localidades do estado de Goiás.",
+    "D": "Incentivar o desenvolvimento dos municípios goianos geograficamente distantes do Distrito Federal por meio de estruturas conjuntas de gestão.",
+    "E": "Promover soluções integradas na região, com planejamento e implementação de serviços públicos essenciais e infraestrutura de interesse comum."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 25,
+   "pagina": 8,
+   "disciplina": "Legislação do Estado de Goiás",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Com base na Resolução nº 1.073/2001, avalie se ao servidor é\nproibido, entre outras ações:\nI. Referir-se de modo depreciativo em informação, parecer ou\ndespacho, às autoridades e atos da administração da\nAssembleia Legislativa, ou censurá-los pela imprensa ou\nqualquer outro órgão de divulgação pública, podendo, porém,\ncriticá-los, do ponto de vista doutrinário ou da organização do\nserviço.\nII. Valer-se do cargo ou função para lograr proveito pessoal em\ndetrimento da dignidade da função pública.\nIII. Coagir ou aliciar subordinados com objetivo de natureza\npartidária.\nIV. Participar, de fato e de direito, de gerência ou administração\nde sociedade empresária, ainda que unipessoal, personificada\nou não, bem como atuar como empresário durante a jornada\nde trabalho, mediante o exercício profissional de atividade\neconômica organizada para a produção ou circulação de bens\nou de serviços, na caracterização determinada na legislação\ncivil e observadas as exceções ali constantes.\nSão efetivamente proibidas ao servidor as ações",
+   "alternativas": {
+    "A": "I e II, apenas.",
+    "B": "III e IV, apenas.",
+    "C": "I, II e III, apenas.",
+    "D": "II, III e IV, apenas.",
+    "E": "I, II, III e IV."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 26,
+   "pagina": 8,
+   "disciplina": "Legislação do Estado de Goiás",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "De acordo com a Resolução nº 1.073/2001, o conjunto de\natribuições agrupadas, pela espécie de atividade e pela\nespecialização exigível ao seu desempenho, é denominado",
+   "alternativas": {
+    "A": "classe.",
+    "B": "grupo.",
+    "C": "categoria funcional.",
+    "D": "cargo.",
+    "E": "padrão."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 27,
+   "pagina": 9,
+   "disciplina": "Legislação do Estado de Goiás",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O Art. 10 da Resolução 1.073/2001 estabelece que os cargos de\nprovimento em comissão se destinam a atender a encargos de\nDireção, Chefia, Assessoramento Superior e Intermediário e\nFunção Especial de Confiança e são providos mediante ato do\nPresidente, podendo recair em servidor público efetivo, inclusive\ninativo, ou mesmo em pessoa estranha ao serviço público,\nobservados os requisitos necessários, inclusive a habilitação\nprofissional para a respectiva investidura.\nEm relação ao tema, avalie se as afirmativas a seguir estão\ncorretas.\nI. 50% (cinquenta por cento) dos cargos em comissão, com nível\nde Direção e Chefia, serão preenchidos por servidor efetivo da\nAssembleia Legislativa, com observância do critério de\nconfiança.\nII. Recaindo a nomeação em servidor público, esse optará pelo\nvencimento do cargo em comissão ou pela percepção da\nremuneração de seu cargo efetivo, sendo, em qualquer\nhipótese, acrescido de uma gratificação correspondente ao\nvalor fixado para a do cargo em comissão.\nIII. O servidor ocupante, exclusivamente, de cargo em comissão e\nde função especial de confiança, é segurado obrigatório do\nRegime Geral da Previdência Social – RGPS, na qualidade de\nempregado.\nIV. O inativo provido em cargo em comissão ou função especial de\nconfiança perceberá, integralmente, o vencimento e a\ngratificação para esses fixados, cumulativamente com o\nrespectivo provento, desde que obedecido o teto\nconstitucional.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I e II, apenas.",
+    "B": "III e IV, apenas.",
+    "C": "I, II e III, apenas.",
+    "D": "II, III e IV, apenas.",
+    "E": "I, II, III e IV."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 28,
+   "pagina": 9,
+   "disciplina": "Legislação do Estado de Goiás",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O Art. 56 da Resolução 1.073/2001 dispõe que, cumprido\nsatisfatoriamente o estágio probatório, o servidor detentor de\ncargo efetivo adquirirá estabilidade no serviço público ao\ncompletar 3 (três) anos de efetivo exercício.\nEm relação ao tema, avalie se o servidor público estável perderá o\ncargo nas seguintes hipóteses:\nI. Em virtude de sentença judicial transitada em julgado.\nII. Mediante processo administrativo em que lhe seja assegurada\nampla defesa.\nIII. Mediante procedimento de avaliação periódica de\ndesempenho, nos termos de regulamento próprio, assegurada\nampla defesa.\nIV. Se for extinto o cargo ou declarada sua desnecessidade.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I e II, apenas.",
+    "B": "III e IV, apenas.",
+    "C": "I, II e III, apenas.",
+    "D": "II, III e IV, apenas.",
+    "E": "I, II, III e IV."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 29,
+   "pagina": 9,
+   "disciplina": "Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A rede de telecomunicação Alfa, com forte representatividade e\ncapilaridade, vem publicando uma série de reportagens para\ndemonstrar que a população almeja ser consultada diretamente\nsobre os assuntos de relevância nacional, por meio de plebiscitos.\nNesse cenário, considerando as disposições da Constituição\nFederal, é correto afirmar que convocar plebiscito é uma\ncompetência",
+   "alternativas": {
+    "A": "comum entre o Congresso Nacional e o Poder Executivo.",
+    "B": "privativa da Câmara dos Deputados.",
+    "C": "exclusiva do Congresso Nacional.",
+    "D": "privativa do Poder Executivo.",
+    "E": "exclusiva do Senado Federal."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 30,
+   "pagina": 9,
+   "disciplina": "Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Lucas, candidato ao cargo de Deputado Federal, defendeu,\ndurante a sua campanha eleitoral, a necessidade de se proceder a\nmudanças no texto constitucional, com o objetivo de alterar a\nforma federativa de Estado, bem como o voto secreto.\nNesse cenário, considerando as disposições da Constituição\nFederal, é correto afirmar que as bandeiras de Lucas",
+   "alternativas": {
+    "A": "podem prosperar em parte, pois não há qualquer vedação na deliberação de proposta de emenda tendente a abolir a forma federativa de Estado. Contudo, não se admite qualquer discussão que busque alterar o caráter secreto do voto.",
+    "B": "podem prosperar em parte, pois não há qualquer vedação na deliberação de proposta de emenda tendente a abolir o voto secreto. Contudo, não se admite qualquer discussão que busque alterar a forma federativa de Estado.",
+    "C": "não podem prosperar, pois não será objeto de deliberação a proposta de emenda tendente a abolir a forma federativa de Estado ou o voto secreto, salvo se realizado referido constitucional em sentido contrário.",
+    "D": "podem prosperar, pois não há qualquer vedação na deliberação de proposta de emenda tendente a abolir a forma federativa de Estado ou o voto secreto.",
+    "E": "não podem prosperar, pois não será objeto de deliberação a proposta de emenda tendente a abolir a forma federativa de Estado ou o voto secreto."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 31,
+   "pagina": 10,
+   "disciplina": "Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Após a observância do contraditório e da ampla defesa, Mário,\nbrasileiro naturalizado, foi condenado, definitivamente, pela\nprática do crime de extorsão mediante sequestro, de natureza\nhedionda. Em seguida, as autoridades brasileiras competentes o\nextraditaram para um determinado país no exterior. Registre-se,\npor fim, que a conduta delitiva foi praticada por Mário após o\nencerramento do seu processo de naturalização.\nNesse cenário, considerando as disposições da Constituição\nFederal, é correto afirmar que as autoridades brasileiras agiram",
+   "alternativas": {
+    "A": "incorretamente, pois a Constituição Federal só admite a extradição do brasileiro naturalizado em caso de crime comum, praticado antes da naturalização ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei.",
+    "B": "incorretamente, pois a Constituição Federal só admite a extradição do brasileiro naturalizado em caso de crime comum, praticado antes da naturalização ou de comprovado envolvimento em crimes hediondos, na forma da lei complementar.",
+    "C": "acertadamente, pois a Constituição Federal admite a extradição de brasileiros naturalizados, em caso de condenação definitiva pela prática de crime hediondo.",
+    "D": "acertadamente, pois a Constituição Federal admite a extradição de brasileiros, natos ou naturalizados, em caso de condenação definitiva pela prática de crime hediondo.",
+    "E": "acertadamente, pois a Constituição Federal admite a extradição de brasileiros naturalizados."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 32,
+   "pagina": 10,
+   "disciplina": "Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Jorge, interessado em ocupar um cargo público no âmbito do\nPoder Público, resolveu estudar as normas constitucionais que\nversam sobre a matéria, tomando conhecimento de que a\nAdministração Pública direta e indireta de qualquer dos Poderes\nda União, dos Estados, do Distrito Federal e dos Municípios\nobedecerá aos princípios de legalidade, impessoalidade,\nmoralidade, publicidade e eficiência.\nDe acordo com a narrativa e considerando as disposições da\nConstituição Federal, analise as afirmativas a seguir:\nI. O servidor público titular de cargo efetivo poderá ser\nreintegrado para exercício de cargo cujas atribuições e\nresponsabilidades sejam compatíveis com a limitação que\ntenha sofrido em sua capacidade física ou mental, enquanto\npermanecer nesta condição, desde que possua a habilitação e\no nível de escolaridade exigidos para o cargo de destino,\nfazendo jus à remuneração deste.\nII. A autonomia gerencial, orçamentária e financeira dos órgãos e\nentidades da administração direta e indireta poderá ser\nampliada mediante contrato, a ser firmado entre seus\nadministradores e o poder público, que tenha por objeto a\nfixação de metas de desempenho para o órgão ou entidade.\nIII. Os órgãos e entidades da administração pública, individual ou\nconjuntamente, poderão realizar, periodicamente, avaliação\ndas políticas públicas, inclusive com divulgação do objeto a ser\navaliado e dos resultados alcançados, na forma da lei\ncomplementar.\nNesse cenário, considerando as disposições da Constituição\nFederal, é correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "III, apenas.",
+    "D": "I e III, apenas.",
+    "E": "I, II e III,"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 33,
+   "pagina": 10,
+   "disciplina": "Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Após meses de negociações infrutíferas, surgiu complexo conflito\nentre o Estado Alfa e o Estado Beta, dando ensejo à propositura\nde uma demanda em juízo, para a resolução do litígio apresentado.\nAssim, considerando as disposições da Constituição Federal, é\ncorreto afirmar que caberá ao",
+   "alternativas": {
+    "A": "Tribunal de Justiça do Estado Alfa ou ao Tribunal de Justiça do Estado Beta processar e julgar, em sede recursal, a demanda, por prevenção.",
+    "B": "Tribunal de Justiça do Estado Alfa ou ao Tribunal de Justiça do Estado Beta processar e julgar, originariamente, a demanda, por prevenção.",
+    "C": "Superior Tribunal de Justiça processar e julgar, originariamente, a demanda.",
+    "D": "Superior Tribunal de Justiça processar e julgar, em sede recursal, a demanda.",
+    "E": "Supremo Tribunal Federal processar e julgar, originariamente, a demanda."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 34,
+   "pagina": 10,
+   "disciplina": "Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A sociedade empresária Alfa demonstrou interesse em prestar\nserviços de comunicação social no Brasil. Dessa forma, os\ndirigentes da referida entidade estudaram a matéria, constatando\nque compete ao Poder Executivo outorgar e renovar concessão,\npermissão e autorização para o serviço de radiodifusão sonora e\nde sons e imagens, observado o princípio da complementaridade\ndos sistemas privado, público e estatal.\nDe acordo com a narrativa e considerando as disposições da\nConstituição Federal, analise as afirmativas a seguir:\nI. A não renovação da concessão ou permissão dependerá de\naprovação de, no mínimo, três quintos do Congresso Nacional,\nem votação secreta.\nII. O cancelamento da concessão ou permissão, antes de vencido\no prazo, depende de decisão judicial.\nIII. O prazo da concessão ou permissão será de dez anos para as\nemissoras de rádio e de quinze para as de televisão.\nNesse cenário, considerando as disposições da Constituição\nFederal, é correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 35,
+   "pagina": 11,
+   "disciplina": "Direito Administrativo",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Após o devido processo licitatório, a sociedade empresária Alfa\ncelebrou contrato administrativo com o Estado Beta. Registre-se,\ncontudo, que, durante a execução, o contrato foi extinto, por meio\nde um ato unilateral e escrito da Administração. Irresignada com a\nsituação posta, a entidade privada contratada procurou o auxílio\nde especialistas na matéria, para entender os direitos que possui.\nNesse cenário, considerando as disposições da Lei\nno 14.133/2021, é correto afirmar que, em face da extinção do\ncontrato administrativo,",
+   "alternativas": {
+    "A": "caberá recurso, no prazo de cinco dias, desde que a contratada demonstre que suportou grave prejuízo com a efetivação da medida.",
+    "B": "não caberá recurso, já que a Administração Pública fez uso de uma cláusula exorbitante aplicável ao contrato administrativo.",
+    "C": "não caberá recurso, à exceção do pedido de reconsideração, no prazo de três dias úteis.",
+    "D": "não caberá recurso, por se tratar de um direito potestativo da Administração Pública.",
+    "E": "caberá recurso, no prazo de três dias úteis."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 36,
+   "pagina": 11,
+   "disciplina": "Direito Administrativo",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Com o objetivo de ser qualificada como organização social (OS) e,\npor consequência, estar apta a celebrar contratos de gestão com\no Poder Público, a associação privada Alfa passou a adotar todas\nas providências legais cabíveis, alterando, na forma da lei, o seu\nato constitutivo.\nNesse cenário, considerando as disposições da Lei no 9.637/1998,\npara que a entidade privada Alfa seja qualificada como\norganização social, o seu ato constitutivo deverá dispor sobre a",
+   "alternativas": {
+    "A": "proibição de distribuição de bens ou de parcela do patrimônio líquido em qualquer hipótese, inclusive em razão de desligamento, retirada ou falecimento de associado ou membro da entidade.",
+    "B": "possibilidade de investimento de seus excedentes financeiros no desenvolvimento das suas atividades ou de distribuição dos excedentes em benefício dos associados, de forma fundamentada.",
+    "C": "previsão expressa de a entidade ter, além de um órgão colegiado de deliberação superior, um conselho fiscal, composto por cinco membros.",
+    "D": "obrigatoriedade de publicação semestral, no Diário Oficial da União, dos relatórios financeiros e do relatório de execução do contrato de gestão.",
+    "E": "vedação à participação, no órgão colegiado de deliberação superior, de representantes do Poder Público."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 37,
+   "pagina": 11,
+   "disciplina": "Direito Administrativo",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Henrique, servidor público no Estado Alfa, de forma dolosa,\nconcedeu benefício fiscal à sociedade empresária Beta, sem a\nobservância das formalidades legais aplicáveis à espécie, causando\nprejuízo ao ente público. Os fatos foram comunicados ao\nMinistério Público, que estudou a possibilidade de requerer, em\njuízo, a indisponibilidade dos bens do referido agente público.\nNesse cenário, considerando as disposições da Lei no 8.429/1992,\né correto afirmar que o valor da indisponibilidade considerará",
+   "alternativas": {
+    "A": "a estimativa de dano e o valor da multa, indicados na petição inicial, permitida a sua substituição por caução idônea, por fiança bancária ou por seguro-garantia judicial, a requerimento do juiz.",
+    "B": "a estimativa de dano indicada pelo ente público lesado, permitida a sua substituição por caução idônea, por fiança bancária ou por seguro-garantia judicial, a requerimento do juiz.",
+    "C": "a estimativa de dano indicada na petição inicial, permitida a sua substituição por caução idônea, por fiança bancária ou por seguro-garantia judicial, a requerimento do réu.",
+    "D": "o valor da multa indicado pelo ente público lesado, permitida a sua substituição por caução idônea, por fiança bancária ou por seguro-garantia judicial, a requerimento do réu.",
+    "E": "o valor da multa indicado na petição inicial, permitida a sua substituição por caução idônea, por fiança bancária ou por seguro-garantia judicial, a requerimento do juiz."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 38,
+   "pagina": 11,
+   "disciplina": "Direito Administrativo",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "João ingressou com processo administrativo junto à Administração\nPública do Estado de Goiás. Após a observância das formalidades\nlegais, foi proferida decisão contrária aos interesses do\nadministrativo. Irresignado, João recorreu da decisão, mas acabou\npor interpor o recurso perante autoridade incompetente na esfera\nadministrativa.\nNesse cenário, considerando as disposições da Lei Estadual\nno 13.800/2001, é correto afirmar que o recurso interposto por\nJoão",
+   "alternativas": {
+    "A": "não será conhecido, mas indicar-se-á ao recorrente a autoridade competente para futuras impugnações, vedada a devolução do prazo para recurso.",
+    "B": "não será conhecido, mas indicar-se-á ao recorrente a autoridade competente, sendo-lhe devolvido o prazo para recurso.",
+    "C": "será conhecido e, no mérito, julgado improcedente, em razão da oposição perante autoridade incompetente.",
+    "D": "será conhecido e, no mérito, julgado prejudicado, em razão da oposição perante autoridade incompetente.",
+    "E": "não será conhecido, vedada a devolução do prazo para recurso."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 39,
+   "pagina": 12,
+   "disciplina": "Direito Administrativo",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O Prefeito do Município Alfa, no âmbito do Estado Beta, solicitou\nà sua equipe jurídica a confecção de parecer dos contornos da\nlegislação que versa sobre o regime de concessão e permissão da\nprestação de serviços públicos.\nNesse cenário, considerando as disposições da Lei no 8.987/1995,\né correto afirmar que o Município Alfa poderá atuar como poder\nconcedente, celebrando contratos administrativos de",
+   "alternativas": {
+    "A": "concessão de serviços públicos que se encontrem no seu espectro de competências. Contudo, as permissões de serviços públicos só podem ser pactuadas com a União ou com os Estados.",
+    "B": "concessão de serviços públicos que se encontrem no seu espectro de competências. Contudo, as permissões de serviços públicos só podem ser pactuadas com os Estados.",
+    "C": "concessão ou de permissão de serviços públicos que se encontrem no seu espectro de competências, desde que haja a concordância do Estado Beta.",
+    "D": "concessão ou de permissão de serviços públicos que se encontrem no seu espectro de competências, desde que haja a concordância da União.",
+    "E": "concessão ou de permissão de serviços públicos que se encontrem no seu espectro de competências."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 40,
+   "pagina": 12,
+   "disciplina": "Direito Administrativo",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Lucas, Prefeito do Município Charlie, pretende, por meio da\ndescentralização administrativa, criar pessoas jurídicas que\nintegrarão a Administração Indireta do referido ente federativo.\nBusca-se, em síntese, a instituição de uma autarquia, de uma\nempresa pública, de uma sociedade de economia mista e de uma\nfundação.\nNesse cenário, considerando as disposições da Constituição\nFederal, é correto afirmar que",
+   "alternativas": {
+    "A": "exige-se lei específica para autorizar a criação da autarquia, da empresa pública e da sociedade de economia mista. A fundação, por outro lado, pode ser criada por meio de decreto do Chefe do Poder Executivo.",
+    "B": "a autarquia deve ser criada por meio de uma lei específica. Por sua vez, exige-se lei específica para autorizar a criação da empresa pública, da sociedade de economia mista e da fundação.",
+    "C": "a empresa pública e a sociedade de economia mista devem ser criadas por meio de uma lei específica. Por sua vez, exige-se lei específica para autorizar a criação da autarquia e da fundação.",
+    "D": "a autarquia, a empresa pública, a sociedade de economia mista e a fundação devem ser criadas por meio de leis específicas.",
+    "E": "exige-se lei específica para autorizar a criação da autarquia, da empresa pública, da sociedade de economia mista e da fundação."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 41,
+   "pagina": 12,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Ciência de Dados (CD) utiliza conjuntos de dados para tentar\nentender e resolver problemas do mundo real. Com relação aos\nfundamentos essenciais da CD, analise as afirmativas a seguir.\nI. Os dados figuram como o elemento central. O objetivo é\nextrair desses toda informação possível para que se possam\ntomar decisões e antecipar resultados de maneira precisa.\nII. Não é campo de conhecimento alheio às outras ciências. Ao\ncontrário, que se trata de uma combinação de instrumentos\nfornecidos por diversos campos do saber, com destaque para\na Estatística e a Ciência da Computação.\nIII. CD lida exclusivamente com a análise de dados estruturados,\ncomo planilhas e bancos de dados SQL, focando apenas em\nvisualizações básicas e relatórios descritivos.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, II, III.",
+    "B": "II e III, apenas.",
+    "C": "I e II, apenas.",
+    "D": "III, apenas.",
+    "E": "II, apenas."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 42,
+   "pagina": 12,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A importância da qualidade dos dados é um dos fundamentos da\nCiência da Dados, é essencial nos projetos desenvolvidos na\nALEGO. Tais características são bem delineadas e classificadas na\nliteratura e, em essência, servem de indicadores para avaliar quais\nconjuntos de dados são importantes ou não para um determinado\nestudo.\nA classificação das características básicas da qualidade de dados\nsão, respectivamente,",
+   "alternativas": {
+    "A": "intrínseca, contextual, representacional e acessibilidade, apenas.",
+    "B": "encontrável, acessível, interpolável e reusável, apenas.",
+    "C": "contextualização, completude e acurácia, apenas.",
+    "D": "consistência, singularidade e relevância, apenas.",
+    "E": "completude, acurácia e acessibilidade, apenas."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 43,
+   "pagina": 13,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Os analistas de Ciência de Dados da ALEGO reconhecem que a\nabordagem tradicional de análise de dados envolve um ciclo\ncomposto por diversas etapas e uma vez que tenham definidos\nseus modelos preditivos, eles podem ser aplicados a novos\nconjuntos de dados. A figura criada pelos analistas representa um\nciclo de análise preditiva e score de dados. Analise a figura e\nrelacione a numeração indicada nas etapas com as suas\nrespectivas operações.\nA relação correta, na ordem dada, é:",
+   "alternativas": {
+    "A": "1 = Operações de Integração de Dados, 2 = Operações de Extração de Dados, 3 = Operações de Preparação de Dados, 4 = Operações de Construção de Modelos e Score.",
+    "B": "1 = Operações de Preparação de Dados, 2 = Operações de Extração de Dados, 3 = Operações de Construção de Modelos e Score, 4 = Operações de Integração de Dados.",
+    "C": "1 = Operações de Construção de Modelos e Score, 2 = Operações de Preparação de Dados, 3 = Operações de Integração de Dados, 4 = Operações de Extração de Dados.",
+    "D": "1 = Operações de Extração de Dados, 2 = Operações de Integração de Dados, 3 = Operações de Construção de Modelos e Score, 4 = Operações de Preparação de Dados.",
+    "E": "1 = Operações de Extração de Dados, 2 = Operações de Integração de Dados, 3 = Operações de Preparação de Dados, 4 = Operações de Construção de Modelos e Score."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 44,
+   "pagina": 13,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O aprendizado não supervisionado utiliza algoritmos de\naprendizado de máquina para analisar e agrupar conjuntos de\ndados sem rótulos. Esses algoritmos descobrem padrões ocultos,\nfazem associações ou agrupamentos de dados sem a necessidade\nde intervenção humana.\nSelecione a alternativa que apresenta um algoritmo de regras de\nassociação.",
+   "alternativas": {
+    "A": "Apriori.",
+    "B": "Aposteriori.",
+    "C": "Ligação de Ward.",
+    "D": "Modelo de mistura gaussiana.",
+    "E": "Análise de componentes principais."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 45,
+   "pagina": 13,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Rafaela é uma estagiária do setor de TI da ALEGO, ela está\nelaborando um DER em papel. O diagrama será apresentado em\numa reunião para os analistas da ALEGO. A estagiária sabe que\nmodelagem relacional é amplamente usada na instituição, mas\nestá na dúvida sobre os elementos gráficos do DER.\nSegundo a notação de Peter Chen, o elemento gráfico que Rafaela\ndeverá utilizar para indicar um relacionamento é o",
+   "alternativas": {
+    "A": "envelope fechado.",
+    "B": "círculo preenchido.",
+    "C": "retângulo.",
+    "D": "triângulo.",
+    "E": "losango."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2026-alego-ciencia-de-dados/q45-0.png"
+   ]
+  },
+  {
+   "numero": 46,
+   "pagina": 13,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Com relação ao conceito de cardinalidades dos relacionamentos\nem um diagrama ER do modelo relacional, avalie se as afirmativas\na seguir são verdadeiras (V) ou falsas (F).\n( ) A cardinalidade mínima 0 também recebe a denominação de\n“associação obrigatória”, já que ela indica que o\nrelacionamento deve obrigatoriamente associar uma\nocorrência de entidade a cada ocorrência da entidade em\nquestão.\n( ) A cardinalidade mínima -1 recebe a denominação de\n“associação opcional”, já que ela indica que o relacionamento\ndeve opcionalmente se associar uma ocorrência de entidade a\ncada ocorrência da entidade em questão.\n( ) A cardinalidade máxima 0 recebe a denominação de\n“associação semântica”, já que ela indica que o\nrelacionamento deve necessariamente ter várias ocorrências\nde entidade a cada ocorrência da entidade em questão.\nAs afirmativas são, respectivamente,",
+   "alternativas": {
+    "A": "V – V – V.",
+    "B": "F – V – V.",
+    "C": "F – F – F.",
+    "D": "F – F – V.",
+    "E": "V – V – F."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 47,
+   "pagina": 13,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Os analistas da ALEGO fazem uso corriqueiro de modelagem\nmultidimensional em seus projetos. Esse paradigma de\nmodelagem permite que eles modelem diversos tipos de\nproblemas.\nO tipo de dimensão que permite armazenar os flags e indicadores\nou coleções de dados transacionais aleatórios que não estão\nrelacionados a nenhuma outra dimensão específica se\ndenominada",
+   "alternativas": {
+    "A": "Role Playing.",
+    "B": "Degenerada.",
+    "C": "Conformed",
+    "D": "Gigante.",
+    "E": "Junk."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 48,
+   "pagina": 14,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O aprendizado de máquina (ML) é um tema muito abrangente e\nque possui diversas aplicações nos diversos setores da ALEGO.\nExistem diferentes técnicas que são utilizadas dependendo do tipo\nde problema a ser solucionado. Elas foram agrupadas em métodos\nde ML com seus modelos de programação.\nO tipo de aprendizado que faz com que o modelo tome decisões\npor si próprio, e é recompensado de acordo com o progresso que\nfaz na atividade em que foi designado se denomina",
+   "alternativas": {
+    "A": "aprendizado não subvencionado.",
+    "B": "aprendizado supervisionado.",
+    "C": "aprendizado por reforço.",
+    "D": "aprendizado autônomo.",
+    "E": "aprendizado dedutivo."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 49,
+   "pagina": 14,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "As máquinas de vetores de suporte (SVM) são um conjunto de\nmétodos de aprendizado usados para tratar problemas de\nclassificação, regressão e detecção de outliers. Considerando as\nvantagens e desvantagens do uso do SVM no python 3.0 através\nda biblioteca scikit learn (versão 1.7.2), avalie se as afirmativas a\nseguir são verdadeiras (V) ou falsas (F).\n( ) Como vantagem, as SVM são eficazes em espaços de alta\ndimensionalidade e eficaz nos casos em que o número de\ndimensões é maior que o número de amostras.\n( ) Como desvantagem, as SVM utilizam um subconjunto de\npontos de treinamento na função de decisão, sendo, portanto,\nsendo pouco eficiente em termos de uso de memória.\n( ) Como desvantagem, se o número de características for muito\nmaior que o número de amostras, evitar o sobreajuste na\nescolha das funções Kernel e do termo de regularização é\ncrucial.\n( ) Como vantagem, as SVMs fornecem estimativas de\nprobabilidade diretamente; estas são calculadas usando uma\nvalidação cruzada de muitas partes que é um processo\ndispendioso.\nAs afirmativas são, respectivamente,",
+   "alternativas": {
+    "A": "V – V – V – F.",
+    "B": "V – F – V – F.",
+    "C": "V – V – F – V.",
+    "D": "F – V – F – V.",
+    "E": "F – V – F – F."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 50,
+   "pagina": 14,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Martinha, uma analista da ALEGO, desenvolveu o programa\nPython (versão 3) que utiliza as bibliotecas numpy (2.0.2) e scikit-\nlearn (versão 1.6.1) para realizar análise discriminante linear.\nAnalise o programa a seguir.\nimport numpy as np\nfrom sklearn.discriminant_analysis import\nLinearDiscriminantAnalysis\nX = np.array([[-1, -1], [-2, -1], [-3, -2],\n[1, 1], [2, 1], [3, 2], [1, 2]])\ny = np.array([1, 1, 1, 2, 2, 2, 2])\nclf = LinearDiscriminantAnalysis()\nclf.fit(X, y)\nprint(clf.predict([[-0.8, -2]]))\nO resultado impresso é igual a",
+   "alternativas": {
+    "A": "[0].",
+    "B": "[1].",
+    "C": "[2].",
+    "D": "[3]",
+    "E": "[-1]."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 51,
+   "pagina": 14,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A biblioteca scikit-learn (versão 1.7.2) do Python (versão 3) oferece\numa classe que implementa a regressão logística. Seleciona a\nalternativa que apresenta a sintaxe correta dessa classe.",
+   "alternativas": {
+    "A": "class sklearn.linear_model.MaxEnt(penalty='l2', *, dual=False, tol=0.0001, C=1.0, fit_intercept=True, intercept_scaling=1, class_weight=None, random_state=None, solver='lbfgs', max_iter=100, multi_class='deprecated', verbose=0, warm_start=False, n_jobs=None, l1_ratio=None)",
+    "B": "class sklearn.linear_model.Logit(penalty='l2', *, dual=False, tol=0.0001, C=1.0, fit_intercept=True, intercept_scaling=1, class_weight=None, random_state=None, solver='lbfgs', max_iter=100, multi_class='deprecated', verbose=0, warm_start=True, l1_ratio=None).",
+    "C": "class sklearn.linear_model.LogitRegression(penalty='l1', *, dual=False, tol=0.1, C=1.0, fit_intercept=True, intercept_scaling=10, class_weight=None, regression_step= '1', random_state=None, solver='lbfgs', min_iter=1000, warm_start=True, n_jobs=None, l1_ratio=None).",
+    "D": "class sklearn.linear_model.Sigmoid(penalty='l1', *, dual=False, tol=0.000001, C=1.0, fit_intercept=True, intercept_scaling=10, class_weight=None, random_state=None, solver='lbfgs', min_iter=1000, multi_class='deprecated', verbose=1, warm_start=True, n_jobs=None, l1_ratio=None).",
+    "E": "class sklearn.linear_model.LogisticRegression(penalty='l2', *, dual=False, tol=0.0001, C=1.0, fit_intercept=True, intercept_scaling=1, class_weight=None, random_state=None, solver='lbfgs', max_iter=100, multi_class='deprecated', verbose=0, warm_start=False, n_jobs=None, l1_ratio=None)."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 52,
+   "pagina": 15,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A regressão logística é um modelo muito popular na ciência de\ndados, ele é muito utilizado em diversos projetos da ALEGO. Com\nrelação às características da regressão logística, analise as\nafirmativas a seguir.\nI. É um modelo de regressão linear e dentro do contexto do\naprendizado de máquina, a regressão logística pertence à\nfamília de modelos de aprendizado de máquina\nsupervisionado.\nII. Representa dois grupos de interesse como uma variável\nbinária com valores 0 e 1, não importando qual o grupo é\ndesignado com os valores o versus 1, mas a designação de\ncomo dever ser observada interpretação dos coeficientes.\nIII. A função logística é representada pelas seguintes fórmulas:\na) Logit(pi) = 1/(1+ ln(-pi))\nb) exp(pi/(1-pi)) = β_0 + β _1*X_1 + … + β _k*K_k.\nonde:\nlogit(pi) é a variável dependente ou de resposta, e x é a\nvariável independente.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "II e III, apenas.",
+    "B": "I e III, apenas.",
+    "C": "I e II, apenas.",
+    "D": "II, apenas.",
+    "E": "I, apenas."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 53,
+   "pagina": 15,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Janaina, uma analista da ALEGO, desenvolveu o programa Python\n(versão 3) que utiliza as bibliotecas numpy (2.0.2) e scikit-learn\n(versão 1.6.1) para realizar uma análise de agrupamentos. Analise\no código a seguir.\nfrom sklearn.cluster import KMeans\nimport numpy as np\nX = np.array([[1, 2], [1, 4], [1, 0],\n[10, 2], [10, 4], [10, 0]])\nkmeans = KMeans(n_clusters=2, random_state=0,\nn_init=\"auto\").fit(X)\nkmeans.labels_\nkmeans.predict([[1, 1], [14, 4]])\nkmeans.cluster_centers_\nO resultado impresso é igual a",
+   "alternativas": {
+    "A": "array([[1., 2.], [ 10., 2.]])",
+    "B": "array([[1., 4.], [ 10., 4.]])",
+    "C": "array([[1., 3.], [ 9., 4.]])",
+    "D": "array([[10., 4.], [ 1., 4.]])",
+    "E": "array([[10., 2.], [ 1., 2.]])"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2026-alego-ciencia-de-dados/q53-0.png"
+   ]
+  },
+  {
+   "numero": 54,
+   "pagina": 15,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O algoritmo k-Nearest Neighbors (KNN) baseia-se\nfundamentalmente em calcular a distância entre o novo ponto e\ntodos os pontos de dados do conjunto de treinamento. As medidas\nde distância do KNN definem quão “próximos” ou “semelhantes”\ndois pontos são no espaço de recursos. Analise a fórmula da\ndistância de Minkowski\nCom relação a derivação da fórmula da distância de Minkowski,\nanalise as afirmativas a seguir.\nI. Se P = 2, a fórmula calculará a distância Euclidiana.\nII. Se P = 1, a fórmula calculará a distância de Manhattan.\nIII. Se P = 0, a fórmula calculará a distância Hamming.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "II e III, apenas.",
+    "B": "I e III, apenas.",
+    "C": "I e II, apenas.",
+    "D": "II, apenas.",
+    "E": "I, apenas."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 55,
+   "pagina": 15,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Árvores de decisão (AD) são classificadores muito utilizados em\nCiência de Dados. Com relação as características da AD, analise as\nafirmativas a seguir.\nI. É a representação de uma função que mapeia um vetor de\nvalores de atributos para um único valor de saída.\nII. Uma árvore de decisão chega à sua decisão realizando uma\nsequência de testes, começando por uma de suas raízes e\nseguindo o ramo apropriado até que uma folha seja alcançada.\nIII. Cada nó interno na árvore corresponde a um teste do valor de\num dos atributos de entrada, os ramos a partir do nó são\nrotulados com os possíveis valores do atributo, e os nós folha\nespecificam qual valor deve ser retornado pela função.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I e III, apenas.",
+    "B": "I e II, apenas.",
+    "C": "III, apenas.",
+    "D": "II, apenas.",
+    "E": "I, apenas."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 56,
+   "pagina": 16,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O perceptron é um dos modelos de redes neurais artificiais mais\nsimples e tradicionais. A figura a seguir ilustra o grafo arquitetural\nde um perceptron. Analise-a.\nCom relação as características do grafo, analise as afirmativas a\nseguir.\nI. A rede possui várias camadas, sendo quatro camadas ocultas\ne três camadas de saída de dados.\nII. A rede é do tipo totalmente conectada, isso significa que cada\nneurônio em qualquer camada está conectado a todos os\noutros neurônios da camada anterior.\nIII. O fluxo de sinais é unidirecional e progride na rede da\nesquerda para a direita e de camada em camada.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "III, apenas.",
+    "D": "I e II, apenas.",
+    "E": "II e III, apenas."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2026-alego-ciencia-de-dados/q56-0.png"
+   ]
+  },
+  {
+   "numero": 57,
+   "pagina": 16,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Matheus foi empossado recentemente pela ALEGO como analista\ne está se aprofundando nos estudos das redes neurais (RN). Ele\nsabe que as RN podem ter diversas formas de aprendizagem não\nsupervisionada.\nO tipo de aprendizado onde os neurônios de saída da rede\ndisputam entre si para se tornarem ativos e somente um neurônio\nde saída é ativado em determinado instante se denomina:",
+   "alternativas": {
+    "A": "Hebbiano.",
+    "B": "Boltzmann.",
+    "C": "Competitivo.",
+    "D": "Correção de Erros.",
+    "E": "Baseada em Memória."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 58,
+   "pagina": 16,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma matriz de confusão resume o desempenho da classificação\nrealizada por um classificador em relação a alguns dados de\nteste. Um caso especial da matriz de confusão é\nfrequentemente utilizado com apenas duas classes, uma\ndesignada como classe positiva e a outra classe negativa. Nesse\ncontexto, as quatro células da matriz são designadas como\nverdadeiros positivos (VP), falsos positivos (FP), verdadeiros\nnegativos (VN) e falsos negativos (FN), conforme indicado na\ntabela a seguir\nClasse atribuída\nPositivo Negativo\nClasse atual Positivo VP FN\nNegativo FP VN\nCom relação ao cálculo das medidas de desempenho, analise as\nafirmativas a seguir.\nI. A medida da especificidade (também conhecido por Taxa de\nverdadeiros negativos) pode ser alcançada através da\nfórmula: Especificidade = VN / (VN + FP).\nII. A medida da sensibilidade (também conhecido por Taxa de\nverdadeiros positivos ou Recall) pode ser alcançada através\nda fórmula: Recall = VP / (VP + FN).\nIII. O valor preditivo positivo (também conhecido como\nPrecisão) pode ser alcançada através da fórmula: Precisão =\nVN / (VN + FN)\nIV. Por fim, O valor preditivo negativo (VPN) pode ser alcançada\natravés da fórmula: VPN = VP / (VP + FP).\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "III e IV, apenas.",
+    "B": "II e IV, apenas.",
+    "C": "II e III, apenas.",
+    "D": "I e III, apenas.",
+    "E": "I e II, apenas."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2026-alego-ciencia-de-dados/q58-0.png"
+   ]
+  },
+  {
+   "numero": 59,
+   "pagina": 17,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um analista precisa calcular o tempo, em número de dias, de\nduração dos cursos que os servidores da ALEGO participaram\nrecentemente. Ele fez um programa em Python (versão 3) e\nembutiu no código dados sobre as matrículas do servidor e as\ndatas de início de conclusão de curso. Analise o código a seguir.\nimport pandas as x\ndados_ficticios = {\n'id_matricula': [1004, 1005],\n'data_inicio': ['2023-08-25', '2021-02-01'],\n'data_conclusao': ['2024-01-15', '2024-01-15']\n}\ndados = x.DataFrame(dados_ficticios)\ndados['data_inicio'] =\nx.to_datetime(dados['data_inicio'], format='%Y-%m-\n%d')\ndados['data_conclusao'] =\nx.to_datetime(dados['data_conclusao'], format='%Y-\n%m-%d')\ndados['duracao_curso'] = (dados['data_conclusao']\n- dados['data_inicio']).dt.days\nprint(dados)\nA estrutura utilizada na variável dados_ficticios para\narmazenar os dados que são tratados pelo programa é conhecido\ncomo",
+   "alternativas": {
+    "A": "dicionário.",
+    "B": "conjunto.",
+    "C": "arquivo.",
+    "D": "tensor.",
+    "E": "array."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2026-alego-ciencia-de-dados/q59-0.png"
+   ]
+  },
+  {
+   "numero": 60,
+   "pagina": 17,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A linguagem Python oferece um amplo conjunto de bibliotecas\npara visualização de dados, permitindo que os analistas da ALEGO\nusem-nas em projetos de ciência de dados e transformem dados\nem representações gráficas. Diversas bibliotecas atendem a\ndiferentes necessidades de visualização, desde gráficos estáticos\nbásicos até painéis interativos sofisticados.\nAssinale a alternativa que não corresponde a uma biblioteca para\nvisualização de dados.",
+   "alternativas": {
+    "A": "vega-altair.",
+    "B": "seaborn.",
+    "C": "pygtk.",
+    "D": "bokeh.",
+    "E": "ploty."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 61,
+   "pagina": 17,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A biblioteca Maptplotlib (versão 3.10) do Python permite que os\ncientistas de dados elaborem sofisticadas visualizações de análise\nde dados.\nSelecione a visualização gráfica do tipo Boxplot.",
+   "alternativas": {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": ""
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 62,
+   "pagina": 18,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "As plataformas de Business Intelligence (BI) possuem diversos\ntipos de elementos. Um desse elementos são os Data Warehouse\n(DW), eles são considerados um dos principais dessa plataformas.\nCom relação às propriedades dos DW, analise as afirmativas a\nseguir.\nI. Sofrem muitas operações de atualização de dados e tem alta\nnormalização de dados.\nII. São orientados por assunto e tem baixa volatidades dos dados.\nIII. Apresentam alta agregação de dados e baixa suporte a dados\nnão relacionais.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, II e III.",
+    "B": "I, apenas.",
+    "C": "II, apenas.",
+    "D": "III, apenas.",
+    "E": "II e III, apenas."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 63,
+   "pagina": 18,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O Oracle BI Enterprise Edition (OBIEE) é uma suíte de soluções de\nBusiness Intelligence desenvolvida pela Oracle. Os principais\ncomponentes do OBIEE versão 11g são respectivamente",
+   "alternativas": {
+    "A": "Oracle BI Server e Oracle Essbase.",
+    "B": "Oracle BI OLAP Server e Essbase Analytics Link.",
+    "C": "Oracle BI Analytics Server e Oracle BI Subscriber.",
+    "D": "Oracle BI OLAP Server e Oracle Reporting Server.",
+    "E": "Oracle BI Analytics Server e Oracle Scorecard and Strategy Management."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 64,
+   "pagina": 18,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Maria e Josefa precisam fazer uma apresentação sobre o Oracle BI\nEnterprise Edition versão 11g (OBIEE) para os seus os cientistas de\ndados da ALEGO. Elas sabem que o OBIEE fornece a gama de\nrecursos analíticos para inteligência de negócios. Selecione a\nalternativa que não indica um recurso oferecido pelo OBIEE.",
+   "alternativas": {
+    "A": "análises ad-hoc.",
+    "B": "painéis interativos.",
+    "C": "análises preditivas.",
+    "D": "relatórios corporativos.",
+    "E": "grafos de conhecimento."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 65,
+   "pagina": 18,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O QlikView é uma plataforma de inteligência de negócios\ntradicional, sua arquitetura possui vários componentes.\nO componente usado como serviço de distribuição para distribuir\nos documentos com extensão .qvw entre vários servidores e\nusuários da plataforma se denomina",
+   "alternativas": {
+    "A": "QlikView Server.",
+    "B": "QlikView Publisher.",
+    "C": "QlikView Desktop.",
+    "D": "QlikView Enterprise.",
+    "E": "QlikView Distributer."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 66,
+   "pagina": 18,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "As APIs REST do Power BI foram projetadas para permitir uma\nampla interação programática, elas fornecem serviços para\ninserção, administração, governança e recursos de usuário. Com\nrelação às funcionalidades dessas APIs, analise as afirmativas a\nseguir\nI. Gerenciam o conteúdo do Power BI.\nII. Executam operações de administrador.\nIII. Inserem conteúdo do Power BI.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "II e III, apenas.",
+    "B": "I e III, apenas.",
+    "C": "III, apenas.",
+    "D": "II, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 67,
+   "pagina": 18,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Oracle Data Visualization 12c (ODV) oferece uma série de\nfuncionalidades e benefício que permitem que os analistas da\nALEGO explorem dados analíticos de forma visual e\nindividualizada. Com relação aos benefícios do ODV, analise as\nafirmativas a seguir\nI. É uma aplicação do tipo single-user que pode operar offline.\nII. As análises completamente privadas, mas existem muitas\ntarefas administrativas relacionadas a sua utilização e\nsegurança.\nIII. O usuário possui controle total das conexões de fonte de dados\ne acesso direto a fontes de dados locais.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "II e III, apenas.",
+    "B": "I e III, apenas.",
+    "C": "III, apenas.",
+    "D": "II, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 68,
+   "pagina": 18,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Keras é uma API de aprendizado profundo que oferece velocidade\nde depuração, elegância com concisão do código e facilidade de\nmanutenção de implantação. Os blocos de construção básica das\nredes neurais usando Keras (versão 3.0) e Python são conhecidos\ncomo",
+   "alternativas": {
+    "A": "sets.",
+    "B": "pipes.",
+    "C": "layers.",
+    "D": "planes.",
+    "E": "frames."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 69,
+   "pagina": 19,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Processamento de linguagem natural (PLN) é uma área em\nascensão na Ciência da Computação e na inteligência artificial (IA),\nanalise as afirmativas a seguir\nI. Permite que computadores e dispositivos digitais reconheçam,\nentendam e gerem textos e áudios, pois combinam linguística\ncomputacional, modelagem estatística, aprendizado de\nmáquina e deep learning.\nII. Já faz parte da vida cotidiana de muitas pessoas em todo o\nmundo, alimentando mecanismos de busca, acionando\nchatbots para atendimento aos clientes com comandos de voz,\nsistemas GPS operados por voz e assistentes digitais de\nresposta a perguntas em smartphones.\nIII. Desempenha um papel cada vez maior em soluções\nempresariais que ajudam a otimizar e automatizar operações\nde negócios, aumentar a produtividade e simplificar processos\nempresariais.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I e III, apenas.",
+    "B": "I e II, apenas.",
+    "C": "III, apenas.",
+    "D": "II, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 70,
+   "pagina": 19,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Sebastião necessita criar aplicações Web com Python para a\nALEGO.\nO framework para desenvolver de aplicações web completas que\nincluam mapeamento objeto-relacional (ORM), roteamento de\nURLs e um sistema de templates se denomina",
+   "alternativas": {
+    "A": "HTML5.",
+    "B": "Node.JS.",
+    "C": "Django.",
+    "D": "React.",
+    "E": "Rust. Prova discursiva 1 Considere que um analista necessita criar um diagrama ER para model Um grupo empresarial precisa ser representado como uma dependênc identificar um grupo de empresas é usado um código único. Já uma e número da empresa dentro do grupo. Finalmente, uma filial é identi dentro da empresa. Considere que o grupo empresarial poderá ter ne várias filiais. Diante da descrição: 1. Elabore o diagrama ER, segundo a notação Peter Chen, que indica 2. Indique no diagrama os conjuntos de cardinalidades máximas e m 3. Explique o tipo de dependência existente entre as empresas e as 1 --------------------------------------------------------------------------------------------------------- 2 --------------------------------------------------------------------------------------------------------- 3 --------------------------------------------------------------------------------------------------------- 4 --------------------------------------------------------------------------------------------------------- 5 --------------------------------------------------------------------------------------------------------- 6 --------------------------------------------------------------------------------------------------------- 7 --------------------------------------------------------------------------------------------------------- 8 --------------------------------------------------------------------------------------------------------- 9 --------------------------------------------------------------------------------------------------------- 10 --------------------------------------------------------------------------------------------------------- 11 --------------------------------------------------------------------------------------------------------- 12 --------------------------------------------------------------------------------------------------------- 13 --------------------------------------------------------------------------------------------------------- 14 --------------------------------------------------------------------------------------------------------- 15 --------------------------------------------------------------------------------------------------------- 16 --------------------------------------------------------------------------------------------------------- 17 --------------------------------------------------------------------------------------------------------- 18 --------------------------------------------------------------------------------------------------------- 19 --------------------------------------------------------------------------------------------------------- 20 --------------------------------------------------------------------------------------------------------- 21 --------------------------------------------------------------------------------------------------------- 22 --------------------------------------------------------------------------------------------------------- 23 --------------------------------------------------------------------------------------------------------- 24 --------------------------------------------------------------------------------------------------------- 25 --------------------------------------------------------------------------------------------------------- 26 --------------------------------------------------------------------------------------------------------- 27 --------------------------------------------------------------------------------------------------------- 28 lar a seguinte situação. cia entre suas empresas que podem ter várias filiais. Sabe-se que para empresa é identificada pelo grupo ao qual está relacionada e por um ificada pela empresa à qual está vinculada e por um número de filial enhuma ou várias empresas e cada empresa poderá ter nenhuma ou a essa situação. mínimas para cada dependência modelada. s filiais. -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------- 29 --------------------------------------------------------------------------------------------------------- 30 --------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- 2 K-Means é um dos métodos de agrupamento mais populares da atua aprendizado não supervisionado. Sabe-se que o objetivo do K-Means é predefinido e realizar o agrupamento. Descreva o algoritmo de agrupamento do K-Means, considere que el que é o conjunto de dados com N pontos. 1 --------------------------------------------------------------------------------------------------------- 2 --------------------------------------------------------------------------------------------------------- 3 --------------------------------------------------------------------------------------------------------- 4 --------------------------------------------------------------------------------------------------------- 5 --------------------------------------------------------------------------------------------------------- 6 --------------------------------------------------------------------------------------------------------- 7 --------------------------------------------------------------------------------------------------------- 8 --------------------------------------------------------------------------------------------------------- 9 --------------------------------------------------------------------------------------------------------- 10 --------------------------------------------------------------------------------------------------------- 11 --------------------------------------------------------------------------------------------------------- 12 --------------------------------------------------------------------------------------------------------- 13 --------------------------------------------------------------------------------------------------------- 14 --------------------------------------------------------------------------------------------------------- 15 --------------------------------------------------------------------------------------------------------- 16 --------------------------------------------------------------------------------------------------------- 17 --------------------------------------------------------------------------------------------------------- 18 --------------------------------------------------------------------------------------------------------- 19 --------------------------------------------------------------------------------------------------------- 20 --------------------------------------------------------------------------------------------------------- 21 --------------------------------------------------------------------------------------------------------- 22 --------------------------------------------------------------------------------------------------------- 23 --------------------------------------------------------------------------------------------------------- 24 --------------------------------------------------------------------------------------------------------- 25 --------------------------------------------------------------------------------------------------------- 26 --------------------------------------------------------------------------------------------------------- 27 --------------------------------------------------------------------------------------------------------- 28 --------------------------------------------------------------------------------------------------------- 29 --------------------------------------------------------------------------------------------------------- 30 --------------------------------------------------------------------------------------------------------- alidade sendo amplamente utilizado em problemas que demandam o é particionar um conjunto de dados em K grupos, onde K é um número le requer como entrada o valor de K (número de agrupamentos) e D -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- Realiz zação"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  }
+ ]
+}

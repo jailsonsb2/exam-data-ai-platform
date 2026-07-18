@@ -1,0 +1,1379 @@
+{
+ "prova": "fgv-2024-dataprev-inteligencia",
+ "banca": "FGV",
+ "ano": 2024,
+ "orgao": "Dataprev",
+ "cargo": "Analista de TI - Inteligência da Informação",
+ "tipo": "TIPO 1",
+ "pdf": "fgv-2024-dataprev-ati-inteligencia-da-informacao-prova.pdf",
+ "questoes": [
+  {
+   "numero": 1,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "É preciso estar atento e forte.\nSobre a estrutura sintática da frase em destaque, assinale a opção\nincorreta.",
+   "alternativas": {
+    "A": "Existe uma oração subordinada que exerce função de sujeito em relação à oração principal.",
+    "B": "Nota-se uma oração subordinada substantiva, em que a segunda oração exerce função própria de um substantivo em relação à oração principal.",
+    "C": "Observa-se uma oração subordinada reduzida de infinitivo.",
+    "D": "Verifica-se a possibilidade de desenvolver a segunda oração em “que se esteja atento e forte”.",
+    "E": "Há uma oração subordinada que delimita a informação presente na oração principal."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 2,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Assinale a opção em que o elemento destacado não funciona\ncomo adjunto adnominal.",
+   "alternativas": {
+    "A": "Não admira que, fora de si, e andando rápido, desse um encontrão em certo homem que ia devagar.",
+    "B": "Catete adiante, lembrou-se que a casa de Sofia era na Praia do Flamengo.",
+    "C": "Após alguns instantes rápidos, abanou a cabeça voluntariamente.",
+    "D": "Este apertou-lhe a mão satisfeitíssimo; ia ver-se livre de um sócio.",
+    "E": "Mas diga-me uma coisa, essa proposta traz algum motivo oculto?"
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 3,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Leia o fragmento a seguir, de Fernando Pessoa:\nO poeta é um fingidor\nFinge tão completamente\nQue chega a fingir que é dor\nA dor que deveras sente.\nAssinale a opção correta sobre a interpretação dos versos em\ndestaque.",
+   "alternativas": {
+    "A": "Existe uma visão negativa do fazer poético, já que o poeta é descrito como “fingidor”.",
+    "B": "O jogo de palavras em fingidor - fingir dor - contribui para caracterizar o poeta como sujeito insubmisso ao sentimento.",
+    "C": "O fingimento é matéria de poesia, é a ferramenta da criação literária.",
+    "D": "O exercício de fazer poesia torna o poeta imune à dor.",
+    "E": "Há uma perspectiva irônica que se sustenta, sobretudo, em fingir a dor que, de fato, sente-se."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 4,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A felicidade é tão oposta à vida, que estando nela, a gente esquece\nque vive.\nAssinale a opção correta sobre o sentido da frase em destaque.",
+   "alternativas": {
+    "A": "É impossível ser feliz e viver.",
+    "B": "Viver pressupõe felicidade.",
+    "C": "Há uma relação paradoxal entre felicidade e vida.",
+    "D": "É preciso esquecer da felicidade para obtê-la.",
+    "E": "Descreve-se o caráter efêmero da felicidade."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 5,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Assinale a opção que apresenta corretamente a regência dos\nverbos.",
+   "alternativas": {
+    "A": "Não faz sentido obedecer a leis absurdas.",
+    "B": "Admito que me simpatizei muito com a nova professora de Literatura.",
+    "C": "Nossos vizinhos se mudaram e residem agora à rua das Laranjeiras.",
+    "D": "Possuía uma dívida com o açougueiro, paguei-o assim que pude.",
+    "E": "Vovó sempre lembra do aniversário de todos os seus netos."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 6,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Assinale a opção que relaciona de modo incorreto o adjetivo à\nlocução adjetiva destacada.",
+   "alternativas": {
+    "A": "Pessoas que não se contentavam com o que tinham - descontentes.",
+    "B": "Uma ferida que não se apagava - indelével.",
+    "C": "Havia algo em sua imagem que não se podia distinguir - indistinguível.",
+    "D": "Tinha a característica de alguém que não se irrita com facilidade – irascível.",
+    "E": "Água e álcool são elementos que não se misturam - imiscíveis."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 7,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Assinale a opção em que a vírgula se justifica pelo mesmo motivo\ndo que em “se as duas tribos dividirem em paz as batatas do\ncampo, não chegam a nutrir-se suficientemente e morrem de\ninanição”.",
+   "alternativas": {
+    "A": "Acrescia que, em verdade, o doente parecia estar melhorando.",
+    "B": "Verdade é, disse ainda Rubião para defender o enfermo, verdade é que o cachorro merece a estima do dono.",
+    "C": "Quando este acudiu, já ele mudara outra vez de ideia.",
+    "D": "Espreitara uma deixa, e sai-lhe do testamento a massa toda dos bens.",
+    "E": "No dia seguinte, Maria Benedita declarou à prima que estava pronta a aprender piano e francês."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 8,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O uso excessivo de telas faz mal à saúde da mente e do corpo e os\nefeitos podem ser ainda mais danosos nas duas primeiras décadas\nde vida:\n- Como tudo, o problema está no excesso e na falta de controle\nadequado, afirma o psicólogo Thiago Viola, do Instituto do Cérebro\ndo Rio Grande do Sul.\nbbc.com (adaptado)\nSobre o uso do discurso direto, é incorreto afirmar que este\nprocedimento",
+   "alternativas": {
+    "A": "cria o efeito de realidade, já que a fala busca reproduzir o momento da enunciação.",
+    "B": "atribui o sentido de verdade, tendo em vista que prevalece o teor de preservação do discurso citado.",
+    "C": "delimita a fronteira entre o discurso do narrador e o discurso citado por meio de aspas, travessão e verbos de elocução.",
+    "D": "demarca a soberania do narrador, pois ele interpreta a fala citada, absorvida no fio de seu discurso.",
+    "E": "precisa transpor as palavras do discurso citado, tal qual foram enunciadas originalmente."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 9,
+   "pagina": 4,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Assinale a opção que indica corretamente a noção semântica\nexpressa pelo elemento destacado em: “A moça recostara-se em\numa cadeira de balanço no claro de uma janela, de modo que seu\ngracioso vulto imergia-se na plena luz”.",
+   "alternativas": {
+    "A": "Consequência.",
+    "B": "Causa.",
+    "C": "Finalidade.",
+    "D": "Tempo.",
+    "E": "Proporcionalidade."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 10,
+   "pagina": 4,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Assinale a opção em que o verbo destacado indica estado.",
+   "alternativas": {
+    "A": "Ele virou-lhe as costas e tornou lentamente por onde viera.",
+    "B": "Piedade ficou à janela.",
+    "C": "Os curiosos permaneciam defronte de sua porta.",
+    "D": "Coitada! Devia viver bem aborrecida da sorte.",
+    "E": "Fazes mal em andar por aí com este sol."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 11,
+   "pagina": 4,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Assinale a opção correta em relação à concordância nominal.",
+   "alternativas": {
+    "A": "A candidata parece meia confusa.",
+    "B": "É proibido a entrada de visitantes nessa área.",
+    "C": "A diretora achou um e outro funcionário cumpridor.",
+    "D": "A entrada para o teatro, atualmente, está muito caro.",
+    "E": "As certidões estão anexas ao processo."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 12,
+   "pagina": 4,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Quando oiei a terra ardendo\nQual fogueira de São João\nEu preguntei a Deus do céu, uai\nPor que tamanha judiação?\nNos versos de Luiz Gonzaga, o eu poético narra, em primeira\npessoa, suas impressões sobre um determinado assunto.\nPara isso, ele utiliza construções linguísticas próprias, constatadas\npelo uso",
+   "alternativas": {
+    "A": "de uma norma linguística regional, a fim de caracterizar a cultura e o modo de vida do interior.",
+    "B": "do termo comparativo “qual”, que estabelece uma analogia entre terra e fogueira.",
+    "C": "de modalidade oral, que apresenta poucos recursos comunicativos, se comparada à modalidade escrita.",
+    "D": "do substantivo judiação, que reitera a tristeza do poeta nos trechos em destaque.",
+    "E": "de uma norma linguística desprestigiada, que serve para apontar a desigualdade social."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 13,
+   "pagina": 5,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": "Technology Consultant Fast Track: How to Get Your Dream Job in IT Consulting (IT Consulting Career Guide). (English Edition) eBook Kindle only. Jumpstart your IT job search and land your dream job while your peers are still \"freshening up\" their resumes! Proven techniques to land your dream job as a high-paid IT consultant—you don’t want to miss these, if you are serious about a career in IT! Answers to IT consulting career questions most people fail to ask; actionable advice and real-life stories from seasoned IT consultants! As a fresh graduate looking for your first job, if you just do what almost everybody else is doing…you will land a hellhole job with lousy pay, long hours, nasty coworkers, and exclusively clients from hell (because you thought it was your only option to go forward in your career). If you are serious and can apply simple instructions, this book can help you become a high-paid IT consultant in your dream job by the end of the month! If you already have your first or second job in the field of IT, or even have 20 years of work experience, this book will tell you what a great option a career in IT consulting can be. With this book, you can find out why your current job is not satisfying your career aspirations and turn your career around for the better! Containing lessons from a PhD with 12 years of experience and 15,000 billable hours from Accenture and Coala, this is the book movers and shakers in the IT industry are talking about. Recommended by university professors, last-year students, as well as seasoned consultants. Even my mom says you have to read this book, or you have to answer to her! By reading this book, you will learn: What your college professor didn't tell you about the consulting business. The Pro’s and Con’s of a career in technology consulting. What other options do you have besides working for one of the global consulting giants such as Accenture, Capgemini, Deloitte, Ernst & Young (EY), KPMG, or PricewaterhouseCoopers (PwC). The must-have characteristics to succeed in IT consulting (if you don't have these, you are doomed to FAIL!). How to find your money-making niche in IT consulting. How to get the best results with the least possible effort in your job search. Best ways to prepare for the job interview in 30 minutes or less. What questions to ask in the interview to avoid nasty surprises when you are selected. Hear what others are saying: ★★★★★ “The book gives a strong and realistic description of IT consultancy. Thus, every IT student should read the book before they graduate as it will increase their probability of landing a dream job.” Samuli Pekkola, Professor, PhD, in Information Systems Sciences, Tampere University ★★★★★ “The book gives insight into technology consulting and provides great tips for job search. I believe it will be very valuable when I start looking for a position in IT. The section on how to stand out as a candidate for a job was an eyeopener.” Saku Sikiö, Information Systems Student, University of Jyväskylä ★★★★★ “This is the book I would have needed on the verge of graduation!” Teijo Kelander, MSc, Quality Consultant and Agile Coach ★★★★★ “If you are serious about IT consultancy as a profession, this book is a must-read! As a recruiter, I would prefer that applicants would better understand what this is all about.” Petteri Laamanen, MSc, CEO & Founder, Coala ★★★★★ “This book gave me valuable insights into the IT consultant’s working life, making it easier to consider the pros and cons in relation to my own values and goals.” Janita Kingelin, MSc, Marketing Manager, SoulCore ★ If you want great results in your technology consultant job search, get this book right now! https://www.amazon.com.br/Technology-Consultant-Fast-Track-Consulting- ebook/dp/B0918JB48D",
+   "enunciado": "Consider the following affirmatives:\n1. The TEXT can just be found online.\n2. The tips on this text are only for fresh graduates.\n3. It is a printed book.\n4. Professors, last-year students and consultants who are skilled\nat guiding business recommend the book.\nAccording to the TEXT,",
+   "alternativas": {
+    "A": "only 2 and 4 are false.",
+    "B": "only 1 and 4 are true.",
+    "C": "only 1, 3 and 4 are true.",
+    "D": "only 1, 2 and 4 are false.",
+    "E": "only 3 and 4 are true."
+   },
+   "gabarito": null,
+   "anulada": true,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 14,
+   "pagina": 5,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": "Technology Consultant Fast Track: How to Get Your Dream Job in IT Consulting (IT Consulting Career Guide). (English Edition) eBook Kindle only. Jumpstart your IT job search and land your dream job while your peers are still \"freshening up\" their resumes! Proven techniques to land your dream job as a high-paid IT consultant—you don’t want to miss these, if you are serious about a career in IT! Answers to IT consulting career questions most people fail to ask; actionable advice and real-life stories from seasoned IT consultants! As a fresh graduate looking for your first job, if you just do what almost everybody else is doing…you will land a hellhole job with lousy pay, long hours, nasty coworkers, and exclusively clients from hell (because you thought it was your only option to go forward in your career). If you are serious and can apply simple instructions, this book can help you become a high-paid IT consultant in your dream job by the end of the month! If you already have your first or second job in the field of IT, or even have 20 years of work experience, this book will tell you what a great option a career in IT consulting can be. With this book, you can find out why your current job is not satisfying your career aspirations and turn your career around for the better! Containing lessons from a PhD with 12 years of experience and 15,000 billable hours from Accenture and Coala, this is the book movers and shakers in the IT industry are talking about. Recommended by university professors, last-year students, as well as seasoned consultants. Even my mom says you have to read this book, or you have to answer to her! By reading this book, you will learn: What your college professor didn't tell you about the consulting business. The Pro’s and Con’s of a career in technology consulting. What other options do you have besides working for one of the global consulting giants such as Accenture, Capgemini, Deloitte, Ernst & Young (EY), KPMG, or PricewaterhouseCoopers (PwC). The must-have characteristics to succeed in IT consulting (if you don't have these, you are doomed to FAIL!). How to find your money-making niche in IT consulting. How to get the best results with the least possible effort in your job search. Best ways to prepare for the job interview in 30 minutes or less. What questions to ask in the interview to avoid nasty surprises when you are selected. Hear what others are saying: ★★★★★ “The book gives a strong and realistic description of IT consultancy. Thus, every IT student should read the book before they graduate as it will increase their probability of landing a dream job.” Samuli Pekkola, Professor, PhD, in Information Systems Sciences, Tampere University ★★★★★ “The book gives insight into technology consulting and provides great tips for job search. I believe it will be very valuable when I start looking for a position in IT. The section on how to stand out as a candidate for a job was an eyeopener.” Saku Sikiö, Information Systems Student, University of Jyväskylä ★★★★★ “This is the book I would have needed on the verge of graduation!” Teijo Kelander, MSc, Quality Consultant and Agile Coach ★★★★★ “If you are serious about IT consultancy as a profession, this book is a must-read! As a recruiter, I would prefer that applicants would better understand what this is all about.” Petteri Laamanen, MSc, CEO & Founder, Coala ★★★★★ “This book gave me valuable insights into the IT consultant’s working life, making it easier to consider the pros and cons in relation to my own values and goals.” Janita Kingelin, MSc, Marketing Manager, SoulCore ★ If you want great results in your technology consultant job search, get this book right now! https://www.amazon.com.br/Technology-Consultant-Fast-Track-Consulting- ebook/dp/B0918JB48D",
+   "enunciado": "What information is in TEXT?",
+   "alternativas": {
+    "A": "Tips on an in-person appraisal to be a successful IT consultant.",
+    "B": "A review on a guide to foster the possibility of being successful in finding your Dream Job in IT Consulting, despite your experience.",
+    "C": "Challenge only beginners to read a guide well written and recommended by professors in the IT scenario.",
+    "D": "The reasons one should buy the guide to be a successful IT consultant abroad.",
+    "E": "It is a well explained guide to enhance people’s desire to find a dream internship despite their social status."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 15,
+   "pagina": 5,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": "Technology Consultant Fast Track: How to Get Your Dream Job in IT Consulting (IT Consulting Career Guide). (English Edition) eBook Kindle only. Jumpstart your IT job search and land your dream job while your peers are still \"freshening up\" their resumes! Proven techniques to land your dream job as a high-paid IT consultant—you don’t want to miss these, if you are serious about a career in IT! Answers to IT consulting career questions most people fail to ask; actionable advice and real-life stories from seasoned IT consultants! As a fresh graduate looking for your first job, if you just do what almost everybody else is doing…you will land a hellhole job with lousy pay, long hours, nasty coworkers, and exclusively clients from hell (because you thought it was your only option to go forward in your career). If you are serious and can apply simple instructions, this book can help you become a high-paid IT consultant in your dream job by the end of the month! If you already have your first or second job in the field of IT, or even have 20 years of work experience, this book will tell you what a great option a career in IT consulting can be. With this book, you can find out why your current job is not satisfying your career aspirations and turn your career around for the better! Containing lessons from a PhD with 12 years of experience and 15,000 billable hours from Accenture and Coala, this is the book movers and shakers in the IT industry are talking about. Recommended by university professors, last-year students, as well as seasoned consultants. Even my mom says you have to read this book, or you have to answer to her! By reading this book, you will learn: What your college professor didn't tell you about the consulting business. The Pro’s and Con’s of a career in technology consulting. What other options do you have besides working for one of the global consulting giants such as Accenture, Capgemini, Deloitte, Ernst & Young (EY), KPMG, or PricewaterhouseCoopers (PwC). The must-have characteristics to succeed in IT consulting (if you don't have these, you are doomed to FAIL!). How to find your money-making niche in IT consulting. How to get the best results with the least possible effort in your job search. Best ways to prepare for the job interview in 30 minutes or less. What questions to ask in the interview to avoid nasty surprises when you are selected. Hear what others are saying: ★★★★★ “The book gives a strong and realistic description of IT consultancy. Thus, every IT student should read the book before they graduate as it will increase their probability of landing a dream job.” Samuli Pekkola, Professor, PhD, in Information Systems Sciences, Tampere University ★★★★★ “The book gives insight into technology consulting and provides great tips for job search. I believe it will be very valuable when I start looking for a position in IT. The section on how to stand out as a candidate for a job was an eyeopener.” Saku Sikiö, Information Systems Student, University of Jyväskylä ★★★★★ “This is the book I would have needed on the verge of graduation!” Teijo Kelander, MSc, Quality Consultant and Agile Coach ★★★★★ “If you are serious about IT consultancy as a profession, this book is a must-read! As a recruiter, I would prefer that applicants would better understand what this is all about.” Petteri Laamanen, MSc, CEO & Founder, Coala ★★★★★ “This book gave me valuable insights into the IT consultant’s working life, making it easier to consider the pros and cons in relation to my own values and goals.” Janita Kingelin, MSc, Marketing Manager, SoulCore ★ If you want great results in your technology consultant job search, get this book right now! https://www.amazon.com.br/Technology-Consultant-Fast-Track-Consulting- ebook/dp/B0918JB48D",
+   "enunciado": "In the excerpt in TEXT “Recommended by university professors,\nlast-year students, as well as seasoned consultants. Even my mom\nsays you have to read this book, or you have to answer to her!”\nThe pronoun her refers to",
+   "alternativas": {
+    "A": "consultants.",
+    "B": "book.",
+    "C": "students.",
+    "D": "professors.",
+    "E": "mom."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 16,
+   "pagina": 5,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": "Technology Consultant Fast Track: How to Get Your Dream Job in IT Consulting (IT Consulting Career Guide). (English Edition) eBook Kindle only. Jumpstart your IT job search and land your dream job while your peers are still \"freshening up\" their resumes! Proven techniques to land your dream job as a high-paid IT consultant—you don’t want to miss these, if you are serious about a career in IT! Answers to IT consulting career questions most people fail to ask; actionable advice and real-life stories from seasoned IT consultants! As a fresh graduate looking for your first job, if you just do what almost everybody else is doing…you will land a hellhole job with lousy pay, long hours, nasty coworkers, and exclusively clients from hell (because you thought it was your only option to go forward in your career). If you are serious and can apply simple instructions, this book can help you become a high-paid IT consultant in your dream job by the end of the month! If you already have your first or second job in the field of IT, or even have 20 years of work experience, this book will tell you what a great option a career in IT consulting can be. With this book, you can find out why your current job is not satisfying your career aspirations and turn your career around for the better! Containing lessons from a PhD with 12 years of experience and 15,000 billable hours from Accenture and Coala, this is the book movers and shakers in the IT industry are talking about. Recommended by university professors, last-year students, as well as seasoned consultants. Even my mom says you have to read this book, or you have to answer to her! By reading this book, you will learn: What your college professor didn't tell you about the consulting business. The Pro’s and Con’s of a career in technology consulting. What other options do you have besides working for one of the global consulting giants such as Accenture, Capgemini, Deloitte, Ernst & Young (EY), KPMG, or PricewaterhouseCoopers (PwC). The must-have characteristics to succeed in IT consulting (if you don't have these, you are doomed to FAIL!). How to find your money-making niche in IT consulting. How to get the best results with the least possible effort in your job search. Best ways to prepare for the job interview in 30 minutes or less. What questions to ask in the interview to avoid nasty surprises when you are selected. Hear what others are saying: ★★★★★ “The book gives a strong and realistic description of IT consultancy. Thus, every IT student should read the book before they graduate as it will increase their probability of landing a dream job.” Samuli Pekkola, Professor, PhD, in Information Systems Sciences, Tampere University ★★★★★ “The book gives insight into technology consulting and provides great tips for job search. I believe it will be very valuable when I start looking for a position in IT. The section on how to stand out as a candidate for a job was an eyeopener.” Saku Sikiö, Information Systems Student, University of Jyväskylä ★★★★★ “This is the book I would have needed on the verge of graduation!” Teijo Kelander, MSc, Quality Consultant and Agile Coach ★★★★★ “If you are serious about IT consultancy as a profession, this book is a must-read! As a recruiter, I would prefer that applicants would better understand what this is all about.” Petteri Laamanen, MSc, CEO & Founder, Coala ★★★★★ “This book gave me valuable insights into the IT consultant’s working life, making it easier to consider the pros and cons in relation to my own values and goals.” Janita Kingelin, MSc, Marketing Manager, SoulCore ★ If you want great results in your technology consultant job search, get this book right now! https://www.amazon.com.br/Technology-Consultant-Fast-Track-Consulting- ebook/dp/B0918JB48D",
+   "enunciado": "In the sentence taken from TEXT “The book gives a strong and\nrealistic description of IT consultancy. Thus, every IT student\nshould read the book before they graduate as it will increase their\nprobability of landing a dream job.”\nThe underlined linker introduces",
+   "alternativas": {
+    "A": "a condition.",
+    "B": "an example.",
+    "C": "an effect.",
+    "D": "an order.",
+    "E": "a reason."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 17,
+   "pagina": 5,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": "Technology Consultant Fast Track: How to Get Your Dream Job in IT Consulting (IT Consulting Career Guide). (English Edition) eBook Kindle only. Jumpstart your IT job search and land your dream job while your peers are still \"freshening up\" their resumes! Proven techniques to land your dream job as a high-paid IT consultant—you don’t want to miss these, if you are serious about a career in IT! Answers to IT consulting career questions most people fail to ask; actionable advice and real-life stories from seasoned IT consultants! As a fresh graduate looking for your first job, if you just do what almost everybody else is doing…you will land a hellhole job with lousy pay, long hours, nasty coworkers, and exclusively clients from hell (because you thought it was your only option to go forward in your career). If you are serious and can apply simple instructions, this book can help you become a high-paid IT consultant in your dream job by the end of the month! If you already have your first or second job in the field of IT, or even have 20 years of work experience, this book will tell you what a great option a career in IT consulting can be. With this book, you can find out why your current job is not satisfying your career aspirations and turn your career around for the better! Containing lessons from a PhD with 12 years of experience and 15,000 billable hours from Accenture and Coala, this is the book movers and shakers in the IT industry are talking about. Recommended by university professors, last-year students, as well as seasoned consultants. Even my mom says you have to read this book, or you have to answer to her! By reading this book, you will learn: What your college professor didn't tell you about the consulting business. The Pro’s and Con’s of a career in technology consulting. What other options do you have besides working for one of the global consulting giants such as Accenture, Capgemini, Deloitte, Ernst & Young (EY), KPMG, or PricewaterhouseCoopers (PwC). The must-have characteristics to succeed in IT consulting (if you don't have these, you are doomed to FAIL!). How to find your money-making niche in IT consulting. How to get the best results with the least possible effort in your job search. Best ways to prepare for the job interview in 30 minutes or less. What questions to ask in the interview to avoid nasty surprises when you are selected. Hear what others are saying: ★★★★★ “The book gives a strong and realistic description of IT consultancy. Thus, every IT student should read the book before they graduate as it will increase their probability of landing a dream job.” Samuli Pekkola, Professor, PhD, in Information Systems Sciences, Tampere University ★★★★★ “The book gives insight into technology consulting and provides great tips for job search. I believe it will be very valuable when I start looking for a position in IT. The section on how to stand out as a candidate for a job was an eyeopener.” Saku Sikiö, Information Systems Student, University of Jyväskylä ★★★★★ “This is the book I would have needed on the verge of graduation!” Teijo Kelander, MSc, Quality Consultant and Agile Coach ★★★★★ “If you are serious about IT consultancy as a profession, this book is a must-read! As a recruiter, I would prefer that applicants would better understand what this is all about.” Petteri Laamanen, MSc, CEO & Founder, Coala ★★★★★ “This book gave me valuable insights into the IT consultant’s working life, making it easier to consider the pros and cons in relation to my own values and goals.” Janita Kingelin, MSc, Marketing Manager, SoulCore ★ If you want great results in your technology consultant job search, get this book right now! https://www.amazon.com.br/Technology-Consultant-Fast-Track-Consulting- ebook/dp/B0918JB48D",
+   "enunciado": "“With this book, you can find out why your current job is not\nsatisfying your career aspirations and turn your career around for\nthe better!”\nThe discourse marker and used in TEXT is similar in meaning to",
+   "alternativas": {
+    "A": "hence.",
+    "B": "whereas.",
+    "C": "unless.",
+    "D": "moreover.",
+    "E": "meanwhile."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 18,
+   "pagina": 5,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": "Technology Consultant Fast Track: How to Get Your Dream Job in IT Consulting (IT Consulting Career Guide). (English Edition) eBook Kindle only. Jumpstart your IT job search and land your dream job while your peers are still \"freshening up\" their resumes! Proven techniques to land your dream job as a high-paid IT consultant—you don’t want to miss these, if you are serious about a career in IT! Answers to IT consulting career questions most people fail to ask; actionable advice and real-life stories from seasoned IT consultants! As a fresh graduate looking for your first job, if you just do what almost everybody else is doing…you will land a hellhole job with lousy pay, long hours, nasty coworkers, and exclusively clients from hell (because you thought it was your only option to go forward in your career). If you are serious and can apply simple instructions, this book can help you become a high-paid IT consultant in your dream job by the end of the month! If you already have your first or second job in the field of IT, or even have 20 years of work experience, this book will tell you what a great option a career in IT consulting can be. With this book, you can find out why your current job is not satisfying your career aspirations and turn your career around for the better! Containing lessons from a PhD with 12 years of experience and 15,000 billable hours from Accenture and Coala, this is the book movers and shakers in the IT industry are talking about. Recommended by university professors, last-year students, as well as seasoned consultants. Even my mom says you have to read this book, or you have to answer to her! By reading this book, you will learn: What your college professor didn't tell you about the consulting business. The Pro’s and Con’s of a career in technology consulting. What other options do you have besides working for one of the global consulting giants such as Accenture, Capgemini, Deloitte, Ernst & Young (EY), KPMG, or PricewaterhouseCoopers (PwC). The must-have characteristics to succeed in IT consulting (if you don't have these, you are doomed to FAIL!). How to find your money-making niche in IT consulting. How to get the best results with the least possible effort in your job search. Best ways to prepare for the job interview in 30 minutes or less. What questions to ask in the interview to avoid nasty surprises when you are selected. Hear what others are saying: ★★★★★ “The book gives a strong and realistic description of IT consultancy. Thus, every IT student should read the book before they graduate as it will increase their probability of landing a dream job.” Samuli Pekkola, Professor, PhD, in Information Systems Sciences, Tampere University ★★★★★ “The book gives insight into technology consulting and provides great tips for job search. I believe it will be very valuable when I start looking for a position in IT. The section on how to stand out as a candidate for a job was an eyeopener.” Saku Sikiö, Information Systems Student, University of Jyväskylä ★★★★★ “This is the book I would have needed on the verge of graduation!” Teijo Kelander, MSc, Quality Consultant and Agile Coach ★★★★★ “If you are serious about IT consultancy as a profession, this book is a must-read! As a recruiter, I would prefer that applicants would better understand what this is all about.” Petteri Laamanen, MSc, CEO & Founder, Coala ★★★★★ “This book gave me valuable insights into the IT consultant’s working life, making it easier to consider the pros and cons in relation to my own values and goals.” Janita Kingelin, MSc, Marketing Manager, SoulCore ★ If you want great results in your technology consultant job search, get this book right now! https://www.amazon.com.br/Technology-Consultant-Fast-Track-Consulting- ebook/dp/B0918JB48D",
+   "enunciado": "By the end of TEXT six people assessed the guide. One of them said\nthat he should have had the opportunity to study on the guide on\nthe brick of graduating.\nChoose the person who said that.",
+   "alternativas": {
+    "A": "Saku Sikiö",
+    "B": "Petteri Laamanen",
+    "C": "Samuli Pekkola",
+    "D": "Janita Kingelin",
+    "E": "Teijo Kelander"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 19,
+   "pagina": 5,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": "It's not often we write about printers here on the Giz, but Brother's new MPrint MW-260 gets honorable mention for being the world's thinnest printer. It can print up to 20 pages per minute from any PC, Pocket PC, or Windows Mobile handheld. Best of all, it also prints over Bluetooth (in addition to your standard USB). No word on pricing or availability, but this is a 1-pound printer we wouldn't mind adding to our travel bag. It’s worth buying! Louis Ramirez http://www.gizmodo.com/",
+   "enunciado": "The pronoun “it” in “It can print up to 20 pages per minute from\nany PC, Pocket PC, or Windows Mobile handheld”, taken from\nTEXT, refers to",
+   "alternativas": {
+    "A": "Computer.",
+    "B": "Pocket PC.",
+    "C": "Window Mobile handheld.",
+    "D": "MPrint MW-260.",
+    "E": "Bluetooth."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 20,
+   "pagina": 5,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": "It's not often we write about printers here on the Giz, but Brother's new MPrint MW-260 gets honorable mention for being the world's thinnest printer. It can print up to 20 pages per minute from any PC, Pocket PC, or Windows Mobile handheld. Best of all, it also prints over Bluetooth (in addition to your standard USB). No word on pricing or availability, but this is a 1-pound printer we wouldn't mind adding to our travel bag. It’s worth buying! Louis Ramirez http://www.gizmodo.com/",
+   "enunciado": "In the sentence “No word on pricing or availability, but this is a 1-\npound printer we wouldn't mind adding to our travel bag”.\nThe expression “... a 1-pound printer” taken from TEXT is referring\nto",
+   "alternativas": {
+    "A": "The weight of the printer.",
+    "B": "The price of the printer.",
+    "C": "The printer serial number.",
+    "D": "The printer stock availability.",
+    "E": "The printer sale."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 21,
+   "pagina": 6,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": "Research-Article How to be a successful app developer: lessons from the simulation of an app ecosystem Soo Ling Lim, Peter J. Bentley Abstract App developers are constantly competing against each other to win more downloads for their apps. With hundreds of thousands of apps in these online stores, what strategy should a developer use to be successful? Should they innovate, make many similar apps, optimize their own apps or just copy the apps of others? Looking more deeply, how does a complex app ecosystem perform when developers choose to use different strategies? This paper investigates these questions using AppEco, the first Artificial Life model of mobile application ecosystems. In AppEco, developer agents build and upload apps to the app store; user agents browse the store and download the apps. A distinguishing feature of AppEco is the explicit modelling of apps as artefacts. In this work we use AppEco to simulate Apple's iOS app ecosystem and investigate common developer strategies, evaluating them in terms of downloads received, app diversity, and adoption rate. https://dl.acm.org/doi/10.1145/2384697.2384698",
+   "enunciado": "According to TEXT it can be said that",
+   "alternativas": {
+    "A": "This essay is concerned not only about apps but also about successful web developers.",
+    "B": "The Text is an academic piece of writing.",
+    "C": "Artificial Intelligence has created app store.",
+    "D": "App developers are addicted to AppEco.",
+    "E": "AppEco is a website known around the world by foreigners."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 22,
+   "pagina": 6,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": "Research-Article How to be a successful app developer: lessons from the simulation of an app ecosystem Soo Ling Lim, Peter J. Bentley Abstract App developers are constantly competing against each other to win more downloads for their apps. With hundreds of thousands of apps in these online stores, what strategy should a developer use to be successful? Should they innovate, make many similar apps, optimize their own apps or just copy the apps of others? Looking more deeply, how does a complex app ecosystem perform when developers choose to use different strategies? This paper investigates these questions using AppEco, the first Artificial Life model of mobile application ecosystems. In AppEco, developer agents build and upload apps to the app store; user agents browse the store and download the apps. A distinguishing feature of AppEco is the explicit modelling of apps as artefacts. In this work we use AppEco to simulate Apple's iOS app ecosystem and investigate common developer strategies, evaluating them in terms of downloads received, app diversity, and adoption rate. https://dl.acm.org/doi/10.1145/2384697.2384698",
+   "enunciado": "In the excerpt “In this work we use AppEco to simulate Apple's iOS\napp ecosystem and investigate common developer strategies,\nevaluating them in terms of downloads received, app diversity,\nand adoption rate.\nChoose the correct option according to TEXT.",
+   "alternativas": {
+    "A": "The word rate means a measure and it’s a discourse marker.",
+    "B": "The word rate means to quantify and it’s an adjective.",
+    "C": "The word rate means to quantify and it’s a subject.",
+    "D": "The word rate means to charge and it’s a verb.",
+    "E": "The word rate means a measure and it’s a noun."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 23,
+   "pagina": 6,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": "Research-Article How to be a successful app developer: lessons from the simulation of an app ecosystem Soo Ling Lim, Peter J. Bentley Abstract App developers are constantly competing against each other to win more downloads for their apps. With hundreds of thousands of apps in these online stores, what strategy should a developer use to be successful? Should they innovate, make many similar apps, optimize their own apps or just copy the apps of others? Looking more deeply, how does a complex app ecosystem perform when developers choose to use different strategies? This paper investigates these questions using AppEco, the first Artificial Life model of mobile application ecosystems. In AppEco, developer agents build and upload apps to the app store; user agents browse the store and download the apps. A distinguishing feature of AppEco is the explicit modelling of apps as artefacts. In this work we use AppEco to simulate Apple's iOS app ecosystem and investigate common developer strategies, evaluating them in terms of downloads received, app diversity, and adoption rate. https://dl.acm.org/doi/10.1145/2384697.2384698",
+   "enunciado": "In the sentences, “With hundreds of thousands of apps in these\nonline stores, what strategy should a developer use to be\nsuccessful? Should they innovate, make many similar apps,\noptimize their own apps or just copy the apps of others?”.\nThe modal “should”, used in TEXT, expresses the idea of:",
+   "alternativas": {
+    "A": "Absence of obligation",
+    "B": "Suggestion",
+    "C": "Offer",
+    "D": "Possibility",
+    "E": "Obligation"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 24,
+   "pagina": 6,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": "Research-Article How to be a successful app developer: lessons from the simulation of an app ecosystem Soo Ling Lim, Peter J. Bentley Abstract App developers are constantly competing against each other to win more downloads for their apps. With hundreds of thousands of apps in these online stores, what strategy should a developer use to be successful? Should they innovate, make many similar apps, optimize their own apps or just copy the apps of others? Looking more deeply, how does a complex app ecosystem perform when developers choose to use different strategies? This paper investigates these questions using AppEco, the first Artificial Life model of mobile application ecosystems. In AppEco, developer agents build and upload apps to the app store; user agents browse the store and download the apps. A distinguishing feature of AppEco is the explicit modelling of apps as artefacts. In this work we use AppEco to simulate Apple's iOS app ecosystem and investigate common developer strategies, evaluating them in terms of downloads received, app diversity, and adoption rate. https://dl.acm.org/doi/10.1145/2384697.2384698",
+   "enunciado": "The word “browse” in “user agents browse the store and\ndownload the apps.”, taken from TEXT, is a verb.\nThe same word can also be used as a noun in sentence:",
+   "alternativas": {
+    "A": "I stopped in several bookstores to ___.",
+    "B": "I usually ___ the internet for a couple of hours each evening.",
+    "C": "The brochure is well worth a ___.",
+    "D": "There are plenty of biographies for him to ___ over.",
+    "E": "I always ___ in an up-market antique shop."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 25,
+   "pagina": 6,
+   "disciplina": "Raciocínio Lógico-Matemático",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Arnaldo e Bernaldo associaram-se em um determinado negócio.\nArnaldo entrou com R$ 12.000,00 e Bernaldo com R$ 13.000,00.\nSe perderem R$ 50.000,00, caberá a Arnaldo o prejuízo de",
+   "alternativas": {
+    "A": "R$ 18.000,00",
+    "B": "R$ 20.000,00",
+    "C": "R$ 24.000,00",
+    "D": "R$ 26.000,00",
+    "E": "R$ 28.000,00"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 26,
+   "pagina": 6,
+   "disciplina": "Raciocínio Lógico-Matemático",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma determinada escola adota o sistema de pesos por bimestre\npara o cálculo da média anual. O primeiro bimestre tem peso 1, o\nsegundo, 2, o terceiro, 3, e o quarto, 4. Assim, para calcular a\nmédia anual, um estudante deve efetuar a soma de cada uma de\nsuas notas bimestrais multiplicadas pelos seus respectivos pesos e\ndividir por 10. Para ser aprovado, um aluno precisa ter média\nanual, no mínimo, igual a 7,0.\nArnaldo tirou notas 4,0; 6,0; 8,0; 8,0 nos 4 bimestres, não\nnecessariamente nessa ordem. Para que Arnaldo seja aprovado, a\nsua menor nota deve ter sido tirada no",
+   "alternativas": {
+    "A": "1º bimestre, necessariamente.",
+    "B": "1º ou 2º bimestres, necessariamente.",
+    "C": "2º bimestre, necessariamente.",
+    "D": "3º bimestre, necessariamente.",
+    "E": "3º ou 4º bimestre, necessariamente."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 27,
+   "pagina": 6,
+   "disciplina": "Raciocínio Lógico-Matemático",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Dois sistemas monitoram a variação de temperatura dos\nservidores em um data center. Um sistema registra variações\npositivas (aquecimento) e o outro registra variações negativas\n(resfriamento). Certo dia, a soma dessas variações foi de 1 grau\nCelsius, indicando que o ambiente se manteve praticamente\nestável. No entanto, a soma dos quadrados dessas variações foi de\n313, o que revela uma diferença significativa entre o maior valor\npositivo e o menor valor negativo registrados.\nA diferença entre esses valores é",
+   "alternativas": {
+    "A": "20.",
+    "B": "25.",
+    "C": "30.",
+    "D": "35.",
+    "E": "40."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 28,
+   "pagina": 7,
+   "disciplina": "Raciocínio Lógico-Matemático",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A proposição logicamente equivalente à proposição “Se Cesar é fã\nde futebol então ele assiste a muitos jogos” é",
+   "alternativas": {
+    "A": "Cesar é fã de futebol e assiste a muitos jogos.",
+    "B": "Cesar gosta de futebol porque assiste a muitos jogos.",
+    "C": "Cesar gosta de assistir jogos por ser fã de futebol.",
+    "D": "Se Cesar não assiste a muitos jogos então ele não é fã de futebol.",
+    "E": "Se Cesar não é fã de futebol então ele não assiste a muitos jogos."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 29,
+   "pagina": 7,
+   "disciplina": "Raciocínio Lógico-Matemático",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Numa certa região há alguns vilarejos de maneira que cada dupla\nde vilarejos possui uma única estrada que os conecta. Observe o\nexemplo para cinco vilarejos em que cada casinha representa um\nvilarejo e cada segmento de reta representa uma estrada.\nConsidere que nessa região há inicialmente x vilarejos e que 2\nnovos vilarejos estejam se desenvolvendo. Por essa razão, 17\nnovas estradas estão sendo construídas.\nNessas condições, o número x vale",
+   "alternativas": {
+    "A": "6.",
+    "B": "7.",
+    "C": "8.",
+    "D": "9.",
+    "E": "10."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-dataprev-inteligencia/q29-0.png"
+   ]
+  },
+  {
+   "numero": 30,
+   "pagina": 7,
+   "disciplina": "Raciocínio Lógico-Matemático",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O preço de venda de certo item de consumo sofreu dois aumentos\nmensais consecutivos, sendo o primeiro de 30% e o segundo de\n10%.\nSobre a taxa média de aumento mensal nesse período, é correto\nafirmar que",
+   "alternativas": {
+    "A": "é maior que 19% e menor que 20%.",
+    "B": "é igual a 20%.",
+    "C": "é maior que 20% e menor que 21%.",
+    "D": "é igual a 21,5%.",
+    "E": "é igual a 43%."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 31,
+   "pagina": 7,
+   "disciplina": "Atualidades",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Na reunião de cúpula do G2 que ocorre no Brasil, país que exerce\na presidência rotativa até o fim de novembro, o tema principal dos\ndebates é a construção de um Mundo Justo e um Planeta\nSustentável. O governo brasileiro deseja colocar o combate às\ndesigualdades no centro das discussões entre os países membros.\nSobre o Grupo apresentado no texto, julgue as afirmativas:\nI. Consiste num dos maiores blocos econômicos do planeta,\nsendo seu principal objetivo o livre comércio, sendo superado\napenas pela União Europeia.\nII. Representa um fórum internacional de cooperação\neconômica, que possibilita entre outras coisas, debates sobre\ntemas financeiros, fome, meio ambiente e desigualdades.\nIII. Congrega um bloco supranacional com objetivo de alinhar\npolíticas macroeconômicas, éticas e militares, perante a\ncomunidade internacional.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "I e II, apenas.",
+    "D": "I e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 32,
+   "pagina": 7,
+   "disciplina": "Atualidades",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A adoção de tecnologias digitais muitas vezes é vista como\nresposta para dilemas ambientais. O avanço da internet, por\nexemplo, permitiu a diminuição do uso de papel, que foi\nsubstituído por bytes. Entretanto, os data centers ao redor do\nmundo consomem aproximadamente 2% de toda eletricidade do\nplaneta, emitindo por exemplo, quantidades similares de carbono,\ncomparadas as da indústria aérea.\nSobre os aspectos apresentados no texto, julgue os itens a seguir:\n( ) As tecnologias digitais não são apenas fonte de soluções para\nproblemas ligados ao meio ambiente, mas também consistem\nem fontes de impactos negativos.\n( ) O texto defende que todos os avanços tecnológicos\nrepresentam invariavelmente benefícios para o meio\nambiente.\n( ) Os data centers representam cerca de metade do consumo de\nenergia dos ecossistemas digitais, termo cunhado para definir\na relação entre infraestrutura digital, ferramentas e seres\nhumanos.\nAs afirmativas são, respectivamente,",
+   "alternativas": {
+    "A": "V – F – V.",
+    "B": "F – V – V.",
+    "C": "V – V – F.",
+    "D": "F – F – V.",
+    "E": "V – V – V."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 33,
+   "pagina": 8,
+   "disciplina": "Atualidades",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A Constituição Federal é o documento jurídico-político que limita\no poder estatal e o regulamenta. O art. 225 da Carta Magna\nconfere a todos o direito ao meio ambiente equilibrado, impondo\nao Poder Público e à coletividade preservá-lo, estabelecendo uma\nsérie de diretrizes aptas a assegurar a disposição.\nSobre o tema abordado no texto, julgue os itens a seguir:\nI. É flagrante violação da Constituição, com a distribuição injusta\nda poluição, submetendo de forma desigual, em razão da raça,\ndeterminadas populações a precárias condições de vida.\nII. Um projeto de desenvolvimento sustentável deve ser baseado\nem inovações tecnológicas, mantendo a lógica de consumo do\natual modelo econômico, proporcionando justiça social para\ntodos.\nIII. O conceito de racismo ambiental está ligado aos danos\nambientais e sua imposição recorrente em comunidades\nhabitadas principalmente por populações negras e pobres.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "III, apenas.",
+    "C": "II e III, apenas.",
+    "D": "I e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 34,
+   "pagina": 8,
+   "disciplina": "Atualidades",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A Secretaria Nacional do Consumidor notificou uma grande rede\nde Farmácias para prestar esclarecimentos a respeito de práticas\nde tratamento indevido de dados pessoais de seus consumidores.\nO fato ocorreu por denúncia publicada em um grande portal de\ncomunicação, que expôs a coleta inadequada de informações e\nsua comercialização.\nSobre a denúncia, os dados podem ter o seguinte destino:\nI. Realização de publicidade direcionada a determinados perfis\nde consumidores, considerando a faixa etária, o sexo e perfis\nde saúde.\nII. Execução de publicidade para empresas do grupo econômico\ne para terceiros, gerando lucro indevido sem autorização ou\nconhecimento dos clientes.\nIII. Pesquisas da indústria farmacêutica para produção de\nremédios mais baratos, democratizando o acesso a\ntratamentos de saúde através do programa Farmácia Popular.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "III, apenas.",
+    "C": "I e II, apenas.",
+    "D": "I e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 35,
+   "pagina": 8,
+   "disciplina": "Atualidades",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O município do Rio de Janeiro vai aplicar o conceito de cidade-\nesponja para diminuir os efeitos das enchentes. Esse modelo é\nusado em várias cidades do mundo para evitar tragédias\nambientais, constituindo o ponto central de uma lei municipal,\nsancionada parcialmente em julho de 2024.\nA nova legislação adotará mecanismos sustentáveis com intuito\nde:\n( ) Reduzir a sobrecarga dos sistemas tradicionais de drenagem\npossibilitando a aproximação de autossuficiência hídrica.\n( ) Direcionar as águas pluviais que causam transtornos, para o\nreabastecimento de redes subterrâneas.\n( ) Diminuir a presença da infraestrutura cinza na canalização de\nrios, com a construção de jardins de chuva, melhorando a\nimpermeabilização de grandes áreas.\nAs afirmativas são, respectivamente,",
+   "alternativas": {
+    "A": "V – F – V.",
+    "B": "F – V – V.",
+    "C": "V – V – V.",
+    "D": "F – F – V.",
+    "E": "V – V – F. Legislação Acerca de Segurança da Informação e Proteção de Dados"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 36,
+   "pagina": 8,
+   "disciplina": "Legislação de Segurança da Informação e Proteção de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A Lei nº 12.527, de 18 de novembro de 2011, dispõe sobre as\nrestrições de acesso à informação. Nesses termos, a lei traz\ndiversos temas que permeiam a classificação da informação.\nSobre esse assunto, é correto afirmar que",
+   "alternativas": {
+    "A": "as informações podem ser classificadas como ultrassigilosas, sigilosas ou reservadas, sendo certo que a decisão respectiva é discricionária, porquanto a lei não prevê balizas.",
+    "B": "a decisão de classificação de uma informação é pública e de acesso a qualquer interessado, independentemente de demonstração de interesse, embora classificada a informação.",
+    "C": "findo o prazo de classificação ou ocorrido o evento constituidor do termo final, para que o acesso se torne público são necessários procedimento próprio e decisão específica.",
+    "D": "a informação que verse sobre conduta que implique violação dos direitos humanos praticada por agentes públicos ou a mando de autoridades públicas não pode ser objeto de restrição de acesso.",
+    "E": "a lei permite a desclassificação, mas não a redução de prazo de informação classificada, devendo a reavaliação ser feita pela autoridade classificadora ou outra superior, mediante provocação ou de ofício."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 37,
+   "pagina": 9,
+   "disciplina": "Legislação de Segurança da Informação e Proteção de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um hacker, por ter conseguido subtrair previamente a senha de\nacesso, invadiu o tablet do vice-Presidente da Câmara dos\nDeputados e, sem este saber, adulterou informações importantes\nrelativas ao funcionamento da Casa Parlamentar, trazendo grande\nprejuízo político. Identificada a pessoa, o aludido congressista\najuizou queixa-crime. Ao final do processo penal, o hacker foi\ncondenado com aumento de pena de um terço, por conta do\nsujeito passivo do delito.\nQuanto à situação descrita, é correto afirmar que",
+   "alternativas": {
+    "A": "a deflagração da ação penal está incorreta, porquanto deveria ter sido iniciada pelo Ministério Público.",
+    "B": "na fixação da pena, deveria ter havido um aumento de metade da pena, já que da invasão resultou prejuízo político.",
+    "C": "o crime de invasão de dispositivo informático possui como elementar a exigência de o tablet estar conectado à rede de computadores.",
+    "D": "o aumento da pena deveria ter sido de dois terços da pena, por conta do ilícito penal ter sido praticado contra o vice- Presidente da Câmara dos Deputados.",
+    "E": "para configuração do delito trazido pelo art. 2º, da Lei nº 12.737, de 30 de novembro de 2012 (art. 154-A, do Código Penal), é preciso a efetiva adulteração das informações."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 38,
+   "pagina": 9,
+   "disciplina": "Legislação de Segurança da Informação e Proteção de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A Lei nº 12.965, de 23 de abril de 2014, estabelece princípios,\ngarantias, direitos e deveres para o uso da Internet no Brasil. Ao\ntratar da proteção aos registros, aos dados pessoais e às\ncomunicações privadas, tal diploma legal positiva sanções\nespecíficas para o descumprimento do que prescreve.\nA respeito disso, é correto afirmar que",
+   "alternativas": {
+    "A": "as sanções só podem ser aplicadas isoladamente, exceto quando o caso reclamar a mais grave que, então, poderá ser cumulada com outras.",
+    "B": "a previsão de advertência contempla duas faces: uma repressiva e outra corretiva, na medida em que se indica prazo para adoção de medidas de regularização.",
+    "C": "a censura deve ser imposta à pessoa natural, proprietária do provedor, quando este burlar a proibição de coleta de dados pessoais anteriormente aplicada.",
+    "D": "na previsão de multa, o quanto é fixado em 10% (dez por cento) do faturamento do grupo econômico no Brasil, extraído da média dos últimos três exercícios, excluídos os tributos.",
+    "E": "a Lei nº 12.965, de 23 de abril de 2014, possui um vácuo legislativo com relação a empresas estrangeiras, porque não traz regramento sancionatório para suas condutas infringentes."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 39,
+   "pagina": 9,
+   "disciplina": "Legislação de Segurança da Informação e Proteção de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "As sanções administrativas estão positivadas na Lei nº 13.709, de\n14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais -\nLGPD), em capítulo intitulado de fiscalização.\nCom relação ao quadro legal sancionatório mencionado, é correto\nafirmar que",
+   "alternativas": {
+    "A": "é possível a aplicação de sanções sem a formalização de processo administrativo correspondente, em caso no qual se constate que o agente de tratamento de dados é violador contumaz da citada lei.",
+    "B": "a lei contempla expressamente diversos parâmetros e critérios a serem considerados na aplicação da sanção, como, por exemplo, a gravidade da infração, a boa fé e o fato de o infrator ter nacionalidade estrangeira.",
+    "C": "eventual aplicação da sanção de multa simples a órgão público deverá considerar a arrecadação tributária do ente federativo a que pertença e o orçamento afetado para o desenvolvimento de suas atividades.",
+    "D": "o produto da arrecadação das multas aplicadas pela Autoridade Nacional de Proteção de Dados, inscritas ou não em dívida ativa, será destinado diretamente às pessoas naturais cujo direito à proteção de dados foi violado.",
+    "E": "em caso de vazamento individual, a lei contempla a possibilidade de conciliação direta entre controlador e titular, estando aquele, na hipótese de inexistência de acordo, sujeito à aplicação das penalidades previstas no capítulo mencionado."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 40,
+   "pagina": 9,
+   "disciplina": "Legislação de Segurança da Informação e Proteção de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A Lei nº 13.709, de 14 de agosto de 2018, trouxe ao ordenamento\njurídico duas figuras jurídicas importantes no sistema de proteção\nde dados pessoais.\nSobre o desenho legal da Autoridade Nacional de Proteção de\nDados e o Conselho Nacional de Proteção de Dados Pessoais e da\nPrivacidade, é correto afirmar que",
+   "alternativas": {
+    "A": "atualmente, Conselho Nacional de Proteção de Dados Pessoais e da Privacidade possui natureza de empresa pública federal e a Autoridade Nacional de Proteção de Dados é órgão da administração pública federal.",
+    "B": "o Conselho Diretor é composto de representantes, titulares e suplentes, da Câmara dos Deputados, do Comitê Gestor da Internet do Brasil, do Senado Federal, do Conselho Nacional de Justiça e do Conselho Nacional do Ministério Público.",
+    "C": "o Conselho Nacional de Proteção de Dados Pessoais e da Privacidade possui atribuição de sugerir ações a serem realizadas pela Autoridade Nacional de Proteção de Dados e disseminar o conhecimento sobre a proteção de dados pessoais e da privacidade à população.",
+    "D": "os membros do Conselho Nacional de Proteção de Dados Pessoais e da Privacidade somente perderão seus cargos em virtude de renúncia, condenação judicial transitada em julgado ou pena de demissão decorrente de processo administrativo disciplinar.",
+    "E": "a Autoridade Nacional de Proteção de Dados é uma das integrantes do Conselho Nacional de Proteção de Dados Pessoais e da Privacidade, figurando como conselheira presidente, na hipótese de nomeação pelo Presidente da República."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 41,
+   "pagina": 10,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "1 1\nSendo n um número natural, definimos a soma 𝑆 = + +\n1⋅2 2⋅3\n1 1\n+ ⋯ + .\n3⋅4 𝑛⋅(𝑛+1)\n𝑎 𝑎\nSe lim 𝑆 = , com a e b naturais e irredutível, então o valor de\n𝑛→∞ 𝑏 𝑏\n𝑎 + 𝑏 será",
+   "alternativas": {
+    "A": "2.",
+    "B": "3.",
+    "C": "4.",
+    "D": "5.",
+    "E": "7."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-dataprev-inteligencia/q41-0.png"
+   ]
+  },
+  {
+   "numero": 42,
+   "pagina": 10,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma chapa de alumínio de formato circular é exposta a uma fonte\nde calor e sofre dilatação, de modo que seu raio cresce com\nvelocidade constante de 0,01cm/s.\nNo instante em que o raio do disco atinge 2cm, a velocidade com\nque sua área cresce, em cm2/s, é",
+   "alternativas": {
+    "A": "0,01π",
+    "B": "0,02π",
+    "C": "0,04π",
+    "D": "0,08π",
+    "E": "0,1π"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-dataprev-inteligencia/q42-0.png"
+   ]
+  },
+  {
+   "numero": 43,
+   "pagina": 10,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma comissão é composta por analistas de diferentes áreas, sendo\ncinco em inteligência da informação, cinco em contabilidade, cinco\nem gestão econômico-financeira e cinco em engenharia. Dois\nanalistas serão sorteados nessa comissão para ocupar as posições\nde presidente e vice-presidente.\nA probabilidade de os analistas sorteados pertencerem à mesma\nárea é",
+   "alternativas": {
+    "A": "1/20",
+    "B": "4/19",
+    "C": "1/5",
+    "D": "1/4",
+    "E": "3/4"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 44,
+   "pagina": 10,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere o triângulo com vértices nos pontos A\n\n1 ,\n3\n2\n,\n1\n2\n\n,\nB\n\n1 ,\n1\n2\n, −\n1\n2\n\ne C ( 1 , 1 , − 1 ) .\nSobre esse triângulo, é correto afirmar que",
+   "alternativas": {
+    "A": "é retângulo em A.",
+    "B": "é retângulo em B.",
+    "C": "é retângulo em C.",
+    "D": "todos os ângulos são agudos.",
+    "E": "todos os ângulos são obtusos."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-dataprev-inteligencia/q44-0.png"
+   ]
+  },
+  {
+   "numero": 45,
+   "pagina": 10,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere a transformação linear 𝑇: ℝ3 → ℝ2 tal que 𝑇(−1,0,0) =\n(2,0), 𝑇(0,2,0) = (2,1) e 𝑇(0,0, −1) = (0, −1). Sendo\n𝑇(𝑥,𝑦, 𝑧) = (𝑎𝑥 + 𝑏𝑦 + 𝑐𝑧 ,𝑑𝑥 + 𝑒𝑦 + 𝑓𝑧) a expressão dessa\ntransformação linear, o valor de 𝑎 + 𝑏 + 𝑐 + 𝑑 + 𝑒 + 𝑓 é",
+   "alternativas": {
+    "A": "0.",
+    "B": "1.",
+    "C": "2.",
+    "D": "3.",
+    "E": "4."
+   },
+   "gabarito": null,
+   "anulada": true,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-dataprev-inteligencia/q45-0.png"
+   ]
+  },
+  {
+   "numero": 46,
+   "pagina": 10,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma urna contém 3 bolas vermelhas e 4 bolas azuis indistinguíveis,\nexceto pela cor. Três bolas serão retiradas dessa urna,\nsucessivamente e sem reposição.\nSeja X a variável aleatória que representa a quantidade de bolas\nazuis retiradas da urna.\nO valor esperado de X é",
+   "alternativas": {
+    "A": "2,7",
+    "B": "2,1",
+    "C": "1,7",
+    "D": "1,3",
+    "E": "0,9"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 47,
+   "pagina": 10,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "1−cos(2𝑥)\nO limite lim é igual a\n𝑥→0 𝑥2\n1",
+   "alternativas": {
+    "A": "4 1",
+    "B": "2",
+    "C": "1",
+    "D": "2",
+    "E": "4"
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-dataprev-inteligencia/q47-0.png"
+   ]
+  },
+  {
+   "numero": 48,
+   "pagina": 10,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "De um ponto A, situado numa das margens de um rio, de 100\nmetros de largura, deseja-se levar energia elétrica ao ponto C\nsituado na outra margem do rio, conforme ilustrado na figura a\nseguir:\nO fio a ser utilizado na água custa R$ 5,00 o metro, e o que será\nutilizado fora, R$ 3,00 o metro.\nO menor gasto possível para ser feita essa ligação com os fios é\nigual a",
+   "alternativas": {
+    "A": "R$ 2.950,00",
+    "B": "R$ 3.175,00",
+    "C": "R$ 3.400,00",
+    "D": "R$ 3.625,00",
+    "E": "R$ 3.850,00"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-dataprev-inteligencia/q48-0.png"
+   ]
+  },
+  {
+   "numero": 49,
+   "pagina": 10,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "5 𝑥2+2\nO valor numérico de ∫ 𝑑𝑥 é igual a\n3 𝑥2−3𝑥+2",
+   "alternativas": {
+    "A": "2 + 6ln 3 − 3ln 2",
+    "B": "2 + 3ln 3 − 3ln 2",
+    "C": "3 + 6ln 3 − 3ln 2",
+    "D": "2 + 6ln 3 − 6ln 2",
+    "E": "2 + 6ln 3 − 3ln 4"
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-dataprev-inteligencia/q49-0.png"
+   ]
+  },
+  {
+   "numero": 50,
+   "pagina": 11,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere os pontos 𝐴(1;2;3), 𝐵(4;5;6), 𝐶(7;2;1) e 𝐷(2;4;8),\nvértices de um tetraedro.\nO volume deste tetraedro é igual a",
+   "alternativas": {
+    "A": "24.",
+    "B": "16.",
+    "C": "12.",
+    "D": "8.",
+    "E": "4."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-dataprev-inteligencia/q50-0.png"
+   ]
+  },
+  {
+   "numero": 51,
+   "pagina": 11,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Seja X uma variável aleatória discreta com a seguinte distribuição\nde probabilidade:\nA variância de X é igual a",
+   "alternativas": {
+    "A": "5,9",
+    "B": "0,61",
+    "C": "2,3",
+    "D": "5,29",
+    "E": "0,66"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-dataprev-inteligencia/q51-0.png"
+   ]
+  },
+  {
+   "numero": 52,
+   "pagina": 11,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A companhia aérea Flying to the Moon sabe que o peso das\nbagagens despachadas por passageiro é uma variável aleatória\ncom média μ=20 kg e desvio padrão σ=5 kg. Em um voo com\ncapacidade máxima de 100 passageiros, todos os assentos estão\nocupados.\nObservações:\n• Considere que a distribuição da soma pode ser aproximada por\numa distribuição normal;\n• Nomeando de Z a variável padronizada (escore-z), utilize a\ntabela a seguir, se julgar necessário.\nA probabilidade de que o peso total das bagagens neste voo\nexceda 2100 kg, e assim, ultrapasse o limite de segurança\nestabelecido, é igual a",
+   "alternativas": {
+    "A": "97,72%",
+    "B": "50%",
+    "C": "0,9772%",
+    "D": "2,28%",
+    "E": "4,55%"
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-dataprev-inteligencia/q52-0.png"
+   ]
+  },
+  {
+   "numero": 53,
+   "pagina": 11,
+   "disciplina": "Ciência de Dados e Machine Learning",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere o seguinte conjunto de transações em uma loja de\nvarejo:\nA partir desse conjunto de transações, produz-se a regra de\nassociação R: Leite → Pão\nNesse contexto, é correto afirmar que a métrica de R que possui\nvalor igual a 50% é",
+   "alternativas": {
+    "A": "a confiança.",
+    "B": "o F1 score.",
+    "C": "a precisão.",
+    "D": "o recall.",
+    "E": "o suporte."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-dataprev-inteligencia/q53-0.png"
+   ]
+  },
+  {
+   "numero": 54,
+   "pagina": 11,
+   "disciplina": "Ciência de Dados e Machine Learning",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Algoritmos de agrupamento podem ser classificados em diferentes\ncategorias. Um algoritmo de agrupamento amplamente utilizado\nem aprendizado de máquina e mineração de dados é conhecido\ncomo K-Means.\nO K-Means, em sua versão original, é classificado como um tipo de\nalgoritmo",
+   "alternativas": {
+    "A": "baseado em grade.",
+    "B": "baseado em grafo.",
+    "C": "hierárquico.",
+    "D": "partitivo.",
+    "E": "por densidade."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 55,
+   "pagina": 11,
+   "disciplina": "Ciência de Dados e Machine Learning",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O algoritmo de redução de dimensionalidade conhecido como\nAnálise de Componentes Principais (PCA – Principal Component\nAnalysis) possui características importantes.\nDada a escolha de um número k de componentes principais e um\nconjunto de dados X com cinco variáveis A, B, C, D e E, o PCA",
+   "alternativas": {
+    "A": "adiciona a média de cada observação para cada dimensão de X, normalizando-a depois pelo desvio-padrão.",
+    "B": "constrói a matriz de confusão a partir de X, multiplicando-a pelos autovalores de seus vetores originais.",
+    "C": "escolhe k autovetores aleatórios do conjunto original de dados.",
+    "D": "preserva as distâncias geodésicas entre os pontos do espaço original dos dados por redução não linear.",
+    "E": "retorna k combinações lineares dos atributos do conjunto {A,B,C,D,E}."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 56,
+   "pagina": 12,
+   "disciplina": "Ciência de Dados e Machine Learning",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere o seguinte cenário: Uma empresa de telecomunicações\nestá analisando os dados de uso de seus clientes, como frequência\nde chamadas, uso de dados móveis e envio de mensagens. Ela quer\nidentificar grupos de clientes com comportamentos semelhantes\npara oferecer promoções personalizadas.\nEm uma escolha por uma solução de aprendizado de máquina, o\ncientista de dados deve observar que, se o aprendizado for",
+   "alternativas": {
+    "A": "híbrido, congregará as características dos modelos supervisionado e não supervisionado, em um modelo ensemble.",
+    "B": "não supervisionado oferecerá opções como os algoritmos back propagation, K-means e C4.5.",
+    "C": "não supervisionado demandará uma fase de pós- processamento que envolve visualização e análise do modelo.",
+    "D": "supervisionado considerará a abstração de um modelo de conhecimento da forma (entrada, saída desejada).",
+    "E": "supervisionado, os algoritmos partirão dos dados, buscando relacionamento entre eles."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 57,
+   "pagina": 12,
+   "disciplina": "Ciência de Dados e Machine Learning",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Seja o código em R a seguir:\nAnalisando o código apresentado, sem a necessidade de executá-\nlo, é correto deduzir que",
+   "alternativas": {
+    "A": "a categoria \"Móveis\" apresentou a menor quantidade de unidades vendidas.",
+    "B": "a estrutura do data frame inviabiliza o uso da função cor().",
+    "C": "a função aggregate() revela que a categoria \"Eletrônicos\" tem o maior total de unidades vendidas.",
+    "D": "existe uma correlação forte e negativa entre unidades vendidas e receita.",
+    "E": "o coeficiente de correlação entre unidades vendidas e receita mostrará um valor positivo."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-dataprev-inteligencia/q57-0.png"
+   ]
+  },
+  {
+   "numero": 58,
+   "pagina": 12,
+   "disciplina": "Ciência de Dados e Machine Learning",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um conjunto de dados foi particionado em dois subconjuntos,\nsendo um de treinamento e outro de testagem, ambos utilizados\nexclusivamente para serem usados em seus objetivos originais\n(dados de treino para treinamento, e de teste para testagem).\nEm relação ao ajuste e validação de modelos em aprendizado de\nmáquina, um modelo sofre overfitting quando",
+   "alternativas": {
+    "A": "apresenta bom desempenho nos dados de treinamento, mas tem baixo desempenho nos dados de teste.",
+    "B": "é simples demais para capturar os padrões subjacentes nos dados.",
+    "C": "minimiza o erro nos dados de treinamento e os de teste, aumentando a correlação entre esses dois conjuntos.",
+    "D": "oferece uma matriz de confusão para um classificador detalhando seu desempenho.",
+    "E": "relaciona-se aos altos viés e variância do conjunto de dados."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 59,
+   "pagina": 12,
+   "disciplina": "Ciência de Dados e Machine Learning",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A validação cruzada é uma importante técnica em aprendizado de\nmáquina, usada para obter uma estimativa mais robusta do erro\nde generalização. Dessa forma, ela contribui para a construção de\nmodelos mais confiáveis, permitindo uma avaliação mais precisa\nde sua capacidade preditiva em diferentes cenários.\nUma das características da validação cruzada com k conjuntos é\nque esse método",
+   "alternativas": {
+    "A": "considera, na sua versão estratificada, a proporção de exemplos de cada classe quando da geração de subconjuntos mutuamente exclusivos.",
+    "B": "divide aleatoriamente registros em treinamento e teste em proporções p e (1-p), respectivamente.",
+    "C": "gera conjuntos cuja interseção é não vazia, utilizados a cada iteração como conjunto de treino e teste.",
+    "D": "penaliza os conjuntos de treino com k sorteios aleatórios, de modo a torná-lo equilibrado frente ao conjunto de teste.",
+    "E": "produz o conjunto de treinamento a partir de N sorteios aleatórios com reposição a partir dos dados originais."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 60,
+   "pagina": 12,
+   "disciplina": "Ciência de Dados e Machine Learning",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Support Vector Machines (SVMs) é um método de aprendizado de\nmáquina que pode ser aplicado em áreas como reconhecimento\nde padrões, bioinformática e detecção de fraudes, devido à sua\ncapacidade de lidar com dados complexos.\nNesse contexto, identificamos que o método SVM",
+   "alternativas": {
+    "A": "adequa-se a problemas de agrupamento de dados multidimensionais.",
+    "B": "apoia-se no princípio do “kernel trick”, que mapeia explicitamente dados não lineares em outros dados lineares.",
+    "C": "define margem como sendo a maior saturação de erro (bias) suportada pelo algoritmo na geração de hiperplanos concorrentes.",
+    "D": "inviabiliza o uso de abordagens para SVMs lineares com margens rígida e suave para utilização em SVMs não lineares em dados linearmente inseparáveis.",
+    "E": "usa um mapeamento não linear para transformar os dados de treino originais em um espaço de dimensão superior."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 61,
+   "pagina": 13,
+   "disciplina": "Ciência de Dados e Machine Learning",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Os modelos de dados desempenham um papel fundamental no\nprocesso de ETL (Extração, Transformação e Carga), pois são\nresponsáveis por estruturar e organizar as informações de maneira\neficiente e consistente. Eles garantem que os dados extraídos de\ndiferentes fontes sejam integrados corretamente, facilitando a\ntransformação e preparação para a análise posterior.\nNo contexto de modelos de dados em ETL, existe o conceito de\ntabela de fatos sem fato (factless fact), que se caracteriza por",
+   "alternativas": {
+    "A": "anotar falhas em transações intermediárias.",
+    "B": "apresentar ausência de medidas.",
+    "C": "registrar somente medidas que anulam os registros originais de dados.",
+    "D": "representar um intervalo de tempo regularmente repetido.",
+    "E": "revelar medições instantâneas em um ponto específico no tempo e espaço."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 62,
+   "pagina": 13,
+   "disciplina": "Ciência de Dados e Machine Learning",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Seja o conjunto de dados X apresentado a seguir, em que os\natributos “P” e “Q” são preditores, e o atributo “Classe” é o\natributo-alvo:\nQueremos classificar uma nova amostra x=(5.0, 5.0) utilizando o\nalgoritmo clássico dos k vizinhos mais próximos (k-NN), utilizando\na distância euclidiana para a determinação de vizinhanças.\nCom base nesse algoritmo, e considerando os valores aproximados\nde √2 ≈ 1,414 e √3 ≈ 2,236, o k-NN retorna como categoria de\nx",
+   "alternativas": {
+    "A": "a classe A para k=2, pois, como houve empate, a escolha aleatória tende para o início de X.",
+    "B": "a classe B para k=1, pois a distância para o ponto (4.0, 5.0) é a menor de todas.",
+    "C": "a classe C para k=1, já que a distância para o ponto (1.0, 1.0) foi eleita por votação.",
+    "D": "a classe D para k=3, pela aplicação do critério da distância ponderada nas três classes empatada.",
+    "E": "a nenhuma classe, já que o algoritmo k-NN não opera em conjuntos com dados categóricos."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-dataprev-inteligencia/q62-0.png"
+   ]
+  },
+  {
+   "numero": 63,
+   "pagina": 13,
+   "disciplina": "Ciência de Dados e Machine Learning",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere o código Python abaixo, que utiliza as bibliotecas\nPandas e Matplotlib:\nCom base no código fornecido, assinale a opção que descreve\ncorretamente a sua função.",
+   "alternativas": {
+    "A": "Cria um DataFrame, plota um gráfico de barras verticais com os dados das colunas 'A' e 'B', e exibe o gráfico gerado.",
+    "B": "Cria um DataFrame, plota um gráfico de dispersão com os dados das colunas 'A' e 'B', e exibe o gráfico gerado.",
+    "C": "Cria uma série de tempo e plota um gráfico de linha com os valores da série 'A'.",
+    "D": "Cria um DataFrame, plota um gráfico de barras verticais empilhadas com os dados das colunas 'A' e 'B', e exibe o gráfico gerado.",
+    "E": "Utiliza o Streamlit para criar uma interface gráfica que exibe um gráfico com os dados das colunas 'A' e 'B'."
+   },
+   "gabarito": null,
+   "anulada": true,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-dataprev-inteligencia/q63-0.png"
+   ]
+  },
+  {
+   "numero": 64,
+   "pagina": 13,
+   "disciplina": "Ciência de Dados e Machine Learning",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere o seguinte código que tenta criar e treinar uma rede\nneural simples com TensorFlow e Keras. Observe o erro que pode\nocorrer ao tentar executá-lo (desconsidere questões de\nindentação do Pythone):\nCom base no código, assinale a opção que indica o erro que levaria\na uma falha na execução.",
+   "alternativas": {
+    "A": "O modelo não pode ser compilado porque não possui uma função de métrica definida no método compile.",
+    "B": "O código falhará, pois x_train e y_train não foram definidos ou carregados.",
+    "C": "O método Dense precisa especificar a função de ativação sigmoid na última camada.",
+    "D": "O código apresenta erro na função de perda, que deveria ser definida como categorical_crossentropy.",
+    "E": "A função Sequential deveria ter os parâmetros explicitamente definidos como layers=[]."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-dataprev-inteligencia/q64-0.png"
+   ]
+  },
+  {
+   "numero": 65,
+   "pagina": 14,
+   "disciplina": "Ciência de Dados e Machine Learning",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere o seguinte código em R:\nÉ correto afirmar que",
+   "alternativas": {
+    "A": "carrega a biblioteca \"ggplot2\", carrega o dataset \"mpg\" e cria um gráfico de barras mostrando a relação entre as variáveis displ e hwy.",
+    "B": "carrega a biblioteca \"ggplot2\", carrega o dataset \"mpg\" e cria um gráfico de pontos mostrando a relação entre as variáveis displ e hwy.",
+    "C": "cria um histograma da variável displ usando o dataset \"mpg\".",
+    "D": "carrega a biblioteca \"dplyr\", carrega o dataset \"mpg\" e cria um gráfico de pontos mostrando a relação entre as variáveis displ e hwy.",
+    "E": "carrega a biblioteca \"ggplot2\", carrega o dataset \"mpg\", mas o código contém um erro, então não gera nenhum gráfico."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-dataprev-inteligencia/q65-0.png"
+   ]
+  },
+  {
+   "numero": 66,
+   "pagina": 14,
+   "disciplina": "Ciência de Dados e Machine Learning",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O Apache Hadoop é uma plataforma amplamente utilizada no\nprocessamento de grandes volumes de dados. Ele se destaca por\nsua arquitetura distribuída e capacidade de lidar com grandes\nconjuntos de dados de forma eficiente.\nCom base nas capacidades e funcionalidades do Hadoop, assinale\na opção que = descreve corretamente seu funcionamento e\naplicação prática.",
+   "alternativas": {
+    "A": "O Hadoop é uma plataforma de banco de dados relacional, que utiliza o SQL para gerenciar grandes volumes de dados de maneira centralizada.",
+    "B": "O Hadoop possui uma arquitetura distribuída, composta principalmente pelo HDFS (Hadoop Distributed File System) e o MapReduce, permitindo o processamento de grandes volumes de dados de maneira escalável e paralela.",
+    "C": "O principal componente do Hadoop é o NoSQL, que possibilita o armazenamento de dados não estruturados em um único servidor, sem a necessidade de distribuição.",
+    "D": "O Hadoop foi projetado para pequenas empresas que possuem volumes reduzidos de dados e não requerem processamento paralelo, destacando-se por sua simplicidade de uso.",
+    "E": "O Hadoop se limita ao armazenamento de dados em clusters locais, não sendo compatível com ambientes de computação em nuvem ou distribuídos globalmente."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 67,
+   "pagina": 14,
+   "disciplina": "Ciência de Dados e Machine Learning",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O Apache Spark é uma ferramenta amplamente utilizada para\nprocessamento de grandes volumes de dados.\nAssinale a opção que o descreve corretamente, assim como suas\ncapacidades e suas funcionalidades.",
+   "alternativas": {
+    "A": "O Apache Spark é um sistema de armazenamento distribuído de arquivos que gerencia grandes volumes de dados por meio de replicação e fragmentação, com foco na segurança e no versionamento dos arquivos.",
+    "B": "O Apache Spark é um framework de computação distribuída que permite o processamento rápido de grandes volumes de dados, suportando operações em tempo real e por lote, além de fornecer bibliotecas para machine learning e gráficos.",
+    "C": "O Apache Spark é uma plataforma de análise de dados especializada em bancos de dados relacionais, permitindo consultas SQL em tempo real e fornecendo ferramentas de visualização integradas.",
+    "D": "O Apache Spark é um sistema de gerenciamento de filas que prioriza a execução de tarefas paralelas em ambientes distribuídos, garantindo que as tarefas sejam executadas de acordo com a capacidade da infraestrutura.",
+    "E": "O Apache Spark é um sistema de controle de versões distribuído que facilita o gerenciamento colaborativo de projetos de dados e código, permitindo a reversão de alterações e o controle detalhado de permissões."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 68,
+   "pagina": 14,
+   "disciplina": "Ciência de Dados e Machine Learning",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um dos conceitos associados a coleções de objetos de dados e/ou\narquivos de sistemas de bancos de dados NoSQL é o de sharding.\nNesse contexto, uma das características de sharding refere-se",
+   "alternativas": {
+    "A": "ao armazenamento de múltiplos itens com timestamps.",
+    "B": "à conciliação de gravação em operações conflitantes.",
+    "C": "a não exigência de um esquema prévio de dados.",
+    "D": "a oferta de uma linguagem de consulta menos poderosa.",
+    "E": "ao particionamento horizontal dos dados entre nós do sistema."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 69,
+   "pagina": 14,
+   "disciplina": "Ciência de Dados e Machine Learning",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "No âmbito de normalização de bancos de dados relacionais, há o\nconceito de dependência com a seguinte especificação: “para o\nesquema de uma relação R, uma restrição que demanda que cada\nestado r de R apresente uma decomposição de junção não aditiva\ne não trivial para cada decomposição R de R, em que o valor de i\ni\nvarie entre 1 e n, sendo n o número de decomposições de R”.\nEsse conceito de dependência, considerando um valor de n maior\nque dois (n>2), integra a definição da",
+   "alternativas": {
+    "A": "2ª forma normal (2FN).",
+    "B": "3ª forma normal (3FN).",
+    "C": "4ª forma normal (4FN).",
+    "D": "5ª forma normal (5FN).",
+    "E": "forma normal Boyce-Codd (FNBC)."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 70,
+   "pagina": 15,
+   "disciplina": "Ciência de Dados e Machine Learning",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Em um sistema de banco de dados relacional, o script de\ncomandos SQL a seguir especificado foi submetido à execução:\nA análise do script permite-nos afirmar que a sua execução\nproduzirá um resultado.\nAssinale a opção que indica esse resultado.",
+   "alternativas": {
+    "A": "A criação de uma nova coluna “atr4” ao final da execução do script, com as duas tuplas do estado da tabela contendo o valor zero como conteúdo desse novo atributo criado.",
+    "B": "A criação de uma nova restrição de integridade “atr4” ao final da execução do script, que demanda que valores não nulos sejam inicialmente preenchidos com o valor zero.",
+    "C": "O comando ALTER TABLE apresentará erro, pois a especificação da linguagem SQL não permite um novo atributo em uma tabela com especificação de não nulo.",
+    "D": "O comando INSERT não será executado, já que a segunda tupla especificada contém valor nulo no atributo atr3, que necessita ser maior que zero.",
+    "E": "Um erro sintático de construção do comando ALTER TABLE, pela ausência da especificação da palavra reservada COLUMN após a palavra reservada ADD. Realiz zação"
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-dataprev-inteligencia/q70-0.png",
+    "img/fgv-2024-dataprev-inteligencia/q70-1.png",
+    "img/fgv-2024-dataprev-inteligencia/q70-2.png"
+   ]
+  }
+ ]
+}

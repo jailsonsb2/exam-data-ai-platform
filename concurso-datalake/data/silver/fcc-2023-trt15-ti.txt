@@ -1,0 +1,805 @@
+[p1c0] SE [ moor |[ door] [ "doo|r
+[p1c0] a JUSTIÇA DO TRABALHO Dezembro/2023
+[p1c0] Tribunal Regionadlo Trabalho da 15º Região (Campinas)
+[p1c0] Concurso Público para o Provimento de Cargos de
+[p1c0] Analista Judiciário - Área Apoio Especializado
+[p1c0] Especialidade Tecnologia da Informação
+[p1c0] Nome do Candidato Nº de Inscrição Nº do Caderno
+[p1c0] | Cademo de Prova 'N', Tipo 002 | MODELO | TIPO-002
+[p1c0] ASSINATURA DO CANDIDATO
+[p1c0] Nº do Documento
+[p1c0] | oooooonooonooo0o | |
+[p1c0] Conhecimentos Gerais
+[p1c0] P R O VA Conhecimentos Específicos
+[p1c0] Discursiva-Estudo de Caso
+[p1c0] INSTRUÇÕES
+[p1c0] Quando autorizado pelo fiscal
+[p1c0] de sala, transcreva a frase O verdadeiro homem mede a sua força, quando se
+[p1c0] ao lado, com sua caligrafia
+[p1c0] usual, no espaço apropriado defronta com o obstáculo.
+[p1c0] na Folha de Respostas.
+[p1c0] Verifique se este caderno:
+[p1c0] - corresponde à sua opção de cargo.
+[p1c0] - contém 60 questões, numeradas de 1360.
+[p1c0] - contém as propostas e os espaços para os rascunhos da Prova Discursiva-Estudo de Caso.
+[p1c0] Caso contrário, solicite imediatamente ao fiscal da sala a substituição do caderno.
+[p1c0] Não serão aceitas reclamações posteriores.
+[p1c0] Para cada questão existe apenas UMA resposta certa.
+[p1c0] Leia cuidadosamente cada uma das questões e escolha a resposta certa.
+[p1c0] Essa resposta deve ser marcada na FOLHA DE RESPOSTAS que você recebeu.
+[p1c0] VOCÊ DEVE
+[p1c0] Procurar, na FOLHADE RESPOSTAS, o número da questão que você está respondendo.
+[p1c0] Verificar no caderno de prova qual a letra (A,B,C,D,E) da resposta que você escolheu.
+[p1c0] Marcar essa letra na FOLHADE RESPOSTAS, conforme o exemplo: 6 OD &
+[p1c0] Ler o que se pede na Prova Discursiva-Estudo de Caso e utilizar, se necessário, os espaços para rascunho.
+[p1c0] ATENÇÃO
+[p1c0] Marque as respostas com caneta esferográfica de material transparente e tinta preta ou azul. Não será permitida a
+[p1c0] utilização de lápis, lapiseira, marca-texto, régua ou borracha durante a realização da prova.
+[p1c0] Marque apenas uma letra para cada questão. Será anulada a questão em que mais de uma letra estiver assinalada.
+[p1c0] Responda a todas as questões.
+[p1c0] Não será permitida nenhuma espécie de consulta ou comunicação entre os candidatos, nem a utilização de livros,
+[p1c0] anotações, códigos, manuais, notas ou impressos, máquina calculadora ou similar.
+[p1c0] Em hipótese alguma o rascunho da Prova Discursiva-Estudo de Caso será corrigido.
+[p1c0] Você deverá transcrever a sua Prova Discursiva-Estudo de Caso a tinta, na folha apropriada.
+[p1c0] A duração da prova é de 4 horas e 30 minutos, para responder a todas as questões objetivas, preencher a Folha de
+[p1c0] Respostas e fazer a Prova Discursiva-Estudo de Caso (rascunho e transcrição) na folha correspondente.
+[p1c0] Ao terminara prova, chame o fiscal e devolva todo o material recebido para conferência.
+[p1c0] É proibida a divulgação ou impressão parcial ou total da presente prova. Direitos Reservados.
+[p1c0] Fundação éarios Chagas
+[p2c0] MA! caderno de Prova'n' Tipo 002
+[p2c0] CONHECIMENTOS GERAIS
+[p2c0] Lingua Portuguesa
+[p2c0] Atenção: Para responder às questões de números 1 a 7, leia o trecho do conto “Sol nascente”
+[p2c0] Ainda hoje, quando lanço o olhar ao mar, imagino a vida de meus avós como ilhas distantes, cercadas pela vastidão de um
+[p2c0] oceano de histórias (muitas delas guardadas na linha de um horizonte que não pode mais ser lido). No alto do Morro de São Sebas-
+[p2c0] tião, contemplo o sol nascente e me inspiro a iniciar estas linhas. Talvez elas não contenham toda a verdade, talvez haja imprecisões
+[p2c0] e deslizes históricos, mas foi assim que eu as recebi, pela boca dos que sobreviveram.
+[p2c0] leiri-san inspecionava as conversas dos navios que nasciam no estaleiro que dirigia com disciplina. Há décadas os japoneses
+[p2c0] iniciaram a colonização da ilha de Taiwan, tomada da China após a guerra sino-japonesa. Para lá a família leiri emigrou para
+[p2c0] prosperar. Chiyoko, filha do patriarca leiri, cresceu entre finas bonecas de porcelana, tendo os melhores instrutores, tornando-se de
+[p2c0] pianista a carateca. Sempre ávida por conhecimento, aprendeu com seu tio diversos procedimentos, tais como a realização de partos
+[p2c0] e, sobretudo, a quiropraxia. Chiyoko se transformou em uma mulher extraordinária, nadando em alto-mar e, apesar de sua compleição
+[p2c0] esguia, aveniurando-se até a praticar sumô. Após aprender tantas coisas, não poderia ter se tomado outra coisa a não ser professora.
+[p2c0] Naquele dia, apesar da triste guerra, Chiyoko estava feliz. Era o dia do aniversário de seu pai. Não importava a ela que seu
+[p2c0] otosan estivesse em um leito de hospital nem que o medo rondasse cada esquina. Ela tinha conseguido, a grande custo, algumas
+[p2c0] iguarias que seu pai gostava de comer. Era para comemorar a data, para celebrar a vida. E seus passos eram alegres quando a
+[p2c0] sirene tocou. E era alegre o dia quando as bombas caíram.
+[p2c0] O hospital em que seu pai estava foi atingido. A vida naufragou. [...] Por ter aprendido tantas coisas com o tio médico, Chiyoko
+[p2c0] auxiliava os feridos durante a guerra, que estava para ser perdida.
+[p2c0] (Adaptado de: KONDO, André. Origens. Editora do Brasil, 2019. Edição Eletrônica)
+[p2c0] 1. —Orelato do narrador permite caracterizar Chiyoko como
+[p2c0] (A) arrogante.
+[p2c0] (B) excêntrica.
+[p2c0] (C) altruísta.
+[p2c0] (D) misantropa.
+[p2c0] (E) | indolente.
+[p2c0] 2. Otermo sublinhado indica ideia de adição no seguinte segmento:
+[p2c0] (A) Para lá a família leiri emigrou para prosperar. (2º parágrafo)
+[p2c0] (B) Eseus passos eram alegres quando a sirene tocou. (3º parágrafo)
+[p2c0] (C) leiri-san inspecionava as conversas dos navios que nasciam no estaleiro que dirigia com disciplina. (2º parágrafo)
+[p2c0] (D) Não importava a ela que seu otosan estivesse em um leito de hospital nem que o medo rondasse cada esquina. (3º parágrafo)
+[p2c0] (E) Talvez elas não contenham toda a verdade. (1º parágrafo)
+[p2c0] 3. Porter aprendido tantas coisas com o tio médico, Chiyoko auxiliava os feridos durante a guerra. (4º parágrato)
+[p2c0] A oração subordinada do trecho acima estabelece ideia de
+[p2c0] (A) causa.
+[p2c0] (B) concessão.
+[p2c0] (C) temporalidade.
+[p2c0] (D) condição.
+[p2c0] (E) finalidade.
+[p2c0] 4. As vírgulas foram empregadas para isolar um aposto no seguinte segmento:
+[p2c0] (A) tais como a realização de partos e, sobretudo, a quiropraxia.
+[p2c0] (B) Ela tinha conseguido, a grande custo, algumas iguarias que seu pai gostava de comer.
+[p2c0] (C) Chiyoko, filha do patriarca leiri, cresceu entre finas bonecas de porcelana.
+[p2c0] (D) Ainda hoje, quando lanço o olhar ao mar, imagino a vída de meus avós como ilhas distantes.
+[p2c0] (E) Talvez elas não contenham toda a verdade, talvez haja imprecisões e deslizes históricos, mas foi assim que eu as recebi.
+[p2c0] 5. —Colocando-se o verbo “existir no lugar do "haver" no trecho talvez haja imprecisões e deslizes históricos (1º parágrafo). a forma
+[p2c0] verbal resultante será:
+[p2c0] (A) exista.
+[p2c0] (B) existam.
+[p2c0] (C) existe,
+[p2c0] (D) existiriam
+[p2c0] (E) existira.
+[p2c0] 6. Há décadas os japoneses iniciaram a colonização da ilha de T aiwan
+[p2c0] Transpondo-se a frase acima para a voz passiva, a forma verbal resultante será:
+[p2c0] (A) foi iniciada.
+[p2c0] (B) tinham iniciado.
+[p2c0] (C) iniciaram-se.
+[p2c0] (D) fora iniciado.
+[p2c0] (E) foram iniciados.
+[p2c0] 2 TRT15-Conhec.Gerais!
+[p3c0] Caderno de Prova 'N', Tipo 002 JIN NNE EMM
+[p3c0] 7. Notexto, verifica-se emprego de antítese, que intensifica o contraste entre as ideias expostas, no seguinte segmento:
+[p3c0] (A) Era para comemorar a data, para celebrar a vida.
+[p3c0] (B) Sempre ávida por conhecimento, aprendeu com seu tio diversos procedimentos.
+[p3c0] (C) leiri-san inspecionava as conversas dos navios que nasciam no estaleiro que dirigia com disciplina.
+[p3c0] (D) Naquele dia, apesar da triste guerra, Chiyoko estava feliz.
+[p3c0] (E) Ela tinha conseguido, a grande custo, algumas iguarias que seu pai gostava de comer.
+[p3c0] Atenção: Para responder às questões de números 8 a 10, leia o trecho de “Torto Arado”.
+[p3c0] De loucura meu pai entendia, assim diziam, porque ele mesmo já havia caído louco num período remoto de sua vida. Os
+[p3c0] curadores serviam para restituir a saúde do corpo e do espírito dos doentes, era o que sabíamos desde o nascimento. O que mais
+[p3c0] chegava à nossa porta eram as moléstias do espírito dividido, gente esquecida de suas histórias, memórias. apartada do próprio eu,
+[p3c0] sem se distinguir de uma fera perdida na mata. Diziam que talvez fosse por conta do passado minerador do povo que chegou à
+[p3c0] região, ensandecido pela sorte de encontrar um diamante, de percorrer seu brilho na noite, deixando um monte para adentrar noutro,
+[p3c0] deixando a terra para entrar no rio. Gente que perseguia a foriuna, que dormia e acordava desejando a ventura, mas que se frustrava
+[p3c0] depois de tempos prolongados de trabalho fatigante, quebrando rochas, lavando cascalho, sem que o brilho da pedra pudesse tocar
+[p3c0] de forma ínfima o seu horizonte. Quantos dos que encontravam a pedra estavam libertos dos delírios? Quantos tinham que proteger
+[p3c0] seu bambuúrrio da cobiça alheia, passando dias sem dormir. com os diamantes debaixo do corpo, sem se banhar nas águas dos rios,
+[p3c0] atentos a qualquer gesto de trapaça que poderia vir de onde menos se esperava?
+[p3c0] (VIEIRA dr., Itamar. Torto arado. São Paulo: Todavia, 2019. Edição eletrônica)
+[p3c0] 8. No contexto em que se encontra, o termo
+[p3c0] “ínfima” aproxima-se, pelo sentido, de “fatigante”.
+[p3c0] “bambúrrio” é sinônimo de “trapaça”.
+[p3c0] “curadores” foi empregado de maneira irônica.
+[p3c0] “rochas” foi empregado em sentido conotativo.
+[p3c0] “ensandecido” aproxima-se, pelo sentido, de “louco”.
+[p3c0] 9. Mantendo as relações de sentido estabelecidas pelo contexto, uma pontuação alternativa para um segmento do texto está em:
+[p3c0] (A) Quantos tinham que, proteger seu bambúrrio, da cobiça alheia; passando dias sem dormir com os diamantes debaixo do
+[p3c0] corpo?
+[p3c0] (B) Gente que perseguia, a fortuna, que dormia e acordava desejando a ventura; mas que, se frustrava depois de tempos
+[p3c0] prolongados de trabalho fatigante: quebrando rochas,
+[p3c0] (6) De loucura meu pai entendia. Assim diziam porque, ele mesmo, já havia caído louco num período, remoto de sua vida.
+[p3c0] (D) Diziam que - talvez fosse por conta do passado minerador do povo que chegou à região —, ensandecido pela sorte de
+[p3c0] encontrar um diamante.
+[p3c0] (E) O que mais chegava à nossa porta eram as moléstias do espirito dividido: gente esquecida de suas histórias, memórias,
+[p3c0] apariada do próprio eu, sem se distinguir de uma fera perdida na mata.
+[p3c0] t0. Mantendo a correção gramatical e as relações de sentido, o segmento sublinhado pode ser substituído pelo que se encontra
+[p3c0] entre parênteses em:
+[p3c0] (A) Gente que perseguia a fortuna, que dormia e acordava desejando a ventura (0 infortúnio), mas que se frustrava depois de
+[p3c0] tempos prolongados de trabalho fatigante.
+[p3c0] (B) Diziam que talvez fosse por conta do (devido ao) passado minerador do povo que chegou à região.
+[p3c0] (6) De loucura meu pai entendia, assim diziam, porque (à medida que) ele mesmo já havia caído louco num período remoto de
+[p3c0] sua vida.
+[p3c0] (D) gente esquecida de suas histórias, memórias, apartada do próprio eu, sem ge distinguir de (se reconhecer em) uma fera
+[p3c0] perdida na mata.
+[p3c0] (E) talvez fosse por conta do passado minerador do povo que chegou à região, ensandecido pela sorte de encontrar um
+[p3c0] diamante, de percorrer (a prescindir de) seu brilho na noite.
+[p3c0] Raciocínio Lógico-Matemático
+[p3c0] 11. Em uma festa há 30 pessoas, sendo que seis delas têm barba e apenas um dos que têm barba é careca. Os dois que têm
+[p3c0] bigode também têm barba. Existem 20 pessoas que não têm barba e nem são carecas. O número de pessoas na festa que são
+[p3c0] carecas, mas não têm barba é
+[p3c0] (A) 4
+[p3c0] (B) 14
+[p3c0] (C) 13
+[p3c0] (D) 15
+[p3c0] (E) 5
+[p3c0] TRT15-Conhec.Gerais! 3
+[p4c0] MR caderno de Prova 'N', Tipo 002
+[p4c0] 12. O quadriculado 4x4 abaixo deve ser preenchido com os números de 1 a 16, todos distintos, de forma que os números de cada
+[p4c0] linha somem 34 e os números de cada coluna somem 34, Alguns quadradinhos já foram preenchidos.
+[p4c0] Ao preencher os demais quadradinhos, colocando os números 14 e 15 na mesma linha, os números
+[p4c0] (A) 2e3 estarão em linhas diferentes.
+[p4c0] (B) 5e 12 estarão na mesma linha.
+[p4c0] (C) 9e3 estarão na mesma coluna.
+[p4c0] (D) 2e5 estarão em colunas diferentes.
+[p4c0] (E) 8e 12 estarão em colunas diferentes.
+[p4c0] Dra. Ana e Dr. Breno são juízes criminais. Dra. Ana tinha 30 processos para analisar e Dr. Breno, 70. Até o momento, os dois,
+[p4c0] ao todo, condenaram 20 réus e absolveram outros 20. Sabendo que em cada processo havia apenas um réu e que Dr. Breno
+[p4c0] condenou 10 réus e que o número de réus que Dra. Ana absolveu corresponde a 1/5 do número de processos que o Dr. Breno
+[p4c0] ainda não julgou, o número de processos que Dra. Ana ainda não julgou é
+[p4c0] (A) 30
+[p4c0] (B) 10
+[p4c0] (C) 20
+[p4c0] (D) 5
+[p4c0] (E) 15
+[p4c0] Os amigos Alberto, Bruno e Carlos resolveram trazer de casa um livro cada um para trocarem entre eles. O número de maneiras
+[p4c0] que isso pode ser feito, de modo que nenhum deles fique com seu próprio livro e nem repasse o livro recebido é
+[p4c0] (A) 5
+[p4c0] (8)
+[p4c0] (6)
+[p4c0] (D)
+[p4c0] (E)
+[p4c0] ENMmtí
+[p4c0] o
+[p4c0] +
+[p4c0] 15. Maria observou que na sala de espera de um pronto atendimento havia 3 pessoas sentadas em cada banco e uma pessoa em
+[p4c0] pé. Após algum tempo, em que as pessoas se movimentaram e voltaram a se sentar, Maria observou que havia 1 banco vazio e
+[p4c0] os demais estavam com 4 pessoas em cada um. O número de bancos na sala de espera é
+[p4c0] (A) 12
+[p4c0] (B) 10
+[p4c0] (0) 8
+[p4c0] (D) 7
+[p4c0] (E 5
+[p4c0] Noções de Administração Pública e Legislação
+[p4c0] 16. Suponha que determinada organização apresente estrutura do tipo funcional, sendo que a consultoria contratada para proceder
+[p4c0] à reestruturação organizacional da referida entidade propôs modificações para que a mesma passe a ostentar uma estrutura do
+[p4c0] tipo matricial, a fim de “conferir maior flexibilidade”. Tendo em vista as conceituações correntes na doutrina a respeito de ambos
+[p4c0] os tipos de estrutura, a proposta da consultoria
+[p4c0] (A) apresenta coerência, na medida em que a estrutura matricial, dotada de órgãos de duração temporária e vinculados à
+[p4c0] duração de projetos, mostra-se mais flexivel que a do tipo funcional, dado que esta última não possui tal peculiaridade.
+[p4c0] (B) possui poucas chances de sucesso, eis que a adoção de uma estrutura matricial somente se justifica em cenários de alta
+[p4c0] contingência, nos quais é necessário abandonar estruturas departamentalizadas, passando todos os órgãos da entidade a
+[p4c0] atuar de forma fungível, sem atribuições fixas.
+[p4c0] (C) mostra-se equivocada, eis que a estrutura do tipo funcional possui muito mais flexibilidade do que a matricial, eis que
+[p4c0] permite a apuração de resultados por unidades dotadas de autonomia financeira e operacional.
+[p4c0] (D) não é capaz de conferir o maior grau de flexibilidade possível à organização, embora pertinente, sendo mais adequado
+[p4c0] para atingir tal objetivo a adoção de uma estrutura do tipo divisional, composta por centros de resultados vinculados à
+[p4c0] execução de projetos.
+[p4c0] (E) afigura-se adequada, eis que a estrutura funcional, em razão da existência dos denominados centros de resultados,
+[p4c0] ligados diretamente à área financeira e desvinculados da execução de projetos e das demais atividades especializadas,
+[p4c0] conferem elevado grau de engessamento à organização.
+[p4c0] TRT15-Conhec.Gerais!
+[p5c0] Caderno de Prova 'N', Tipo 002 JIN AEA N
+[p5c0] 17. Suponha que Pedro, servidor público federal, sujeito ao regim e estabelecido na Lei nº 8.112/1990, tenha recebido convite para
+[p5c0] ocupar cargo de livre provimento na Administração pública de determinado Estado. Pedro pretende aceitar o convite, pleiteando,
+[p5c0] assim, afastamento do seu cargo de origem sem prejuízo dos vencimentos correspondentes. De acordo com a disciplina estabe-
+[p5c0] lecida no citado diploma federal, o requerimento de Pedro
+[p5c0] (A) deve ser deferido, constituindo direito subjetivo do servidor, a quem cabe optar pela remuneração de origem, com ônus
+[p5c0] para o cedente, ou do destino, com ônus para o cessionário.
+[p5c0] (B) pode ser deferido, desde que aditado para constar com prejuízo da remuneração de origem do servidor, por se tratar de
+[p5c0] afastamento para ocupar cargo em comissão.
+[p5c0] (C) não encontra amparo legal, dado que o referido diploma legal apenas autoriza afastamentos para entidades da Adminis-
+[p5c0] tração indireta federal
+[p5c0] (D) encontra amparo legal, desde que o órgão cessionário arque com o ônus da remuneração, mediante ressarcimento ao ór-
+[p5c0] gão cedente.
+[p5c0] (E) não encontra amparo legal, somente sendo admissíveis afastamentos para ocupar outros cargos efetivos, devendo o servi-
+[p5c0] dor solicitar licença não remunerada para assumir o vínculo em comissão.
+[p5c0] 18. Suponha que determinado cidadão tenha se dirigido a uma repartição pública federal buscando a prestação de serviço de com-
+[p5c0] petência do órgão e tenha apresentado apenas o CPF como documento de identificação. O atendente, contudo, informou que o RG
+[p5c0] seria indispensável, bem como a juntada de uma cópia autenticada dos demais documentos requeridos para instruir a solicitação do
+[p5c0] serviço em questão. De acordo com o que dispõe o Decreto rê 9.094/2017, que estipula normas de atendimento ao usuário,
+[p5c0] (A) a repartição pode exigir do usuário quaisquer documentos que repute necessários, tanto para fins de identificação como
+[p5c0] para efeito de instrução, incluindo cópias autenticadas e documentos com firma reconhecida, desde que as exigências es-
+[p5c0] tejam especificadas na correspondente Carta de Serviços.
+[p5c0] (B) o RG é indispensável para identificação do cidadão, somente podendo ser substituído por passaporte ou carteira nacional
+[p5c0] de habilitação, sendo vedada, contudo, a exigência de cópias autenticadas de documentos, bastando cópia simples.
+[p5c0] (C) a apresentação do CPF é suficiente para identificação do cidadão, salvo exigência legal específica, podendo o próprio ser-
+[p5c0] vidor da repartição atestar a autenticidade de fotocópias, mediante a comparação com o documento original.
+[p5c0] (D) é vedada a exigência de exibição de documento de identificação, bastando a autodeclaração do usuário do serviço, bem
+[p5c0] como a exigência de fotocópias, autenticadas ou não, devendo os documentos ser obtidos pela repartição junto ao banco
+[p5c0] de dados dos órgãos públicos competentes.
+[p5c0] (E) o CPF pode ser usado como documento de identificação desde que o usuário declare a perda ou furto do RG, comprovada
+[p5c0] por Boletim de Ocorrência, cabendo à repartição extrair gratuitamente cópia dos documento originais e proceder à res-
+[p5c0] pectiva autenticação.
+[p5c0] Código de Ética e Regimento Interno do Tribunal Regional do Trabalho da 15º Região
+[p5c0] De acordo com o que dispõe o Código de Ética dos Servidores do Tribunal Regional do Trabalho da 15º Região, aprovado pela
+[p5c0] Resolução Administrativa nº 07/2020, a Comissão de Ética Especial
+[p5c0] (A) somente atuará no exame de infrações éticas e desvios de comportamento que configurem ou possam configurar ato de
+[p5c0] improbidade.
+[p5c0] (B) deve ser instaurada no caso de impedimento ou suspeição de mais de 1/3 (um terço) dos componentes da Comissão Per-
+[p5c0] manente, podendo funcionar por, no máximo, 6 meses.
+[p5c0] (C) é formada por 1 desembargador, que a presidirá, 1 magistrado de 1º grau, 1 servidor, com mandato de 5 anos, vedada
+[p5c0] recondução.
+[p5c0] (D) possui como atribuição apurar exclusivamente as infrações éticas de servidores do Tribunal que possam configurar con-
+[p5c0] duta apenada com demissão.
+[p5c0] (E) deve ser designada pelo Presidente da Comissão de Ética para apurar desvio ético de comportamento de quaisquer dos
+[p5c0] membros desta última.
+[p5c0] 20. As comissões permanentes previstas no Regimento Interno do Tribunal Regional do Trabalho da 15? Região têm, como
+[p5c0] finalidade, colaborar para o desempenho das atribuições daquela Corte, a exemplo da Comissão de Orçamento e Finanças, que
+[p5c0] (A) elabora a proposta orçamentária, cabendo-lhe, se o caso, ouvir as demais unidades e áreas do Tribunal a respeito de suas
+[p5c0] demandas, sem caráter vinculante.
+[p5c0] (B) auxilia na definição de prioridades do Tribunal, cotejando os projetos, iniciativas e contratações pretendidas com a
+[p5c0] viabilidade orçamentária.
+[p5c0] (C) exerce atribuição decisória sobre a proposta orçamentária do Tribunal, podendo excluir projetos e ações.
+[p5c0] (D) acompanha a execução do orçamento do Tribunal, avaliando a qualidade dos projetos e iniciativas, podendo promover o
+[p5c0] cancelamento da disponibilidade orçamentária.
+[p5c0] (E) promove captação de receitas, controle e liberação de recursos para despesas, podendo solicitar apuração de responsabi-
+[p5c0] lidades no caso de má gestão.
+[p5c0] TRT15-Conhec.Gerais! 5
+[p6c0] MAMA! Gasemo ds Prova'ny, tipo 002
+[p6c0] CONHECIMENTOS ESPECÍFICOS
+[p6c0] 21. Um Analista possui uma tabela chamada processo em um banco de dados Oracle 19c aberto e em condições ideais, que
+[p6c0] possui os campos num processo (chave primária) e ano. Para acelerar as consultas que buscam processos por ano, ele
+[p6c0] deseja criar um índice na coluna ano, denominado index ano processo, por meio do comando
+[p6c0] (A) CREATE INDEX inadno eproxces so INTO processo ON COLUMN (ano) ;
+[p6c0] (B) CREATE INDEX inadno eproxces so REFERENCES processo (ano) ;
+[p6c0] (C) CREATE INDEX inadno eproxces so ON processo (ano) ;
+[p6c0] (D) ALTER TABLE processo ADD INDEX inadno eproxces so ON ano;
+[p6c0] (E) ALTER TABLE processo ALD INDEX inadno eproxces so COLUMN (ano);
+[p6c0] 2a. No SOL*Plus, um Analista que possui as devidas permissões pretende ampliar o tamanho do Buffer Cache do Oracle 19c para
+[p6c0] 2 gigabytes, persistindo esta alteração no arquivo de parâmetros de inicialização SPFILE. O objetivo é armazenar em cache blo-
+[p6c0] cos de dados frequentemente acessados, visando aprimorar o desempenho do banco de dados. Para isso, ele deve usar 0
+[p6c0] comando
+[p6c0] (A) ALTER SYSTEM SET CACHE SIZE=2G PARAM=SPFILE;
+[p6c0] (B) ALTER SYSTEM SET DB CACHE SIZE=2G SCOPE=SPFILE;
+[p6c0] (C) ALTER SYSTEM SET DATABASE CACHE SIZE='2G' SCOPE='SPFILE';
+[p6c0] (D) ALTER DATABASE SET DB CACHE SIZE=2G SCOPE=SPFILE;
+[p6c0] (E) ALTER DATABASE SET DATABASE CACHE SIZE=2G PARAM=SPFILE;
+[p6c0] 23. Durante a sessão atual, um Analista deseja alterar o tamanho do buffer de pool! InnoDB no servidor MySQL para 5 gigabytes, pa-
+[p6c0] ra otimizar o desempenho do MySQL, reduzindo a necessidade de acessar o disco para buscar dados frequentemente usados.
+[p6c0] Para isso, ele deve utilizar o comando
+[p6c0] (A) SET CONFIG DB CACHE SIZE = 56;
+[p6c0] (B) SET GLOBAL BUFFER POOL SIZE = '5GB'!;
+[p6c0] (O) EXEC sp configure 'max server memory', 5120;
+[p6c0] (D) SET shared buffers = '5GB';
+[p6c0] (E) sET global inncdb buffer pool size = 5368709120;
+[p6c0] 24. Para uma Analista ler dados de um arquivo CSV chamado amostrasc.sv e armazená-los em um dataframe chamado dados,
+[p6c0] utilizando a linguagem R, ele deve utilizar o comando
+[p6c0] (A) dados <- read(type='csv'!, file='amostras.csv')
+[p6c0] (B) dados <- load (file='amostras.csv')
+[p6c0] (C) dados <- load.csv("amostras.csv")
+[p6c0] (D) dados <- read('csv', 'amostras.csv')
+[p6c0] (E) dados <- read.csv('amostras.csv')
+[p6c0] 25. Um Advogado deseja aplicar uma técnica de Machine Learning para prever a probabilidade de uma decisão judicial ser favorável
+[p6c0] ou desfavorável a uma das partes com base em variáveis como jurisprudência, detalhes do caso e histórico de decisões ante-
+[p6c0] riores. O recurso de Machine Learning mais adequado para essa finalidade é
+[p6c0] (A) Convolutional Neural Network (CNN).
+[p6c0] (B) atécnica de Logistic Regression.
+[p6c0] (C) o algoritmo de K-Means Clustering.
+[p6c0] (D) Support Vector Machines (SVM) for regression.
+[p6c0] (E) Autoencoders.
+[p6c0] 26. Para proteger todas as formas de código contra acesso e alteração não autorizados (PS.1), o NIST Secure Software Development
+[p6c0] Framework (SSDF), version 1.1, sugere, dentre outras medidas,
+[p6c0] (A) definir critérios para verificações de segurança de software (por exemplo: medidas de desempenho e gravidade de
+[p6c0] vulnerabilidade) e acompanhar sua implementação durante todo o ciclo de vida de desenvolvimento.
+[p6c0] (B) validar entradas, evitar o uso de funções inseguras, detectar e tratar erros, fornecer registros e rastreamento, padronizar o
+[p6c0] estilo de código e realizar revisões de código por desenvolvedores.
+[p6c0] (C) armazenar o código em repositórios protegidos, controlar versões, assinar commits e utilizar criptografia para proteger a
+[p6c0] integridade de arquivos executáveis.
+[p6c0] (D) coletar e compartilhar dados de procedência para todos os componentes do software e proteger esses dados quanto à
+[p6c0] integridade e disponibilizá-los a adquirentes de software e equipes de operações e respostas.
+[p6c0] (E) implementar medidas como autenticação multifator, controle de acesso, segmentação de rede e monitoramento contínuo.
+[p6c0] TRT15-An.Judiciário-Tec.Informação-N
+[p7c0] Caderno de Prova 'N', Tipo 002 JJMAIA FAN
+[p7c0] 27. A orientação da ABNT NBR ISO/IEC 27002:2022 sobre controle de acesso recomenda que
+[p7c0] (A) seja definida uma politica especifica por tema, sobre controle de acesso.
+[p7c0] (B) as regras de controle de acesso não sejam implementadas em diferentes granularidades, focando sempre no sistema inteiro.
+[p7c0] (C) as regras de controle de acesso não contenham elementos dinâmicos, como, por exemplo, funções que avaliam acessos
+[p7c0] passados ou valores específicos do ambiente.
+[p7c0] (D) as formas de controle de acesso sejam detalhadas na Política de Segurança da Informação, sem necessidade de política
+[p7c0] específica sobre o assunto.
+[p7c0] (E) as regras para controle de acesso físico incluam métodos como validação por senha, autenticação multifator (MFA) e
+[p7c0] Single Sign-On (550).
+[p7c0] 28. A norma ABNT NBR ISO/IEC 27701:2019, na subseção 7.2.8, trata do registro das operações de tratamento de dados pessoais.
+[p7c0] Para manter esses registros, a norma sugere
+[p7c0] (A) a criação de um documento, assinado digitalmente, compartilhado com a Autoridade Nacional de Proteção de Dados (ANPD).
+[p7c0] (B) uma política específica por tema, para os registros das operações de tratamento de dados pessoais.
+[p7c0] (C) um inventário ou lista de atividades de tratamento de dados pessoais que a organização realiza,
+[p7c0] (D) um ambiente cloud computing para dados, de alta disponibilidade, para garantir que os dados de registro estejam sempre
+[p7c0] disponíveis.
+[p7c0] (E) um repositório remoto baseado em git, protegido por criptografia e controle de acesso, para gerenciar as versões dos
+[p7c0] registros de tratamento de dados pessoais que a organização realiza.
+[p7c0] 29. Considere os dados abaixo.
+[p7c0] Personal Access Token (PAT) = ghp RCnTgfJovGy6b2WX1WaVyrcfGoHMbdl20Myk
+[p7c0] Repositório = developer. git
+[p7c0] Usuário: trt15
+[p7c0] Como administrador no prompt de um computador com o Windows, com o Git devidamente instalado e em condições ideais,
+[p7c0] para criar uma cópia local do repositório na máquina, permitindo a colaboração no projeto, um Analista deve usar o comando
+[p7c0] (A) git get https://ghp RenTgfJovey6b2wxlWavVyrciGoHMbdi20Myk&github.com/trti5/developer.git
+[p7c0] (B) git clone https://github.com/trtl5Sâghp RCnTqtJovGy6b2WxlWaVyrcfGoHMbdl20Myk/developer.git
+[p7c0] (C) git clone https://github.com/user:trtl5Bpass:ghp RCnTafJovGy6b2WXIWaVyrofGoHMbdl 2 0Myk/developer.git
+[p7c0] (D) git clone https: ffghp RCnTafJovGy6b2wxlWaVyrcfGoHMbdl20Mykfgithub.com/trt1l5/developer.git
+[p7c0] (E) git connect https://github.com/trti5Sfghp RCnTqfJovGy6b2WxlWaVyrcfGoHMbdl20Myk/developer.git
+[p7c0] 30. Um Analista fez um programa Java que permite ao usuário informar o número de anos de serviço de um funcionário e, em
+[p7c0] seguida, calcula a quantidade total de dias de férias acumuladas com base nas regras estabelecidas: 15 dias de férias para
+[p7c0] funcionários com até 5 anos de serviço e 15 dias adicionais para cada novo periodo de até 5 anos.
+[p7c0] import java.util.Scanner;
+[p7c0] public class Férias
+[p7c0] public static void main(String[] args) 1
+[p7c0] Scanner scanner = new Scanner (System. in);
+[p7c0] System.out.print ("Informe o número de anos de serviço: "5;
+[p7c0] int anosServico = scanner.nextInt();
+[p7c0] int diasFerias = calcular (anosServico) ;
+[p7c0] System.out.println("Dias de férias acumuladas: " + diasFerias);
+[p7c0] )
+[p7c0] public static int calcular (int anosservico) (
+[p7c0] if (anosservico <= 5)
+[p7c0] return 15;
+[p7c0] YJ else |
+[p7c0] h
+[p7c0] Para que o programa execute corretamente na forma descrita, no interior do bloco =1se= do método calcular deve ser
+[p7c0] colocada a instrução
+[p7c0] (A) return calcular (anosServico - 5);
+[p7c0] (B) return 15 + calcular (anosservico = 15);
+[p7c0] (C) return 15 + (anosServico - 5);
+[p7c0] (D) return 15 + calcular (anosServico - 5);
+[p7c0] (E) return anosservico + 15;
+[p7c0] TRT15-An.Judiciário-Tec.Informação-N 7
+[p8c0] OM cagemo de Prova nº, Tipo 002
+[p8c0] 31. O Spring Eureka é uma implementação do padrão de regist ro de serviços que permite que os microsserviços se registrem
+[p8c0] automaticamente e se descubram uns aos outros. A porta padrão em que o servidor Eureka irá executar na aplicação Spring
+[p8c0] Boot e o arquivo em que essa porta é configurada são, respectivamente,
+[p8c0] (A) so e eureka-server. xml
+[p8c0] (B) 15000 e application-server.yml
+[p8c0] (C) 8080 e pom.xml
+[p8c0] (D) 8005 e eureca-registry.xml
+[p8c0] (E) 8761 e application.properties
+[p8c0] 32. Em uma aplicação Java que utiliza MapStruct, em condições ideais, um usuário tem uma classe chamada Processo e uma
+[p8c0] chamada ProcessoDto. Deseja criar uma interface MapStruct chamada ProcessoMap para mapear de ProcessocDto para
+[p8c0] Processo & vice-versa. Essa interface deve ser anotada, imediatamente antes de sua declaração, com
+[p8c0] (A) EMap (type="MapStruct")
+[p8c0] (B) emapping
+[p8c0] (C) EMapstruct
+[p8c0] (D) emapper
+[p8c0] (E) GInterfaceMapper
+[p8c0] 33. Em uma aplicação que utiliza TypeScript um Analista deseja limitar os tipos de processos legais à Criminal, Cível e
+[p8c0] Trabalhista. Para isso, criou valores enumerados utilizando o bloco de código abaixo.
+[p8c0] enum TipoProcesso (
+[p8c0] Criminal = "Criminal",
+[p8c0] Civel = "Civel",
+[p8c0] Trabalhista = "Trabalhista",
+[p8c0] )
+[p8c0] Para que a constante tipo armazene o valor “Trabalhista” da enumeração TipoProcesso, deve-se utilizar o comando
+[p8c0] (A) const tipo = TipoProcesso ("Trabalhista");
+[p8c0] (B) const tipo: TipoProcesso = TipoProcesso.Trabalhista;
+[p8c0] (C) const tipo:= TipoProcesso.Trabalhista;
+[p8c0] (D) const tipo= TipoProcesso[Trabalhista];
+[p8c0] (E) const tipo: TipoProcesso = TipoProcesso (Trabalhista);
+[p8c0] 34. Considere o código abaixo.
+[p8c0] self.addEventListener('install', function(event) (
+[p8c0] event.waitUntil(
+[p8c0] caches.open ('my-cache').then(function(cache) (
+[p8c0] return cache.addAl1l([
+[p8c0] A
+[p8c0] '/index.html",
+[p8c0] '/styles.css!,
+[p8c0] '/script.js'
+[p8c0] 1);
+[p8c0] »
+[p8c0] );
+[p8c0] Ds
+[p8c0] self.addEventListener ('fetch', function(event) (
+[p8c0] event.respondWith(
+[p8c0] caches.match (event.request) .then (function(response) (
+[p8c0] return response || fetch(event.request);
+[p8c0] H
+[p8c0] );
+[p8c0] Ds
+[p8c0] Trata-se de um exemplo de implementação de
+[p8c0] (A) Service Worker JavaScript em um Progressive Web App.
+[p8c0] (B) Script de autenticação de usuário.
+[p8c0] (C) Aplicativo JavaScript autônomo e executável.
+[p8c0] (D) Node.js web server completo.
+[p8c0] (E) Single Page Application (SPA) em uma aplicação web estática com JavaScript.
+[p8c0] 8 TRT15-An.Judiciário-Tec.Informação-N
+[p9c0] Gademo de Prova 'N', Tipo 002 JN MAN A
+[p9c0] 35. Para fornecer alta disponibilidade de rede, fornecendo redundâ ncia de primeiro salto para hosts em uma rede IPv4, um Analista
+[p9c0] configurou o Hot Standby Router (HSRP), ativando o recurso de preempção apenas no roteador de maior prioridade HSRP. Ao
+[p9c0] ativar a preempção nesse roteador.
+[p9c0] (A) ele será eleito o roteador de backup em caso de indisponibilidade do roteador ativo.
+[p9c0] (B) ele será eleito o standby.
+[p9c0] (C) ele não será eleito o roteador ativo.
+[p9c0] (D) será forçado a um novo processo de eleição HSRP, em caso de reinicialização ou falha.
+[p9c0] (E) o endereço IP mais baixo configurado na sua interface física será utilizado como IP virtual (VIP).
+[p9c0] 36. Para atender mais de uma área de trabalho, um Analista utilizou uma tomada de telecomunicações de multiusuário (MUTO) e
+[p9c0] patch cords do tipo U/UTP 24 AWG. De acordo com a norma ABNT NBR 14565:2019, o comprimento máximo dos patchs cords
+[p9c0] e a quantidade máxima de áreas de trabalho atendidas pelo MUTO que o Analista pode utilizar, são, respectivamente,
+[p9c0] (A) 30 metros e 24 áreas de trabalho.
+[p9c0] (B) 20 metros e 12 áreas de trabalho.
+[p9c0] (C) 90 metros e 20 áreas de trabalho.
+[p9c0] (Dj) 10 metros e 48 áreas de trabalho.
+[p9c0] (E) 5 metros e 100 áreas de trabalho.
+[p9c0] 37. Hipoteticamente, a rede IPv4 192.168.15.0 /24 foi segmentada para criar sub-redes, obtendo, ao final, uma máscara de sub-rede
+[p9c0] 255.255.255.192. Com o objetivo de operar a rede em pilha dupla, um Analista segmentou a rede IPv6 2001 :db8:acad::/48
+[p9c0] criando o mesmo número de sub-redes IPv4. Diante desse cenário, a quarta sub-rede IPv4 e IPv6 criadas são, respectivamente,
+[p9c0] (A) 192,168.15.224 e 2001:0db8:acad:£000::
+[p9c0] (B) 192.168,15.128e 2001:db8:acad;8000::
+[p9c0] (C) 192.168.15.192 e 2001:db8:acad:4000::
+[p9c0] (D) 192.168.15.224 e 2001:db8:acad:A000::
+[p9c0] (E) 192.168.15.192 e 2001:0db8:acad:c000::
+[p9c0] 38. O EIGRP é um protocolo avançado de vetor de distância que se baseia no DUAL (Diffused Update Algorithm) para calcular o
+[p9c0] melhor caminho até um destino a partir de múltiplos fatores. Sabendo que uma Analista definiu os valores de K1=1, K2=0, K3=1,
+[p9c0] K4=0 e K5=0 para todos os roteadores de uma rede, a métrica EIGRP será calculada a partir dos fatores de
+[p9c0] (A) Bandwith, Delaye Load.
+[p9c0] (B) Bandwithe Delay.
+[p9c0] (C) Reliability, Load e MTU.
+[p9c0] (D) Delaye Load.
+[p9c0] (E) Reliability, Load e Bandwith.
+[p9c0] 39. Os nós de rede que implementam serviços diferenciados (Diffserv) em redes IPv4 utilizam um ponto de código no cabeçalho IP
+[p9c0] para selecionar um comportamento por salto (PHB) como tratamento de encaminhamento específico para esse pacote. O PHB
+[p9c0] mais adequado para criar um serviço de baixa perda, baixa latência, baixo jittere largura de banda garantida para um serviço de
+[p9c0] fim a fim, considerado premium, é o
+[p9c0] (A) EF-— Expedited Forwarding.
+[p9c0] (B) AF — Assured Forwarding.
+[p9c0] (C) BE - Best-Efion.
+[p9c0] (D) FIFO- First in First Out.
+[p9c0] (E) LLQ - Low Latency Queuing.
+[p9c0] 40. Por padrão, o WildFlyé distribuído com a segurança ativada para acesso à interface de gerenciamento. Isso significa que, antes
+[p9c0] de se conectar usando o console de administração ou. remotamente, usando a CLI, será necessário adicionar um novo usuário
+[p9c0] ao WildFty. Isso pode ser feito executando o
+[p9c0] (A) script add-user . sh contido no diretório bin
+[p9c0] (Bj comando adduser no diretório tmp/auth
+[p9c0] (C) comando adduser -a seguido do nome do usuário e senha.
+[p9c0] (D) scriptadduser.sh contido no diretório server
+[p9c0] (E) comando adauser -a seguido do nome do usuário
+[p9c0] 41. Na definição do NIST SP 800-145, a computação em nuvem é um modelo composto de cinco características essenciais, três
+[p9c0] modelos de serviço e quatro modelos de implantação, sendo um exemplo de cada um deles, respectivamente,
+[p9c0] (A) PaaS, On-demand seli-service e Resource pooling.
+[p9c0] (B) Saas, Private cloud e On-demand self-service.
+[p9c0] (C) Broad network access, laaS e Public cloud.
+[p9c0] (D) Rapid elasticity, Private cloude Paas.
+[p9c0] (E) Hybrid cloua, laaS e Community cloud.
+[p9c0] TRT15-An.Judiciário-Tec. Informação-N 9
+[p10c0] TA caderno de Prova nº, Tipo 002
+[p10c0] 42. As medidas de segurança abaixo são parte do Controle 01 — Inventário e controle de ativos corporativos definidas no CIS
+[p10c0] Controls vB:
+[p10c0] I. Estabelecer e manter um inventário detalhado de ativos corporativos.
+[p10c0] 11. Endereçar ativos não autorizados.
+[p10c0] III. Usar uma ferramenta de descoberta ativa.
+[p10c0] As funções de segurança correspondentes a cada uma das medidas citadas são, respectivamente,
+[p10c0] (A) responder, detectar e responder.
+[p10c0] (B) proteger, identificar e responder.
+[p10c0] (C) responder, detectar e identificar.
+[p10c0] (D) identificar, responder e detectar.
+[p10c0] (E) detectar, responder e proteger.
+[p10c0] 43. Ao analisar um incidente em apenas um computador da rede, um Analista observou que um malware atingiu o registro mestre de
+[p10c0] inicialização do disco rígido e de setores de inicialização de mídias removíveis, afetando a inicialização do sistema operacional.
+[p10c0] Além disso, o usuário desse computador relatou que os problemas de inicialização começaram após a execução de um arquivo
+[p10c0] recebido por e-mail. Por meio da análise e do relato do usuário, conclui-se que o malwareé um
+[p10c0] (A) Vírus.
+[p10c0] (B) Backdoor.
+[p10c0] (C) Keystroke Loggers.
+[p10c0] (D) Adware.
+[p10c0] (E) E-Mail Generators.
+[p10c0] 44. Um Analista de segurança deve implementar um tipo de firewall que atenda APENAS os seguintes requisitos:
+[p10c0] - Opere na camada de rede.
+[p10c0] - Forneça controle de acesso entre as redes com base no endereço IP de origem e destino.
+[p10c0] — Estabeleça o controle com base na interface que está sendo percorrida pelo pacote e sua direção (entrada ou saída).
+[p10c0] O tipo de firewall que atende tais requisitos é
+[p10c0] (A) UTM.
+[p10c0] (B) SIEM.
+[p10c0] (C) IDS.
+[p10c0] (D) Filtro de pacote.
+[p10c0] (E) Baseado em estados.
+[p10c0] 45. Um Analista deve escolher, entre os diferentes protocolos de rede sem fio, aquele que utiliza: AES-CCMP como padrão de en-
+[p10c0] criptação; CBC-MAC como padrão para integridade; e autenticação em modo enterprise. Para atender às especificações, O
+[p10c0] Analista deve escolher o
+[p10c0] (A) TKIP.
+[p10c0] (B) WPA2.
+[p10c0] (C) WEP.
+[p10c0] (D) WPA.
+[p10c0] (E) EAP.
+[p10c0] 46. Para diminuir o ponto de recuperação (RPO) para um servidor de aplicação da rede local, contido no plano de recuperação de
+[p10c0] desastre, um Analista deve
+[p10c0] (A) aumentar a quantidade máxima de tempo decorrida antes da conclusão da recuperação do servidor de aplicação após um
+[p10c0] desastre.
+[p10c0] (B) migrar o servidor para nuvem.
+[p10c0] (C) realizar o balanceamento de carga dos links de acesso a internet.
+[p10c0] (D) aumentar o tempo médio entre a ocorrência e a detecção de falha.
+[p10c0] (E) aumentar a frequência de backup para diminuir a quantidade de informação que é tolerável perder.
+[p10c0] 47. Um Analista avalia a implantação de uma arquitetura em nuvem na qual os recursos de processamento pertencem e são
+[p10c0] operados por um único provedor de serviços de computação em nuvem, compartilhados e redistribuídos a vários locatários pela
+[p10c0] internet, tendo como vantagens o custo operacional reduzido, fácil dimensionamento e a baixa manutenção. Com base nessas
+[p10c0] características, o Analista deve optar por uma arquitetura de nuvem
+[p10c0] (A) pública.
+[p10c0] (B) dual-homed.
+[p10c0] (C) multi-cloud.
+[p10c0] (D) híbrida.
+[p10c0] (E) privada.
+[p10c0] TRT15-An.Judiciário-Tec.Informação-N
+[p11c0] 48. Considere o texto a seguir:
+[p11c0] Ter os dados de configuração organizados e adicionados a um repositório permite a colaboração e a visibilidade da configuração
+[p11c0] do sistema. O fluxo de trabalho de solicitação pull que as equipes de software usam para revisar e editar código pode ser
+[p11c0] aplicado aos arquivos de dados de configuração. Assim, fica mais fácil construir um sistema de rastreio. Quaisquer alterações
+[p11c0] aplicadas à configuração devem ser revisadas e aceitas pela equipe. Assim, as mudanças de configuração ganham respon-
+[p11c0] sabilidade e visibilidade.
+[p11c0] Dentre os passos do processo de gerenciamento que monitora itens de configuração individuais de um sistema de TI, o texto
+[p11c0] trata da implementação do gerenciamento de configuração em ambientes Deves e correlatos e se refere à atividade de
+[p11c0] (A) balanceamento de carga.
+[p11c0] (B) linha de base.
+[p11c0] (C) implantação.
+[p11c0] (D) auditoria.
+[p11c0] (E) renderização.
+[p11c0] 49. O Gitflow trabalha com dois branches principais: Develop e Master, que são permanentes, e
+[p11c0] (A) dois branches opcionais, Catalog e Basic. que são contínuos durante todo o fluxo CCD.
+[p11c0] (B) três branches de suporte, Feature, Release e Hotfix, que são temporários e duram até realizar o merge com os branches
+[p11c0] principais.
+[p11c0] (C) dois branches operacionais, Deploy e Release, que são temporários e duram até realizar o merge com os branches
+[p11c0] principais.
+[p11c0] (D) quatro branches hotfix. Feature, Release, Hotfix e Deploy, que são contínuos durante todo o fluxo CI/CD.
+[p11c0] (E) | três branches de desenvolvimento, Feature, Release e Deploy, que são temporários e duram até realizar o merge com os
+[p11c0] branches principais.
+[p11c0] 50. Na Engenharia de Requisitos, um processo genérico de
+[p11c0] (A) especificação e validação de requisitos não funcionais se compõe de atividades como a análise e coleta, a modelagem de
+[p11c0] visão, a recuperação de dados e o rastreamento.
+[p11c0] (B) priorização de requisitos se compõe de atividades como a identificação de fontes de informação, a elicitação e a comu-
+[p11c0] nicação.
+[p11c0] (C) elicitação de requisitos se compõe de atividades como o rastreamento, a verificação e a validação.
+[p11c0] (D) modelagem e decomposição de requisitos se compõe de atividades como a validação, a especificação e a modelagem top-
+[p11c0] down.
+[p11c0] (E) elicitação e análise de requisitos se compõe de atividades como a descoberta, a classificação e organização, a priorização
+[p11c0] e negociação e a Especificação.
+[p11c0] 51. Considere, por hipótese, que o Analista de um Tribunal Regional do Trabalho está estudando o Capability Maturity Model
+[p11c0] Integration (CMMI-DEV v2.0) para uma apresentação à diretoria do órgão. Ele verificou que o modelo possui Areas de Categoria
+[p11c0] (Category Areas). Uma dessa áreas é Doing (fazer, fazendo), que
+[p11c0] (A) envolve áreas que se concentram no desenvolvimento, gestão e melhoria de processos e ativos relacionados, com foco
+[p11c0] principal na melhoria do desempenho organizacional.
+[p11c0] (B) abrange áreas relacionadas à análise de causas, tomada de decisão, manutenção da integridade do produto e comuni-
+[p11c0] cação com stakeholders.
+[p11c0] (C) abrange áreas relacionadas à produção, compra e entrega de soluções de alta qualidade.
+[p11c0] (D) inclui áreas relacionadas à capacidade de planejar e gerenciar o trabalho e a força de trabalho.
+[p11c0] (E) envolve áreas que se concentram em capacitação de equipes, melhoria e inovação tecnológica dos produtos.
+[p11c0] 52. Considere, por hipótese, que o Analista do Tribunal Regional do Trabalho está trabalhando na melhoria de processos orientado
+[p11c0] pelo guia MR-MPS-SW e sabe que a implementação do processo Gerência de Projetos - GPR inicia no nivel de maturidade G e
+[p11c0] evolui em alguns dos níveis seguintes e que, na evolução atingida a partir do nível
+[p11c0] (A) B(GPR 20), as técnicas estatisticas e quantitativas são utilizadas para definir e manter as atividades do projeto alinhadas
+[p11c0] aos objetivos de qualidade e desempenho definidos para o projeto.
+[p11c0] (B) E (GPR 22), as avaliações de soluções são realizadas utilizando técnicas estatísticas e quantitativas para determinar se a
+[p11c0] solução pode ser aplicada na organização,
+[p11c0] (C) C(GPR 10+), os resultados positivos ou negativos significativos do projeto são analisados e tratados em relação à causa-
+[p11c0] raiz, utilizando um procedimento organizacional e documentando os seus resultados.
+[p11c0] (D) A(GPR 19), os resultados atrasados do projeto são analisados e tratados em relação à causa-raiz, utilizando um procedi-
+[p11c0] mento de auditoria e revendo os seus resultados.
+[p11c0] (E) D(GPR 15+), o processo definido para o projeto, derivado da estratégia para adaptação do processo da organização, é
+[p11c0] estabelecido, mantido atualizado e utilizado.
+[p11c0] TRT15-An.Judiciário-Tec.Informação-N 11
+[p12c0] |) O! |] | ] | III II N Caderno de Prova 'N', Tipo 002
+[p12c0] 53. Suponha que um Analista de um tribunal está realizando testes de software e estudou os seguintes textos:
+[p12c0] I. Verifica se diferentes módulos ou serviços usados pelo seu aplicativo funcionam bem juntos. Envolve testar diferentes
+[p12c0] módulos de um aplicativo de software como um grupo. Um aplicativo de software é composto de diferentes submódulos
+[p12c0] que trabalham juntos para diferentes funcionalidades. A execução desses tipos de testes tem um custo maior, uma vez
+[p12c0] que exigem que várias partes do aplicativo estejam ativas e em execução.
+[p12c0] II. Verifica os recursos, funcionalidades e usabilidade de negócios críticos. Garante que os recursos e funcionalidades do
+[p12c0] software estejam se comportando como esperado sem qualquer falha. Valida principalmente toda a aplicação em relação
+[p12c0] às especificações mencionadas no documento Software Requirement Specification (SRS), (especificação de requisitos de
+[p12c0] software).
+[p12c0] Os tipos de teste relatados nos textos acima são, correta e respectivamente,
+[p12c0] (A) Unitário e Funcional.
+[p12c0] (B) Funcional e Integração.
+[p12c0] (C) Unitário e Integração.
+[p12c0] (D) Integração e Funcional.
+[p12c0] (E) Funcional e Unitário.
+[p12c0] 54. Considere os textos a seguir:
+[p12c0] Para configurar o JUnit em seu ambiente, é necessário adicionar a <<extensão de arquivo>> do JUnit ao caminho do projeto.
+[p12c0] Um conceito específico do framework para a criação de testes é que, para se testar uma classe específica, é necessário criar
+[p12c0] uma classe que deve ser herdeira da classe <<classe>>.
+[p12c0] Os trechos dos textos em destaque entre << >> são, respectivamente, corretos para
+[p12c0] (A) .ZAR - JUnit.subclass.CaseTest
+[p12c0] (B) .JAR — JUnit.subclass.TestCase
+[p12c0] (C) .ZAR — JUnit.class.TestCase
+[p12c0] (D) .JAR - JUnit.class.CaseTest
+[p12c0] (E) | .JAR - JUnit.framework.TestCase
+[p12c0] 55. Suponha que uma Analista está trabalhando em um projeto de Assistência Dirigida ao Cidadão e necessita estimar o tamanho
+[p12c0] (complexidade) do software usando a análise de Pontos de Função, internacionalmente aceita.
+[p12c0] Ao analisar o processo, considerando seu correto conhecimento sobre as funções, ela contou:
+[p12c0] — dois arquivos internos simples (baixa), um médio e um complexo (alta);
+[p12c0] - três consultas médias;
+[p12c0] - cinco entradas médias e duas complexas (alta),
+[p12c0] - três interfaces médias e uma complexa (alta);
+[p12c0] - duas saídas simples (baixa) e uma média.
+[p12c0] Dados:
+[p12c0] Valor funçõ
+[p12c0] EE: Baixa:4 Alta: 6
+[p12c0] SE: Baixa: 4 Alta: 7
+[p12c0] CE: Baixa:3 Alta :6
+[p12c0] ALI: Baixa:7 Média: 10 Ala 1
+[p12c0] AIE: Baixa:5 Média? Ala 1 mo
+[p12c0] A Analista contou corretamente (contagem detalhada) a seguinte quantidade de Pontos de Função brutos:
+[p12c0] (A) 173
+[p12c0] (B) 167
+[p12c0] (C) 127
+[p12c0] (D) 153
+[p12c0] (E) 123
+[p12c0] 56. Considere o seguinte diagrama parcial BPMN:
+[p12c0] e
+[p12c0] Tarefa 1
+[p12c0] Quanto ao tipo de tarefa e quanto ao evento anexado, Tarefa 1 modela, correta e respectivamente, uma tarefa
+[p12c0] (A) serviço e umevento erro.
+[p12c0] (B) usuário e um evento mensagem.
+[p12c0] (C) script e umevento scalation.
+[p12c0] (D) múltiplas instâncias e um evento compensação.
+[p12c0] (E) manual e um evento múltiplo.
+[p12c0] TRT15-An.Judiciário-Tec.Informação-N
+[p13c0] Caderno de Prova 'N', Tipo 002 MNE
+[p13c0] 57. Considere, por hipótese. que uma Analista de um Tribunal Reg ional do Trabalho está levantando os requisitos para o sistema de
+[p13c0] Controle de Processos e respectivas situações. Os usuários definem o que consta da seguinte lista:
+[p13c0] 1. O sistema deve estar disponível para todos os consulentes durante as horas normais de trabalho
+[p13c0] (segunda a sexta-feira, das 9:00 às 18:00).
+[p13c0] 2, Um usuário deve ser capaz de pesquisar os processos por número e por nome do processante para
+[p13c0] todas as categorias.
+[p13c0] 3. O sistema deve gerar a cada dia, para cada categoria de processo, a lista dos processos e res-
+[p13c0] pectivos processantes, bem como a situação e localização fisica e a distribuição, por juiz, dos
+[p13c0] processos, para as consultas daquele dia.
+[p13c0] 4. Periodos de não operação dentro do horário normal de trabalho não podem exceder a cinco segundos,
+[p13c0] cumulativamente, em um dia,
+[p13c0] 5. Cada processo deve ser cadastrado com número, nome do processante, juiz a quem foi distribuido e
+[p13c0] os respectivos advogados e promotores.
+[p13c0] 5, O sistema deve implementar as condições de privacidade dos processantes, tal como estabelecido nas
+[p13c0] normas gerais e regulamentos do órgão.
+[p13c0] Relacione, correta e respectivamente, em ordem por tipo de requisito, os números referentes a três requisitos funcionais
+[p13c0] seguidos por três requisitos não funcionais da lista definida pelos usuários:
+[p13c0] (A) 2,3,6,1,4€5.
+[p13c0] (B) 1,2,4,3,506
+[p13c0] (0) 2,3,5,1,4€06.
+[p13c0] (D) 1,3,5,2,4€06.
+[p13c0] (E) 1,3,6,2,405.
+[p13c0] 58. De acordo com a taxonomia dos diagramas de estrutura e de comportamento da UML 2.5, um Analista elaborou os diagramas
+[p13c0] Deployment, Package, Use Case e Sequence. As classes a que pertencem esses diagramas: estrutura = E ou comportamento =
+[p13c0] C, são, correta e respectivamente:
+[p13c0] (A) E CCC.
+[p13c0] (B E ECC.
+[p13c0] (C) EC. EC.
+[p13c0] (D) CEC, C.
+[p13c0] (E) CCEE.
+[p13c0] 59. Considere os textos a seguir:
+[p13c0] 1. Trata-se de uma das principais técnicas que define a programação orientada a objetos. É embasada em um dos princípios que
+[p13c0] adicionam segurança à aplicação em uma programação orientada a objetos, pelo fato de esconder as propriedades, criando
+[p13c0] uma espécie de caixa preta. A maior parte das linguagens orientadas a objetos a implementam, baseada em propriedades priva-
+[p13c0] das, ligadas a métodos especiais chamados getters e setters, que irão retomar e setaro valor da propriedade, respectivamente.
+[p13c0] 2. Objetos filhos herdam as características e ações de seus “ancestrais”. Entretanto, em alguns casos, é necessário que as
+[p13c0] ações para um mesmo método sejam diferentes. Em outras palavras, essa técnica consiste na alteração do funcionamento
+[p13c0] interno de um método herdado de um objeto pai. Como um exemplo, imagine-se um objeto genérico “Processante” (ances-
+[p13c0] tral). Esse objeto possui um método, ou ação, “Obter()". Tem-se dois objetos, “Processante Pessoa” e “Processante Em-
+[p13c0] presa” (filhos de Processante), que irão ser obtidos de formas diferentes.
+[p13c0] Os textos tratam, correta e respectivamente, de princípios e técnicas da orientação a objetos, que são:
+[p13c0] (A) persistência e polimorfismo.
+[p13c0] (B) visibilidade e persistência.
+[p13c0] (C) herança e visibilidade.
+[p13c0] (D) instanciação e encapsulamento.
+[p13c0] (E) encapsulamento e polimorfismo.
+[p13c0] 60. Considere o seguinte caso hipotético:
+[p13c0] Um Analista de um Tribunal Regional do Trabalho está criando uma aplicação de gerenciamento de logística para distribuição de
+[p13c0] processos. A primeira versão da sua aplicação pode lidar apenas com a distribuição física feita por meio de pessoas, portanto, a
+[p13c0] maior parte do código fica dentro da classe Entrsgador. Depois de um tempo, a aplicação se torna bastante utilizada e ele recebe
+[p13c0] frequentemente várias solicitações de outros departamentos do órgão para incorporar. na aplicação, a logística de distribuição dos
+[p13c0] processos digitalizados por meio do computador. A adição de uma nova classe (meio) de distribuição ao programa causa um
+[p13c0] problema porque adicionar uma nova classe ao programa não é tão simples se o restante do código já estiver acoplado às classes
+[p13c0] existentes. Atualmente, a maior parte do código é acoplada à classe Entregador. Adicionar Computador à aplicação exigiria
+[p13c0] alterações em toda a base de código. Além disso, se mais tarde ele decidir adicionar outro meio de distribuição à aplicação,
+[p13c0] provavelmente precisará fazer todas essas alterações novamente. Como resultado, ele terá um código bastante sujo, repleto de
+[p13c0] condicionais que alteram o comportamento da aplicação, dependendo da classe de objetos de meio de distribuição.
+[p13c0] Uma solução de melhoria para deixar o código mais limpo e manutenível é usar o padrão de projeto
+[p13c0] (A) criacional Bridge.
+[p13c0] (B) comportamental Composite.
+[p13c0] (C) criacional Factory Method.
+[p13c0] (D) comportamental Iterator.
+[p13c0] (E) estrutural Builder.
+[p13c0] TRT1S-An.Judiciário-Tec.Informação-N 13
+[p14c0] E caderno de Prova in Tipo 002
+[p14c0] PROVA DISCURSIVA-ESTUDO DE CASO
+[p14c0] Instruções Gerais:
+[p14c0] Conforme Edital publicado, Capítulo 10: itens 10.2 Para todos os Cargos/Áreas/Especialidades/Polos de Classificação, a Prova Discursiva-Estudo de
+[p14c0] Caso constará de 02 (duas) questões práticas, para as quais o candidato deverá apresentar. por escrito, as soluções. [...] 10.4 A Prova Discursi-
+[p14c0] va-Estudo de Caso destinar-se-á a avaliar o domínio de conteúdo dos temas abordados, a experiência prévia do candidato e sua adequabilidade
+[p14c0] quanto às atribuições do cargo e especialidade. [...] 10.8 Será atribuída nota ZERO à Prova Discursiva-Estudo de Caso nos seguintes casos: 10.8.1
+[p14c0] fugir ao tema proposto; 10.8.2 apresentar textos sob forma não articulada verbalmente (apenas com desenhos, números e palavras soltas ou em
+[p14c0] versos) ou qualquer fragmento de texto escrito fora do local apropriado; 10.8.3 for assinada fora do local apropriado; 10.8.4 apresentar qualquer sinal
+[p14c0] que, de alguma forma. possibilite a identificação do candidato; 10.8.5 estiver em branco; 10.8.6 apresentar letra ilegível e/ou incompreensível; 10.8.7
+[p14c0] não atender aos requisitos definidos na grade de correção/máscara de critérios definidos pela Banca Examinadora. 10.9 Respostas que apresentarem
+[p14c0] trechos reproduzidos de textos já divulgados em fontes de acesso público a que a Banca Examinadora tenha acesso, ou que apresentem cópia de trecho
+[p14c0] dos textos motivadores, de questões ou textos da prova objetiva, poderão ser penalizadas com redução drástica da nota. [..] 10.11 Na Prova Discursi-
+[p14c0] va-Estudo de Caso. deverá ser rigorosamente observado o limite máximo de 15 (quinze) linhas para cada questão. sob pena de perda de pontos a
+[p14c0] serem atribuídos ao Estudo de Caso. 10.12 A folha para rascunho no Caderno de Provas é de preenchimento facultativo. Em hipótese alguma o
+[p14c0] rascunho elaborado pelo candidato será considerado na correção da Prova Discursiva-Estudo de Caso pela Banca Examinadora. 10.13 Eventuais
+[p14c0] marcações nos enunciados das questões, que não excedam a palavras sublinhadas ou circuladas, não trarão prejuízo à correção da prova. [...]
+[p14c0] QUESTÃO 1
+[p14c0] Considere que um Tribunal Regional do Trabalho está implantando um Sistema de Gestão da Segurança da Informação para proteger
+[p14c0] seus sistemas de gerenciamento de casos, gerenciamento de documentos, registro de audiências, registro de julgamentos, redes,
+[p14c0] acesso, autenticação e vigilância. Pretende garantir a proteção efetiva dos sistemas e dados considerando os cinco princípios
+[p14c0] fundamentais da Segurança da Informação: Confidencialidade, Integridade, Disponibilidade, Autenticidade e Legalidade.
+[p14c0] Informe ao menos duas técnicas ou tecnologias, de categorias diferentes, que devem ser utilizadas para garantir cada um desses
+[p14c0] princípios fundamentais.
+[p15c0] Caderno de Prova 'N' Tipo 002 JIN NINE
+[p15c0] QUESTÃO 2
+[p15c0] Considere o seguinte trecho da Resolução nê 65 de 16/12/2008.
+[p15c0] CAPÍTULO 1
+[p15c0] DA NUMERAÇÃO ÚNICA DE PROCESSOS
+[p15c0] DISPOSIÇÕES GERAIS
+[p15c0] Art. 1ºFica instituída a numeração única de processos no âmbito do Poder Judiciário, observada a estrutura NNNNNNN-
+[p15c0] DD.AAAA.J.TR.OCOOO, composta de 6 (seis) campos obrigatórios, nos termos da tabela padronizada constante dos Anexos LI a VII
+[p15c0] desta Resolução.
+[p15c0] $120 campo (NNNNNNN), com 7 (sete) dígitos, identifica o número sequencial do processo por unidade de origem (0000), a ser
+[p15c0] reiniciado a cada ano.
+[p15c0] É.]
+[p15c0] 822 O campo (DD), com 2 (dois) digitos, identifica o dígito verificador. cujo cálculo de verificação deve ser efetuado pela aplicação do
+[p15c0] algoritmo Módulo 97 Base 10, conforme Norma ISO 7064:2003, nos termos das instruções constantes do Anexo VIT IT desta Resolução.
+[p15c0] $3º O campo (AAAA), com 4 (quatro) dígitos, identifica o ano do ajuizamento do processo.
+[p15c0] $ 420 campo (J), com 1 (um) dígito, identifica o órgão ou segmento do Poder Judiciário, observada a seguinte correspondência:
+[p15c0] É]
+[p15c0] Sendo Justiça do Trabalho: 5 (cinco);
+[p15c0] $5º0 campo (TR), com 2 (dois) dígitos, identifica o tribunal do respectivo segmento do Poder Judiciário e, na Justiça Militar da União,
+[p15c0] a Circunscrição Judiciária. [...]
+[p15c0] Um exemplo: 0001842-67.2017.5,01.0246: número de processo judicial (meramente ilustrativo) ajuizado em 2017 na Justiça do Trabalho.
+[p15c0] Tendo como base a resolução acima, um Analista de um Tribunal Regional do Trabalho está auxiliando os magistrados a encontrarem
+[p15c0] alguns dados de processos, via pesquisa SQL padrão ANSI.
+[p15c0] Considerando que o Banco de Dados já está criado e funcionando em condições ideais, pede-se:
+[p15c0] a. Criar a Tabela Processo, se já não existir, com um único campo chamado cod processo que também é chave primária, com
+[p15c0] tamanho de 25 caracteres e não nulo.
+[p15c0] b. Inserir, nessa tabela criada, os códigos de processo com os valores:
+[p15c0] 0001842-67.2017.5.01.0246
+[p15c0] 0001843-67.2023.5.01.0246
+[p15c0] c. Obter todos os processos cujo código contenha em alguma parte o número 2028.
+[p15c0] 0
+[p15c0] 02
+[p15c0] 03
+[p15c0] 04
+[p15c0] 05
+[p15c0] 06
+[p15c0] 07
+[p15c0] 08
+[p15c0] 09
+[p15c0] 10
+[p15c0] E!
+[p15c0] 12
+[p15c0] 13
+[p15c0] 14
+[p15c0] 15

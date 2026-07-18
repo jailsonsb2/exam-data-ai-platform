@@ -1,0 +1,1359 @@
+[p1c0] C
+[p1c0] IÊNCIA DE
+[p1c0] SUA PROVA
+[p1c0] • Além deste caderno contendo 70 (setenta)
+[p1c0] questões objetivas e 1 (uma) questão dissertativa,
+[p1c0] você receberá do fiscal de sala o cartão de respostas
+[p1c0] e a folha de texto definitivo;
+[p1c0] • As questões objetivas têm 5 (cinco) opções de
+[p1c0] resposta (A, B, C, D e E) e somente uma delas está
+[p1c0] correta.
+[p1c0] • A redação deverá ser redigida entre 20 (vinte) e
+[p1c0] 30 (trinta) linhas.
+[p1c0] •
+[p1c0] TEMPO
+[p1c0] • Você dispõe de 4 (quatro) horas para a realização da
+[p1c0] prova, já incluído o tempo para o preenchimento das
+[p1c0] folhas de textos definitivos;
+[p1c0] • 2 (duas) horas após o início da prova, é possível
+[p1c0] retirar-se da sala, sem levar o caderno de questões;
+[p1c0] • A partir dos 30 (trinta) minutos anteriores ao
+[p1c0] término da prova é possível retirar-se da sala
+[p1c0] levando o caderno de questões.
+[p1c0] NÃO SERÁ PERMITIDO
+[p1c0] • Qualquer tipo de comunicação entre os candidatos
+[p1c0] durante a aplicação da prova;
+[p1c0] • Anotar informações relativas às respostas em
+[p1c0] qualquer outro meio que não seja o caderno de
+[p1c0] questões;
+[p1c0] • Levantar da cadeira sem autorização do fiscal de
+[p1c0] sala;
+[p1c0] • Usar o sanitário ao término da prova, após deixar a
+[p1c0] sala.
+[p1c1] TRIBUNAL DE JUSTIÇA
+[p1c1] E R
+[p1c1] DO STADO DE ORAIMA
+[p1c1] CONCURSO PÚBLICO – EDITAL 01/2024
+[p1c1] MANHÃ
+[p1c1] ANALISTA JUDICIÁRIO
+[p1c1] E
+[p1c1] D
+[p1c1] ADOS E
+[p1c1] A
+[p1c1] NALYTICS
+[p1c1] NÍVEL SUPERIOR – PROVA TIPO 1 BRANCA
+[p1c1] INFORMAÇÕES GERAIS
+[p1c1] • Verifique se seu caderno de questões está completo,
+[p1c1] sem repetição de questões ou falhas. Caso contrário,
+[p1c1] notifique imediatamente o fiscal da sala, para que sejam
+[p1c1] tomadas as devidas providências;
+[p1c1] • Confira seus dados pessoais, especialmente nome,
+[p1c1] número de irição e documento de identidade e leia
+[p1c1] atentamente as instruções para preencher a folha de
+[p1c1] texto definitivo;
+[p1c1] • Para o preenchimento das folhas de textos definitivos,
+[p1c1] use somente caneta esferográfica, fabricada em material
+[p1c1] transparente, com tinta preta ou azul;
+[p1c1] • Assine seu nome apenas nos espaços reservados nas
+[p1c1] folhas de textos definitivos;
+[p1c1] • Confira seu cargo, cor e tipo do caderno de questões.
+[p1c1] Caso tenha recebido caderno de cargo ou cor ou tipo
+[p1c1] diferente do impresso em suas folhas de textos
+[p1c1] definitivos, o fiscal de sala deve ser obrigatoriamente
+[p1c1] informado para o devido registro na ata da sala;
+[p1c1] • Reserve tempo suficiente para o preenchimento das suas
+[p1c1] folhas de textos definitivos. O preenchimento é de sua
+[p1c1] responsabilidade e não será permitida a troca das folhas
+[p1c1] de textos definitivos em caso de erro cometido pelo
+[p1c1] candidato;
+[p1c1] • Para fins de avaliação, serão levadas em consideração
+[p1c1] apenas as marcações realizadas nas folhas de textos
+[p1c1] definitivos;
+[p1c1] • A FGV coletará as impressões digitais dos candidatos na
+[p1c1] lista de presença;
+[p1c1] • Os candidatos serão submetidos ao sistema de detecção
+[p1c1] de metais quando do ingresso e da saída de sanitários
+[p1c1] durante a realização das provas.
+[p1c1] • Boa prova!
+[p2c0] LÍNGUA PORTUGUESA
+[p2c0] 1
+[p2c0] Assinale a frase a seguir em que a comparação realizada não aparece
+[p2c0] explicada, como nas demais frases.
+[p2c0] (A) A vida é como um balão: quando nos deparamos com ventos
+[p2c0] fortes, a solução não é lutar contra eles, mas procurar novas
+[p2c0] altitudes, novos ventos que levem na direção certa.
+[p2c0] (B) A vida é como um jogo de cartas. A mão que as distribui
+[p2c0] representa determinismo. A forma como você joga é o livre
+[p2c0] arbítrio.
+[p2c0] (C) A vida é como um cobertor curto. Se você puxa para cima, seus
+[p2c0] dedos ficam descobertos, se você cobre os pés, descobre seus
+[p2c0] ombros.
+[p2c0] (D) A vida é como uma grande tela: jogue toda a tinta que puder e
+[p2c0] aproveite cada espaço para fazer bons quadros, dando bons
+[p2c0] exemplos.
+[p2c0] (E) O jogo da vida é como o jogo de bumerangue. Nossos
+[p2c0] pensamentos, realizações e palavras voltam para nós mais cedo
+[p2c0] ou mais tarde, com uma precisão impressionante.
+[p2c0] 2
+[p2c0] Assinale a frase em que o termo sublinhado se refere a um termo
+[p2c0] seguinte e não a um termo anterior.
+[p2c0] (A) Não pratico esportes. Quando dá vontade, deito até ela passar
+[p2c0] por completo.
+[p2c0] (B) Sono saudável tem aquele de estômago moderado, que se
+[p2c0] levanta cedo e com boa disposição.
+[p2c0] (C) É a mente que enriquece o corpo.
+[p2c0] (D) Fecho meus olhos para ver o que os homens imaginam.
+[p2c0] (E) O estômago é a terra onde germina o pensamento.
+[p2c0] 3
+[p2c0] Observe a seguinte frase:
+[p2c0] Se disser algo errado, poderá dizê-lo de novo. Se escrever algo
+[p2c0] errado, poderá reescrevê-lo. Se fizer algo errado, o erro ficará com
+[p2c0] você para sempre.
+[p2c0] Sobre a estruturação ou a significação dessa frase, é correto afirmar
+[p2c0] que
+[p2c0] (A) os pronomes “lo” usados na frase não possuem antecedente
+[p2c0] expresso.
+[p2c0] (B) as ações de “dizer”, “escrever” e “fazer” mostram uma
+[p2c0] progressão ascendente de gravidade nos três termos.
+[p2c0] (C) os períodos que formam a frase mostram certo paralelismo
+[p2c0] sintático.
+[p2c0] (D) os segmentos “Se disser”, “Se escrever” e “Se fizer” mostram
+[p2c0] três formas de infinitivo dos verbos.
+[p2c0] (E) o termo “o erro” não tem antecedente expresso na frase.
+[p2c0] 4
+[p2c0] Um espectador de um programa televisivo comentou:
+[p2c0] Gosto dos comentários desse repórter, pois ele sabe que o tempo
+[p2c0] deve ser curto e seleciona o que é mais importante.
+[p2c0] Nesse caso, o conceito de boa expressão de linguagem é a de que se
+[p2c0] expressa de forma
+[p2c0] (A) gramaticalmente correta.
+[p2c0] (B) culta e elaborada.
+[p2c0] (C) popular.
+[p2c0] (D) adequada à situação.
+[p2c0] (E) literária.
+[p2c1] 5
+[p2c1] Uma marca que mostra um traço da língua falada e não da língua
+[p2c1] escrita, é
+[p2c1] (A) a predominância de frases complexas.
+[p2c1] (B) o uso frequente da voz passiva.
+[p2c1] (C) o uso de interrupções para melhoria da expressão.
+[p2c1] (D) o apelo a variadas estratégias de produção textual.
+[p2c1] (E) a continuidade na expressão textual.
+[p2c1] 6
+[p2c1] A contracapa do Minidicionário da Língua Portuguesa, de autoria de
+[p2c1] Evanildo Bechara, traz o seguinte:
+[p2c1] Elaborado pelo prof. Evanildo Bechara, o único representante da ABL
+[p2c1] no novo Acordo Ortográfico.
+[p2c1] Muito fácil de consultar.
+[p2c1] Todas as palavras alteradas pela Reforma Ortográfica vêm
+[p2c1] assinaladas.
+[p2c1] Mais de 30 mil palavras e locuções.
+[p2c1] Regionalismos, estrangeirismos e siglas.
+[p2c1] Assinale a opção que não mostra uma vantagem que está explícita
+[p2c1] ou implicitamente aí indicada.
+[p2c1] (A) Grande número de vocábulos incluídos na obra.
+[p2c1] (B) Classificação gramatical dos vocábulos.
+[p2c1] (C) Facilidade de acesso à obra.
+[p2c1] (D) Informações de qualidade diferenciada.
+[p2c1] (E) Informações atuais sobre palavras.
+[p2c1] 7
+[p2c1] Um anúncio de produtos eletrônicos dizia:
+[p2c1] Tem coisas que nem o Papai Noel faz pra você: uma lista de presentes
+[p2c1] para este Natal – Philco cinema, DVD portátil Adventure e Micro
+[p2c1] System PH671.
+[p2c1] Assinale a observação correta sobre esse pequeno texto.
+[p2c1] (A) A referência a Papai Noel se deve ao fato de ele ser o autor de
+[p2c1] muitas listas de presentes.
+[p2c1] (B) O anúncio mostra interferência da língua falada com o intuito de
+[p2c1] aproximação social com os leitores.
+[p2c1] (C) O pronome de tratamento “você” se refere no texto a um
+[p2c1] receptor específico.
+[p2c1] (D) Os produtos referidos no texto servem para mostrar a alta
+[p2c1] qualidade do que é anunciado.
+[p2c1] (E) O anúncio procura lembrar aos leitores a necessidade de dar
+[p2c1] bons presentes no Natal.
+[p2c1] 8
+[p2c1] Num dos quadrinhos da Turma da Mônica, em história que ocorre na
+[p2c1] zona rural do país, há um diálogo entre um menino e sua mãe:
+[p2c1] Menino – Mãe, tenho uma coisa boa e uma coisa ruim pra contá pra
+[p2c1] sinhora!
+[p2c1] Mãe – Qual é a boa?
+[p2c1] Menino – No ano qui vem vou usá os mermo livros deste ano!
+[p2c1] Assinale a afirmação correta sobre esse pequeno diálogo.
+[p2c1] (A) No diálogo não ocorre perfeito entendimento entre os
+[p2c1] personagens dos quadrinhos.
+[p2c1] (B) Os dois personagens dos quadrinhos empregam a mesma
+[p2c1] variação linguística.
+[p2c1] (C) A variação linguística mostrada pelo menino intensifica o efeito
+[p2c1] humorístico da história narrada.
+[p2c1] (D) A variação linguística do menino mostra exclusivamente trocas
+[p2c1] de pronúncia nas vogais.
+[p2c1] (E) A notícia boa era a permanência do menino na mesma escola.
+[p3c0] 9
+[p3c0] Observe o seguinte texto:
+[p3c0] Em maio de 1985, cientistas alertaram para a existência de um
+[p3c0] buraco na camada de ozônio em cima da Antártida numa revista
+[p3c0] científica. Essa camada protege animais, plantas e homens das
+[p3c0] radiações solares.
+[p3c0] A descoberta foi divulgada pelos pesquisadores Joe Farman, Brian
+[p3c0] Gardiner e Jonathan Shanklin. O buraco está relacionado ao acúmulo
+[p3c0] de gases CFCs (usados em sistemas de refrigeração e de ar-
+[p3c0] condicionado e em solventes industriais).
+[p3c0] Para reverter a situação, foi firmado em 1987 o Protocolo de
+[p3c0] Montreal, em que os países se comprometeram a substituir os CFCs.
+[p3c0] A expectativa dos cientistas e que em 2080 a camada de ozônio da
+[p3c0] Antártida volte aos níveis de 1950.
+[p3c0] Assinale a observação correta sobre esse pequeno texto.
+[p3c0] (A) Uma data importante é lembrada nesse texto e o autor emprega
+[p3c0] uma linguagem de caráter subjetivo para isso.
+[p3c0] (B) O texto, por sua estrutura e conteúdo deve ser incluído entre os
+[p3c0] de caráter didático.
+[p3c0] (C) O texto termina com um apelo à intimidação dos cientistas
+[p3c0] envolvidos no fato noticiado.
+[p3c0] (D) A variação linguística empregada no texto é a popular, para mais
+[p3c0] fácil comunicação com os leitores.
+[p3c0] (E) Para comprovar a veracidade dos fatos informados, o autor
+[p3c0] apelou para depoimentos de autoridades.
+[p3c0] 10
+[p3c0] Um jornal português trazia o seguinte texto:
+[p3c0] Aterrar nas lojas antes de levantar voo. A nova zona comercial do
+[p3c0] aeroporto de Lisboa está maior e mais bonita. Ana Garcia Martins
+[p3c0] não foi de viagem, mas foi visitá-la. Ir de viagem e não comprar
+[p3c0] perfumes e chocolates ne aeroporto é mais ou menos a mesma coisa
+[p3c0] que ir a Roma e não ver o Papa.
+[p3c0] Assinale a afirmação inadequada sobre esse texto.
+[p3c0] (A) A utilização do verbo “aterrar” em lugar de “aterrissar” indica
+[p3c0] uma preferência vocabular dos portugueses.
+[p3c0] (B) O texto deve ser enquadrado como publicitário, tendo por
+[p3c0] objeto o comércio nas lojas do aeroporto de Lisboa.
+[p3c0] (C) A pessoa citada, no texto, mostra uma atitude que deveria ser
+[p3c0] copiada por outras pessoas.
+[p3c0] (D) O pronome “la” se refere à zona comercial do aeroporto.
+[p3c0] (E) A comparação final do texto é feita para mostrar o absurdo que
+[p3c0] é ir a Roma e não ver o Papa.
+[p3c0] 11
+[p3c0] Assinale a frase em que predomina a função metalinguística de
+[p3c0] linguagem.
+[p3c0] (A) O ouro não é tudo. Também existem diamantes.
+[p3c0] (B) Estou vivendo a experiência de ficar sem dinheiro.
+[p3c0] (C) O que aprendemos com o passado é que raramente aprendemos
+[p3c0] com o passado.
+[p3c0] (D) A diferença entre pê e pé não é só no acento gráfico.
+[p3c0] (E) A verdadeira constituição das coisas gosta de ocultar-se.
+[p3c0] 12
+[p3c0] Observe este anúncio publicitário:
+[p3c0] Novo Nokia N85. Fotografe. Filme. Crie. Jogue. Encontre. Conectado.
+[p3c0] Sempre.
+[p3c0] Assinale a afirmação correta sobre esse texto.
+[p3c0] (A) Os períodos do texto mostram paralelismo sintático.
+[p3c0] (B) O principal objetivo desse texto é convencer o leitor.
+[p3c0] (C) O texto concentra sua atenção no produto anunciado.
+[p3c0] (D) O emprego do imperativo neste caso indica ordem.
+[p3c0] (E) Predomina no texto a função emotiva.
+[p3c1] 13
+[p3c1] Assinale a frase em que o verbo sublinhado tem valor de elemento
+[p3c1] coesivo referencial.
+[p3c1] (A) O jogador mostrou dedicação, mas seu colega não fez o mesmo.
+[p3c1] (B) Todos construíram suas casas rapidamente, mas outros
+[p3c1] atrasaram-se na tarefa.
+[p3c1] (C) O turista escreveu uma carta aos parentes, enquanto seu colega
+[p3c1] comprava presentes para os seus.
+[p3c1] (D) Todos viajaram ao mesmo tempo, mas alguns ficaram presos por
+[p3c1] exigências burocráticas.
+[p3c1] (E) Eu componho músicas e ele redige as letras.
+[p3c1] 14
+[p3c1] Assinale a opção em que a relação lógica entre os segmentos da frase
+[p3c1] se encontra corretamente indicada.
+[p3c1] (A) Cave no local em que o ouro está enterrado, / a não ser que você
+[p3c1] só esteja precisando de exercício – relação de conformidade.
+[p3c1] (B) A fé remove montanhas, / mas os ecologistas são contra. –
+[p3c1] relação de explicação.
+[p3c1] (C) Quando a última árvore for cortada / os homens vão perceber
+[p3c1] que dinheiro não alimenta. / relação de tempo.
+[p3c1] (D) Há flores em todas as estações, / assim como loucuras em todas
+[p3c1] as idades. - relação de modo.
+[p3c1] (E) Os bichos não são tão burros / como se pensa. – relação de
+[p3c1] causa.
+[p3c1] 15
+[p3c1] Assinale a frase que não mostra traço de intertextualidade.
+[p3c1] (A) A queda desse fiscal é uma crônica anunciada, pois ele vendia
+[p3c1] licenças.
+[p3c1] (B) Dizem que devagar se vai ao longe, mas quando se chega
+[p3c1] atrasado, tudo já foi vendido.
+[p3c1] (C) A Bíblia tinha razão, pois encontraram a Arca de Noé soterrada
+[p3c1] em um deserto.
+[p3c1] (D) Se conversa mole fosse avião, o Brasil teria a maior força aérea
+[p3c1] do mundo.
+[p3c1] (E) O futuro a Deus pertence e, quando a gente é ministro, pertence
+[p3c1] também ao Presidente.
+[p3c1] 16
+[p3c1] Cada frase abaixo mostra uma inferência (algo deduzido do que foi
+[p3c1] expresso).
+[p3c1] Assinale a frase em que a inferência é inadequada.
+[p3c1] (A) Se meu médico me disser que tenho somente um dia de vida,
+[p3c1] não vou ficar remoendo. Redigirei as obras mais rapidamente.
+[p3c1] Inferência: o emissor é escritor.
+[p3c1] (B) Pretendo viver para sempre. Até agora, tudo bem. Inferência: o
+[p3c1] emissor já morreu.
+[p3c1] (C) É praticamente impossível olhar para um pinguim e sentir raiva.
+[p3c1] Inferência: a imagem do pinguim é agradável.
+[p3c1] (D) Queria ter 25 ou 32 anos. Como não tenho, não digo a minha
+[p3c1] idade. Inferência: o emissor da frase é mais velho.
+[p3c1] (E) O limão é uma laranja de mau humor. Inferência: o gosto do
+[p3c1] limão é amargo.
+[p4c0] LEGISLAÇÃO
+[p4c0] 17
+[p4c0] No exercício de suas atribuições como analista do Tribunal de Justiça
+[p4c0] do Estado de Roraima, Geraldino opôs resistência injustificada ao
+[p4c0] andamento de determinado processo, sendo certo que nunca havia
+[p4c0] violado dever funcional anteriormente, razão pela qual foi
+[p4c0] instaurada sindicância para fins de apuração da mencionada
+[p4c0] infração.
+[p4c0] Acerca da penalidade aplicável a Geraldino na situação descrita e da
+[p4c0] sindicância, à luz do Regime Jurídico dos Servidores Públicos Civis do
+[p4c0] Estado de Roraima (Lei Complementar Estadual nº 53/2001), é
+[p4c0] correto afirmar que
+[p4c0] (A) caso não se justifique a aplicação de penalidade mais grave à a
+[p4c0] Geraldino, a sanção de advertência pode resultar da sindicância,
+[p4c0] mediante a ampla defesa e o contraditório.
+[p4c0] (B) a penalidade mais leve prevista para a situação em comento é a
+[p4c0] suspensão de Geraldino por sessenta dias, que pode resultar da
+[p4c0] sindicância, independentemente da ampla defesa e
+[p4c0] contraditório.
+[p4c0] (C) pode ser aplicada à a Geraldino a sanção de advertência,
+[p4c0] suspensão ou demissão, que, em qualquer caso, poderá resultar
+[p4c0] da sindicância, que não exige a observância da ampla defesa e
+[p4c0] do contraditório.
+[p4c0] (D) ainda que se conclua que a penalidade aplicável à a Geraldino
+[p4c0] deve ser a advertência, a imposição da sanção não pode resultar
+[p4c0] da sindicância, diante da necessidade de ampla defesa e
+[p4c0] contraditório.
+[p4c0] (E) a infração cometida por Geraldino está elencada dentre aquelas
+[p4c0] que justificam a penalidade de demissão, de modo que deve ser
+[p4c0] instaurado o processo administrativo disciplinar, não podendo
+[p4c0] resultar da sindicância.
+[p4c0] 18
+[p4c0] Ao analisar o ciclo da gestão de desempenho por competências
+[p4c0] delineado na Resolução TJRR/TP nº 28/2023, João concluiu
+[p4c0] corretamente que
+[p4c0] (A) o planejamento anual das qualificações a serem oferecidas pela
+[p4c0] Escola do Poder Judiciário deverá contemplar o conteúdo dos
+[p4c0] planos de desenvolvimento individual (PDI).
+[p4c0] (B) a gestão de desempenho por competências é realizada em ciclos
+[p4c0] mensais, composto das seguintes fases: acordo de desempenho,
+[p4c0] avaliação do desempenho, feedback pós-avaliação; e planos de
+[p4c0] desenvolvimento.
+[p4c0] (C) o feedback poderá ser realizado de forma individual ou por
+[p4c0] grupo de servidores sob a mesma chefia, sendo vedada a
+[p4c0] alteração das notas inicialmente atribuídas na avaliação de
+[p4c0] desempenho.
+[p4c0] (D) os planos de desenvolvimento consistem em compromissos
+[p4c0] firmados entre servidor e chefia imediata quanto aos resultados
+[p4c0] e comportamentos esperados no período a ser avaliado.
+[p4c0] (E) a avaliação de desempenho é a aferição sistemática das
+[p4c0] competências das pessoas, expressadas pelo conjunto de
+[p4c0] aptidões e conhecimentos demonstrados no ambiente de
+[p4c0] trabalho, não podendo ser composta da autoavaliação.
+[p4c1] 19
+[p4c1] Entre os compromissos de conduta ética previstos na Resolução
+[p4c1] TJRR/TP nº 73/2022 (Código de Ética dos Servidores do Tribunal de
+[p4c1] Justiça do Estado de Roraima), encontramos o seguinte:
+[p4c1] (A) atuar com neutralidade no cumprimento de suas atribuições,
+[p4c1] sendo possível, contudo, manifestar suas influências político-
+[p4c1] partidária, religiosa ou ideológica no exercício de suas
+[p4c1] atribuições.
+[p4c1] (B) zelar pelo uso correto e eficiente do patrimônio institucional,
+[p4c1] adotando práticas de economicidade e sustentabilidade, o que
+[p4c1] não abarca o combate ao desperdício de materiais utilizados no
+[p4c1] âmbito do Tribunal ou de sua missão institucional.
+[p4c1] (C) tratar autoridades, superiores hierárquicos, jurisdicionados,
+[p4c1] advogados, demais servidores, terceirizados, estagiários e
+[p4c1] outros colaboradores com respeito, cordialidade,
+[p4c1] disponibilidade e senso de cooperação e justiça, inclusive quanto
+[p4c1] às limitações pessoais.
+[p4c1] (D) utilizar com responsabilidade os recursos e ferramentas de
+[p4c1] Tecnologia da Informação e Comunicação, observando as
+[p4c1] normas internas, autorizando-se a utilização desses recursos
+[p4c1] para propagação e divulgação de conteúdo mesmo que atente
+[p4c1] contra a moralidade administrativa.
+[p4c1] (E) representar de imediato à autoridade competente todo e
+[p4c1] qualquer ato ou fato que seja contrário ao interesse público,
+[p4c1] salvo quanto à denúncia de pressões de superiores hierárquicos
+[p4c1] que visem a obter vantagens indevidas em decorrência de ações
+[p4c1] ou omissões imorais, ilegais ou antiéticas.
+[p4c1] 20
+[p4c1] Considerando os impedimentos e incompatibilidades dos
+[p4c1] Magistrados e dos Servidores da Justiça previstos no Novo Código de
+[p4c1] Organização Judiciária do Estado de Roraima (Lei Complementar
+[p4c1] Estadual nº 221/2014 - COJERR), é correto afirmar que
+[p4c1] (A) nenhum Servidor da Justiça, em qualquer categoria, poderá
+[p4c1] funcionar juntamente com o cônjuge ou parente, consanguíneo
+[p4c1] ou afim, em linha reta ou colateral até o terceiro grau na mesma
+[p4c1] Comarca, mesmo que não haja dependência hierárquica entre as
+[p4c1] funções dos respectivos cargos.
+[p4c1] (B) o impedimento relativo ao funcionamento de servidores da
+[p4c1] Justiça de atuar no mesmo feito com cônjuges e parentes não
+[p4c1] pode ser aplicado quando alguma das partes, seu procurador ou
+[p4c1] o agente do Ministério Público, mantiver com o servidor idêntica
+[p4c1] relação de parentesco, consanguíneo ou afim.
+[p4c1] (C) na hipótese de verificação de impedimento do servidor da
+[p4c1] Justiça em razão da atuação de seu com o cônjuge ou parente,
+[p4c1] consanguíneo ou afim, em linha reta ou colateral até o terceiro
+[p4c1] grau na mesma Comarca, será afastado o primeiro nomeado.
+[p4c1] (D) exceto em atos ou processos administrativos ou de jurisdição
+[p4c1] graciosa do Tribunal de Justiça, não poderão funcionar
+[p4c1] conjuntamente como Juízes, no Tribunal Pleno, cônjuges e
+[p4c1] parentes consanguíneos ou afins em linha reta, ou colateral até
+[p4c1] o terceiro grau.
+[p4c1] (E) são válidas e eficazes as remoções de Magistrados feitas a
+[p4c1] pedido que motivarem impedimento entre Magistrados ou entre
+[p4c1] Magistrado e o membro do Ministério Público ou Auxiliar de
+[p4c1] Justiça, em razão de ser o cônjuge ou parente, consanguíneo ou
+[p4c1] afim, em linha reta ou colateral até o terceiro grau.
+[p5c0] 21
+[p5c0] Em decorrência de erro médico cometido em determinado hospital
+[p5c0] público estadual, Meire, maior e capaz, ajuizou ação em face do
+[p5c0] Estado de Roraima, para fins de responsabilização Civil pelo aludido
+[p5c0] evento, na Comarca de Boa Vista.
+[p5c0] Tendo em conta o disposto no Regimento Interno do Tribunal de
+[p5c0] Justiça do Estado de Roraima (Resolução TJRR/TP nº 27/2023), é
+[p5c0] correto afirmar que o Juízo especializado para a aludida demanda é
+[p5c0] (A) o Terceiro Juizado Especial Cível.
+[p5c0] (B) a Sexta Vara Cível.
+[p5c0] (C) a Turma Recursal.
+[p5c0] (D) a Vara de Execução Fiscal.
+[p5c0] (E) a Primeira Vara de Fazenda Pública.
+[p5c0] 22
+[p5c0] Diante de sua regular investidura no cargo de Analista do Tribunal de
+[p5c0] Justiça do Estado de Roraima, Renato decidiu verificar quais parcelas
+[p5c0] de sua remuneração estão incluídas no teto remuneratório, de
+[p5c0] acordo com o disposto no Regime Jurídico dos Servidores Públicos
+[p5c0] Civis do Estado de Roraima (Lei Complementar Estadual nº 53/2001,
+[p5c0] com as alterações supervenientes), vindo a concluir corretamente
+[p5c0] que entre elas pode ser apontada
+[p5c0] (A) a gratificação natalina.
+[p5c0] (B) o adicional de férias.
+[p5c0] (C) o adicional noturno.
+[p5c0] (D) o adicional pela prestação de serviços extraordinários.
+[p5c0] (E) a retribuição pelo exercício de função de direção, chefia e
+[p5c0] assessoramento.
+[p5c0] NORMAS APLICADAS AO
+[p5c0] PODER JUDICIÁRIO
+[p5c0] 23
+[p5c0] Os órgãos do Poder Judiciário devem realizar a gestão do respectivo
+[p5c0] Plano de Logística Sustentável (PLS). O PLS deverá ser composto, no
+[p5c0] mínimo, pelos indicadores de desempenho relacionados aos
+[p5c0] seguintes temas, à exceção de um. Assinale-o.
+[p5c0] (A) Logística reversa.
+[p5c0] (B) Energia elétrica.
+[p5c0] (C) Água e esgoto.
+[p5c0] (D) Gestão de resíduos.
+[p5c0] (E) Qualidade de vida no ambiente de trabalho.
+[p5c0] 24
+[p5c0] Os princípios da Gestão Estratégica de Processos não incluem
+[p5c0] (A) a visão estratégica.
+[p5c0] (B) a seletividade.
+[p5c0] (C) o gerenciamento intensivo.
+[p5c0] (D) a padronização de processos.
+[p5c0] (E) o aprendizado.
+[p5c0] 25
+[p5c0] Os princípios da gestão de qualidade incluem os seguintes,
+[p5c0] à exceção de um. Assinale-o.
+[p5c0] (A) Liderança.
+[p5c0] (B) Foco no cliente.
+[p5c0] (C) Envolvimento das pessoas.
+[p5c0] (D) Abordagem de processo.
+[p5c0] (E) Inovação estratégica.
+[p5c1] 26
+[p5c1] Segundo a Resolução nº 400 de 16/06/2021 do Conselho Nacional
+[p5c1] de Justiça, os órgãos do Poder Judiciário devem adotar modelos de
+[p5c1] gestão organizacional com processos estruturados que promovam a
+[p5c1] sustentabilidade, com base em ações ambientalmente corretas,
+[p5c1] economicamente viáveis e socialmente justas e inclusivas,
+[p5c1] culturalmente diversas e pautadas na integridade, em busca de um
+[p5c1] desenvolvimento nacional sustentável.
+[p5c1] De acordo com a referida norma é correto afirmar que
+[p5c1] (A) contratações compartilhadas são práticas institucionais que
+[p5c1] tenham como objetivo a promoção de comportamentos éticos e
+[p5c1] que contribuam para o desenvolvimento ambiental, social,
+[p5c1] cultural e econômico, melhorando, simultaneamente, o meio
+[p5c1] ambiente e a qualidade de vida do quadro de pessoal e auxiliar
+[p5c1] do Poder Judiciário.
+[p5c1] (B) as ações socialmente justas e inclusivas têm como objetivo
+[p5c1] respeitar a variedade e a convivência entre ideias,
+[p5c1] características, gêneros e regionalismos no ambiente de
+[p5c1] trabalho.
+[p5c1] (C) as ações ambientalmente corretas devem ter como objetivo a
+[p5c1] redução do impacto no meio ambiente, tendo como premissas o
+[p5c1] aumento do consumo, com o reaproveitamento e reciclagem de
+[p5c1] materiais e a observância aos modelos de padrão de consumo.
+[p5c1] (D) as ações economicamente viáveis devem buscar critérios de
+[p5c1] eficiência contínua dos gastos, levando em consideração a real
+[p5c1] necessidade da compra/contratação dentre as propostas mais
+[p5c1] vantajosas (análise custo-benefício) para sustentação da
+[p5c1] instituição, tendo em vista as inovações nos processos de
+[p5c1] trabalho.
+[p5c1] (E) as ações culturalmente diversas devem fomentar na instituição
+[p5c1] e em ações externas a adoção de comportamentos que
+[p5c1] promovam o equilíbrio e o bem-estar no ambiente de trabalho,
+[p5c1] por meio de atividades voltadas ao cuidado preventivo com a
+[p5c1] saúde, acessibilidade e inclusão social dos quadros de pessoal e
+[p5c1] auxiliar.
+[p5c1] 27
+[p5c1] A unidade de sustentabilidade prevista na resolução nº 400/21 deve,
+[p5c1] preferencialmente, ser subordinada diretamente à Presidência, à
+[p5c1] Secretária-Geral ou à Diretoria-Geral do órgão do Poder Judiciário.
+[p5c1] A seguinte lotação mínima deverá ser observada na unidade de
+[p5c1] sustentabilidade:
+[p5c1] (A) 10 (dez) servidores(as), nos tribunais que possuam mais de 5.000
+[p5c1] servidores do quadro de pessoal.
+[p5c1] (B) 3 (três) servidores(as), nos tribunais que possuam mais de 5.000
+[p5c1] servidores do quadro de pessoal.
+[p5c1] (C) 4 (quatro) servidores(as), nos tribunais cuja quantidade de
+[p5c1] servidores seja inferior ao quantitativo de 5.000 servidores do
+[p5c1] quadro de pessoal.
+[p5c1] (D) 3 (três) servidores(as), nos tribunais cuja quantidade de
+[p5c1] servidores seja inferior ao quantitativo de 5.000 servidores do
+[p5c1] quadro de pessoal.
+[p5c1] (E) 6 (seis) servidores(as), nos tribunais que possuam mais de 5.000
+[p5c1] servidores do quadro de pessoal.
+[p6c0] 28
+[p6c0] Mentalidade de risco, na ISO 9001, é a habilidade de identificar
+[p6c0] fatores que possam levar a desvios em relação aos objetivos dos
+[p6c0] processos e do próprio Sistema de Gestão de Qualidade, assim como
+[p6c0] de adotar as medidas cabíveis para prevenir que esses desvios
+[p6c0] aconteçam.
+[p6c0] Diante do exposto, avalie se os princípios da gestão de risco incluem:
+[p6c0] I. Estabelecimento do Contexto.
+[p6c0] II. Identificação dos Riscos.
+[p6c0] III. Análise dos Riscos.
+[p6c0] IV. Avaliação dos Riscos.
+[p6c0] Estão corretos os itens
+[p6c0] (A) I e II, apenas.
+[p6c0] (B) III e IV, apenas.
+[p6c0] (C) I, II e III, apenas.
+[p6c0] (D) II, III e IV, apenas.
+[p6c0] (E) I, II, III e IV.
+[p6c0] 29
+[p6c0] Os Guias de Contratações Sustentáveis devem observar a legislação
+[p6c0] vigente e as normas técnicas para aferição e garantia da aplicação
+[p6c0] dos requisitos mínimos de qualidade, utilidade, resistência,
+[p6c0] segurança e acessibilidade dos materiais utilizados de acordo com as
+[p6c0] orientações dos seguintes órgãos competentes, à exceção de um.
+[p6c0] Assinale-o.
+[p6c0] (A) Agência Nacional de Saúde Suplementar (ANS).
+[p6c0] (B) Instituto Brasileiro do Meio Ambiente e Recursos (Ibama).
+[p6c0] (C) Associação Brasileira de Normas Técnicas (ABNT NBR).
+[p6c0] (D) Sistema Brasileiro de Avaliação de Conformidade (SBAC).
+[p6c0] (E) Agência Nacional do Petróleo (ANP).
+[p6c0] 30
+[p6c0] Sobre o Mapa Estratégico do Poder Judiciário 2021/2026 avalie se as
+[p6c0] afirmativas a seguir estão corretas.
+[p6c0] I. O aperfeiçoamento da gestão orçamentária e financeira refere-
+[p6c0] se à utilização de mecanismos para alinhar as necessidades
+[p6c0] orçamentárias de custeio, investimentos e pessoal ao
+[p6c0] aprimoramento da prestação jurisdicional, atendendo aos
+[p6c0] princípios constitucionais da administração pública.
+[p6c0] II. O aperfeiçoamento da gestão da justiça criminal refere-se à
+[p6c0] adoção de medidas preventivas à criminalidade e ao
+[p6c0] aprimoramento do sistema criminal, por meio de maior
+[p6c0] aplicação de penas e medidas alternativas, investimento na
+[p6c0] justiça restaurativa e aperfeiçoamento do sistema penitenciário.
+[p6c0] III. A prevenção de litígios e adoção de soluções consensuais para
+[p6c0] conflitos se referem ao fomento de meios extrajudiciais para
+[p6c0] prevenção e para resolução negociada de conflitos, com a
+[p6c0] participação ativa do cidadão.
+[p6c0] Está correto o que se afirma em
+[p6c0] (A) I, apenas.
+[p6c0] (B) I e II, apenas.
+[p6c0] (C) I e III, apenas.
+[p6c0] (D) II e III, apenas.
+[p6c0] (E) I, II e III.
+[p6c1] CONHECIMENTOS ESPECÍFICOS
+[p6c1] 31
+[p6c1] A República Federativa do Brasil rege-se, em suas relações
+[p6c1] internacionais, pelos seguintes princípios, com exceção de um.
+[p6c1] Assinale-o.
+[p6c1] (A) Intervenção consentida.
+[p6c1] (B) Repúdio ao terrorismo e ao racismo.
+[p6c1] (C) Independência nacional.
+[p6c1] (D) Prevalência dos direitos humanos.
+[p6c1] (E) Igualdade entre os Estados.
+[p6c1] 32
+[p6c1] São brasileiros natos
+[p6c1] (A) os estrangeiros de qualquer nacionalidade, residentes na
+[p6c1] República Federativa do Brasil há mais de trinta anos
+[p6c1] ininterruptos e sem condenação penal, desde que requeiram a
+[p6c1] nacionalidade brasileira.
+[p6c1] (B) os que, na forma da lei, adquiram a nacionalidade brasileira,
+[p6c1] exigidas aos originários de países de língua portuguesa apenas
+[p6c1] residência por um ano ininterrupto e idoneidade moral.
+[p6c1] (C) os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira,
+[p6c1] desde que venham a residir na República Federativa do Brasil e
+[p6c1] optem, em qualquer tempo, pela nacionalidade brasileira.
+[p6c1] (D) os nascidos no estrangeiro, de pai brasileiro ou mãe brasileira,
+[p6c1] desde que sejam registrados em repartição brasileira
+[p6c1] competente, ou venham a residir na República Federativa do
+[p6c1] Brasil antes da maioridade e, alcançada esta, optem, em
+[p6c1] qualquer tempo, pela nacionalidade brasileira.
+[p6c1] (E) os nascidos no estrangeiro de pai brasileiro ou de mãe brasileira,
+[p6c1] desde que sejam registrados em repartição brasileira
+[p6c1] competente ou venham a residir na República Federativa do
+[p6c1] Brasil e optem, em qualquer tempo, depois de atingida a
+[p6c1] maioridade, pela nacionalidade brasileira.
+[p6c1] 33
+[p6c1] A Constituição, em regra, veda a acumulação de cargos públicos,
+[p6c1] com algumas exceções. Diante do exposto, desde que haja
+[p6c1] compatibilidade de horários, é permitida a acumulação de
+[p6c1] (A) um cargo de professor universitário com dois cargos de médicos.
+[p6c1] (B) três cargos de médicos.
+[p6c1] (C) dois cargos de professores.
+[p6c1] (D) dois cargos de profissionais da área de educação.
+[p6c1] (E) um cargo de médico com outro técnico ou científico.
+[p6c1] 34
+[p6c1] O Conselho Nacional de Justiça compõe-se de 15 (quinze) membros
+[p6c1] com mandato de 2 (dois) anos, admitida 1 (uma) recondução.
+[p6c1] As opções a seguir apresentam membros que participam desse
+[p6c1] Conselho, à exceção de uma. Assinale-a.
+[p6c1] (A) Um juiz de Tribunal Regional Federal, indicado pelo Superior
+[p6c1] Tribunal de Justiça.
+[p6c1] (B) Um juiz de Tribunal Regional do Trabalho, indicado pelo Tribunal
+[p6c1] Superior do Trabalho.
+[p6c1] (C) Dois cidadãos, de notável saber jurídico e reputação ilibada,
+[p6c1] indicados um pela Câmara dos Deputados e outro pelo Senado
+[p6c1] Federal.
+[p6c1] (D) Um juiz do Tribunal Regional Eleitoral, indicado pelo Supremo
+[p6c1] Tribunal Federal.
+[p6c1] (E) Um membro do Ministério Público estadual, escolhido pelo
+[p6c1] Procurador-Geral da República dentre os nomes indicados pelo
+[p6c1] órgão competente de cada instituição estadual.
+[p7c0] 35
+[p7c0] A nova lei de licitações (Lei nº 14.133/21) instituiu uma nova
+[p7c0] modalidade de licitação denominada
+[p7c0] (A) pregão.
+[p7c0] (B) tomada de preços.
+[p7c0] (C) leilão.
+[p7c0] (D) cotação prévia.
+[p7c0] (E) diálogo competitivo.
+[p7c0] 36
+[p7c0] A classificação de dados é uma tarefa comumente executada por
+[p7c0] meio de algoritmos de aprendizado de máquina. Uma técnica muito
+[p7c0] conhecida de classificação se dá por aprendizado supervisionado, e
+[p7c0] classifica novas instâncias de dados por associação à classe da
+[p7c0] maioria das instâncias de dados preexistentes mais próximas a elas.
+[p7c0] A avaliação dessa proximidade é baseada em normas (isto é,
+[p7c0] métricas de distância) definidas no espaço multidimensional das
+[p7c0] amostras.
+[p7c0] Assinale a técnica de classificação que melhor se enquadra nas
+[p7c0] características descritas acima.
+[p7c0] (A) Regressão Logística.
+[p7c0] (B) SVM.
+[p7c0] (C) K-NN.
+[p7c0] (D) LDA.
+[p7c0] (E) Naïve Bayes.
+[p7c0] 37
+[p7c0] Técnicas de redução de dimensionalidade são usadas em
+[p7c0] aprendizado de máquina para reduzir o número de características
+[p7c0] (dimensões, ou, do inglês, features) de um conjunto de dados. Uma
+[p7c0] das técnicas mais usadas para a redução de dimensionalidade é a
+[p7c0] Análise de Componentes Principais (Principal Component Analysis -
+[p7c0] PCA).
+[p7c0] A respeito da PCA, avalie as afirmativas a seguir.
+[p7c0] I. As componentes principais equivalem às direções resultantes do
+[p7c0] cálculo dos autovetores da matriz de covariâncias dos dados
+[p7c0] normalizados, selecionando-se aqueles autovetores associados
+[p7c0] aos menores autovalores, até um limite definido pelo analista.
+[p7c0] II. As componentes principais equivalem, em geral, a combinações
+[p7c0] lineares das características originais do conjunto de dados.
+[p7c0] III. A maior vantagem da PCA é a manutenção total das informações
+[p7c0] do conjunto de dados original, sem ocorrência de perdas
+[p7c0] decorrentes de projeções dos dados sobre as componentes
+[p7c0] principais.
+[p7c0] Está correto o que se afirma em
+[p7c0] (A) I, apenas.
+[p7c0] (B) II, apenas.
+[p7c0] (C) III, apenas.
+[p7c0] (D) I e II, apenas.
+[p7c0] (E) I, II e III.
+[p7c1] 38
+[p7c1] Um dos principais objetivos dos algoritmos de aprendizado de
+[p7c1] máquinas é o de estabelecer um modelo que melhor descreva as
+[p7c1] relações entre variáveis de um conjunto de dados. Em algumas
+[p7c1] situações, ao serem treinados, os modelos ajustam-se
+[p7c1] demasiadamente aos dados do conjunto, capturando até mesmo
+[p7c1] padrões relacionados aos ruídos dos dados. Esses modelos tendem
+[p7c1] a ser excessivamente complexos e a ter um mau desempenho na
+[p7c1] generalização, isto é, nas etapas em que é necessário processar
+[p7c1] novas instâncias de dados não pertencentes ao conjunto de
+[p7c1] treinamento original.
+[p7c1] Uma maneira de mitigar esse comportamento inconveniente é usar
+[p7c1] técnicas de
+[p7c1] (A) overfitting.
+[p7c1] (B) backpropagation.
+[p7c1] (C) incremento de dimensionalidade.
+[p7c1] (D) regularização.
+[p7c1] (E) underfitting.
+[p7c1] 39
+[p7c1] A normalização numérica é utilizada para o tratamento de dados,
+[p7c1] especialmente quando o processamento é dificultado por conta de
+[p7c1] as características de instâncias estarem distribuídas em diferentes
+[p7c1] escalas e intervalos. Uma técnica comum de normalização numérica
+[p7c1] utilizada para o tratamento de outliers é o escalonamento robusto,
+[p7c1] que se utiliza da mediana e da distância entre o primeiro e o terceiro
+[p7c1] quartis para efetuar o escalonamento dos dados.
+[p7c1] Considere o conjunto de dados a seguir.
+[p7c1] [3, 5, 7, 8, 10, 12, 15, 20, 22, 30, 50]
+[p7c1] O valor normalizado por escalonamento robusto referente ao
+[p7c1] elemento “22” é dado aproximadamente por
+[p7c1] (A) 0,364.
+[p7c1] (B) 0,397.
+[p7c1] (C) 0,404.
+[p7c1] (D) 0,440.
+[p7c1] (E) 0,667.
+[p7c1] 40
+[p7c1] Uma das etapas essenciais do tratamento e processamento de
+[p7c1] dados, em especial para estatística e para o aprendizado de
+[p7c1] máquina, consiste em sua organização e identificação. Uma maneira
+[p7c1] de organizar os dados de um conjunto consiste em classificá-los.
+[p7c1] Relacione cada uma das variáveis a seguir, constantes de um
+[p7c1] conjunto de dados sobre um grupo de pessoas, com a classificação a
+[p7c1] ela mais adequada.
+[p7c1] 1. Grau de instrução
+[p7c1] ( ) Quantitativa Contínua
+[p7c1] (ex.: superior)
+[p7c1] 2. Número de filhos ( ) Quantitativa Discreta
+[p7c1] 3. Estado de Procedência ( ) Qualitativa Nominal
+[p7c1] (ex.: Minas Gerais)
+[p7c1] ( ) Qualitativa Ordinal
+[p7c1] 4. Massa corporal
+[p7c1] A relação correta, na ordem apresentada, é
+[p7c1] (A) 4 – 2 – 3 – 1.
+[p7c1] (B) 4 – 2 – 1 – 3.
+[p7c1] (C) 2 – 4 – 1 – 3.
+[p7c1] (D) 2 – 4 – 3 – 1.
+[p7c1] (E) 1 – 2 – 3 – 4.
+[p8c0] 41
+[p8c0] Um time de futebol disputa um campeonato em que joga um
+[p8c0] número igual de partidas em seu estádio e fora de seu estádio. As
+[p8c0] probabilidades de ganhar, empatar ou perder uma partida quando
+[p8c0] joga em seu estádio são, respectivamente, 1/2, 1/5 e 3/10. As
+[p8c0] probabilidades de ganhar, empatar ou perder uma partida quando
+[p8c0] joga fora de seu estádio são, respectivamente, 1/5, 1/5 e 3/5.
+[p8c0] Um torcedor desinformado, ao chegar em sua aula sobre inferência
+[p8c0] bayesiana, ouviu de seus amigos que o referido time havia perdido a
+[p8c0] última partida que disputou. Sem obter nenhuma informação
+[p8c0] adicional, o torcedor resolveu calcular as probabilidades (a
+[p8c0] posteriori) de o time haver jogado a última partida em seu estádio
+[p8c0] ou fora de seu estádio.
+[p8c0] As probabilidades calculadas corretamente pelo torcedor foram,
+[p8c0] respectivamente,
+[p8c0] (A) 1/5 e 4/5.
+[p8c0] (B) 2/5 e 3/5.
+[p8c0] (C) 1/7 e 6/7.
+[p8c0] (D) 3/7 e 4/7.
+[p8c0] (E) 1/3 e 2/3.
+[p8c0] 42
+[p8c0] A ingestão de dados consiste na coleta, importação ou transferência
+[p8c0] de dados para um sistema de armazenamento e processamento. Em
+[p8c0] geral, a ingestão de dados representa o primeiro passo em um
+[p8c0] pipeline de processamento. Os dois principais métodos de ingestão
+[p8c0] de dados são a ingestão em lote (batch) e a ingestão em tempo real
+[p8c0] (streaming).
+[p8c0] A respeito desses métodos, avalie as afirmativas a seguir.
+[p8c0] I. A ingestão em lotes se dá continuamente ao longo do tempo e é
+[p8c0] utilizada quando há necessidade de se processar os dados
+[p8c0] imediatamente após sua coleta.
+[p8c0] II. A ingestão em tempo real incorpora novos dados em massa, em
+[p8c0] intervalos ou blocos periodicamente transmitidos da fonte para
+[p8c0] o dispositivo em que ocorre o processamento.
+[p8c0] III. Em ambos os métodos, é comum que os dados sejam
+[p8c0] transformados e validados, garantindo-se assim a precisão e a
+[p8c0] consistência das informações ingeridas.
+[p8c0] Está correto o que se afirma em
+[p8c0] (A) I, apenas.
+[p8c0] (B) II, apenas.
+[p8c0] (C) III, apenas.
+[p8c0] (D) I e II, apenas.
+[p8c0] (E) I, II e III.
+[p8c0] 43
+[p8c0] O processamento MapReduce consiste na aplicação de um algoritmo
+[p8c0] de computação distribuída para processar grandes conjuntos de
+[p8c0] dados em um cluster de computadores, dividindo cálculos
+[p8c0] complexos em tarefas menores e que podem ser executadas em
+[p8c0] paralelo. O MapReduce é implementado em etapas. Em uma dessas
+[p8c0] etapas, os dados de entrada divididos em partes são transformados
+[p8c0] em conjuntos de pares chave-valor (i.e., key-value pairs) adequados
+[p8c0] para o processamento paralelo e distribuído.
+[p8c0] A essa etapa do MapReduce dá-se o nome de
+[p8c0] (A) divisão de entrada (input splitting).
+[p8c0] (B) mapeamento (mapping).
+[p8c0] (C) embaralhamento (shuffling).
+[p8c0] (D) classificação (sorting).
+[p8c0] (E) redução (reducing).
+[p8c1] 44
+[p8c1] Modelos de linguagem de larga escala (Large Language Models -
+[p8c1] LLM) são frequentemente utilizados em processamento de
+[p8c1] linguagem natural, e podem gerar resultados inesperados em
+[p8c1] resposta às consultas dos usuários. Essas respostas são chamadas de
+[p8c1] alucinações dos modelos. Uma técnica usada para se evitar tais
+[p8c1] alucinações consiste em combinar os modelos generativos com
+[p8c1] sistemas de recuperação de informações, permitindo buscas em
+[p8c1] bases de dados mais confiáveis e melhorando a qualidade das
+[p8c1] respostas geradas.
+[p8c1] A essa técnica dá-se o nome de
+[p8c1] (A) Lematização (Lemmatization).
+[p8c1] (B) Recuperação por Análise de Dependência (Dependency Parsing
+[p8c1] Retrieval).
+[p8c1] (C) Recuperação de Entidades Nomeadas (Named Entity Retrieval).
+[p8c1] (D) Geração Aumentada por Recuperação (Retrieval-Augmented
+[p8c1] Generation).
+[p8c1] (E) Geração de Partes do Discurso (Part-of-Speech Generation).
+[p8c1] 45
+[p8c1] A Analista Judiciária Bianca, ao verificar um conjunto de dados,
+[p8c1] identificou que alguns valores não eram condizentes com o domínio
+[p8c1] definido para aqueles dados, de acordo com o DAMA-DMBOK.
+[p8c1] Assinale a opção que apresenta a dimensão da qualidade de dados
+[p8c1] mais afetada nesse caso.
+[p8c1] (A) Consistency.
+[p8c1] (B) Validity.
+[p8c1] (C) Legitimacy.
+[p8c1] (D) Reasonability.
+[p8c1] (E) Accuracy.
+[p8c1] 46
+[p8c1] De acordo com o DAMA-DMBOK, 2ª edição, com relação à qualidade
+[p8c1] de dados, avalie as afirmativas a seguir e assinale (V) para a
+[p8c1] verdadeira e (F) para a falsa.
+[p8c1] ( ) A qualidade de um dado depende em se atender às necessidades
+[p8c1] e expectativas daqueles que consomem esse dado. Dessa forma,
+[p8c1] a qualidade de um dado depende do contexto e necessidade dos
+[p8c1] consumidores desse dado.
+[p8c1] ( ) Ao analisar um determinado conjunto de dados, um Analista
+[p8c1] pode utilizar o Data Profiling para inspecionar dados e melhorar
+[p8c1] sua qualidade, corrigindo problemas. Exemplos de
+[p8c1] procedimentos compreendidos pelo Data Profiling incluem a
+[p8c1] identificação e remoção de outliers, assim como valores
+[p8c1] duplicados e a adição de atributos como Time/Date stamps.
+[p8c1] ( ) Data Enhancement, ou simplesmente enriquecimento, consiste
+[p8c1] em aprimorar um conjunto de dados existentes, para aumentar
+[p8c1] sua qualidade e usabilidade. Esse aprimoramento deve utilizar
+[p8c1] exclusivamente fontes internas à organização, uma vez que
+[p8c1] essas são consideradas mais confiáveis do que fontes externas.
+[p8c1] As afirmativas são, respectivamente,
+[p8c1] (A) V – V – V.
+[p8c1] (B) V – F – F.
+[p8c1] (C) F – V – F.
+[p8c1] (D) F – F – V.
+[p8c1] (E) V – F – V.
+[p9c0] 47
+[p9c0] A computação em nuvem permite armazenamento, processamento
+[p9c0] e acesso flexível a dados e aplicações remotamente.
+[p9c0] Sobre os conceitos envolvidos na computação em nuvem, é correto
+[p9c0] afirmar que
+[p9c0] (A) em nuvens públicas, os recursos de computação são hospedados
+[p9c0] em provedores externos, enquanto em nuvens privadas estes
+[p9c0] recursos devem ser hospedados localmente.
+[p9c0] (B) modelos PaaS (Plataform as a Service) e IaaS (Infrastructure as a
+[p9c0] Service) só podem ser empregados em nuvens públicas.
+[p9c0] (C) nuvens públicas permitem maior personalização graças ao
+[p9c0] acesso compartilhado da plataforma, ao contrário de nuvens
+[p9c0] privadas.
+[p9c0] (D) modelos SaaS na nuvem privada são mais caros que na nuvem
+[p9c0] pública, porém modelos IaaS e PaaS apresentam custos
+[p9c0] semelhantes em ambos os tipos de nuvem.
+[p9c0] (E) nuvens privadas minimizam ou eliminam o multitenancy,
+[p9c0] enquanto nas nuvens públicas o multitenancy é um conceito
+[p9c0] central.
+[p9c0] 48
+[p9c0] Regtechs e Suptechs têm se destacado como grandes tendências no
+[p9c0] sistema financeiro. Com a modernização do setor e o crescimento
+[p9c0] das fintechs, o mundo tem presenciado uma série de transformações
+[p9c0] regulatórias para acompanhar e fomentar essas inovações.
+[p9c0] Nesse contexto, analise as seguintes afirmações sobre Regtech e
+[p9c0] Suptech.
+[p9c0] I. Suptech é voltada para as autoridades reguladoras, permitindo
+[p9c0] monitorar em tempo real o mercado e as instituições financeiras.
+[p9c0] Com o uso de big data e análise preditiva, essas tecnologias
+[p9c0] ajudam a identificar riscos, prevenir crises e garantir a
+[p9c0] estabilidade financeira.
+[p9c0] II. O Suptech é voltado tanto para as autoridades reguladoras
+[p9c0] quanto para as empresas, com o objetivo de aprimorar a
+[p9c0] supervisão dos sistemas, aumentando a eficiência no
+[p9c0] monitoramento de transações e na detecção de fraudes.
+[p9c0] III. As soluções de Regtech se concentram exclusivamente na gestão
+[p9c0] de dados e riscos das empresas, sem abordar aspectos
+[p9c0] relacionados a compliance ou a geração de relatórios
+[p9c0] regulatórios.
+[p9c0] Está correto o que se afirma em
+[p9c0] (A) I, apenas.
+[p9c0] (B) II, apenas.
+[p9c0] (C) III, apenas.
+[p9c0] (D) I e III, apenas.
+[p9c0] (E) II e III, apenas.
+[p9c1] 49
+[p9c1] Os outliers são dados que se distinguem significativamente dos
+[p9c1] demais no conjunto. Um outlier é um valor que se desvia
+[p9c1] substancialmente da normalidade e pode causar anomalias nos
+[p9c1] resultados gerados por algoritmos e sistemas de análise.
+[p9c1] A seguir, é apresentado um gráfico de boxplot, que ilustra os
+[p9c1] retornos mensais das ações de uma empresa
+[p9c1] Nesse contexto, analise as seguintes afirmações.
+[p9c1] I. Outliers nunca devem ser removidos, pois sempre carregam
+[p9c1] informações importantes e não têm a capacidade de distorcer
+[p9c1] resultados ou enviesar modelos de análise.
+[p9c1] II. A partir da análise visual do boxplot apresentado, é possível
+[p9c1] afirmar que o valor 14% é um outlier, pois ele está visivelmente
+[p9c1] distante do corpo principal dos dados, fora do intervalo
+[p9c1] interquartil (IQR).
+[p9c1] III. Para a detecção de outliers, além da identificação visual, é
+[p9c1] possível utilizar métodos estatísticos e técnicas baseadas em
+[p9c1] aprendizado de máquina.
+[p9c1] Está correto o que se afirma em
+[p9c1] (A) I, apenas.
+[p9c1] (B) I e II, apenas.
+[p9c1] (C) I e III, apenas.
+[p9c1] (D) II e III, apenas.
+[p9c1] (E) I, II e III.
+[p9c1] 50
+[p9c1] Considere as linhas de código a seguir, que foram escritas na
+[p9c1] linguagem de programação Python (versão 3.10.12), com utilização
+[p9c1] de NumPy (versão 1.25.0).
+[p9c1] Com relação à execução da linha <4>, assinale a afirmativa correta.
+[p9c1] (A) O valor atribuído a ‘z’ na linha <4> é array([[ 5, 8, 11]]).
+[p9c1] (B) O valor atribuído a ‘z’ na linha <4> é array([[ 0, 7, 18]]).
+[p9c1] (C) O valor atribuído a ‘z’ na linha <4> é array([[ 5, 6, 7], [ 7, 8, 9],
+[p9c1] [ 9, 10, 11]]).
+[p9c1] (D) O valor atribuído a ‘z’ na linha <4> é array([[ 0, 5, 10], [ 0, 7, 14],
+[p9c1] [ 0, 9, 18]]).
+[p9c1] (E) A execução da linha <4> retorna erro do tipo “IndexError”.
+[p10c0] 51
+[p10c0] Considerando a linguagem de programação Python, analise os itens
+[p10c0] I, II e III a seguir. Os códigos foram escritos na versão 3.10.12.
+[p10c0] I. Após a execução das linhas de código abaixo, o valor atribuído a
+[p10c0] y será zero.
+[p10c0] II. Considerando as linhas de código abaixo, pode-se afirmar que a
+[p10c0] atribuição na linha <7> não será executada.
+[p10c0] III. Considere o código abaixo.
+[p10c0] A expressão f(5) retorna 120.
+[p10c0] Está correto o que se afirma em
+[p10c0] (A) I, apenas.
+[p10c0] (B) II, apenas.
+[p10c0] (C) I e II, apenas.
+[p10c0] (D) II e III, apenas.
+[p10c0] (E) I, II e III.
+[p10c0] 52
+[p10c0] O DMBOK é organizado em torno de 11 (onze) Áreas de
+[p10c0] Conhecimento do Framework de Gerenciamento de Dados DAMA-
+[p10c0] DMBOK. Essas áreas abrangem o escopo e o contexto de diversos
+[p10c0] conjuntos de atividades relacionadas ao gerenciamento de dados,
+[p10c0] incorporando os objetivos e princípios fundamentais dessa
+[p10c0] disciplina.
+[p10c0] Assinale a área de conhecimento que aborda a definição e o
+[p10c0] planejamento para a gestão dos ativos de dados, alinhando-os com
+[p10c0] a estratégia organizacional para estabelecer uma estrutura de dados
+[p10c0] eficiente.
+[p10c0] (A) Governança de Dados.
+[p10c0] (B) Segurança de Dados.
+[p10c0] (C) Arquitetura de Dados.
+[p10c0] (D) Metadados.
+[p10c0] (E) Documentação e gestão do conteúdo.
+[p10c1] 53
+[p10c1] Ao projetar um banco de dados, espera-se atualizar valores de
+[p10c1] alguns campos de uma tabela a cada vez que um novo registro é
+[p10c1] inserido em outra tabela.
+[p10c1] Para que isso aconteça sem a intervenção do usuário, deve ser
+[p10c1] implementada, em SQL, a estrutura denominada
+[p10c1] (A) FUNCTION.
+[p10c1] (B) SCHEMA.
+[p10c1] (C) TRIGGER.
+[p10c1] (D) UPDATE.
+[p10c1] (E) VIEW.
+[p10c1] 54
+[p10c1] A biblioteca spaCy é utilizada em diferentes tarefas de
+[p10c1] Processamento de Linguagem Natural. Ela disponibiliza o módulo
+[p10c1] ‘pt_core_news_sm’, que contém dados específicos provenientes de
+[p10c1] textos em português.
+[p10c1] Considere o trecho de código em linguagem Python a seguir.
+[p10c1] Admitindo que a biblioteca spaCy e o modelo 'pt_core_news_sm' já
+[p10c1] estejam instalados na máquina em que o trecho de código será
+[p10c1] executado, a string impressa no prompt após a execução será
+[p10c1] (A) (Tribunal de Justiça do Estado de Roraima, Boa Vista).
+[p10c1] (B) (Tribunal de Justiça, Estado de Roraima, Boa Vista).
+[p10c1] (C) (Tribunal de Justiça, Estado, Roraima, Boa Vista, capital).
+[p10c1] (D) (Tribunal de Justiça, Estado, Roraima, Boa Vista, capital do
+[p10c1] estado).
+[p10c1] (E) (Tribunal de Justiça, Estado, Roraima, Boa Vista, capital, estado).
+[p10c1] 55
+[p10c1] Os dados são importante elemento de apoio à tomada de decisão,
+[p10c1] sendo que algumas aplicações geram quantidade massiva e
+[p10c1] heterogênea de dados, com alta velocidade. Para lidar com esse
+[p10c1] cenário, foi desenvolvido um modelo de programação que consiste
+[p10c1] em dividir, processar e combinar os dados em paralelo, de forma a
+[p10c1] acelerar o processamento e garantir a confiabilidade dos resultados.
+[p10c1] Assinale o modelo que contém as características elencadas no
+[p10c1] enunciado.
+[p10c1] (A) Data Warehousing.
+[p10c1] (B) Elastic Search.
+[p10c1] (C) Hadoop.
+[p10c1] (D) MapReduce.
+[p10c1] (E) NoSQL.
+[p11c0] 56
+[p11c0] A mineração de dados está inserida no processo de descoberta de
+[p11c0] conhecimento em bases de dados, empregando diversas técnicas e
+[p11c0] métodos na execução de diferentes tarefas.
+[p11c0] Selecione a opção que contém apenas tarefas de mineração de
+[p11c0] dados.
+[p11c0] (A) Árvore de Decisão e Análise de Associação.
+[p11c0] (B) Classificação e Análise de Associação.
+[p11c0] (C) Classificação e Redes Neurais.
+[p11c0] (D) Floresta Aleatória e k Vizinhos mais Próximos.
+[p11c0] (E) Regressão e k-Médias.
+[p11c0] 57
+[p11c0] O Poder Judiciário adotou o modelo centralizado de governança na
+[p11c0] segurança cibernética, de acordo com a Resolução nº 396 de
+[p11c0] 07/06/2021, que instituiu a Estratégia Nacional de Segurança
+[p11c0] Cibernética do Poder Judiciário (ENSEC-PJ).
+[p11c0] Nesse modelo, o órgão central que coordena as ações para viabilizar
+[p11c0] a governança na segurança cibernética é
+[p11c0] (A) o Conselho Nacional de Justiça (CNJ).
+[p11c0] (B) o Comitê Gestor de Segurança da Informação do Poder Judiciário
+[p11c0] (CGSI-PJ).
+[p11c0] (C) o Centro de Prevenção, Tratamento e Resposta a Incidentes
+[p11c0] Cibernéticos do Poder Judiciário (CPTRIC-PJ).
+[p11c0] (D) a Equipe de Tratamento e Resposta a Incidentes de Segurança
+[p11c0] Cibernética (ETIR).
+[p11c0] (E) o Sistema de Gestão de Segurança da Informação do Poder
+[p11c0] Judiciário (SGSI-PJ).
+[p11c0] 58
+[p11c0] Os Manuais e Protocolos criados pela Resolução CNJ nº 396/2021,
+[p11c0] que instituiu a Estratégia Nacional de Segurança Cibernética do
+[p11c0] Poder Judiciário (ENSEC-PJ) e aprovados pela Portaria nº 162 de
+[p11c0] 10/06/2021 normatizam diversas atividades na área de segurança
+[p11c0] cibernética a serem implantadas pelos diversos órgãos do Poder
+[p11c0] Judiciário.
+[p11c0] Com base nos Manuais e Protocolos aprovados pela Portaria nº 162
+[p11c0] de 10/06/2021, analise as informações a seguir.
+[p11c0] I. Os Protocolos e Manuais serão atualizados a qualquer tempo por
+[p11c0] indicação do Comitê Gestor de Segurança Cibernética do Poder
+[p11c0] Judiciário.
+[p11c0] II. O Protocolo de Investigação de Ilícitos Cibernéticos do Poder
+[p11c0] Judiciário (PIILC-PJ) deverá ser implementado por todos os
+[p11c0] órgãos do Poder Judiciário, com exceção do Supremo Tribunal
+[p11c0] Federal.
+[p11c0] III. O Manual de Proteção de Infraestruturas de TIC descreve as
+[p11c0] ações responsivas a serem colocadas em prática quando ficar
+[p11c0] evidente que um incidente de segurança cibernética não será
+[p11c0] mitigado rapidamente e poderá durar dias, semanas ou meses.
+[p11c0] Está correto o que se afirma em
+[p11c0] (A) I, apenas.
+[p11c0] (B) I e II, apenas.
+[p11c0] (C) I e III, apenas.
+[p11c0] (D) II e III, apenas.
+[p11c0] (E) I, II e III.
+[p11c1] 59
+[p11c1] O Modelo de Requisitos para Sistemas Informatizados de Gestão de
+[p11c1] Processos e Documentos do Poder Judiciário (MoReq-Jus), em sua 2ª
+[p11c1] edição, foi elaborado com o objetivo de especificar requisitos
+[p11c1] funcionais e não funcionais aos quais devem aderir os sistemas
+[p11c1] informatizados de gestão de processos e documentos utilizados em
+[p11c1] atividades judiciais e administrativas dos órgãos integrantes do
+[p11c1] Poder Judiciário.
+[p11c1] Selecione a opção que contém um exemplo de requisito não
+[p11c1] funcional especificado pelo MoReq-Jus.
+[p11c1] (A) Classificar todos os documentos de acordo com o Plano de
+[p11c1] Classificação.
+[p11c1] (B) Interoperar com outros sistemas, permitindo a importação e
+[p11c1] exportação de documentos.
+[p11c1] (C) Permitir avaliação periódica dos direitos de acesso dos usuários
+[p11c1] do sistema.
+[p11c1] (D) Registrar a tramitação de todos os documentos no processo.
+[p11c1] (E) Impedir a eliminação de documentos definidos como de guarda
+[p11c1] permanente pela política de gestão documental.
+[p11c1] 60
+[p11c1] A Plataforma Digital do Poder Judiciário Brasileiro (PDPJ-Br) foi
+[p11c1] criada com o intuito de integrar todos os tribunais brasileiros no que
+[p11c1] tange à gestão de processo judicial eletrônico.
+[p11c1] Entre as diretrizes relacionadas ao processo de desenvolvimento de
+[p11c1] módulos e serviços na PDPJ-Br, cabe salientar o emprego
+[p11c1] preferencial da seguinte linguagem de programação.
+[p11c1] (A) Java.
+[p11c1] (B) Julia.
+[p11c1] (C) PHP.
+[p11c1] (D) Python.
+[p11c1] (E) Ruby.
+[p11c1] 61
+[p11c1] “É uma API de persistência POJO para mapeamento de
+[p11c1] objetos/relacional que permite o uso de anotações de metadados da
+[p11c1] linguagem Java e/ou descritores XML para definir o mapeamento
+[p11c1] entre objetos Java e um banco de dados relacional.”
+[p11c1] O texto faz referência a
+[p11c1] (A) EJB.
+[p11c1] (B) Spring Boot.
+[p11c1] (C) Thymeleaf.
+[p11c1] (D) Zuul.
+[p11c1] (E) JPA.
+[p11c1] 62
+[p11c1] O Envers é um módulo presente no Hibernate ORM que proporciona
+[p11c1] uma forma fácil de auditar suas classes entidades.
+[p11c1] Diante desse contexto, marque (V) para a(s) afirmativa(s)
+[p11c1] verdadeiras e (F) para a(s) afirmativa(s) falsas acerca do Envers.
+[p11c1] ( ) É necessário adicionar a dependência hibernate-envers ao
+[p11c1] classpath.
+[p11c1] ( ) Bem como controladores de versão do código-fonte, o Envers
+[p11c1] emprega um conceito de revisões.
+[p11c1] ( ) Para que uma entidade ou propriedades de entidade sejam
+[p11c1] auditadas, é preciso anotá-las com @Audited.
+[p11c1] As afirmativas são, respectivamente,
+[p11c1] (A) V – V – V.
+[p11c1] (B) V – V – F.
+[p11c1] (C) F – F – V.
+[p11c1] (D) V – F – F.
+[p11c1] (E) F – V – V.
+[p12c0] 63
+[p12c0] Uma API REST (Representational State Transfer) é uma interface que
+[p12c0] permite a comunicação entre sistemas utilizando um determinado
+[p12c0] protocolo em que os recursos são acessados e manipulados por meio
+[p12c0] de requisições padrão como GET, POST, PUT e DELETE, seguindo
+[p12c0] princípios de simplicidade, escalabilidade e independência de
+[p12c0] plataforma.
+[p12c0] Isso posto, assinale a afirmativa correta a seguir sobre API REST.
+[p12c0] (A) Normalmente, uma solicitação PUT cria um novo registro.
+[p12c0] (B) Nenhum dado do cliente é armazenado no servidor entre as
+[p12c0] solicitações e toda solicitação é separada e desconectada.
+[p12c0] (C) Não há a possibilidade de utilização de cache.
+[p12c0] (D) Utiliza WSDL como linguagem de descrição de serviços web.
+[p12c0] (E) É um protocolo com requisitos específicos, como a mensageria
+[p12c0] XML.
+[p12c0] 64
+[p12c0] PostgreSQL 16 suporta tanto Views (Visões) quanto Materialized
+[p12c0] Views (Visões Materializadas).
+[p12c0] Considere as seguintes afirmações relacionadas a esses conceitos:
+[p12c0] I. Tanto uma Materialized View como uma View são apenas cópias
+[p12c0] virtuais, sem que haja um armazenamento físico dos dados
+[p12c0] (resultados da consulta).
+[p12c0] II. O comando REFRESH MATERIALIZED VIEW
+[p12c0] nome_da_visao_materializada; substitui completamente o
+[p12c0] conteúdo da Materialized View, descartando os dados antigos.
+[p12c0] III. A utilização da cláusula WITH NO DATA, no comando de criação
+[p12c0] de uma Materialized View, faz com que sua estrutura seja criada,
+[p12c0] mas sem preenchê-la, isto é, sem popular com dados no
+[p12c0] momento da criação.
+[p12c0] Está correto o que se afirma em
+[p12c0] (A) I, apenas.
+[p12c0] (B) I e II, apenas.
+[p12c0] (C) I e III, apenas.
+[p12c0] (D) II e III, apenas.
+[p12c0] (E) I, II e III.
+[p12c0] 65
+[p12c0] O H2 Database é um sistema de gerenciamento de banco de dados
+[p12c0] relacional open source desenvolvido em Java.
+[p12c0] A respeito de características do H2 Database, julgue as seguintes
+[p12c0] afirmativas.
+[p12c0] I. O modo incorporado é mais lento que o modo servidor.
+[p12c0] II. No modo servidor, uma aplicação abre um banco de dados
+[p12c0] remotamente por meio da API JDBC ou ODBC.
+[p12c0] III. Não é possível combinar conexões locais e remotas ao mesmo
+[p12c0] tempo.
+[p12c0] Está correto o que se afirma em
+[p12c0] (A) II, apenas.
+[p12c0] (B) I e II, apenas.
+[p12c0] (C) I e III, apenas.
+[p12c0] (D) II e III, apenas.
+[p12c0] (E) III, apenas.
+[p12c1] 66
+[p12c1] Disponibilizado inicialmente em 2012, o OAuth2 é um protocolo de
+[p12c1] autorização cujo objetivo é permitir que os usuários deem acesso
+[p12c1] aos seus recursos hospedados por um provedor de serviços, sem
+[p12c1] apresentar credenciais.
+[p12c1] A respeito do OAuth2, assinale a afirmativa correta.
+[p12c1] (A) Ao contrário dos tokens de acesso, os tokens de atualização são
+[p12c1] destinados ao uso somente com servidores de autorização e
+[p12c1] nunca são enviados aos servidores de recursos.
+[p12c1] (B) Os clientes não precisam registrar seus redirecionamentos de
+[p12c1] URI antes de usá-los em um fluxo de autorização.
+[p12c1] (C) O servidor de recursos emite tokens de acesso ao cliente após
+[p12c1] autenticar o proprietário do recurso com sucesso e obter
+[p12c1] autorização.
+[p12c1] (D) Os tokens de atualização devem ser enviados diretamente ao
+[p12c1] cliente para autenticação, sem necessidade de proteção
+[p12c1] adicional.
+[p12c1] (E) Só existe um tipo de cliente, o confidencial, aquele capaz de
+[p12c1] manter a confidencialidade de suas credenciais.
+[p12c1] 67
+[p12c1] Considerando os conceitos e ferramentas relacionados a serviços de
+[p12c1] autenticação/autorização, webhooks e message brokers, avalie se as
+[p12c1] afirmativas a seguir são verdadeiras (V) ou falsas (F).
+[p12c1] ( ) Um dos principais objetivos do SAML é proporcionar Single-Sign
+[p12c1] On (SSO), isto é, permitir que um usuário se autentique uma vez
+[p12c1] e tenha acesso a outros sistemas sem a necessidade de fornecer
+[p12c1] novamente suas credenciais.
+[p12c1] ( ) No protocolo MQTT do RabbitMQ, a publicação de mensagens
+[p12c1] acontece dentro do contexto de um link.
+[p12c1] ( ) Keycloak permite a implementação de Single-Sign On (SSO) e
+[p12c1] fornece suporte para OpenID Connect e OAuth 2.0.
+[p12c1] As afirmativas são, respectivamente,
+[p12c1] (A) V – F – F.
+[p12c1] (B) V – F – V.
+[p12c1] (C) V – V – F.
+[p12c1] (D) F – F – V.
+[p12c1] (E) F – V – V.
+[p12c1] 68
+[p12c1] Analise as seguintes afirmações sobre conteinerização e
+[p12c1] orquestração de contêineres.
+[p12c1] I. Em sistemas conteinerizados, é recomendado que todos os
+[p12c1] contêineres compartilhem o mesmo sistema de arquivos e
+[p12c1] ambiente de rede para garantir consistência entre os serviços.
+[p12c1] II. Em ferramentas de orquestração como Kubernetes, a
+[p12c1] comunicação entre contêineres pode ser gerenciada por uma
+[p12c1] rede de sobreposição, que permite a comunicação direta entre
+[p12c1] contêineres em diferentes nós, sem expor seus endereços IP ao
+[p12c1] ambiente externo.
+[p12c1] III. A principal vantagem da conteinerização em relação à
+[p12c1] virtualização tradicional é a capacidade de compartilhar o kernel
+[p12c1] do sistema operacional host, o que garante isolamento total
+[p12c1] entre contêineres, como em máquinas virtuais.
+[p12c1] É correto o que se afirma em
+[p12c1] (A) I, apenas.
+[p12c1] (B) II, apenas.
+[p12c1] (C) I e II, apenas.
+[p12c1] (D) II e III, apenas.
+[p12c1] (E) I, II e III.
+[p13c0] 69
+[p13c0] Considere o seguinte fragmento de código XML:
+[p13c0] <livro xmlns:ficcao="http://exemplo.com/ficcao"
+[p13c0] xmlns:didatico="http://exemplo.com/didatico">
+[p13c0] <ficcao:titulo>O Conto Fantástico</ficcao:titulo>
+[p13c0] <didatico:titulo>Guia de Estudos</didatico:titulo>
+[p13c0] </livro>
+[p13c0] No exemplo acima, ficcao e didatico são exemplos de
+[p13c0] (A) elementos XML.
+[p13c0] (B) atributos XML.
+[p13c0] (C) prefixos de namespace.
+[p13c0] (D) entidades XML.
+[p13c0] (E) instruções de processamento.
+[p13c1] 70
+[p13c1] Em muitas linguagens de programação, o bloco try-catch é uma
+[p13c1] estrutura fundamental para o tratamento de exceções.
+[p13c1] No Javascript, para tratar múltiplas exceções dentro de um mesmo
+[p13c1] bloco try-catch, podemos
+[p13c1] (A) utilizar múltiplos blocos catch após o mesmo bloco try, cada um
+[p13c1] para uma exceção específica.
+[p13c1] (B) especificar os diferentes tipos de exceção na cláusula catch,
+[p13c1] separados por vírgulas.
+[p13c1] (C) utilizar o bloco finally para capturar exceções adicionais não
+[p13c1] tratadas pelo bloco catch.
+[p13c1] (D) usar um único bloco catch e, dentro dele, diferenciar as exceções
+[p13c1] usando estruturas condicionais como if ou switch.
+[p13c1] (E) declarar os tipos de exceção diretamente no bloco try usando
+[p13c1] parâmetros específicos.
+[p14c0] PROVA DISCURSIVA
+[p14c0] Você está trabalhando no desenvolvimento de um banco de dados simpl
+[p14c0] Diante do exposto, responda, em no máximo 30 linhas, ao que se pede a
+[p14c0] A) Apresente o CREATE TABLE para criar a tabela CLIENTE, com os segu
+[p14c0] B) Apresente o CREATE TABLE para criar a tabela COMPRA, com o segu
+[p14c0] C) Apresente o CREATE TABLE para criar a tabela ITEM, com os seguint
+[p14c0] D) Apresente o CREATE VIEW para listar o nome do cliente, a compra
+[p14c0] por item e o valor total da compra.
+[p14c0] Observação: o uso de chaves primárias e chaves estrangeiras são de livre
+[p14c0] ANALISTA JUDICIÁRIO – CIÊNCIA DE DADOS E ANALYTICS (MANHÃ)
+[p14c1] les, em SQL, para o controle das compras de um pequeno comércio.
+[p14c1] a seguir.
+[p14c1] uintes campos obrigatórios: nome completo e endereço.
+[p14c1] uinte campo obrigatório: data da compra.
+[p14c1] tes campos obrigatórios: descrição do item, valor do item.
+[p14c1] a, os itens comprados, os quantitativos por item comprado, o valor total
+[p14c1] e escolha do candidato para que a VIEW do item D funcione corretamente.
+[p14c1] PROVA TIPO 1 – BRANCA – PÁGINA 14
+[p15c0] 1
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 2
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 3
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 4
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 5
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 6
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 7
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 8
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 9
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 10
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 11
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 12
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 13
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 14
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 15
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 16
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 17
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 18
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 19
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 20
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 21
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 22
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 23
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 24
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 25
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 26
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 27
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 28
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 29
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] 30
+[p15c0] ------------------------------------------------------------------------------------------------------------
+[p15c0] ANALISTA JUDICIÁRIO – CIÊNCIA DE DADOS E ANALYTICS (MANHÃ)
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] -----------------------------------------------------------------------------------------------------
+[p15c1] PROVA TIPO 1 – BRANCA – PÁGINA 15
+[p16c0] Reali
+[p16c1] ização

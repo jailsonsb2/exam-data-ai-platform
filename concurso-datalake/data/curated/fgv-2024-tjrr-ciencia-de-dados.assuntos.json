@@ -1,0 +1,33 @@
+{
+ "prova": "fgv-2024-tjrr-ciencia-de-dados",
+ "assuntos": {
+  "36": "ML - SVM",
+  "37": "ML - Redução de Dimensionalidade",
+  "38": "Redes Neurais - Treinamento e Otimização",
+  "39": "Banco de Dados e SQL",
+  "41": "Estatística e Probabilidade",
+  "42": "Engenharia de Dados - ETL/Pipelines",
+  "43": "ML - Clustering",
+  "44": "NLP - Transformers e LLMs",
+  "45": "Governança e Arquitetura de Dados",
+  "46": "Governança e Arquitetura de Dados",
+  "47": "Infra, Cloud e APIs",
+  "48": "Big Data",
+  "49": "ML - Paradigmas de Aprendizado",
+  "50": "Python para Dados",
+  "51": "Python para Dados",
+  "52": "Governança e Arquitetura de Dados",
+  "53": "Banco de Dados e SQL",
+  "54": "NLP - Processamento de Linguagem Natural",
+  "55": "Big Data",
+  "56": "ML - k-NN",
+  "57": "Ética e IA Responsável",
+  "58": "Ética e IA Responsável",
+  "60": "Python para Dados",
+  "61": "Governança e Arquitetura de Dados",
+  "63": "Infra, Cloud e APIs",
+  "65": "Infra, Cloud e APIs",
+  "68": "Infra, Cloud e APIs",
+  "70": "Banco de Dados e SQL"
+ }
+}

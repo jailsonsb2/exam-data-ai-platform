@@ -1,0 +1,1341 @@
+[p1c0] Eé liel | CMolOé0gi0o 1 | Sal0a0 01 | Or0de0m0 1
+[p1c0] Maço
+[p1c0] jF 5 CIDADE DE
+[p1c0] 4 SÃO PAULO PREFEITURA DO MUNICÍPIO DE SÃO PAULO
+[p1c0] SECRETARIA MUNICIPAL DE GESTÃO
+[p1c0] Concurso Público para Provimento Efetivo no Cargo de
+[p1c0] Analista de Planejamento e Desenvolvimento Organizacional
+[p1c0] Tecnologia da Informação e Comunicação - TIC
+[p1c0] [cade do Candidato | N de Inscrição [5 do Caderno
+[p1c0] Caderno de Prova 'DO4, Tipo 001 MODELO TIPO-001
+[p1c0] na RA DO CANDIDATO
+[p1c0] Nº do Documento
+[p1c0] | oo00000000000000 |
+[p1c0] PROVA OBJETIVA DE
+[p1c0] CONHECIMENTOS GERAIS E ESPECÍFICOS
+[p1c0] INSTRUÇÕES
+[p1c0] - Verifiqusee este caderno contêm 90 questões, numeradas de 1 a 90.
+[p1c0] Caso contrário, solicite imediatamente ao fiscal da salaa substituição do cadermo.
+[p1c0] Não serão aceitas reclamações posteriores.
+[p1c0] - Paracada questão existe apenas UMA resposta certa.
+[p1c0] - Leia cuidadosamente cada uma das questõese escolha a resposta certa.
+[p1c0] - Essaresposta deve ser marcada na FOLHADE RESPOSTAS que você recebeu.
+[p1c0] VOCÊ DEVE
+[p1c0] - Procurar, na FOLHADE RESPOSTAS, o número da questão que você está respondendo.
+[p1c0] - Verificar no caderno de prova qual a letra (A B,C,D,Ed)a resposta que você escolheu.
+[p1c0] - Marcar essa letra na FOLHA DE RESPOSTAS, conforme cexemplo: DOC DO
+[p1c0] ATENÇÃO
+[p1c0] - Marque as respostas com caneta esferográfica de material transparente de tinta preta ou azul. Não será permitida a utilização de
+[p1c0] lápis, lapiseira, marca-texto, régua ou borracha durante a realização da prova.
+[p1c0] - Marque apenas uma letra para cada questão, mais de uma letra assinalada implicará anulação dessa questão.
+[p1c0] - Respondaa todas as questões.
+[p1c0] - Não será permitida qualquer comunicação entre os(as) candidatos(as), nem a utilização de livros, anotações, códigos, manuais,
+[p1c0] notas ou impressos não permitidos, máquina calculadora ou similar.
+[p1c0] - AduraçãodaprovaédesS horas para responder a todas as questões objetivas e preenchera Folha de Respostas.
+[p1c0] - fotérminoda prova, chame o fiscal da sala e devolva todo o material recebido para conferência.
+[p1c0] - Eproibidaa divulgação ou impressão parcial ou total da presente prova. Direitos Reservados.
+[p1c0] Fundação arios Chagas
+[p2c0] PROVA OBJETIVA DE CONHECIMENTOS GERAIS
+[p2c0] Lingua Portuguesa
+[p2c0] Atenção: Para responder às questões de números 1 a 3, basele-se no texto abaixo.
+[p2c0] Todos sabemos que a nossa época é profundamente bárbara, embora se trate de uma barbárie ligada ao máximo de civil
+[p2c0] zação. Penso que o movimento pelos direitos humanos se entronca aí, pois somos a primeira era da história em que teoricamente é
+[p2c0] possivel entrever uma solução para as grandes desarmonias que geram a injustiça contra a qual lutam os homens de boa vontade, à
+[p2c0] busca não mais do estado ideal sonhado pelos utopistas racionais que nos antecederam, mas do máximo viável de igualdade &
+[p2c0] justiça.
+[p2c0] Mas esta verificação desalentadora deve ser compensada por outra mais otimista: nós sabemos que hoje os meios materiais
+[p2c0] necessários para nos aproximarmos desse estágio melhor existem, e que muito do que era simples utopia se tornou possibilidade
+[p2c0] real. Quem acredita nos direitos humanos procura transformar a possibilidade teórica em realidade. Inversamente, um traço sinistro do
+[p2c0] nosso tempo é saber que é possivel a solução de tantos problemas e ainda assim não se empenhar nela.
+[p2c0] (CANDIDO, Antonio. O direito à literatura. Adaptado)
+[p2c0] 1. No texto, Antonio Candido destaca
+[p2c0] (4) o surgimento do movimento pelos direitos humanos como resquício de retrocessos históricos, sugerindo que tal movimento
+[p2c0] sobrepuja a barbárie.
+[p2c0] (B) o retrocesso histórico dos dias de hoje, sugerindo que o movimento pelos direitos humanos prescinde dos valores civili-
+[p2c0] zatórios de épocas passadas.
+[p2c0] (C) a oposição entre barbárie e civilização, sugerindo que o movimento pelos direitos humanos, ao tentar promover uma igual-
+[p2c0] dade utópica, ignora essa dualidade.
+[p2c0] (D) a coexistência paradoxal entre a barbárie e o ápice da civilização, sugerindo que o movimento pelos direitos humanos se
+[p2c0] insere nessa tensão.
+[p2c0] (E) a negação da barbárie por parte dos que defendem os valores do progresso civilizatório, sugerindo que o movimento pelos
+[p2c0] direitos humanos ratifica esta mesma negação.
+[p2c0] 2. Todos sabemos que a nossa época é profundamente bárbara, embora se trate de uma barbárie ligada ao máximo de civiliza-
+[p2c0] ção.
+[p2c0] Considerando as relações de sentido, sem que nenhuma outra alteração seja feita na frase, o termo sublinhado pode ser substi-
+[p2c0] tuído por:
+[p2c0] (A) conquanto.
+[p2c0] (B] conforme.
+[p2c0] (C) portanto.
+[p2c0] (D) porquanto.
+[p2c0] (E) contudo.
+[p2c0] 3. O autor estabelece um contraste entre as expressões possibilidade real &
+[p2c0] (A) traço sinistro.
+[p2c0] (B] grandes desarmonias.
+[p2c0] (C) verificação desalentadora.
+[p2c0] (D) meios materiais.
+[p2c0] (E) simples utopia.
+[p3c0] Atenção: Para responder às questões de números 4 a 6, leia o poema Tecendo a manhã de João Cabral de Melo Neto.
+[p3c0] Lim galo sozinho não tece uma manhã:
+[p3c0] ele precisará sempre de outros galos.
+[p3c0] De um que apanhe esse grito que ele
+[p3c0] eo lance a outro; de um outro galo
+[p3c0] que apanhe o grito que um galo antes
+[p3c0] eolance a outro; e de outros galos
+[p3c0] que com muitos outros galos se cruzem
+[p3c0] os fios de sol de seus gritos de galo,
+[p3c0] para que a manhã, desde uma teia tênue,
+[p3c0] se vá tecendo, entre todos os galos.
+[p3c0] E se encorpando em tela, entre todos,
+[p3c0] se erguendo tenda, onde entrem todos,
+[p3c0] se entretendendo para todos, no toldo
+[p3c0] (a manhã) que plana livre de armação.
+[p3c0] A manhã, toldo de um tecido tão aéreo
+[p3c0] que, tecido, se eleva por si luz balão.
+[p3c0] (MELO NETO, João Cabral de. À Educação
+[p3c0] pela Pedra)
+[p3c0] 4. Opoema
+[p3c0] (A) critica a solidão advinda do excesso de conexões.
+[p3c0] (B) encoraja a tentativa de controle do tempo.
+[p3c0] (C) ressalta que a colaboração entre as pessoas é essencial.
+[p3c0] (Dj destaca que as relações humanas são frágeis.
+[p3c0] (E) enaltece a intervenção humana nos fenômenos da natureza.
+[p3c0] 5. que com muitos outros galos se cruzem
+[p3c0] O verbo flexionado nos mesmos tempo e modo que à destacado no trecho acima está também destacado em:
+[p3c0] (A) ele precisará sempre de outros galos
+[p3c0] (Bj) De um que apanhe esse grito
+[p3c0] (C) Ese encorpando em tela
+[p3c0] (D) Lim galo sozinho não tece uma manhã
+[p3c0] (E) que, tecido, se eleva por si: luz balão
+[p3c0] 6. para que a manhã, desde uma teia tênue, / se vá tecendo, entre todos os galos.
+[p3c0] O elemento sublinhado expressa, no contexto do poema, ideia de
+[p3c0] (&] comparação.
+[p3c0] (B) causa.
+[p3c0] (C) oposição.
+[p3c0] (Dj condição.
+[p3c0] (E) finalidade.
+[p4c0] Atenção: Para responder às questões de números 7 a 10, baseie-se no texto abaixo.
+[p4c0] Todo escritor reage contra os mais velhos, mesmo que o não perceba, e ainda que os admire. E se os admira, mais feroz é a
+[p4c0] reação, em que se casam amor e impaciência, ternura e tédio pela obra cristalizada: ácida compensação da pena de admirar.
+[p4c0] Impossivel fazer compreender aos de vinte anos que não temos culpa de ser mais velhos, de possuir maior soma de visões, de
+[p4c0] lembrança, de riquezas imponderáveis: que desvendamos certos segredos porque nos foi dada oportunidade de viver já há mais
+[p4c0] tempo; que o tempo traz consigo certa sutileza, ainda aos menos dotados: e que a suposta derrota de envelhecer nos confere uma
+[p4c0] relativa superioridade (aliás, de ninguém invejada).
+[p4c0] (ANDRADE, Carlos Drummond de. Passelos na Ilha. 3ão Paulo: Companhia das Letras, 2020, p. 98)
+[p4c0] ?. Sobre a relação entre escritores mais jovens e mais velhos, o autor propõe que
+[p4c0] (4) a admiração pelos mais velhos causa nos jovens uma reação paradoxal, em que se mesclam admiração e impaciência
+[p4c0] diante da obra consolidada.
+[p4c0] (B] os escritores jovens rejeitam os mais velhos por inveja, mesmo que tentem de diversas formas disfarçar esse sentimento.
+[p4c0] (C) os escritores mais velhos costumam dificultar o reconhecimento acadêmico dos jovens, o que justifica a reação de
+[p4c0] indignação contra eles.
+[p4c0] (D) a impaciência dos jovens se deve à falta de originalidade dos escritores consagrados, cuja obra já se tornou obsoleta.
+[p4c0] (E) a incompreensão entre gerações é inevitável, pois os mais velhos são incrédulos quanto ao dinamismo da produção
+[p4c0] literária vanguardista.
+[p4c0] B. Parao autor,
+[p4c0] (A) a juventude é marcada por uma abertura mais expressiva às diversas facetas da realidade.
+[p4c0] (B) o passar dos anos é incapaz de apurar a sensibilidade dos desprovidos de talento.
+[p4c0] (C) a ideia de que a maturidade esconde em si uma força é uma falácia.
+[p4c0] (Dj | o envelhecimento, mesmo visto como declínio, tem diversos aspectos positivos.
+[p4c0] (E) a longa experiência de vida dos mais velhos acarreta adversidades, levando ao sentimento de derrota.
+[p4c0] 9. Considere os trechos abaixo.
+[p4c0] I. ácida compensação da pena de admirar
+[p4c0] II. relativa superioridade
+[p4c0] III. mais feér a orezaçã o
+[p4c0] identifica-se sentido denotalivo no(s) termo(s) sublinhado(s) APENAS em:
+[p4c0] (A) 1.
+[p4c0] (B) II.
+[p4c0] (C) III.
+[p4c0] (D) IeII.
+[p4c0] (E) IIeIII.
+[p4c0] 10. Identifica-se prefixo de negação no termo sublinhado em:
+[p4c0] (A) ... que o tempo traz consigo certa sutileza...
+[p4c0] (B] Todo escritor reage contra os mais velhos...
+[p4c0] (C) ... maior soma de visões, de lembrança, de riquezas imponderáveis...
+[p4c0] (D) ... mesmo que o não perceba, e ainda que os admire.
+[p4c0] (E) ... nos foi dada oportunidade de viver já há mais tempo...
+[p5c0] Raciocínio Lógico Matemático e Estatística
+[p5c0] Atenção: As questões de números 11 a 15 referem-se a Raciocínio Lógico-Matemático.
+[p5c0] 11. Todas as caixas armazenadas em dois depósitos, A e B, foram transferidas para o novo depósito central. À primeira etapa
+[p5c0] dessa tarefa foi levar as caixas até um caminhão, de maneira que cada caixa foi carregada por uma única pessoa e cada pessoa
+[p5c0] só carregava uma caixa por vez. Sabe-se ainda que o tempo para levar qualquer caixa, de qualquer depósito, por qualquer
+[p5c0] pessoa, até o caminhão era sempre o mesmo, cada pessoa sempre carregava um mesmo número de caixas por hora & o
+[p5c0] número de caixas do depósito B era Igual a três quartos do número de caixas do depósito A. Na primeira hora dessa tarefa, um
+[p5c0] grupo com n pessoas trabalhou no depósito A. Em seguida, durante uma hora, metade desse grupo trabalhou no depósito À e a
+[p5c0] outra metade no depósito B, de maneira que, ao fim dessa segunda hora de trabalho, todas as caixas do depósito A foram
+[p5c0] carregadas. Finalmente, cinco pessoas desse grupo trabalharam por mais quatro horas para carregar as caixas que ainda
+[p5c0] estavam no depósito B. O valor de n é
+[p5c0] (A) 12
+[p5c0] (B) 18
+[p5c0] (C) 24
+[p5c0] (D) 32
+[p5c0] (E) 36
+[p5c0] 12. Considere a sequência 1,1,2,1,2,3,1,2,3,4,1,2,3,4,5,1,2,3,4,5,6,...,1,2,3,...,25,1,2,3,...,26,1,2,3... O termo
+[p5c0] 25 ocorre pela vigésima quinta vez na
+[p5c0] (A] 11762 posição.
+[p5c0] (B) 12012 posição.
+[p5c0] (C) 12262 posição.
+[p5c0] (D) 12512 posição.
+[p5c0] (E) 12782 posição.
+[p5c0] 13. Considere as cidades de Avaré, Bauru, Garça e Tatuí. Dessas cidades, Maria já visitou no minimo duas e no máximo três e ela
+[p5c0] fez as seguintes afirmações:
+[p5c0] “ Seeu visitei Tatuí, então não visitei Bauru.
+[p5c0] “Nunca visitei Avaré e nunca visitei Garça.
+[p5c0] "Ou visitei Avaré ou não visitei Bauru.
+[p5c0] “ Visitei Garça se, e somente se, não visitei Tatuí.
+[p5c0] Exatamente uma dessas quatro afirmações é falsa, logo, em relação às quatro cidades citadas, a altermaliva que contêm todas
+[p5c0] as cidades que Maria visitou é
+[p5c0] (A) Avaré e Bauru.
+[p5c0] (B) Bauru e Tatuí.
+[p5c0] (C) Avaré, Bauru e Garça.
+[p5c0] (D) Avaré, Garça e Tatuí.
+[p5c0] (E) Bauru, Garça e Tatuí.
+[p5c0] 14. Se Zum não vai a lugar algum, então Zum não está selado. Se Zum vai a algum lugar, então Zum estã registrado ou Zum está
+[p5c0] carimbado. Sempre que Zum está selado, Zum não está rotulado. Se Zum estã registrado, então Zum estã rotulado. Ontem,
+[p5c0] Zum estava selado, portanto, ontem, Zum
+[p5c0] (A) foi a algum lugar e estava carimbado.
+[p5c0] (Bj) foi a algum lugar e estava registrado.
+[p5c0] (C) não foi a lugar algum ou estava rotulado.
+[p5c0] (Dj não foi a lugar algum e estava selado.
+[p5c0] (E) não foi a lugar algum ou estava registrado.
+[p5c0] 15. Basil, Dario e Gaspar são analistas e têm, cada um, um estagiário. Os nomes dos estagiários são Nilo, Ravi e Tadeu, não
+[p5c0] necessariamente nessa ordem. Essas seis pessoas disputam ente si, regularmente, um antigo jogo de cartas. Cada jogo é
+[p5c0] disputado por duas pessoas e sempre tem um vencedor. No mês de janeiro, eles disputaram 101 partidas, das quais Nilo venceu
+[p5c0] 28. Dario venceu o mesmo número de partidas que o estagiário de Basil. Gaspar venceu um número de partidas igual à metade do
+[p5c0] número de partidas que venceu o estagiário de Dario. Basil venceu uma partida a mais do que Ravi. O estagiário que mais venceu
+[p5c0] ganhou 21 partidas a mais do que o estagiário que menos venceu. O analista que mais venceu ganhou & partidas a mais do que o
+[p5c0] estagiário que menos venceu. Os estagiários de Dario e Gaspar venceram um total de
+[p5c0] (8) 34 partidas.
+[p5c0] (B) 40 partidas.
+[p5c0] (C) 46 partidas.
+[p5c0] (D) 52 partidas.
+[p5c0] (E) 58 partidas.
+[p6c0] Atenção: As questões de números 16 a 20 referem-se a Estatística.
+[p6c0] 16. Considere uma população formada pelos salários de todos os funcionários lotados em um setor de um órgão público. Com
+[p6c0] relação às medidas de posição e de variabilidade, tem-se que:
+[p6c0] (A) somando ou subtraindo uma constante a todos os elementos da população, a média e seu desvio padrão ficarão somados
+[p6c0] ou subtraidos da mesma constante.
+[p6c0] (B] sendo concedido um aumento de 10% para todos os funcionários, então a nova variância será igual à variância anterior
+[p6c0] multiplicada por 1,10.
+[p6c0] (C) a mediana pertence ao conjunto correspondente à população e poderá ser inferior ou superior à média.
+[p6c0] (D) a moda, quando existe, sempre pertence ao conjunto correspondente à população que poderá ter mais de uma moda.
+[p6c0] (E) sendo concedido um aumento de 5% para todos os funcionários, então o novo coeficiente de variação, definido como o re-
+[p6c0] sultado da divisão do desvio padrão pela média, ficará aumentado em 5%.
+[p6c0] 17. Em uma sala de uma repartição pública trabalham somente pessoas formadas nas áreas de Economia, Administração e Ciên-
+[p6c0] cias Contábeis perfazendo um total de vinte e cinco pessoas. Somente duas pessoas são formadas nas três áreas, cihco são
+[p6c0] formadas em Economia e Ciências Contábeis, três são formadas em Administração e Ciências Contábeis e seis são formadas
+[p6c0] em Administração e Economia. Escolhendo aleatoriamente uma pessoa desta sala, a probabilidade de ela ser formada em uma
+[p6c0] e somente uma das áreas é igual a
+[p6c0] (A) 35
+[p6c0] (B) 23
+[p6c0] (Cc) 215
+[p6c0] (D) 34
+[p6c0] (E) 112
+[p6c0] 18. De um conjunto de analistas formado por seis homens e quatro mulheres, deverá ser formada uma comissão de três pessoas,
+[p6c0] escolhidas aleatoriamente, para realizar uma determinada tarefa. A probabilidade de esta comissão conter pelo menos duas mu-
+[p6c0] lheres é igual a
+[p6c0] (A) 30
+[p6c0] (B) 23
+[p6c0] (C) 113
+[p6c0] (Dj did
+[p6c0] (E) 112
+[p6c0] 19. A população formada pelos salários, em salários minimos (SM), dos empregados de uma prefeitura é normalmente distribuída
+[p6c0] com uma variância populacional igual a 2,25 (SMF. Extraindo uma amostra aleatória desta população, com reposição, de
+[p6c0] tamanho 100, encontrou-se uma média amostral igual a 4,8 SM. Utilizando as informações da curva normal padrão (Z) que as
+[p6c0] probabilidades P(Z= 1,64)= 0,95 e P(Z = 1,96) = 0,975, então o intervalo de confiança de 95% para a média populacional, com
+[p6c0] base na amostra, é igual a
+[p6c0] (A) [4,554 5,046]
+[p6c0] (B) [4,359,5,241]
+[p6c0] (C) [4,604; 4,956]
+[p6c0] (Dj) [4,636 ; 4,964]
+[p6c0] (E) [4,506 ; 5,094]
+[p6c0] 20. A partir de 10 pares de observações (X, Y,) com i= 1,2, 3... 10, escolhidos aleatoriamente, referentes a duas variáveis Xe Y,
+[p6c0] foram obtidas as respectivas variâncias amostrais 5; = 25 e S$ = 36. Se a covariância de X e Y apresenta um valor igual a 24,
+[p6c0] então o respectivo coeficiente de correlação é igual a
+[p6c0] (A) 0,60
+[p6c0] (B) 0,80
+[p6c0] (C| 0,75
+[p6c0] (D) 0,40
+[p6c0] (E) 0,64
+[p7c0] Legislação atinente à TIC
+[p7c0] 21. Em uma análise recente sobre a governança de TIC na prefeitura de São Paulo, especialistas destacaram que o alinhamento
+[p7c0] entre planejamento estratégico e ações setoriais é um dos maiores desafios na gestão pública. Este alinhamento é considerado
+[p7c0] essencial para evitar redundâncias, otimizar recursos e atender às demandas crescentes de serviços públicos baseados em
+[p7c0] tecnologia. Com base no Decreto nº 57.653/2017, o instrumento de governança responsável por definir metas e objetivos estra-
+[p7c0] tégicos alinhados ao Programa de Metas do municipio é o Plano
+[p7c0] (8) Diretor Geral de Tecnologia da Informação e Comunicação (PDGTIC).
+[p7c0] (B) Diretor Setorial de Tecnologia da Informação e Comunicação (PDSTIC).
+[p7c0] (EC) Estratégico de Tecnologia da Informação e Comunicação (PETIC).
+[p7c0] (Dj Anual de Tecnologia da Informação & Comunicação (PATIC).
+[p7c0] (E) Operacional de Tecnologia da Informação e Comunicação (POTIC).
+[p7c0] 22. Um usuário publicou criticas em uma rede social sobre um serviço de delivery de uma certa empresa, relatando problemas recor-
+[p7c0] rentes. À empresa afetada solicitou ao provedor da aplicação da rede social a remoção do conteúdo, alegando danos à sua re-
+[p7c0] putação. Com base no Marco Civil da Internet (Lei né 12.965/2014), 0 provedor
+[p7c0] (A) deve remover imediatamente qualquer conteúdo que gere reclamações de empresas, para evitar danos reputacionais.
+[p7c0] (B) precisa remover as críticas da rede social somente após emissão de ordem judicial específica.
+[p7c0] (C) precisa remover conteúdos considerados ofensivos, desde que a empresa prejudicada solicite por escrito.
+[p7c0] (D) tem total liberdade para decidir quais conteúdos serão removidos, independentemente de ordem judicial ou notificação.
+[p7c0] (E) deve consultar o PROCON antes de remover o conteúdo, quando este envolve opiniões sobre serviços ou produtos.
+[p7c0] 23. Em uma invesligação policial, foi identificado que um programador desenvolveu e vendeu ferramentas para exploração de dispo-
+[p7c0] silivos informáticos, destinadas à violação de mecanismos de segurança. Essas ferramentas foram utilizadas por terceiros para
+[p7c0] a obtenção de informações sigilosas, mas não houve prejuízo econômico. De acordo com a Lei nê 12. 737/2012 (Lei Carolina
+[p7c0] Dieckmann), esse programador responde por
+[p7c0] (8) Invasão de dispositivo informático, com pena de reclusão de 6 meses a 2 anos.
+[p7c0] (B) produção de programas para permilir invasões, com pena de detenção de 3 meses a 1 ano, e multa.
+[p7c0] (C) venda de programas para permitir invasões, com pena de detenção de 6 meses a 1 ano, e multa.
+[p7c0] (D) invasão de dispositivo informático, com pena de detenção de 3 meses a 1 ano, aumentada de um sexto a um terço, e multa.
+[p7c0] (E) produção e venda de programas para permilir invasões, com pena de detenção de 6 meses a 2 anos, e multa.
+[p7c0] 24. Uma startup de tecnologia sediada em São Paulo desenvolveu um aplicativo de aluguel de bicicletas. O aplicativo coleta dados pes-
+[p7c0] soais como localização em tempo real, histórico de viagens e dados bancários dos usuários. Recentemente, um cliente solicitou
+[p7c0] que seus dados fossem eliminados após desinstalar o aplicativo, mas a empresa negou o pedido, alegando que os dados eram
+[p7c0] necessários para fins estatísticos e de melhoria dos serviços. De acordo com a LGPD, ao negar o pedido de eliminação dos da-
+[p7c0] dos, foi violado pela empresa o direto do titular
+[p7c0] (A) à portabilidade dos dados sob os quais o titular pode solicitar qualquer tipo de ação, inclusive a exclusão.
+[p7c0] (B) à anonimização, ao bloqueio ou à eliminação de dados desnecessários para a finalidade informada ou tratados em
+[p7c0] desconformidade com a lei.
+[p7c0] (C) à informação sobre o compartilhamento de dados com terceiros e à soberania sobre seus dados pessoais.
+[p7c0] (Dj de acessar e remover ele mesmo os dados armazenados de uma maneira segura, simplificada e a qualquer momento que
+[p7c0] desejar fazê-lo.
+[p7c0] (E) de ser informado sobre as bases legais para 0 tratamento dos dados e sobre sua utilização.
+[p7c0] 25. Em 2020, uma prefeitura lançou uma iniciativa para disponibilizar conteúdos educacionais abertos em sua plataforma de ensino,
+[p7c0] incentivando o uso de recursos compartilhados e a colaboração entre educadores. Uma educadora deseja compartilhar um ma-
+[p7c0] terial didático sob uma licença Creative Commons que permita a reprodução e modificação do conteúdo, desde que atribuam o
+[p7c0] devido crédito ao autor original, mas que impeça o uso comercial. À licença Creative Commons adequada para essa finalidade é
+[p7c0] all
+[p7c0] (A) BY.
+[p7c0] (B) BY-SA
+[p7c0] (C) BY-NC.
+[p7c0] (D) BY-ND.
+[p7c0] (E) BY-NC-ND.
+[p8c0] 26. Uma prefeitura de uma metrópole, com mais de 10 milhões de habitantes, implantou uma nova política de transparência, disponibili
+[p8c0] zando informações sobre projetos de revitalização urbana em uma página oficial da internet Contudo, moradores da região infor-
+[p8c0] maram que as informações não estavam atualizadas e que não era possível realizar buscas detalhadas no portal. Diante disso, um
+[p8c0] cidadão apresentou uma reclamação formal. Com base na Lei de Acesso à Informação (Lei nº 12.527/2011), a Administração Pú-
+[p8c0] blica
+[p8c0] (A) não precisa atualizar as informações, desde que estas sejam disponibilizadas em outros meios de comunicação, como bo-
+[p8c0] letins informativos e SMS.
+[p8c0] (B) deve garantir a atualização das informações e a acessibilidade do portal, incluindo ferramentas de busca.
+[p8c0] (C) não precisa incluir ferramentas de busca nos portais, desde que a informação seja divulgada de forma alternativa nos aten-
+[p8c0] dimentos presenciais ou por telefone.
+[p8c0] (D) estã dispensada de alualizar informações relacionadas a projetos de revitalização, pois são de interesse específico, não
+[p8c0] coletivo.
+[p8c0] (E) | deve divulgar as informações tanto por atendimento telefônico quanto em formato impresso, para consulta em bibliotecas
+[p8c0] públicas, como altemativas ao portal.
+[p8c0] 27. Uma prefeitura lançou um programa chamado “Cidade Inteligente”, que incluiu a instalação de sensores loT em postes para mo-
+[p8c0] nitoramento da qualidade do ar. No entanto, a prefeitura enfrentou dificuldades para regulamentar a interoperabilidade entre dife-
+[p8c0] rentes fabricantes de sensores e a troca de dados entre instituições públicas e privadas. Nesse caso, a diretriz regulatória mais
+[p8c0] relevante para garantir a interoperabilidade e segurança de sistemas loT no Brasil é a
+[p8c0] (4) implementação de normas específicas da ANPD que determinam a priorização de redes privativas padronizadas para dis-
+[p8c0] positivos loT.
+[p8c0] (B) exigência de que todos os sensores loT sejam desenvolvidos exclusivamente por empresas brasileiras para evitar falhas
+[p8c0] de interoperabilidade.
+[p8c0] (C) restrição da coleta de dados loT apenas por instituições públicas que sejam participantes do Programa Brasileiro de Nor-
+[p8c0] mas e Padrões, para evitar conflitos de regulamentação técnica.
+[p8c0] (D) obrigatoriedade de utilização de protocolos de comunicação abertos e padronizados, com base no Regulamento de Quali-
+[p8c0] dade dos Serviços de Telecomunicações da Anatel.
+[p8c0] (E) | substituição de todos os dispositivos loT estrangeiros por nacionais certificados pelo Inmetro.
+[p8c0] 28. Uma pesquisa recente realizada em uma cidade mostrou que 25% dos habitantes enfrentavam dificuldades para acessar a intemet
+[p8c0] de forma estável e com qualidade. Um dos fatores apontados foi a falta de infraestrutura adequada em regiões periféricas. À go-
+[p8c0] vemança da internet desempenha um papel essencial para garantir que todos os cidadãos tenham acesso à conectividade de
+[p8c0] qualidade. Nesse contexto, destaca-se o papel de entidades como ICANN, IETF e IGF, bem como a importância do princípio da
+[p8c0] neutralidade de rede. Dentre estas entidades, considerando sua contribuição para garantir a conectividade global de qualidade,
+[p8c0] o ICANN
+[p8c0] (A) É responsável por criar padrões técnicos para o funcionamento da internet, como os protocolos de rede.
+[p8c0] (B) regulamenta diretamente a infraestrutura física da internet, como cabos submarinos e data centers.
+[p8c0] (C) define políticas regulatórias para provedores de acesso à internel, assegurando a neutralidade de rede.
+[p8c0] (D) promove debates e discussões sobre a inclusão digital em fóruns abertos, como o IGF.
+[p8c0] (E) gerencia os recursos crílicos da internet, como nomes de domínio e endereços IP, garantindo sua distribuição global.
+[p8c0] 29. Uma cidade enfrenta desafios constantes para melhorar sua mobilidade urbana. Recentemente, soluções baseadas em Inteli-
+[p8c0] gência Artificial (IA), como sistemas predilivos para controle de tráfego e algoritmos de roteamento inteligente para transporte
+[p8c0] público, começaram a ser implementadas. No entanto, essas tecnologias também levantam questões éticas e legais, como a pri-
+[p8c0] vacidade dos dados dos cidadãos, a responsabilidade por decisões automatizadas e o impacto no mercado de trabalho. Ao im-
+[p8c0] plementar sistemas de IA para otimizar a mobilidade urbana, o principal desafio ético e legal que deve ser priorizado para ga-
+[p8c0] rantir um equilibrio entre inovação tecnológica e direitos dos cidadãos é
+[p8c0] (4) garantir que as decisões automatizadas sejam explicáveis e auditáveis.
+[p8c0] (B) restringir o uso de IA apenas a aplicações que não envolvam dados pessoais.
+[p8c0] (C) priorizar a redução de custos operacionais em detrimento de preocupações éticas.
+[p8c0] (D) | implementar sanções financeiras severas a todas as empresas que coletam dados dos usuários.
+[p8c0] (E) centralizar o controle dos algoritmos em uma única autoridade municipal.
+[p9c0] 30. Com a chegada do 56 em uma cidade, diversas aplicações tecnológicas têm ganhado espaço. Do gerenciamento de trânsito em
+[p9c0] tempo real ao monitoramento remoto de pacientes em hospitais, a alta velocidade e a baixa latência do 56 prometem
+[p9c0] transformar setores críticos. Entretanto, o avanço da conectividade enfrenta barreiras regulatórias, como a expansão de
+[p9c0] infraestruturas e os desafios da proteção de dados nas redes de alta capacidade. Nesse contexto, com relação aos impactos na
+[p9c0] conectividade e às implicações regulatórias na cidade, o 5G
+[p9c0] (A) permite maior largura de banda e baixa latência, mas sua implementação está limitada ao uso em áreas industriais, devido
+[p9c0] à falta de regulação para uso residencial.
+[p9c0] (B) suporta aplicações como cidades inteligentes e saúde conectada, mas a expansão dessa tecnologia é limitada pela neces-
+[p9c0] sidade de instalação de mais antenas e regulamentações locais.
+[p9c0] (E) elimina a necessidade de regulamentação de infraestruturas, uma vez que é uma tecnologia completamente sem fio.
+[p9c0] (D) suporta um número menor de dispositivos conectados simultaneamente, tornando sua aplicação impraticável em áreas
+[p9c0] densamente povoadas, como em grandes cidades.
+[p9c0] (E) depende exclusivamente de frequências licenciadas, inviabilizando seu uso em redes privadas empresariais.
+[p9c0] Gestão Pública Contemporânea
+[p9c0] 31. Os estudos sobre motivação no ambiente de trabalho desdobram-se em diferentes abordagens e teorias, entre as quais a co-
+[p9c0] nhecida Pirâmide de Maslow, consistente em uma representação gráfica que
+[p9c0] (&] apresenta um escalonamento dos diferentes agrupamentos dos colaboradores da organização, situando-se na base da pi-
+[p9c0] râmide os que desempenham atividades operacionais e no seu topo a alta direção, sendo que cada uma dessas camadas
+[p9c0] responde a diferentes estímulos motivacionais.
+[p9c0] (B) aponta uma hierarquização entre os fatores que induzem à motivação, de modo que apenas quando satisfeita uma neces-
+[p9c0] sidade mais básica é que o Indivíduo busca a salisfação das seguintes, siluando-se no ápice da pirâmide as necessidades
+[p9c0] de autorrealização.
+[p9c0] (C) apresenta uma categorização entre os fatores motivacionais que, via de regra, impactam o desempenho do grupo em uma
+[p9c0] organização, situando-se na base os fatores coletivos, como clima e cultura, & nó topo os estritamente individuais, como
+[p9c0] estima e reconhecimento.
+[p9c0] (D) traduz o resultado do diagnóstico do clima organizacional, de modo a classificar os diferentes gradientes da motivação nos
+[p9c0] segmentos da organização, situando-se na base os grupos ou áreas onde a molivação é baixa e no topo aqueles que
+[p9c0] podem ser considerados os paradigmas em termos de motivação.
+[p9c0] (E) Indica a precedência de determinados fatores motivacionais em relação a outros, siluando-se em sua base os falores de
+[p9c0] maior impacto psicológico, como segurança e integração ao grupo, e no ápice da pirâmide as recompensas financeiras,
+[p9c0] normalmente atreladas ao atingimento de metas.
+[p9c0] 32. Considere que determinada empresa pública municipal tenha contratado uma consultoria especializada para realizar diagnóstico
+[p9c0] organizacional e apresentar propostas para fortalecer a liderança nas equipes. A consultoria propôs medidas baseadas no estilo
+[p9c0] de liderança predicado pelo modelo situacional proposto pelos estudos de Fiedler, o que significa
+[p9c0] (A) levar em consideração exclusivamente a estruturação das tarefas, com definição de metas claras a serem alingidas.
+[p9c0] (Bj) adotar um modelo de liderança autoritário-coercitivo, partindo da premissa de que os liderados não possuem habilidades
+[p9c0] de autogestão.
+[p9c0] (C) privilegiar uma liderança participativa, vista como o melhor modelo, independentemente do poder formal disponivel para o
+[p9c0] lider.
+[p9c0] (Dj considerar os critérios situacionais: relações dos membros com os líderes (lider-liderado), estrutura da tarefa e poder de
+[p9c0] posição.
+[p9c0] (E) considerar que a autoridade é inimiga da produtividade, de forma que o modelo de liderança benevolente é o que induz a
+[p9c0] melhor performance dos liderados.
+[p9c0] aa. Suponha que esteja sendo aplicada avaliação de desempenho seguindo a metodologia dos incidentes críticos e que, ao final do
+[p9c0] processo, tenha sido constatado vício de recenticidade nos resultados da avaliação. Considerando as premissas desse lipo de
+[p9c0] avaliação e a natureza do vício identificado, pode-se constatar que
+[p9c0] (A) o ranqueamento dos avaliados segundo os desempenhos individuais, que é a principal medida desse método, gerou um
+[p9c0] sentimento de injustiça e ressentimento no bojo do grupo, ou seja, um efeito adverso da avaliação.
+[p9c0] (B) as dinâmicas individuais e de grupo comumente aplicadas nesse tipo de metodologia ensejaram desconforto e desconfian-
+[p9c0] ça dos avaliados, criando uma externalidade negativa do processo avaliatório.
+[p9c0] (C) o registro dos comportamentos extremos, tanto positivos como negativos, o que constitui 0 cerne desse metodo, foi feito
+[p9c0] com base apenas na avaliação de situações e comportamentos mais recentes do avaliado.
+[p9c0] (Dj) a autoavaliação feita pelos colaboradores, que constitui pressuposto e baliza para essa metodologia, padece de viês de
+[p9c0] curto prazo, ou seja, está claramente Impactada pelas metas vigentes.
+[p9c0] (E) o critério de temporalidade (prontidão) foi superestimado na aplicação desse método, sendo que a correta aplicação da
+[p9c0] metodologia deveria ter sido baseada na ponderação dos elementos: prontidão e eficácia da atuação dos avaliados em
+[p9c0] situações crílicas.
+[p10c0] 34. De acordo com a disciplina estabelecida pela Constituição Federal relativamente ao controle interno no âmbito do Poder Exe-
+[p10c0] cultivo, bem como do controle externo realizado com o apoio dos Tribunais de Contas, tem-se que:
+[p10c0] (A) ao Tribunal de Contas compete julgar as contas dos administradores e demais responsáveis por bens e valores públicos
+[p10c0] da Administração Direta, enquanto o exame das contas de sociedades instituídas e mantidas pelo Poder Público compete
+[p10c0] exclusivamente ao controle intemo.
+[p10c0] (B) o controle externo deve atuar de forma autônoma e independente em relação ao controle interno, sendo vedado a este
+[p10c0] último instar o Tribunal de Contas em relação a ilegalidades sem antes concluir a análise e penalização no âmbito do ente.
+[p10c0] (C) compete aos Tribunais de Contas apoiar a missão institucional dos órgãos de controle intemo, sem, contudo, imiscuir-se
+[p10c0] na avaliação da eficiência da aluação dos órgãos da Administração Pública.
+[p10c0] (Dj) constitui prerrogativa do controle extemo sustar a execução de contratos e atos da Administração direta e indireta, com a
+[p10c0] subsequente representação ao Chefe do Executivo sobre irregularidades ou abusos apurados.
+[p10c0] (E) compete ao órgão responsável pelo controle intemo do Poder Executivo, entre outras atribuições, o controle das opera-
+[p10c0] ções de crédito, avais e garantias, bem como dos direitos e haveres do ente.
+[p10c0] as. Considere que o Município esteja cogitando adquirir uma nova ferramenta de tecnologia da informação, para modernização de
+[p10c0] seu fluxo de processos de licenciamento de edificações. Para tanto, de acordo com o regramento estabelecido na legislação que
+[p10c0] rege, em âmbito nacional, as compras públicas (Lei nº 14.133/2021), tem-se que o denominado Estudo Técnico Preliminar
+[p10c0] (A) deve ser elaborado ainda na etapa de planejamento, prévia à licitação e à aquisição propriamente dita, contemplando,
+[p10c0] entre outros elementos obrigatórios, as justificativas para 0 parcelamento ou não da contratação.
+[p10c0] (B) constitui documento essencial a ser apresentado pelos licitantes na fase de habilitação, contemplando a descrição da solu-
+[p10c0] ção como um todo, inclusive das exigências relacionadas à manutenção e à assistência técnica, quando for o caso.
+[p10c0] (C) & exigível como substituto ao Termo de Referência da futura contratação, devendo atestar a compatibilidade técnica da
+[p10c0] solução de TI pretendida, bem assim a sua eficácia e economicidade.
+[p10c0] (D) é exigivel apenas se a contratação não estiver prevista no plano de contratações anual publicado pelo Município, devendo
+[p10c0] indicar o seu alinhamento com as linhas gerais de planejamento da Administração.
+[p10c0] (E) somente será exigivel para contratos que, cumulativamente, ultrapassem o prazo de vigência de dois anos e o valor global
+[p10c0] anual de R$ 10 milhões, bem como na hipótese de contratação com dispensa ou inexigibilidade de licitação.
+[p10c0] 36. De acordo com o que dispõe a Constituição Federal e a Lei de Responsabilidade Fiscal, o Anexo de Metas Fiscais constitui ele-
+[p10c0] mento
+[p10c0] (A) que compõe a Lei Orçamentária Anual (LOA), contemplando metas anuais, em valores correntes e constantes, relativas a
+[p10c0] receitas, despesas, resultados nominal & primário, para o exercício a que se referirem e para o exercício seguinte.
+[p10c0] (B) integrante da Lei de Diretrizes Orçamentárias (LDO) e que contempla, entre outros aspectos, a evolução do patrimônio
+[p10c0] liquido nos últimos três exercícios, destacando a origem e a aplicação dos recursos obtidos com a alienação de ativos.
+[p10c0] (C) essencial ao Plano Plurianual (PPA), devendo contemplar, entre outros aspectos, a estimativa da margem de expansão
+[p10c0] das despesas obrigatórias de caráter continuado e os resultados esperados das empresas controladas pelo ente.
+[p10c0] (D) que, juntamente com o Anexo de Riscos Fiscais, compõem o conjunto de informações necessárias para a fixação do
+[p10c0] montante da Reserva de Contingência, que é acionada quando as metas de superávit ou redução de déficit não são
+[p10c0] atingidas.
+[p10c0] (E) integrante do decreto de execução orçamentária, a ser editado até o final do primeiro bimestre do exercicio, fixando as
+[p10c0] diretrizes para conlingenciamento em caso de frustração das receitas previstas na Lei Orçamentária Anual (LOA).
+[p10c0] 37. Os conceitos mais contemporâneos de gestão de pessoas, de acordo com o modelo de gestão estratégica de pessoas, predi-
+[p10c0] cam a segregação entre autoridade de linha e função de staff, o que denota uma evolução histórica da área de RH no sentido de
+[p10c0] (A) especialização da área de RH, retirando da mesma tudo aquilo que possa ser considerada mera função de staff, as quais
+[p10c0] devem ser desempenhadas por colaboradores da própria organização ou, preferencialmente, terceirizadas.
+[p10c0] (B) fortalecimento e centralização do papel da área de RH, que passa a ser responsável não apenas por aspectos buro-
+[p10c0] cráticos, como também pela própria gestão dos recursos humanos na organização, exercendo a autoridade linha.
+[p10c0] (C) atribuição de maior responsabilidade aos gerentes de projeto, que passam a atuar também no monitoramento da política
+[p10c0] de gestão de pessoal da organização, sendo considerados staff (suporte) do órgão de RH em tal aspecto.
+[p10c0] (D) consolidação como área autônoma da organização, concentrando todas as competências e meios necessários para
+[p10c0] realizar ambas as funções, desde que cometidas a diferentes equipes e submetidas a rígidos critérios de compliance.
+[p10c0] (E) descentralização, com a atribuição da responsabilidade linear e direta aos gestores pela condução de seus subordinados,
+[p10c0] cabendo à área de RH o enfoque estratégico, Incluindo politicas e assessoria na gestão de pessoas.
+[p11c0] 38. Considere que o Municipio pretenda conceder benefício tributário de caráter não geral, restrito a segmento específico de deter-
+[p11c0] minado setor de serviços, o qual teria sido mais fortemente impactado por recentes chuvas e inundações. De acordo com o
+[p11c0] tratamento sob a ótica do impacto orçamentário-financeiro da medida, na forma prevista na Constituição Federal e na Lei de
+[p11c0] Responsabilidade Fiscal,
+[p11c0] (A) o beneficio somente produzirá efeitos a partir do exercício seguinte ao da lei instituidora, devendo o montante da renún-
+[p11c0] cia ser adicionado à margem de crescimento das despesas de caráter continuado prevista na Lei de Diretrizes Orça-
+[p11c0] mentárias (LDO).
+[p11c0] (B) caso tenha sido autorizado por lei específica, a qual estabeleça as medidas de compensação, que podem consistir em
+[p11c0] aumento de receita ou redução de despesas, o beneficio tributário poderá entrar em vigor no mesmo exercício da lei
+[p11c0] autorizativa.
+[p11c0] (6) não serão necessárias medidas de compensação na hipótese em que a renúncia de receitas ensejada pelo benefício
+[p11c0] tenha sido considerada na estimativa de receita da lei orçamentária e não afete as metas de resultados fiscais previstas no
+[p11c0] anexo próprio da lei de diretrizes orçamentárias.
+[p11c0] (D) embora não sujeita ao princípio da anualidade, a medida deve observar a noventena, somente produzindo efeitos após
+[p11c0] decorridos noventa dias da edição da lei ou decreto instituidor, condicionada à demonstração da neutralidade de seus
+[p11c0] impactos nas estimativas de arrecadação para o exercício em curso.
+[p11c0] (E) independentemente da previsão do benefício no anexo de metas fiscais, o benefício somente poderá entrar em vigor a
+[p11c0] partir da efetiva adoção das medidas de compensação de renúncia de receita, vedado o aumento de carga tributária para
+[p11c0] tal finalidade.
+[p11c0] 39. Suponha que o Município de São Paulo pretenda substituir à modalidade de prestação de determinado serviço público à popu-
+[p11c0] lação, atualmente prestado sob a forma de permissão, passando a adotar a forma de concessão. De acordo com o regime
+[p11c0] jurídico dessas duas modalidades de prestação indireta de serviços públicos, ao fazer tal modificação, o Município deverá ter em
+[p11c0] mente que
+[p11c0] (A) a relação passará a ser contratual, com prazo certo, precedida de licitação, não sendo cabivel mantero caráter precário do
+[p11c0] regime de prestação mediante permissão.
+[p11c0] (B) demandará a transferência da titularidade do serviço ao privado, para explorá-lo por sua conta e risco, sendo que a
+[p11c0] retomada pelo poder concedente dependerá de lei.
+[p11c0] (€) a concessão pressupõe o pagamento de outorga ao poder concedente, a qual é incabível na permissão dado que não há
+[p11c0] cobrança de tarifa do usuário.
+[p11c0] (D) serã necessária a transmutação do vínculo, o que somente poderá ocorrer por lei específica, a qual deverá fixar a
+[p11c0] indenização devida ao permissionário pelos investimentos não amortizados.
+[p11c0] (E) tal mudança de regime de exploração do serviço público somente será possível mediante encampação, por ato devi-
+[p11c0] damente motivado do poder concedente e respeitado o prazo fixado no ato concessário da permissão.
+[p11c0] A Administração Pública contemporânea, forjada a partir do modelo gerencial e informada pelos princípios constitucionais a ela
+[p11c0] aplicáveis, notadamente o da eficiência, positivado a partir da Emenda Constitucional nº 19, de 1998, deve pautar sua atuação
+[p11c0] pela transparência, governança e accountability. Nesse diapasão,
+[p11c0] (A) transparência e accountability representam as duas faces da governança pública, sendo a primeira a sua dimensão exter-
+[p11c0] na, com mecanismos de participação popular, e a segunda a dimensão interna, consistente na incorporação das de-
+[p11c0] mandas sociais.
+[p11c0] (B) exige-se que a transparência seja ativa, ou seja, que todos os atos administrativos sejam publicados em diário oficial « em
+[p11c0] midia digital, não podendo ser conferido sigilo sobre informações de qualquer natureza relativas à atuação administrativa.
+[p11c0] (6) as boas prálicas de governança correspondem a conceito que se aplica às empresas estatais, enquanto na Administração
+[p11c0] direta as mesmas finalidades são atingiveis com a dimensão governabilidade.
+[p11c0] (D) a dimensão denominada accountability diz respeito à exigência de se prestar contas à sociedade da atuação administrativa
+[p11c0] e dos resultados obtidos (responsividade), não se restringindo a mero controle formal ou de legalidade.
+[p11c0] (E) enquanto a governança responde à dimensão política da aluação administrativa, ou seja, às condições para a adoção de
+[p11c0] politicas públicas, a dimensão de accountability diz respeito ao controle da legalidade dessas políticas.
+[p12c0] PROVA OBJETIVA DE CONHECIMENTOS ESPECÍFICOS
+[p12c0] Gestão de TIC
+[p12c0] 41. À equipe de Analistas de uma Prefeitura Municipal implementou um novo sistema de gerenciamento eletrônico de documentos
+[p12c0] para melhorar a eficiência dos processos internos e a transparência no atendimento ao cidadão. Após a implementação, foi iden-
+[p12c0] tificado que várias unidades administrativas utilizavam padrões diferentes para nomear e arquivar os documentos, dificultando o
+[p12c0] acesso às informações e ao controle centralizado. Com base no COBIT 20185, a ação alinhada aos princípios de governança e
+[p12c0] gestão para resolver o problema identificado é
+[p12c0] (A) realizar treinamentos sobre a operação do sistema com todos os servidores, destacando os benefícios do novo sistema
+[p12c0] para aumentar a adesão.
+[p12c0] (B) atualizar os contratos com os fornecedores do sistema para incluir cláusulas de suporte técnico mais rigorosas.
+[p12c0] (C) estabelecer e implementar políticas e procedimentos padronizados para a classificação, nomeação e arquivamento de do-
+[p12c0] cumentos, garantindo alinhamento com os objetivos organizacionais.
+[p12c0] (D) delegar a cada unidade administrativa a responsabilidade de definir seus próprios padrões de arquivamento, respeitando
+[p12c0] as especificidades locais.
+[p12c0] (E) contratar consultores externos para realizar auditorias periódicas do uso do sistema em cada unidade administrativa.
+[p12c0] 42 Uma Prefeitura Municipal está avaliando cinco projetos de modernização digital, mas tem para isso um orçamento restrito. A
+[p12c0] melhor opção dessa Prefeitura é decidr pela implementação do projeto com as seguintes caracteristicas (maior eficiência relati-
+[p12c0] va ROL e TCO)
+[p12c0] (A) - ROl de 60% e TCO de Rã 270 milhões.
+[p12c0] (B) ROl de 45% e TCO de Rá 250 milhões.
+[p12c0] (C) ROl de 80% e TCO de R$ 1,5 bilhões.
+[p12c0] (D) ROlI de 65% e TCO de R$ 350 milhões.
+[p12c0] (E) ROI de 90% e TCO de R$ 1 bilhão.
+[p12c0] 4a. Uma Analista de uma Prefeitura Municipal constatou que o órgão necessitava assegurar a continuidade dos serviços durante e
+[p12c0] após um evento disruptivo e que isso deveria ser assegurado por meio da aplicação de práticas de Gerenciamento de Con-
+[p12c0] tinuidade do Serviço (Service Continuity Management) do ITIL V4, cuja relação com os SLAs estabelecidos são:
+[p12c0] (A) monitorar & revisar o desempenho do serviço em relação aos SLAs acordados, manter um catálogo de serviços atualizado,
+[p12c0] incluindo as definições de SLAs, e estabelecer SLAs claros, mensuráveis e alinhados às necessidades de negócio.
+[p12c0] (B) garantir que os tempos de resposta e resolução definidos nos SLAs sejam cumpridos; e priorizar incidentes com base nos
+[p12c0] acordos estabelecidos com o cliente, como tempo de resolução critica versus não crítica.
+[p12c0] (C) monitorar e garantir que os serviços estejam disponíveis conforme definido nos SLAs, como uma disponibilidade de 99,9%
+[p12c0] durante horário comercial, e realizar análises para identificar áreas de melhoria relacionadas à disponibilidade.
+[p12c0] (D) definir e implementar SLAs em situações de contingência, como tempos de recuperação após falhas e níveis minimos de
+[p12c0] serviço; e planejar estratégias para manter os compromissos estabelecidos nos SLAs mesmo em siluações adversas.
+[p12c0] (E) monitorar os níveis de desempenho estabelecidos nos SLAs, como tempo de resposta máximo para transações ou aces-
+[p12c0] sos a sistemas, e prever demandas futuras e ajustar recursos para cumprir os SLAs acordados.
+[p12c0] dg. A Prefeitura de São Paulo estã avaliando estratégias para modernizar sua infraestrutura de TIC e melhorar a prestação de ser-
+[p12c0] viços públicos. Durante esse processo, uma Analista, designada para analisar as opções, concluiu que
+[p12c0] (4) a adoção de PaaS é a melhor opção, pois os usuários passam a ter controle total sobre a infraestrutura & o midaleware.
+[p12c0] Essa solução não trabalha no modelo multitenant, o que possibilita aos usuários acionarem os patches de segurança,
+[p12c0] criando compatibilidade com a infraestrutura por meio de mecanismos de integração automática.
+[p12c0] (B) a virtualização de servidores no data center municipal é mais vantajosa do que a nuvem pública, pois garante maior flexi-
+[p12c0] bilidade para atender a demandas de escalabilidade dinâmica e adaptação rápida aos picos de uso. Além disso, os ser-
+[p12c0] vidores estando no data center da Prefeitura podem facilitar o acesso a recursos de computação em diferentes regiões do
+[p12c0] Brasil e do mundo, melhorando a latência e a disponibilidade para usuários em trânsito.
+[p12c0] (C) o modelo SaaS é o ideal, pois permite que a Prefeitura configure soluções sob medida para seus processos internos e ge-
+[p12c0] rencie diretamente as funcionalidades e os dados de uma vasta gama de aplicações. Para utilizar os aplicativos Saas,
+[p12c0] basta que os usuários façam o download e instalem os softwares em seus dispositivos locais, sem precisar utilizar plugins.
+[p12c0] (Dj) | o modelo laaS é apropriado, pois utiliza virtualização para fornecer recursos escaláveis, como servidores, redes e armaze-
+[p12c0] namento. À Prefeitura pode implantar suas plataformas e aplicações nas máquinas virtuais do provedor, que oferece tecno-
+[p12c0] logias e capacidades comparáveis às de um data center físico, mantendo o controle sobre as mesmas.
+[p12c0] (E) os data centers virtuais em nuvem, do modelo PaaS, constituem opção confiável e econômica, pois para organizações em
+[p12c0] setores altamente regulamentados, como é o caso da Prefeitura, manter um data center em nuvem facilita a conformidade
+[p12c0] com requisitos específicos de segurança e privacidade de dados.
+[p13c0] 45. A Prefeitura de São Paulo está revisando sua Infraestrutura de TIC para garantir maior continuidade, eficiência e resiliência nos
+[p13c0] serviços essenciais. Em um debate técnico relativo ao tema, um dos Analistas, com propriedade, afirmou que a
+[p13c0] (A implementação de redundância reduz falhas ao criar sistemas alternativos prontos para operar, sem impacto relevante nos
+[p13c0] custos operacionais ou na complexidade de gerenciamento. À melhor abordagem é a Redundância 3N, que oferece o mais
+[p13c0] alto nível de disponibilidade, pois combina os recursos de redundância N e 20.
+[p13c0] (B) escalabilidade horizontal (scale-out), que adiciona novos servidores para dividir a carga de trabalho, é uma solução eficlen-
+[p13c0] te para lidar com crescimentos imprevisíveis na demanda. Diferentemente da escalabilidade vertical, que aumenta 05
+[p13c0] recursos de um único servidor, a horizontal melhora a resiliência, pois distribui o impacto de falhas em múltiplas unida-
+[p13c0] des.
+[p13c0] (C) alta disponibilidade depende exclusivamente de redundância física e do failover automático. Estes mecanismos dispensam
+[p13c0] o monitoramento continuo, pois as falhas são automaticamente miltigadas pelos sistemas redundantes e ainda eliminam o
+[p13c0] downtime recorrente.
+[p13c0] (D) resiliência é um conceito que se refere ao backup e à recuperação de dados, concentrando-se na criação de cópias de
+[p13c0] dados e na sua restauração em caso de perda, crucial para a continuidade dos negócios. À resiliência pode ser obtida por
+[p13c0] meio de tecnologias como Resilient Array of Independent Disks (RAID).
+[p13c0] (E) instalação de múltiplos data centers em diferentes regiões garante, de forma automática, alta disponibilidade e resiliência,
+[p13c0] independentemente da configuração de failover, pois implementa a replicação de dados e oferece altas taxas de latência
+[p13c0] às aplicações em uso.
+[p13c0] 46. A Prefeitura de São Paulo, hipoteticamente, estã conduzindo um projeto para modernizar sua infraestrutura de TIC, adotando
+[p13c0] SDN [Software Defined Network) e NFV [Network Function Virtualization). O objetivo é aumentar a eficiência operacional e oferecer
+[p13c0] serviços mais ágeis e escaláveis aos cidadãos. Para a implementação, a equipe técnica enumerou cinco cenários e estes foram
+[p13c0] analisados. O cenário e a análise cometa estão apresentados em:
+[p13c0] (A) Cenário 1: Adotar a topologia Open SDN, pois esta tem um plano de controle centralizado e usa o OpenFlow como API na
+[p13c0] direção Southbound do tráfego de switches físicos ou virtuais para o controlador SDN.
+[p13c0] Análise: A decisão de usar Open SDN com smitches habilitados para OpenFlow está tecnicamente incorreta, pois es-
+[p13c0] ta não usa as redes físicas diretamente para fazer o envio dos pacotes, mas cria uma rede virtual sobre o
+[p13c0] hardware da estrutura existente, chamada Underlay.
+[p13c0] (B) Cenário 2: Não adotar SDN via API para integrar os disposilivos legados da rede, pois esta arquitetura gera dificuldades
+[p13c0] em integrar equipamentos que não suportam SNMP, limitando a interoperabilidade com outros métodos, como
+[p13c0] REST API.
+[p13c0] Análise: À decisão está tecnicamente bem fundamentada. Além disso, a arquitetura SDN via API requer o uso de
+[p13c0] switches habilitados para OpenFlow e não funciona bem com os swifches tradicionais existentes na Prefei-
+[p13c0] tura.
+[p13c0] (6) Cenário 3: Implantar a NFVI, que & composta por pontos de presença (NFVI-PoPs), nos quais VNFs são implementadas e
+[p13c0] executadas como uma VM ou container em um servidor. Conectar recursos físicos e virtuais por meio de
+[p13c0] servers e hypervisors, criando uma camada de virtualização gerenciada por VIMs [Virtualized Infrastructure
+[p13c0] Managers) e orquestrada pelo NFV Orchestrator, viabilizando um ambiente NFV-based para a Prefeitura.
+[p13c0] Análise: A implantação de NFVI e o uso de VNFs para encadeamento de serviços melhora o provisionamento automa-
+[p13c0] tizado e a centralização da gestão, alinhando-se às melhores práticas de implantação de uma NFYV, sendo uma
+[p13c0] opção viável.
+[p13c0] (D) Cenário 4: Para a implantação de uma solução NFW, criar um NFVO (Network Functions Virtualization Orchestrator) para
+[p13c0] orquestrar os recursos dos VIMs e criar um VNFM [Virtual Network Function Master), para cuidar do ciclo de vi-
+[p13c0] da da VNF master. Retirar 05 recursos físicos do escopo de gerenciamento dos VIMs, passando o geren-
+[p13c0] ciamento do hardware para o IMANO (Infrastucture Management and Orchestration), durante a criação da
+[p13c0] NFVI.
+[p13c0] Análise: A implantação da NFY iniciando pela criação de NFVO e VNFM, utilizando o IMANO para gerenciamento dos
+[p13c0] recursos de infraestrutura implantados na NFVI, é uma solução técnica robusta e viável para as necessidades
+[p13c0] da Prefeitura.
+[p13c0] (E) Cenário 5: Para configurar a comunicação entre as camadas da SDN, ajustar a API Northbound para conectar diretamente
+[p13c0] a camada de infraestrutura à camada de controle e ajustar a API Southbound para ligar as camadas das
+[p13c0] aplicações ao controlador, de forma a viabilizar o monitoramento dos recursos & aumentar a segurança da rede
+[p13c0] da Prefeitura.
+[p13c0] Análise: A configuração das APIs Northbound e Southhound está tecnicamente correta, pois a Northbound conecta a
+[p13c0] infraestrutura diretamente ao controle, enquanto a Southbound conecta o plano de controle aos aplicativos de
+[p13c0] monitoramento e segurança em uma solução SDN.
+[p14c0] 47. Observe as seguintes informações veiculadas pela CNN em 18/09/2023:
+[p14c0] Três anos de LGPD: mais de 600 casos já foram registrados na Agência Nacional de Proteção de Dados.
+[p14c0] Os incidentes mais comuns envolveram o sequestro de dados, exploração de vulnerabilidades, acesso não autorizado a siste-
+[p14c0] mas de informações e roubo de credenciais.
+[p14c0] I. Sequestro de dados (ramsonware): com transferência de informações (40 comunicados) sem transferência de
+[p14c0] informações (34 comunicados).
+[p14c0] II. Exploração de vulnerabilidade em sistemas de informação: 24 comunicados.
+[p14c0] III. Acesso não autorizado a sistemas de informação: 19 comunicados.
+[p14c0] Iv. Roubo de credenciais: 9 comunicados.
+[p14c0] Diante dos desafios requeridos para a proteção de dados, se um Analista pertencente ao quadro de servidores de uma Prefei-
+[p14c0] tura Municipal fosse tomar medidas corretas de compliance LGPD, uma delas seria
+[p14c0] (A) definir os elementos de dados como qualquer informação estritamente relacionada às pessoas jurídicas identificadas ou
+[p14c0] não para evitar os riscos relacionados aos itens III e IV.
+[p14c0] (B) nomear um Data Protection Officer (DPO) responsável por supervisionar a conformidade com a LGPD, gerenciar solicita-
+[p14c0] ções de titulares de dados e atuar como ponto de contato com a Agência Nacional de Proteção de Dados (ANPD).
+[p14c0] (C) especificar as bases legais que legitimam o tratamento de dados pessoais, como a identificação do bitular (riscos relacio-
+[p14c0] nados aos itens 1 e II), cumprimento de obrigação legal com a LGPD e exoneração de servidores públicos envolvidos,
+[p14c0] conforme estabelece a ANPD.
+[p14c0] (D) nomear um Gerador de Dados e Registros (GDR), gestor responsável pelas informações legais passíveis de serem repas-
+[p14c0] sadas a terceiros não autorizados nacionais ou internacionais conforme artigo 4º da LGPD.
+[p14c0] (E) responsabilizar os servidores públicos que se enquadrarem nas irregularidades previstas nos artigos 6º da LGPD e defini-
+[p14c0] das em detalhes no parágrafo 4º desse mesmo artigo, observadas as recomendações especificas da ANPD.
+[p14c0] 48. Considere a notícia a seguir:
+[p14c0] Em maio de 20717, o Serviço Nacional de Saúde (NHS) do Reino Unido foi severamente afetado pelo ransomware WannalCry. O
+[p14c0] ataque criptografou dados e exigiu resgates para liberar os sistemas, causando a interrupção de serviços em mais de um terço
+[p14c0] dos hospitais do NHS. Milhares de consultas e cirurgias foram canceladas, resultando em custos financeiros significativos.
+[p14c0] Como integrante da equipe de analistas da área de saúde de uma Prefeitura Municipal, ao analisar o caso acima descrito, con-
+[p14c0] siderando a aplicação da 150 223401 e visando a segurança dos dados do órgão, conclui-se que o impacto do ataque poderia ter
+[p14c0] sido minimizado ou até evitado se o órgão livesse
+[p14c0] (A) realizado auditorias regulares de conformidade legal para garantir o cumprimento das normas de atualização de dados.
+[p14c0] (B) investido fortemente em modernização de sistemas de TI, principalmente quanto à automação e agilização de processos.
+[p14c0] (C) mantido estabelecidos acordos com terceiros para fornecer serviços de recuperação de dados.
+[p14c0] (D) realizado treinamento continuo com a equipe de TI sobre as atualizações mais recentes dos ransomwares.
+[p14c0] (E) criado um plano de resposta a incidentes com foco em recuperação de sistemas críticos e garantido a execução de
+[p14c0] backups regulares.
+[p14c0] 49. Para defender uma Prefeitura contra ataques cibeméticos, uma Analista decidiu executar ações aplicando o princípio de “nunca
+[p14c0] confiar, sempre verificar”, visando proteger os dados sensíveis dos cidadãos e garantir a continuidade dos serviços públicos, me-
+[p14c0] diante a implementação
+[p14c0] (A) da autenticação multifator (MFA) para todos os funcionários.
+[p14c0] (B) da divisão da rede em segmentos menores para limitar o movimento lateral.
+[p14c0] (C) da Zero Trust Architecture (2TA), estabelecendo um sistema de monitoramento continuo para detectar alividades suspeitas.
+[p14c0] (D) de um sistema de gerenciamento de identidade e acesso (IAM).
+[p14c0] (E) de sessões de treinamento para todos os funcionários sobre as melhores práticas de segurança cibernética.
+[p14c0] 50. Uma Prefeitura Municipal estã desenvolvendo uma solução de Big Data para gerenciar dados de mobilidade, saúde pública e
+[p14c0] planejamento urbano. O objetivo é processar grandes volumes de dados provenientes de diversas fontes, como sensores de
+[p14c0] tráfego, prontuários eletrônicos e imagens. Optando por integrar as tecnologias Hadoop e Spark, a equipe técnica decidiu
+[p14c0] (4) utilizar o HDFS do Hadoop para armazenamento distribuído dos grandes volumes de dados e o Spark Core para processar
+[p14c0] os dados em memória, integrando o Spark Streaming para transmissões em tempo real.
+[p14c0] (B) adotar o Hadoop Common para processamento em memária e o Spark Streaming para armazenamento distribuido, otimi-
+[p14c0] zando a integração entre os componentes.
+[p14c0] (C) configurar o YARN do Hadoop como um sistema de armazenamento nativo para o Spark, utilizando o Spark SOL para pro-
+[p14c0] cessar 05 dados em tempo real.
+[p14c0] (D) utilizar à MapReduce do Hadoop para processamento em lotes e o GraphX do Spark como sistema de arquivos para da-
+[p14c0] dos distribuídos, garantindo escalabilidade.
+[p14c0] (E) implementar o Mlib do Spark para armazenamento distribuído e o MapReduce do Hadoop para processamento em tempo
+[p14c0] real, aproveitando a capacidade paralela das tecnologias.
+[p15c0] 51. A Prefeitura de São Paulo estã, hipoteticamente, avaliando a implementação de blockchain para aprimorar a segurança e a rastrea-
+[p15c0] bilidade dos dados gerados por sistemas de monitoramento urbano, incluindo imagens de câmeras, registros de acesso e rela-
+[p15c0] tórios automatizados. Ao estudar a tecnologia, uma Analista afirmou, com propriedade, que o blockchain
+[p15c0] (A) deve ser configurado para armazenar dados em um único servidor dedicado, o que melhora o desempenho de leitura e re-
+[p15c0] gistro e garante maior escalabilidade na gestão de dados sensíveis. Além disso, a supervisão de autoridades certificadas
+[p15c0] para validar e manter 05 dados reduz a vulnerabilidade a ataques de hackers e falhas de segurança, fator crucial para 05
+[p15c0] serviços prestados pela Prefeitura.
+[p15c0] (B) registra cada transação, formada por etherbits, em um bloco, incluindo detalhes de quem enviou, quem recebeu e o volu-
+[p15c0] me transferido. |5s0 O torna muito adequado para armazenar grandes volumes de dados brutos da Prefeitura, como vídeos
+[p15c0] de monitoramento em alta resolução.
+[p15c0] (C) consegue realizar cálculos preditivos de tráfego de uma grande cidade como São Paulo, utilizando algoritmos de machine
+[p15c0] leaming nativos embutidos na cadeia de blocos. Esses algoritmos, distribuídos por máquinas denominadas nós, verificam
+[p15c0] se a transação é válida antes de adicioná-la à cadeia de blocos e esta ao ledger.
+[p15c0] (D) tem sua segurança baseada fortemente na criptografia, uma vez que 6 consenso descentralizado tem impacto menor na
+[p15c0] proteção contra fraudes ou manipulações de dados. Diferentes mecanismos de criptografia avançada, como Proof of Work
+[p15c0] (Po) e Proof of Stake (PoS), garantem que as chaves públicas e privadas permaneçam seguras e que as transações
+[p15c0] sejam validadas de forma justa.
+[p15c0] (E) pode ser usado para registrar metadados de monitoramento, garantindo a imutabilidade e a rastreabilidade das informa-
+[p15c0] ções. Como cada transação é registrada em um ledger compartilhado e verificável, a Prefeitura e as autoridades podem
+[p15c0] rastrear o histórico dos dados, garantindo a prestação de contas e a conformidade com as políticas de segurança e priva-
+[p15c0] cidade. Os dados brutos podem ser armazenados em sistemas complementares, como o HDFS.
+[p15c0] 52. A Prefeitura de São Paulo está hipoteticamente desenvolvendo um sistema integrado de segurança urbana, chamado Segu-
+[p15c0] rança 380º, que conecta câmeras de vigilância, sensores de tráfego e dispositivos loT em áreas públicas. O objetivo é monitorar em
+[p15c0] tempo real eventos crílicos, como congestionamentos, atos de vandalismo e emergências médicas. Esse sistema manipula da-
+[p15c0] dos sensíveis, como informações de placas de veiculos, padrões de movimento de pedestres e eventos registrados por câme-
+[p15c0] ras. Para proteger o sistema contra ataques cibeméticos, a equipe técnica decidiu implementar uma arquitetura Zero Trust (ZTA)
+[p15c0] com práticas DevSecDps. Para viabilizar o sistema Segurança 360º, o consenso foi optar por
+[p15c0] (A) armazenar dados de sensores loT e câmeras em servidores centralizados, para facilitar a administração e garantir controle
+[p15c0] total de acesso, e utilizar Virtual Private Networks (VPNs) para controlar o acesso às redes e aos aplicativos.
+[p15c0] (B) | um modelo de segurança baseado na proteção de perímetro de rede, que estabelece alguns macroperimetros em tomo de
+[p15c0] ativos protegidos, usa mecanismos de segurança como 2FA e possibilita o acesso a aplicativos e serviços com base em
+[p15c0] autorização por voz do usuário.
+[p15c0] (C) priorizar o uso de firewalls de perimetro robustos e reduzir 0 foco em autenticação e controle granular para acelerar o tráfe-
+[p15c0] go entre dispositivos. Desta forma, os invasores ficam impedidos de comprometer as credenciais do usuário e obter acesso
+[p15c0] aos sistemas locais por trás do firewall.
+[p15c0] (D) cancelar serviços que usam modelos de implantação hibridos ou multi-nuvem, dispositivos não gerenciados ou aplicativos
+[p15c0] de SaaS. Em todos esses casos, há recursos que estão fora do controle direto, inviabilizando soluções ZTA, uma vez que
+[p15c0] podem comprometer as políticas e práticas de segurança.
+[p15c0] (E) | implementar soluções que segmentam a rede para restringir o movimento lateral e conter os infiltradores, como ZTNA e
+[p15c0] Cloud Security Access Broker (CASB). Incluir MFA para todos 05 acessos, automação no pipeline CIHCD com scanners de
+[p15c0] vulnerabilidade e realizar monitoramento contínuo utilizando ferramentas SIEM.
+[p15c0] 53. A prefeitura de um grande município estã aumentando o uso de Inteligência Artificial (14), Machine Learning (ML) e Internet das
+[p15c0] Coisas (loT) para modemizar a gestão urbana. Essas tecnologias são utilizadas na automação de processos administrativos,
+[p15c0] monitoramento de tráfego, alocação de recursos e otimização de serviços públicos. Uma equipe de analistas promoveu um
+[p15c0] debate para discutir 05 desafios élicos e técnicos associados a essas tecnologias e concluiu que:
+[p15c0] (A) a utilização de algoritmos de IA na gestão urbana elimina vieses e erros humanos, garantindo decisões mais objetivas &
+[p15c0] imparciais.
+[p15c0] (B) aloT melhora a eficiência dos serviços públicos e, por ser baseada em sensores automatizados, reduz significativamente
+[p15c0] os riscos de segurança cibernética ou invasões de privacidade.
+[p15c0] (EC) modelos de ML tornam-se progressivamente autônomos e, uma vez treinados, não precisam ser revisados, pois suas
+[p15c0] previsões e decisões se aprimoram automalicamente, o que contribui para uma gestão pública realmente eficiente.
+[p15c0] (Dj a aplicação de IA na gestão pública pode reproduzir padrões discriminatórios presentes nos dados históricos usados para
+[p15c0] treinamento, tornando necessário um monitoramento contínuo para evitar viés algorítmico.
+[p15c0] (E) | como os algoritmos são treinados com grandes volumes de dados históricos estruturados e não estruturados, os sistemas
+[p15c0] baseados em ML garantem neutralidade e imparcialidade nas políticas públicas.
+[p16c0] 54. A prefeitura de uma metrópole implementou um sistema de análise de dados para monitorar a concessão de subsídios e bene-
+[p16c0] ficios sociais. No entanto, o sistema começou a detectar um aumento de solicitações fraudulentas, Incluindo a inserção de dados
+[p16c0] falsos para se qualificar a benefícios indevidos. À equipe de analistas responsável identificou uma oportunidade de utilizar as TICs
+[p16c0] em favor da sociedade, diante da Nagrante violação das queslões éticas. Assim, optou-se por usar uma abordagem de
+[p16c0] mineração de dados para identificar padrões de fraude nos dados, considerando que muitas fraudes envolvem pequenas
+[p16c0] manipulações dificeis de identificar. A opção escolhida foi
+[p16c0] (A) aplicar algoritmos de clusterização, como o KNN [K-Nearest Neighbours), nos dados históricos de solicitações para iden-
+[p16c0] tificar padrões de comportamento de grupos distintos de beneficiários, agrupando os fraudadores em clusters especificos.
+[p16c0] (B) utilizar regras de associação negativas para encontrar combinações frequentes de caracteristicas em solicitações fraudu-
+[p16c0] lentas, permitindo que o sistema aplique regras automáticas para marcar possíveis fraudes.
+[p16c0] (C) implementar classificação supervisionada usando o algoritmo DBSCAN, que permite rotular cada solicitação como fraudu-
+[p16c0] lenta ou não, com base em exemplos passados de fraudes já detectadas.
+[p16c0] (D) adotar métodos de séries temporais utilizando a Média Móvel Simplificada (MMS), que dá maior peso aos dados mais re-
+[p16c0] centes, para observar a evolução das solicitações ao longo do tempo e detectar picos ou comportamentos atípicos que
+[p16c0] possam indicar fraudes sazonais ou concentradas em certos periodos.
+[p16c0] (E) aplicar a técnica de análise de anomalias para detectar padrões de comportamento discrepantes e encontrar fraudes que
+[p16c0] não seguem padrões bem definidos, utilizando métodos como isolamento de floresta (Isolation forest) para encontrar
+[p16c0] outligrs sutis.
+[p16c0] 55. Considere as iniciativas de Estratégia de Transformação Digital da Prefeitura de São Paulo, apresentadas no quadro a seguir:
+[p16c0] Responsável Iniciativa
+[p16c0] io
+[p16c0] Gas at PR RR Dep GT CEE LE SE DS
+[p16c0] plataforma Participe+, melhorando sua usabilidade,
+[p16c0] para ser o principal canal de participação social online,
+[p16c0] aproximando o cidadão da formulação e
+[p16c0] implementação das políticas públicas da Cidade
+[p16c0] 1.2. Unificar 05 benefícios pecuniários aos cidadãos, em
+[p16c0] espe DR [ET RE
+[p16c0] 1.3. Digitalizar todos os serviços passíveis de
+[p16c0] digitalização
+[p16c0] 1.4. Estabelecer padrão mínimo de qualidade para os
+[p16c0] serviços públicos municipais digitais
+[p16c0] (Disponível em: https:digovernodigital.prefaitura.sp.gov.br!)
+[p16c0] Algumas dessas iniciativas, atualmente em execução, necessitaram fortemente de práticas de Gestão de Mudanças Organiza-
+[p16c0] cionais para sua implementação, visando à adequação dos processos. Entre as práticas recomendadas para a gestão de mu-
+[p16c0] danças registra-se a
+[p16c0] (A) imposição da Administração da Casa Civil que orientou a utilização irrevogável do uso de novas ferramentas e processos
+[p16c0] pelos servidores, determinados por sua equipe de TIC.
+[p16c0] (B] terceirização de todos os serviços de desenvolvimento das novas plataformas digitais e treinamento de todos os servidores
+[p16c0] municipais, como medida única, junto a empresas de notória especialização no mercado nacional.
+[p16c0] (C) criação de um Comitê de Gestão de Mudanças em parceria público-privada para realização de auditorias em todos os
+[p16c0] sistemas legados, visando à desalivação imediata daqueles sistemas julgados incompatíveis com as novas propostas de TIC.
+[p16c0] (D) implantação de um programa abrangente envolvendo: o treinamento para todos os servidores, a criação um Comitê de
+[p16c0] Gestão de Mudanças e o estabelecimento de metas claras e mensuráveis para o projeto.
+[p16c0] (E) realização de mudanças radicais nos processos administrativos, desobrigando o engajamento dos servidores, visando ace-
+[p16c0] lerar a transformação digital.
+[p16c0] Gestão de Projetos
+[p16c0] 56. Durante a execução de um amplo programa de modernização administrativa, uma Prefeitura identificou problemas como falta de
+[p16c0] priorização dos projetos, alocação inadequada de recursos, sobrecarga da equipe de TI e atrasos significativos em alguns proje-
+[p16c0] tos críticos. Para resolver esses problemas, essa Prefeitura decidiu implementar práticas robustas de Gestão de Portfólio, Pro-
+[p16c0] gramas e Projetos baseados nas melhores práticas de gestão Iinternacionalmente aceitas. Nesse caso, a iniciativa mais ade-
+[p16c0] quada é
+[p16c0] (4) reduzir o escopo de todos os projetos em execução para garantir que todos sejam concluídos dentro do prazo, mesmo que
+[p16c0] com menos funcionalidades.
+[p16c0] (B) estabelecer um escritório de gerenciamento de projetos para supervisionar o portfólio, priorizar os projetos com maior
+[p16c0] alinhamento estratégico e monitorar o progresso de cada um.
+[p16c0] (C) priorizar os projetos com maior visibilidade política, mesmo que isso signifique atrasar outros projetos importantes.
+[p16c0] (D) aumentar o orçamento de todos os projetos para garantir a sua conclusão dentro do prazo previsto.
+[p16c0] (E) centralizar todas as decisões sobre os projetos em um único gestor, agilizando assim o processo decisório.
+[p17c0] 57. Dea acordo com o PMBOK 72 edição, na seção relativa ao domínio de desempenho da medição, tem-se que: as linhas de base
+[p17c0] mais comuns são custo & cronograma. Projetos que rastrelam um escopo ou linha de base técnica podem usar informações nas
+[p17c0] medidas de entrega. A maioria das medidas do cronograma rastreia o desempenho real em relação ao desempenho planejado
+[p17c0] em termos de, dentre outras medidas, a Variação de prazos (VPR). Uma VPR simples é determinada observando-se o
+[p17c0] desempenho no caminho crítico; quando usada com Gerenciamento do Valor Agregado, é a diferença entre o valor agregado e o
+[p17c0] valor planejado.
+[p17c0] Considere que a Prefeitura de São Paulo esteja implementando um projeto de modernização da iluminação pública, substituindo
+[p17c0] lâmpadas tradicionais por luminárias de LED mais eficientes. O projeto foi planejado para ser concluído em 5 meses com um
+[p17c0] custo total de R$ 500.000,00. Para acompanhar o progresso, a equipe de gestão de projetos utiliza a técnica de Gerenciamento
+[p17c0] de Valor Agregado (EVM), recomendada pelo PMBOK 72 edição. No final do terceiro mês, os seguintes dados foram coletados:
+[p17c0] * Valor Planejado (VP): R$ 300.000,00 (valor que deveria ter sido gasto com base no cronograma planejado).
+[p17c0] “ Valor Agregado (VA): R$ 250.000,00 (valor do trabalho realmente concluído até agora).
+[p17c0] “ Custo Real (CR): R$ 280.000,00 (quanto foi efetivamente gasto até agora).
+[p17c0] Dessa forma, a Variação de Prazos (VPR) no projeto tem o valor de
+[p17c0] (4) Rã 50.000, indicando que o trabalho está dentro do prazo planejado.
+[p17c0] (Bj) -R5 50.000, indicando que o trabalho está atrasado em relação ao planejado.
+[p17c0] (C) Rã 30.000, indicando que o trabalho está adiantado em relação ao planejado.
+[p17c0] (Dj) -R$ 30.000, indicando que o trabalho está atrasado em relação ao planejado.
+[p17c0] (E) -R$ 80.000, indicando que o trabalho não conseguirá atingir o prazo planejado.
+[p17c0] Considere que a Prefeitura de São Paulo esteja enfrentando desafios para implementar projetos em áreas diversas, cada uma
+[p17c0] com requisitos distintos em termos de flexibilidade, previsibilidade e colaboração. Um Analista ficou encarregado de analisar os
+[p17c0] projetos e indicar a metodologia mais adequada. Assim, para o projeto de
+[p17c0] (8) implantação de um sistema de gestão tributária com um cronograma rígido, alto grau de regulamentação e entrega única
+[p17c0] no final, ele indicou o Serum, por permitir mudanças incrementais no Sprint Backlog durante cada Sprint, caso haja ajustes
+[p17c0] no controle regulatório.
+[p17c0] (B) revitalização de infraestrutura viária, incluindo a construção de pontes e viadutos, com etapas claramente definidas e ne-
+[p17c0] cessidade de alta previsibilidade, ele indicou o Lean, uma vez que o Architecture Quner pode garantir que as decisões
+[p17c0] arquitetônicas suportem os objetivos do negócio e sejam sustentáveis ao longo das etapas de construção.
+[p17c0] (E) desenvolvimento de um aplicativo de transporte público, com entregas frequentes e foco em priorizar mudanças contínuas
+[p17c0] para atender às demandas dos cidadãos, ele indicou o Waterfall, por sua capacidade de prever todas as etapas e evitar
+[p17c0] mudanças durante o desenvolvimento.
+[p17c0] (Dj digitalização do atendimento de saúde, combinando a modemização de equipamentos hospitalares (com cronogramas
+[p17c0] fixos) e a criação de um portal interativo para os cidadãos, que requer ajustes frequentes com base no feedback dos
+[p17c0] usuários, ele indicou a metodologia hibrida Agile-Waterfall, que permite combinar a estrutura de fases do Waterfall para equi-
+[p17c0] pamentos com a flexibilidade do Agile para o portal.
+[p17c0] (E) | implantação de painéis inteligentes de monitoramento urbano em tempo real, que exigem desenvolvimento rápido e alta
+[p17c0] interação entre equipes mulltidisciplinares, ele indicou a metodologia Disciplined Agile Deploy (DAD), que permite reduzir
+[p17c0] desperdícios, fornece alta adaptabilidade no desenvolvimento e utiliza a métrica cycle time, que mede o tempo total desde
+[p17c0] o início até a entrega de uma tarefa, ajudando a identificar gargalos no projeto.
+[p17c0] 59. Para uma eficiente gestão de pessoas, o conhecimento das necessidades humanas conforme estabelecidas por Maslow (stapas da
+[p17c0] hierarquia das necessidades) & fundamental para estimular o bom relacionamento entre os participantes da equipe dos projetos,
+[p17c0] o que pode ser um diferencial entre sucesso e fracasso. Após a construção do esquema da Pirâmide, Maslow identificou outras
+[p17c0] duas necessidades do individuo que se considera autorrealizado e as classificou como necessidades cognitivas. Importantes de
+[p17c0] serem reconhecidas nas pessoas das equipes, são elas:
+[p17c0] (A) reconhecimento do pacto entre o possível e o realizável, e satisfação no relacionamento com 05 colegas de equipe.
+[p17c0] (B) conhecer e compreender os valores e as limitações dos colegas de equipe; e necessidade de salisfação ética.
+[p17c0] (C) saber respeitar as limitações de hierarcas superiores, e salisfação no relacionamento com os colegas de equipe.
+[p17c0] (D) necessidade de satisfação pessoal, e satisfação no relacionamento com os colegas de equipe.
+[p17c0] (E) | conhecer e compreender o mundo à sua volta, e necessidade de salisfação estética.
+[p18c0] 60. Uma Prefeitura estã em processo de negociação salarial com seus servidores e deseja manter os custos baixos, enquanto os
+[p18c0] funcionários buscam um aumento salarial. Aqui, a teoria dos jogos pode ser aplicada para entender as estratégias de ambas as
+[p18c0] partes e encontrar um equilibrio:
+[p18c0] Jogadores:
+[p18c0] “ Prefeitura
+[p18c0] “ Servidores
+[p18c0] Estratégias:
+[p18c0] “Prefeitura: Oferecer um aumento salarial pequeno, médio ou grande.
+[p18c0] “ Servidores: Aceitar a oferta, negociar por um aumento maior ou ameaçar greve.
+[p18c0] Fayorf
+[p18c0] “Prefeitura: Maximizar resultados mantendo os custos salariais baixos.
+[p18c0] * Servidores: Maximizar o salário e beneficios.
+[p18c0] Matriz de Payoff.
+[p18c0] Aceitar | Negociar | Ameaçar Greve
+[p18c0] Pequeno Aumento | (2,1) (1,2) (0, 3)
+[p18c0] Médio Aumento (3, 2) (2, 3) (1.4)
+[p18c0] Grande Aumento (4,3) (3, 4) (2,5)
+[p18c0] Análise:
+[p18c0] “ Sea Prefeitura oferece um pequeno aumento e os servidores aceitam, a Prefeitura tem um papoff de 2 e os servidores de 1.
+[p18c0] “ Se os servidores negociam, a Prefeitura pode optar por um aumento médio para evitar a ameaça de greve, resultando em um
+[p18c0] payoff de 2 para a prefeitura e 3 para os servidores.
+[p18c0] “ A ameaça de greve geralmente força a prefeitura a oferecer um aumento mailor, resultando em um payoff mais alto para os
+[p18c0] servidores.
+[p18c0] No caso acima, um possivel equilibrio de Nash será
+[p18c0] (&) a Prefeitura oferecer um aumento baixo e os servidores não aceitarem ou não negociarem, resultando em um payoff de
+[p18c0] (1,2jou (2,1).
+[p18c0] (B) a Prefeitura oferecer um aumento médio e os servidores aceitarem ou negociarem, resultando em um payoff de (3, 2) ou
+[p18c0] (2,3).
+[p18c0] (C) os servidores entrarem em greve forçando a Prefeitura a oferecer um alto aumento dos salários para não interromper os
+[p18c0] serviços, resultando em um payoff de (3, 4) ou (4, 3).
+[p18c0] (D) a Prefeitura ameaçar a demissão de todos os servidores não estáveis, criando assim uma situação favorável de nego-
+[p18c0] ciação, e os servidores aceitarem um aumento baixo, resultando em um payoff de (3, 4) ou (4, 3).
+[p18c0] (E) os servidores entrarem em greve forçando a Prefeitura a oferecer minimamente um aumento médio dos salários para não
+[p18c0] interromper os serviços, resultando em um payoff de (1, 2) ou (2,1).
+[p18c0] 61. Considere que a Prefeitura de São Paulo esteja avaliando os riscos associados à construção de um novo viaduto. Os custos
+[p18c0] podem variar devido às incertezas no preço dos materiais. Para modelar essas incertezas, utilizou-se a simulação de Monte Carlo
+[p18c0] com as seguintes premissas:
+[p18c0] “Custo estimado inicial: R$ 10 milhões.
+[p18c0] “ Distribuição triangular do aumento de custo dos materiais:
+[p18c0] o Minimo: 5% do custo inicial.
+[p18c0] o Provável: 10% do custo inicial.
+[p18c0] o Máximo: 20% do custo inicial.
+[p18c0] Após 10.000 iterações da simulação de Monte Carlo, a análise de risco resultou nas seguintes probabilidades:
+[p18c0] “ 60% de probabilidade de o custo total ser menor ou igual a R$ 11,8 milhões.
+[p18c0] “ 30% de probabilidade de o custo total estar entre R$ 11,8 milhões e R$ 12,2 milhões.
+[p18c0] “10% de probabilidade de o custo total exceder R$ 12,2 milhões.
+[p18c0] Os resultados da simulação indicam que
+[p18c0] (4) hã uma probabilidade de 90% de que o custo total do projeto não ultrapasse R$ 12,2 milhões, indicando viabilidade finan-
+[p18c0] ceira com boa margem de segurança.
+[p18c0] (B) o custo máximo previsto é de R$ 12,2 milhões, garantindo que os riscos são controlados e o custo da obra não vai ultra-
+[p18c0] passar esse valor.
+[p18c0] (C) a probabilidade de os custos ultrapassarem R$ 12,2 milhões é insignificante, próxima de zero, indicando que a simulação
+[p18c0] subestimou os riscos de custo do projeto.
+[p18c0] (Dj o custo total de R$ 11,8 milhões é garantido pela simulação como o valor que será alcançado e deve ser usado como base
+[p18c0] de orçamento.
+[p18c0] (E) o custo inicial de R$ 10 milhões & suficiente para cobrir os riscos identificados sem necessidade de ajustes.
+[p19c0] 62. A Prefeitura de determinado município estã desenvolvendo um projeto de modernização do transporte público com a introdução
+[p19c0] de veiculos elétricos. Durante à planejamento, foram identificados os seguintes riscos:
+[p19c0] I. Atrasos na entrega dos veículos devido à alta demanda global por semicondutores.
+[p19c0] II. Dificuldade em instalar uma infraestrutura adequada de carregamento das baterias.
+[p19c0] III. Custos elevados de manutenção imprevistos nos primeiros 2 anos.
+[p19c0] Considerando as estratégias de resposta a riscos, a abordagem mais eficaz para lidar com os riscos identificados e assegurar o
+[p19c0] sucesso do projeto é
+[p19c0] (AJ transferir o risco de atrasos na entrega para fornecedores, incluindo cláusulas contratuais de penalidade em caso de des-
+[p19c0] cumprimento de prazos, investir na compra de veículos adicionais para formar uma frota reserva e garantir que os custos
+[p19c0] de manutenção sejam assumidos por um contrato de longo prazo.
+[p19c0] (Bj) contratar um formecedor único de veículos elétricos para consolidar as entregas, simplificar o processo logístico e aceitar o
+[p19c0] risco de custos elevados de manutenção, alocando um fundo de contingência para cobrir essas despesas.
+[p19c0] (E) negociar com fornecedores para priorizar entregas, desenvolver parcerias público-privadas para implementar a infraestru-
+[p19c0] tura de carregamento e criar dashboards para análise continua de desempenho financeiro e revisão de custos.
+[p19c0] (Dj evitar o risco de atrasos, postergando o Início do projeto até que o mercado de semicondutores esteja estabilizado.
+[p19c0] (E) mitigar os riscos de infraestrutura implementando carregadores rápidos em locais estratégicos e repassar os custos exce-
+[p19c0] dentes diretamente aos usuários por meio de aumento nas tarifas de transporte público.
+[p19c0] 63. A Prefeitura de uma metrópole está avaliando dois projetos de mobilidade urbana e decidiu usar a Análise de Árvore de Decisão
+[p19c0] para identificar o projeto mais viável, considerando os riscos e retornos esperados. O valor esperado (VE) é calculado somando-
+[p19c0] se os produtos das probabilidades pelos resultados financeiros dos cenários favorável e desfavorável.
+[p19c0] Projeto A:
+[p19c0] " Cenário favorável: Probabilidade de 70%, lucro de R$ 8 milhões.
+[p19c0] “ Cenário desfavorável: Probabilidade de 30%, prejuízo de =R$ 3 milhões.
+[p19c0] Projeto B:
+[p19c0] “ Cenário favorável: Probabilidade de 60%, lucro de R$ 10 milhões.
+[p19c0] * Cenário desfavorável: Probabilidade de 40%, prejuizo de - R$ 4 milhões.
+[p19c0] Com base nesses dados, o Projeto
+[p19c0] (A) A deve ser priorizado, pois tem um VE de R$ 5,6 milhões.
+[p19c0] (B) EB deve ser priorizado, pois tem um VE de R$ 6 milhões.
+[p19c0] (E) A deve ser priorizado, pois tem um VE de R$ 4,7 milhões.
+[p19c0] (Dj) Beo Projeto A possuem uma média de VE igual a R$ 4,55 milhões, portanto, qualquer um pode ser escolhido.
+[p19c0] (E) EB deve ser priorizado, pois apresenta menor risco financeiro, mesmo com um VE menor.
+[p19c0] 64. A prefeitura de um Municipio, com objetivo de reduzir as reclamações dos municipes e melhorar a coleta de lixo, resolveu apli-
+[p19c0] car os dados, ferramentas e métricas componentes dos ciclos Define, Measure, Analyze, Improve and Control (DMAIC) do Six
+[p19c0] Sigma.
+[p19c0] Dados:
+[p19c0] I. Tempo médio de coleta, número de reclamações, eficiência das rotas.
+[p19c0] II. Implementação: teste de novas rotas & processo.
+[p19c0] III. Identificação de causas: mapas de processos e Ishikawa.
+[p19c0] I, Ile III são elementos que correspondem, respectivamente, aos contextos dos ciclos estabelecidos no DMAIC:
+[p19c0] (A) Measure, improve e Analyze.
+[p19c0] (Bj) Measure, Controle improve.
+[p19c0] (C) Define, Measure e Analpze.
+[p19c0] (Dj Improve, Analyze e Control.
+[p19c0] (E) Analyze, Measure e Define.
+[p20c0] 65. Considere a seguinte notícia veiculada em 06 de abril de 2021 sobre serviços de emissão de alvarás de construção de uma
+[p20c0] Prefeitura Municipal do estado de São Paulo:
+[p20c0] A demora da Prefeitura para liberar alvarás tem travado a construção civil. A Associação de Engenheiros e Arquitetos de Cidade
+[p20c0] X denuncia que, apesar do prazo estabelecido por lei ser de trinta dias, o processo tem levado de três a seis meses. Para O
+[p20c0] presidente da entidade, Fulano de Tal, a morosidade emperra o início das obras e desestimula investimentos no setor imobi-
+[p20c0] liário.
+[p20c0] Um Analista que tivesse por objetivo a diminuição dessa morosidade nos trâmites dos processos do órgão indicaria a imple-
+[p20c0] mentação da metodologia Kaizen, uma vez que essa metodologia preconiza
+[p20c0] (A) contratar uma empresa de notória especialização para reestruturar todo o processo de emissão de alvarás.
+[p20c0] (B] aumentar 6 número de funcionários administrativos responsáveis pela análise dos processos e de servidores operacibnais
+[p20c0] para agilizar 05 trâmites internos.
+[p20c0] (C) adotar um software especializado para automatização de todas as etapas do processo.
+[p20c0] (D) estabelecer metas de redução de tempo de espera para emissão do alvará e envolver os funcionários na busca de
+[p20c0] soluções.
+[p20c0] (E) centralizar todas as decisões sobre alterações no processo no nível hierárquico máximo do órgão, facilitando & agilizando
+[p20c0] a tomada de decisões.
+[p20c0] Boas Práticas e Padrões em TIC
+[p20c0] 66. Uma prefeitura estã desenvolvendo um sistema integrado de gestão pública que centraliza diversas funções administrativas. Pa-
+[p20c0] ra garantir a consistência dos logs de sistema, foi decidido implementar o padrão Singleton para a classe de gerenciamento de
+[p20c0] logs. Um dos desenvolvedores sugeriu a seguinte implementação em Java:
+[p20c0] public class LogManager (
+[p20c0] private static LogManager instance;
+[p20c0] private LogManager(| ) (|
+[p20c0] public static LogManager getInstance( ) |
+[p20c0] 1£ (instance == null)
+[p20c0] instance = new LogManage(r);
+[p20c0] ]
+[p20c0] return instance;
+[p20c0] ]
+[p20c0] ]
+[p20c0] Em condições ideais, para garantir que apenas um thread possa executar o método g=tInstance por vez, evitando a criação
+[p20c0] de múltiplas instâncias em um ambiente multithread, e considerando que o desempenho não é a principal prioridade, é adequado
+[p20c0] (4) adicionar o modificador synehronized ao método getinstance para torná-lo lhread-safe.
+[p20c0] (B] declarar o atributo instance como flexible para garantir a consistência em ambientes multithread.
+[p20c0] (C) implementar a inicialização precoce (lazy inftialization), instanciando instance imediatamente após a declaração.
+[p20c0] (D) redefinir o construtor como público, garantindo assim que apenas uma instância seja criada a partir de chamadas externas.
+[p20c0] (E) adicionar um bloco try-catch ao método gelinstance para lidar com a exceção MultithreadException.
+[p20c0] 67. Uma prefeitura estã desenvolvendo um sistema para integrar um módulo de pagamentos legados, cujo formato de dados é
+[p20c0] incompatível com o novo subsistema de cobrança online. E necessário permitir que o novo subsistema utilize o módulo antigo
+[p20c0] sem modificá-lo diretamente. Nesse contexto, o padrão estrutural Gang of Four (GOF) que resolve de forma ideal o problema de
+[p20c0] integração entre interfaces incompatíveis é o
+[p20c0] (4) Adapter, pois converte a interface de uma classe para outra interface esperada pelos clientes, tornando possivel a comu-
+[p20c0] nicação entre sistemas legados e novos.
+[p20c0] (B] Bridge, pois separa a abstração da implementação, permitindo que sistemas legados e novos se comuniquem de forma
+[p20c0] integrada.
+[p20c0] (C) Composite, pois organiza objetos em estruturas hierárquicas, tratando composições e objetos individuals de forma inte-
+[p20c0] grada, permitindo a comunicação entre sistemas legados e novos.
+[p20c0] (D) Facade, pois fornece uma interface unificada e simplificada para um conjunto complexo de subsistemas, tornando mais
+[p20c0] simples a comunicação entre sistemas legados e novos.
+[p20c0] (E) Flyweight, pois compartilha estado intrinseco para reduzir o consumo de memória quando há múltiplas instâncias seme-
+[p20c0] lhantes interagindo entre sistemas ou subsistemas.
+[p20c0] 6B. A equipe de TI de uma prefeitura estã implementando uma arquitetura orientada a eventos (svent-driven) para um sistema de
+[p20c0] notificação em tempo real. Nesse contexto, a prática fundamental de arquiteturas event-driven relacionada a como às compo-
+[p20c0] nentes devem se comunicar e processar os eventos, garantindo maior resiliência e escalabilidade, é
+[p20c0] (A) estabelecer comunicação sincrona entre produtores e consumidores para garantir a entrega imediata de eventos.
+[p20c0] (B) utilizar uma fila intermediária (message broker) para desacoplar produtores & consumidores.
+[p20c0] (C) configurar consumidores para processar eventos duplicados exatamente uma vez, sem suporte a idempoltência.
+[p20c0] (D) garantir que apenas um consumidor possa receber e processar cada evento, para evitar inconsistências nos dados.
+[p20c0] (E) adotar a entrega de eventos no modo “fire-and-forget” sem qualquer mecanismo de confirmação ou retry.
+[p21c0] 69. Uma equipe de desenvolvimento de uma prefeitura estã projetando um sistema de gerenciamento de dados para atender às
+[p21c0] demandas de diferentes departamentos, utilizando o Spring Boot como framework principal. Para que o Hibernate seja correta-
+[p21c0] mente integrado ao projeto Spring Boot, deve-se
+[p21c0] (A) configurar manualmente o mapeamento ORM diretamente no arquivo application.properties, desalivando o uso de
+[p21c0] arquivos de mapeamento XML.
+[p21c0] (B) utilizar a anotação GEntity para definir as classes de modelo e configurar a dependência de Hibemate no arquivo
+[p21c0] pom.=zml OU build.gradle, deixando o Spring Boot gerenciar automaticamente o Hibemate.
+[p21c0] (C) criar manualmente um arquivo hibernate. cfg.xml para configurar o Hibemale, sem a necessidade de qualquer inte-
+[p21c0] gração com o Spring Boot.
+[p21c0] (Dj configurar o Hibernate diretamente no código Java principal do projeto, criando um SessionFactory manualmente.
+[p21c0] (E) utilizar exclusivamente arquivos . properties para configurar as entidades, sem necessidade de anotação como GEntity
+[p21c0] nas classes de modelo.
+[p21c0] 70. A equipe de desenvolvimento de uma prefeitura está refatorando um sistema legado de atendimento ao público e precisa utilizar
+[p21c0] o padrão Factory Method para criar diferentes tipos de objetos relacionados a solicitações (como solicitações de manutenção, ser-
+[p21c0] viços ou emergências). A prática de implementação que reflete adequadamente o padrão Factory Method com foco em exten-
+[p21c0] sibilidade e encapsulamento é
+[p21c0] (A) criar um método estático para instanciar objetos de solicitações com base em parâmetros fornecidos.
+[p21c0] (B) delegar a criação de objetos para um método de inicialização dentro da própria classe principal.
+[p21c0] (C) criar uma classe base que contenha a lógica para determinar o lipo de solicitação e retornar a instância apropriada.
+[p21c0] (Dj centralizar a criação de objetos em uma única classe utilitária que contém métodos estáticos para cada lipo de solicitação.
+[p21c0] (E) utilizar classes abstratas ou interfaces para definir o método de criação e implementá-lo nas subclasses especificas.
+[p21c0] 71. Uma equipe de desenvolvimento de software de uma prefeitura está criando um sistema para gestão de solicitações de serviços
+[p21c0] urbanos. Durante a análise inicial, foi definido que o código deve seguir o Single Responsibility Principle (SRP) do SOLID. A
+[p21c0] estratégia que a equipe pode adotar, que está de acordo com o SRP, é
+[p21c0] (A) criar uma única classe SolicitacaoService que gerencie as solicitações, grave no banco de dados e envie notificações
+[p21c0] aos responsáveis.
+[p21c0] (B) Implementar todas as funcionalidades do sistema de solicitações em um único método estático, a fim de facilitar a manu-
+[p21c0] tenção e melhorar a performance da aplicação.
+[p21c0] (C) adicionar métodos na classe SolicitacaoService para gerenciar o banco de dados e enviar notificações, evitando a
+[p21c0] criação de classes adicionais que podem impactar na performance da aplicação.
+[p21c0] (Dj dividir o código em três classes: SolicitacaoBervice para gerenciar as solicilações, Notificacaoservice para
+[p21c0] envio de notificações e Persistenciaservice para gerenciar interações com o banco de dados.
+[p21c0] (E) criar uma classe GestaoUnificada que centralize todos os serviços relacionados às solicitações em um único local, para
+[p21c0] maior controle.
+[p21c0] 72. Durante a manutenção do sistema de licitações de uma prefeitura, a equipe de TI identificou que diversas partes do código se
+[p21c0] tornaram dificeis de modificar devido à alta interdependência entre os módulos. Um dos analistas propõe a aplicação de prin-
+[p21c0] ciplos de design que favoreçam a evolução do código e a aplicação do DRY. O problema identificado pode ser resolvido ade-
+[p21c0] quadamente refatorando o código para encapsular as funcionalidades comuns em classes abstratas, aplicando o padrão
+[p21c0] (A) Adapter.
+[p21c0] (B] Template Method.
+[p21c0] (CE) Command.
+[p21c0] (Dj) Facade.
+[p21c0] (E) Memento.
+[p21c0] 73. A equipe de TI de uma prefeitura estã desenvolvendo uma aplicação para integração com diversos serviços externos, utilizando
+[p21c0] arquiteturas serverless em um ambiente de nuvem. Para implementar a lógica que orquestra à comunicação entre serviços, a
+[p21c0] equipe considera adotar um design pattem adequado à abordagem serverless. Com base nas tendências emergentes, o design
+[p21c0] pattern mais indicado para lidar com a orquestração e controle de fluxos em arquiteturas serverless é o
+[p21c0] (8) Observer.
+[p21c0] (B) Circuit Breaker.
+[p21c0] (C) Saga.
+[p21c0] (D) Proxy
+[p21c0] (E) Strategy
+[p22c0] 74. Uma prefeitura estã modernizando sua arquitetura de TI para implementar projetos baseados em Machine Learning (ML). Foi
+[p22c0] decidido que as soluções utilizarão uma arquitetura de microsserviços para melhor escalabilidade e manutenção. Para a
+[p22c0] implementação flexível e eficiente de microsserviços para modelos de ML, considerando padrões de design e tecnologias
+[p22c0] modernas,
+[p22c0] (4) cada microsserviço deve conter um pipeline completo de treinamento & inferência, garantindo que modelos sejam reca-
+[p22c0] librados em tempo real.
+[p22c0] (B] todos os microsserviços devem ser configurados para compartilhar estados por meio de sistemas de cache em memória
+[p22c0] como Redis, garantindo que os modelos de ML sejam consistentes.
+[p22c0] (C) os microsserviços devem ser projetados exclusivamente para ingestão de dados, enquanto modelos de ML devem ser cen-
+[p22c0] tralizados em um servidor de alto desempenho.
+[p22c0] (D) os modelos de ML devem ser desacoplados em microsserviços independentes que executem inferências, enquanto
+[p22c0] pipelines de treinamento permanecem centralizados.
+[p22c0] (E) & necessário criar microsserviços independentes apenas para serviços de logging e monitoramento, mantendo os modelos
+[p22c0] acoplados ao backend principal.
+[p22c0] 7'5. A prefeitura de uma grande cidade deseja processar dados provenientes de sensores instalados no trânsito urbano, coletados
+[p22c0] em tempo real, para identificar padrões de congestionamento e propor soluções automatizadas. Nesse caso, o componente
+[p22c0] específico do Apache Spark que o torna adequado para realizar esta tarefa é o
+[p22c0] (A) MapReduce, que processa dados de forma distribuida, sendo ideal para o processamento em batch de grandes volumes
+[p22c0] de dados em tempo real.
+[p22c0] (B) framework Spark SOL, que é usado para configurar bancos de dados relacionais em tempo real, olimizando o arma-
+[p22c0] zenamento dos dados do trânsito.
+[p22c0] (C) módulo spark MLlib, que é utilizado para a coleta & processamento de dados de sensores em tempo real.
+[p22c0] (D) Hadoop Distributed File System (HDFS), que permite o processamento em tempo real de dados em fluxo, utilizando
+[p22c0] clusters locais para garantir baixa latência.
+[p22c0] (E) múdulo Spark Streaming, que permite o processamento em tempo real de dados em fluxo, utilizando micro-batches para
+[p22c0] garantir baixa latência.
+[p22c0] 76. A equipe de TI de uma prefeitura está desenvolvendo um painel para monitoramento de indicadores de serviços públicos, como
+[p22c0] saúde, educação e segurança. O objetivo é disponibilizar um dashboard que integre múltiplas fontes de dados, permita atuali-
+[p22c0] zações em tempo real e possibilite a criação de alertas para situações criticas. Como a equipe optou pelo uso da ferramenta
+[p22c0] Grafana, a configuração que atende aos requisitos de atualização em tempo real e criação de alertas é
+[p22c0] (A) conectar o Grafana a uma base de dados relacional (como MySQL) e configurar atualizações e criação de alertas a cada
+[p22c0] 5 minutos.
+[p22c0] (B) configurar o Grafana para importar relatórios gerados no Tableau e emilir alertas em intervalos regulares.
+[p22c0] (C) utilizar o Grafana com uma fonte de dados, como o Prometheus, para habilitar atualização em tempo real e criar alertas.
+[p22c0] (D) usar o Grafana para se conectar diretamente a arquivos CSV, permitindo atualizações manuais dos dashboards com base
+[p22c0] nos dados oblidos em tempo real.
+[p22c0] (E) configurar o Grafana para trabalhar com o Power Bl Embedded para emitir alertas e atualizações em tempo real.
+[p22c0] Fr. Um Analista de TI da prefeitura está avaliando os seguintes dados referentes às consultas realizadas nos postos de saúde do
+[p22c0] município ao longo de um ano:
+[p22c0] — Média: 350 consultas por mês
+[p22c0] — Mediana: 300 consultas por mês
+[p22c0] — Desvio padrão: 80 consultas
+[p22c0] -— Coeficiente de variação (CV): 22,86%
+[p22c0] Com base nesses valores,
+[p22c0] (A) o coeficiente de variação indica que os dados possuem altissima variabilidade em relação à média.
+[p22c0] (B) a mediana maior que a média indica uma distribuição assimétrica negativa (cauda longa à esquerda).
+[p22c0] (C) o desvio padrão sozinho é suficiente para interpretar de forma completa a dispersão dos dados em relação à média.
+[p22c0] (Dj) o coeficiente de variação sugere que a variabilidade dos dados é baixa em relação à média.
+[p22c0] (E) a diferença entre a média e a mediana é irrelevante na análise exploratória de dados.
+[p22c0] 78. Durante a implementação de um sistema de atendimento ão cidadão em nuvem, a equipe de TI da prefeitura observou picos de
+[p22c0] demanda em horários de expediente. Para garantir que os custos sejam otimizados e o desempenho não seja impactado du-
+[p22c0] rante esses picos, deve-se
+[p22c0] (A) configurar auto-escalabilidade no cluster Kubernetes para ajustar automaticamente o número de pods em resposta à carga.
+[p22c0] (B] configurar a escalabilidade manual do cluster para economizar custos, ajustando os pods apenas no início e no final do
+[p22c0] expediente.
+[p22c0] (C) definir alertas de custo no painel da nuvem para reduzir automaticamente os recursos quando o orçamento for excedido.
+[p22c0] (D) implementar instâncias reservadas em nuvem para atender a picos de demanda, mesmo que o custo seja mais alto.
+[p22c0] (E) utilizar pipelines CCD para ajustar os recursos computacionais automaticamente provendo escalabilidade vertical.
+[p23c0] 79. A equipe de TI de uma prefeitura estã desenvolvendo um sistema de gestão urbana utilizando microsserviços e deseja imple-
+[p23c0] mentar pipelines CI'CD para automatizar o processo de integração e entrega contínua. Para garantir uma pipeline funcional que
+[p23c0] minimize erros e facilite a implantação, deve-se
+[p23c0] (A) configurar Kubemetes diretamente como a ferramenta principal de integração continua.
+[p23c0] (Bj) implantar manualmente os builds de cada microsserviço para garantir controle absoluto sobre o processo.
+[p23c0] (C) utilizar Docker para criar contêineres padronizados, integrando o pipeline com Jenkins para orquestrar os builds e os
+[p23c0] deploys.
+[p23c0] (Dj | configurar apenas o controle de versão, deixando os pipelines CIICD para uma etapa futura após o lançamento.
+[p23c0] (E) utilizar apenas shell scripts para automatizar todas as etapas, sem ferramentas dedicadas de CI/CD.
+[p23c0] Uma prefeitura decidiu migrar parte de seus dados armazenados em um ambiente on-premises para a nuvem utilizando o Azure.
+[p23c0] O objetivo é manter uma sincronização continua entre 05 dados armazenados localmente e os dados migrados para a nuvem,
+[p23c0] garantindo baixa latência e alta disponibilidade. Para melhor atender à necessidade de migração e sincronização continua dos
+[p23c0] dados descrita, deve-se
+[p23c0] (A) realizar a migração utilizando shell! scripts customizados para transferir 05 dados periodicamente via MSFTP.
+[p23c0] (B) implementar um midolewmare genérico, como CireleCl, sem utilizar serviços nativos do Azure para evitar impacto na
+[p23c0] performance.
+[p23c0] (C) configurar o Azure Data Factory para realizar a migração e sincronização continua entre o ambiente on-premises e o Azure.
+[p23c0] (Dj adotar a ferramenta Apache NiFi para gerenciar exclusivamente a transferência de dados, sem integração com o Azure.
+[p23c0] (E) configurar o Apache Talend como ferramenta principal de migração, sem utilizar suporte nativo do Azure para evitar conflitos.
+[p23c0] 81. A Prefeitura de São Paulo hipoteticamente precisa implementar um sistema automatizado para gerenciar e monitorar fluxos de
+[p23c0] trabalho complexos relacionados à coleta e análise de dados urbanos. Para isso, a equipe técnica deve selecionar a ferramenta
+[p23c0] mais adequada capaz de atender aos seguintes requisitos:
+[p23c0] " Suporte a fluxos de trabalho dinâmicos.
+[p23c0] “ Facilidade de integração com serviços em nuvem.
+[p23c0] “Monitoramento centralizado com tratamento de falhas em tempo real.
+[p23c0] Após análise, a equipe optou por utilizar o
+[p23c0] (A) Apache Airflow, pois oferece uma builhin query language, além de suporte nativo a fluxos dinâmicos por meio de sua
+[p23c0] integração direta com APIs REST.
+[p23c0] (Bj) Prefect, pois ele utiliza uma lista de todos os DAGs [(Directed Acyelic Graphs) com icones, informando seu status e mos-
+[p23c0] trando claramente a conexão entre os diferentes nós, o que facilita o monitoramento de tarefas e se integra diretamente
+[p23c0] aos serviços em nuvem.
+[p23c0] (C) Apache Airfow e o Prefect simultaneamente, aproveitando a primeira para fluxos estáticos e o Prefect para fluxos dinã-
+[p23c0] micos, otimizando a orquestração geral.
+[p23c0] (Dj) Apache Airflow, que oferece uma abordagem de API Python, permitindo que 05 desenvolvedores testem localmente enquanto
+[p23c0] lidam com a orquestração na nuvem, sendo ideal para processamento de dados em tempo real que exige baixa latência.
+[p23c0] (E) Prefect, pois é baseado em Cloud-Native Workflows e oferece gerenciamento de fluxos dinâmicos, permitindo que
+[p23c0] workiiows sejam executados quando necessário, já que suporta time-based schedules e event-driven triggers.
+[p23c0] 82, Considere as caracteristicas técnicas das ferramentas Flink e Spark Streaming, submetidas ao consumo de um mesmo stream
+[p23c0] of data do Kalka, em condições ideais.
+[p23c0] I. Processa dados em true real-time, lidando com cada evento assim que ele chega.
+[p23c0] II. O modo de micro-batch introduz um pequeno delay (latência) entre a ingestão e o processamento dos dados devido à
+[p23c0] coleta em lote.
+[p23c0] III. Mostra um fluxo mais continuo de resultados, especialmente se nenhum mindowing ou batching estiver envolvido.
+[p23c0] Iv. Mais adequado para pipelines de ETL e análises de logs, nos quais a latência dos micro-baiches é aceitável.
+[p23c0] v. O modelo de processamento de fluxo real garante semântica exacil-once para o processamento de eventos, o que é
+[p23c0] essencial para aplicações críticas.
+[p23c0] As características estão corretamente atribuídas às ferramentas em:
+[p23c0] Flink Spark
+[p23c0] A II& IV I,IIIeV
+[p23c0] B I, III & IV I118&V
+[p23c0] c 116V I, IIeI I V
+[p23c0] D I,IILev 116 Iv
+[p23c0] E Ie Iv II, Illev
+[p24c0] 83. A equipe de Analistas de uma Prefeitura foi requisitada para providenciar e facilitar consultas aos processos municipais que se
+[p24c0] encontram registrados na tabela Processos em um Banco de Dados Relacional, com a seguinte estrutura:
+[p24c0] n id (INT): Identificador único do processo
+[p24c0] E numero processo (VARCHAR): Número do processo
+[p24c0] 8 descricao (VARCHAR): Descrição do processo
+[p24c0] E data inicio (DATE): Data de início do processo
+[p24c0] “ status (VARCHAR): Status atual do processo (ex: 'Em andamento, 'Concluído', Pendente)
+[p24c0] n responsável (VARCHAR): Nome do responsável pelo processo
+[p24c0] A consulta SOL correta que retorna todos os processos que estão 'Em andamento' e foram iniciados no ano de 2023, ordenados
+[p24c0] pela data de início em ordem crescente, é
+[p24c0] (A) SELECT* FROM processos WHERE descricao = 'Em andamento' AND YEAR | da ta inicio) = 2023 ORDER Br
+[p24c0] numero proces so ASC:
+[p24c0] (B) SELECT* FROM processos WHERE status = 'Em andamento AND YEAR | data inicio) = 2023 ORDER Br
+[p24c0] data inicio ASC;
+[p24c0] (C) SELECT * FROM processos WHERE status = 'Em andamento” AND YEAR (data inicio) = 2023 ORDER BY
+[p24c0] responsavel ASC;
+[p24c0] (D) SELECT * FROM processos WHERE processo = Em andamento! AND data inicio = 2024 ORDER Br
+[p24c0] data inicio ASC;
+[p24c0] (E) SELECT * FROM processos WHERE status = 'Em andamento AND data inicio = 2023 ORDER BY descricao
+[p24c0] ASC,
+[p24c0] 84. A Secretaria Municipal de Mobilidade e Trânsito de uma Prefeitura solicitou um estudo para determinar a melhor rota entre dois
+[p24c0] bairros (A e B) considerando diversos fatores, tais como distância, tempo estimado de viagem, condições da estrada e custo do
+[p24c0] combustivel. Os dados estão nas duas tabelas seguintes de um Banco de Dados Relacional Oracle:
+[p24c0] " Bairros: Contém informações sobre cada bairro, Incluindo um ID único, nome e coordenadas geográficas.
+[p24c0] n Rotas: Contém informações sobre as rotas existentes entre os bairros, como ID da rota, bairro de origem, bairro de
+[p24c0] destino, distância, tempo estimado, condição da estrada e custo estimado.
+[p24c0] Em uma consulta utilizando INNER JOIN, a expressão SOL correta para encontrar a rota mais eficiente entre dois bairros espe-
+[p24c0] cíficos, com base nos critérios definidos pelo órgão, é
+[p24c0] (A) SELECT r.id rota, r.distancia, r.tempo estimado FROM ROTAS r INNER JOIN BaTRROS b ON
+[p24c0] E.bairro origem a É id bairro WHERE 5. nome = 'Bairo A AND r .bairro destino= 'Bairro B' ORDER BY
+[p24c0] c.distancia ASC, r. tempo es timado ASC;
+[p24c0] (B) SELECT INNER JOIN =. id rota, r.distancia, r.tempo estimado FROM rotas r WHERE bairro origem =
+[p24c0] Bairro Aº AND bairro destino = Bairro B'ORDER BY « distancia ASC;
+[p24c0] (C) SELECT «r.ia rota, r.distancia, r.tempo estimado FROM roTAS + INNER JOIN BaIeROS b ON
+[p24c0] r.bairro origem = b.id bairro WHERE b. nome = Bairro A,
+[p24c0] (D) SELECT * FROM ROTAS WHERE bairro origem = 'Baimo A AND bairro destino ='Baimo B' AND
+[p24c0] MIN (r distancia) INNER JOIN ROTAS AND BAIRROS;
+[p24c0] (E) SELECT r.ia cota, MIN(r.distancia) FROMRBOTAS « ria JOIN BAIRROS b ON r.bairro origem =
+[p24c0] b.id bairro WHERE b . nome = 'Bairro A' GROUP BY -.i rota;
+[p24c0] 85. A Prefeitura de uma metrópole está implementando um sistema integrado de gestão urbana que centraliza dados de transporte,
+[p24c0] saúde e segurança pública. Para garantir a segurança dos dados sensíveis, após avaliar várias medidas, a equipe optou por
+[p24c0] (4) adotar uma abordagem híbrida com criptografia simétrica RSA com cifras de fluxo e criptografia assimétrica RC4 com fato-
+[p24c0] ração primária, autenticação baseada em reconhecimento biométrico e lbgs distribuídos para auditoria em tempo real com
+[p24c0] segregação seletiva de dados sensíveis.
+[p24c0] (B) configurar criptografia simétrica com rotatividade de chaves automáticas para todos os dados, autenticação baseada em
+[p24c0] tokens de API no formato Java Web Token (JWT) (OAuth 2.2) e controles de acesso centralizados em um único órgão
+[p24c0] administrativo.
+[p24c0] (C) implementar criptografia AES-256 para grandes volumes de dados em repouso e TLS para dados em trânsito, autentica-
+[p24c0] ção MFA baseada em hardware e controle de acesso granular utilizando RBAC, com revisões periódicas de privilégios.
+[p24c0] (D) proteger os dados em trânsito com criptografia simétrica CEC — Criptografia de Curva Elíptica, aplicar autenticação básica
+[p24c0] com senha e backup de logs e concentrar esforços na miligação de falhas humanas por meio de treinamentos regulares.
+[p24c0] (E) utilizar criptografia assimétrica AES em cifras de fluxo, que criptografa dados em blocos de tamanho fixo, para todo o tráfe-
+[p24c0] go intemo do sistema, autenticação via certificados digitais e políticas de acesso dinâmicas baseadas em machine
+[p24c0] learning para ajustar permissões automaticamente.
+[p25c0] 86. Para atender aos requisitos de um departamento municipal de produtos agricolas sobre a movimentação temporal entre locais
+[p25c0] dos produtos estocados, uma Analista criou & populou as seguintes tabelas Fato e Dimensões usando o modelo snowilake:
+[p25c0] Tabela Fato:
+[p25c0] CREATE TABLE FatoEstoque (
+[p25c0] id INT PRIMARY KEY,
+[p25c0] ata DATE,
+[p25c0] local idiNT,
+[p25c0] produto idiINT,
+[p25c0] volume INT
+[p25c0] k
+[p25c0] Tabelas Dimensões:
+[p25c0] CREATE TABLE DimLocal (
+[p25c0] local id INT PRIMARY KEY,
+[p25c0] nome local VARCHAR(100),
+[p25c0] endereco VARCHAR(255)
+[p25c0] k
+[p25c0] CREATE TABLE DimEroduto (
+[p25c0] produto id INT PRIMARY KEY,
+[p25c0] nome produto VARCHAR(100),
+[p25c0] categoria VARCHAR(100)
+[p25c0] k
+[p25c0] CREATE TABLE DimbData(
+[p25c0] data DATE PRIMARY KEY,
+[p25c0] ano INT,
+[p25c0] mes INT,
+[p25c0] dia INT
+[p25c0] k:
+[p25c0] A seguir, ela escreveu corretamente a seguinte consulta SOL, que somou os produtos estocados em cada local para os anos de
+[p25c0] 2023 e 2024 e ordenou os resultados do local mais movimentado para o menos movimentado:
+[p25c0] (A) SELECT 1 «nome local, SUM (£.volume) AS total volume
+[p25c0] FROM FatoEstoque É
+[p25c0] JOIN DimLocal 1 ON £ «local id = 1. local id
+[p25c0] JOIN Dimbata d ON f.data = d.data
+[p25c0] WHERE a. ano IN (2023, 2024)
+[p25c0] GROUP BY L.nome local
+[p25c0] ORDER BY total volume DESC;
+[p25c0] (B) SELECT 1 «nome local, SUM (£.volume) AS total volume
+[p25c0] FROM FatoEstoque É
+[p25c0] JOIN DimLocal 1 LIKE £. local id = 1. local id
+[p25c0] JOIN Dimbata d LIKE f.data = d.data
+[p25c0] WHERE 4d. ano SUM (2023, 2024)
+[p25c0] GROUP BY 1 .nome local
+[p25c0] ORDER BY total volume DESC;
+[p25c0] (EC) SELECTI «nome local, ON volume) AS total volume
+[p25c0] FROM FatoEstoque É
+[p25c0] JOIN DimLocal 1 ON £ «local id = 1.local id
+[p25c0] JOIN Dimbata d ON f.data = d.data
+[p25c0] WHERE ad. ano MAX(2023, 2024)
+[p25c0] GROUP BY 1 .nome local
+[p25c0] ORDER BY total volume DESC;
+[p25c0] (D) SELECT 1 «nome local, FOR (£. volume) AS total volume
+[p25c0] FROM FatoEstoque É
+[p25c0] JOIN DimLocal 1 WITH £. local id = 1. local id
+[p25c0] JOIN Dimbata dWITH£.data = d.data
+[p25c0] WHERE a. ano IN (2023, 2024)
+[p25c0] GROUP BY 1.nome local
+[p25c0] ORDER BY cota 1 volume DESC.
+[p25c0] (E) SELECTI «nome local, SUM (£. volume) AT total volume
+[p25c0] FROM FatoEstoque £
+[p25c0] JOIM DimLocal 1IN£.local id = 1.local id
+[p25c0] JOIN DimDbata diNf.data = d.data
+[p25c0] WHERE a. ano SUM(2023, 2024)
+[p25c0] GROUP BY 1.nome local
+[p25c0] ORDER BY cota 1 volume DESC.
+[p26c0] 87. Suponha que a Prefeitura de São Paulo deseje implementar um sistema de análise de dados para prever demandas de transpor-
+[p26c0] te público e identificar padrões de deslocamento em diferentes horários e regiões. Os dados disponiveis incluem registros histó-
+[p26c0] ricos de viagens, horários de pico, informações demográficas e localizações geográficas. Para prever o aumento na demanda
+[p26c0] em horários específicos e identificar agrupamentos de regiões com padrões semelhantes de uso, deve-se
+[p26c0] (4) utilizar um modelo de Regressão Logistica para prever as demandas de transporte público e Redes Neurais Convolu-
+[p26c0] clonais (CNN) para identificar padrões de deslocamento em horários de pico.
+[p26c0] (B] aplicar Regressão Linear para prever a demanda futura com base em variáveis como horário e histórico de viagens e
+[p26c0] utilizar o algoritmo não supervisionado K-Means para identificar agrupamentos de regiões com padrões similares de uso.
+[p26c0] (C) treinar um modelo não supervisionado de Support Vector Machine (SVM) para prever a demanda em horários específicos
+[p26c0] e Redes Neurais Recorrentes (RNN) para identificar padrões de deslocamento ao longo do tempo.
+[p26c0] (D) usar Árvores de Decisão para prever demandas futuras é treinar um modelo supervisionado de clusterização hierárquica
+[p26c0] para identificar padrões de deslocamento em horários específicos, através de dendogramas.
+[p26c0] (E) | aplicar Regressão Logistica para prever a demanda futura com base em histórico de viagens e utilizar o método ARIMA
+[p26c0] (Autoregressive Integrated Moving Average) para identificar agrupamentos de regiões para segmentação de dados geográ-
+[p26c0] ficos.
+[p26c0] 88. Uma equipe de ciência de dados de uma prefeitura está utilizando um modelo de classificação binária para prever a aprovação
+[p26c0] de projetos de mobilidade urbana. O desempenho do modelo é avaliado com base em algumas métricas. Considere o seguinte
+[p26c0] código em Python, que foi executado para calcular as métricas a partir dos rótulos verdadeiros e previstos.
+[p26c0] from sklearn.metrics import precision score, recall score, fl score
+[p26c0] & Rátula verdadeiros dos dados (1 = positivo, OD = negativo)
+[p26c0] true labels = [1, 0, 1,1, 0,12, 0, 0, 1, 0]
+[p26c0] & Fredições do modelo (1 = positivo, OD = negativo)
+[p26c0] predicted labels = [1, 0, 1, 0, 0,1,1, 0,1, 0]
+[p26c0] & Calculando as métricas
+[p26c0] precision = precision score(true labels, predicted labels)
+[p26c0] recall = recall score(true labels, predicted labels)
+[p26c0] Él = fl score(true labels, predicted labels)
+[p26c0] & Exibindo os resultados
+[p26c0] print (f"Precisão: (precision:.2£|")
+[p26c0] print (£f"Recall: (recall: .2£f)")
+[p26c0] print (£f"Fl-Score: (fl:.2£)")
+[p26c0] Com os dados fornecidos, o código gerou os seguintes resultados: Precisão: 0,80, Recall: 0,80, Fi-Score: 0,80.
+[p26c0] Com base nessas métricas, o modelo
+[p26c0] (4) apresenta alta precisão, mas o recall é insuficiente, indicando que ele detecta a maioria dos casos positivos, mas também
+[p26c0] faz muitas classificações incorretas.
+[p26c0] (B) apresenta um bom equilíbrio entre precisão e recall, indicando que ele identifica bem os casos positivos e evita erros ao
+[p26c0] classificar dados negativos.
+[p26c0] (C) apresenta baixa precisão e recall, indicando que ele frequentemente erra tanto ao prever positivos quanto ao evitar falsos
+[p26c0] negativos.
+[p26c0] (D) & ótimo para cenários em que precisão não é lão importante quanto recall, como em problemas de emergência pública,
+[p26c0] pois Fi-seore é alto.
+[p26c0] (E) | tem precisão aceitável, mas o baixo Fi-score sugere um desempenho desequilibrado, com recall bem superior à precisão.
+[p26c0] 89. Com respeito à renegociação de valores do IPTU ocorrida na esfera municipal de uma grande cidade, a técnica de machine
+[p26c0] learning mais adequada para detectar uma possível fraude aplicada por cidadãos &:
+[p26c0] (A) Análise de cluster: Agrupar as transações em clusters e Identificar aqueles com caracteristicas atípicas.
+[p26c0] (B] Regressão linear: Modelar a relação entre as variáveis para prever o valor de uma transação potencialmente fraudulenta e
+[p26c0] identificar desvios.
+[p26c0] (C) Análise de componentes principais (PCA): Reduzir a dimensionalidade dos dados para visualizar padrões e anomalias ca-
+[p26c0] racterísticas de fraudes.
+[p26c0] (D) Redes neurais artificiais: Construir um modelo capaz de aprender padrões complexos nas transações e identificar aquelas
+[p26c0] com alto risco de fraude.
+[p26c0] (E) Análise de sentimento: Aplicar Regard Review on ML (R2ML) nos textos dos processos impetrados por cidadãos suposta-
+[p26c0] mente envolvidos em fraudes do IPTU, para identificar possíveis características sentimentais indicativas de fraudulência.
+[p26c0] 90. Para verificar ocorrências importantes em documentos processuais de municipes, tais como possíveis informações com petições
+[p26c0] e arrazoados incoerentes nos processos, a equipe de Analistas de uma Prefeitura aplicou a técnica de text mining utilizando,
+[p26c0] adequadamente, os métodos de
+[p26c0] (ã] Tokenização e Análise de Imagens.
+[p26c0] (B) Word-recognize e Análise de Sentimentos.
+[p26c0] (0) - Word-Recognize e Verifying Skills.
+[p26c0] (D) Redes Nominais e Tokenização.
+[p26c0] (E) Topic Modeling « Análise de Sentimentos.

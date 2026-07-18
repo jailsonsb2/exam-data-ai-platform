@@ -1,0 +1,1706 @@
+[p1c0] A
+[p1c0] C
+[p1c0] P
+[p1c0] ANALISTA LEGISL
+[p1c0] SUA PROVA
+[p1c0] • Além deste caderno contendo 70 (setenta)
+[p1c0] questões objetivas e 2 (duas) questões discursivas,
+[p1c0] você receberá do fiscal de prova o cartão de
+[p1c0] respostas e a folha de textos definitivos;
+[p1c0] • As questões objetivas têm 5 (cinco) opções de
+[p1c0] resposta (A, B, C, D e E) e somente uma delas está
+[p1c0] correta.
+[p1c0] •
+[p1c0] TEMPO
+[p1c0] • Você dispõe de 5 (cinco) horas para a realização da
+[p1c0] prova, já incluído o tempo para a marcação do cartão
+[p1c0] de respostas;
+[p1c0] • A partir dos 30 (trinta) minutos anteriores ao término
+[p1c0] da prova é possível retirar-se da sala levando o
+[p1c0] caderno de questões.
+[p1c0] NÃO SERÁ PERMITIDO
+[p1c0] • Qualquer tipo de comunicação entre os candidatos
+[p1c0] durante a aplicação da prova;
+[p1c0] • Anotar informações relativas às respostas em
+[p1c0] qualquer outro meio que não seja o caderno de
+[p1c0] questões;
+[p1c0] • Levantar da cadeira sem autorização do fiscal de
+[p1c0] sala;
+[p1c0] • Usar o sanitário ao término da prova, após deixar a
+[p1c0] sala.
+[p1c1] A L
+[p1c1] SSEMBLEIA EGISLATIVA DO
+[p1c1] E G
+[p1c1] STADO DE OIÁS
+[p1c1] CONCURSO PÚBLICO – EDITAL 01/2025
+[p1c1] P O –
+[p1c1] ROVA BJETIVA (TARDE)
+[p1c1] LATIVO - ANALISTA DE CIÊNCIA DE
+[p1c1] DADOS
+[p1c1] NÍVEL SUPERIOR TIPO 1 – BRANCA
+[p1c1] INFORMAÇÕES GERAIS
+[p1c1] • Verifique se seu caderno de questões está completo,
+[p1c1] sem repetição de questões ou falhas. Caso contrário,
+[p1c1] notifique imediatamente o fiscal da sala, para que sejam
+[p1c1] tomadas as devidas providências;
+[p1c1] • Confira seus dados pessoais, especialmente nome,
+[p1c1] número de inscrição e documento de identidade e leia
+[p1c1] atentamente as instruções para preencher o cartão de
+[p1c1] respostas e a folha de textos definitivos;
+[p1c1] • Para o preenchimento do cartão de respostas e da folha
+[p1c1] de textos definitivos, use somente caneta esferográfica,
+[p1c1] fabricada em material transparente, com tinta preta ou
+[p1c1] azul;
+[p1c1] • Assine seu nome apenas no(s) espaço(s) reservado(s) no
+[p1c1] cartão de respostas;
+[p1c1] • Confira seu cargo, cor e tipo do caderno de questões.
+[p1c1] Caso tenha recebido caderno de cargo ou cor ou tipo
+[p1c1] diferente do impresso em seu cartão de respostas, o
+[p1c1] fiscal deve ser obrigatoriamente informado para o
+[p1c1] devido registro na ata da sala;
+[p1c1] • Reserve tempo suficiente para o preenchimento do seu
+[p1c1] cartão de respostas. O preenchimento é de sua
+[p1c1] responsabilidade e não será permitida a troca do cartão
+[p1c1] de respostas em caso de erro cometido pelo candidato;
+[p1c1] • Para fins de avaliação, serão levadas em consideração
+[p1c1] apenas as marcações realizadas no cartão de respostas
+[p1c1] folha de textos definitivos;
+[p1c1] • A FGV coletará as impressões digitais dos candidatos na
+[p1c1] lista de presença;
+[p1c1] • Os candidatos serão submetidos ao sistema de detecção
+[p1c1] de metais quando do ingresso e da saída de sanitários
+[p1c1] durante a realização das provas.
+[p1c1] • Boa sorte!
+[p3c0] Conhecimentos Básicos
+[p3c0] Língua Portuguesa
+[p3c0] 1
+[p3c0] Leia com atenção o seguinte texto, retirado do Livro dos Erros,
+[p3c0] organizado por Mário Goulart:
+[p3c0] “Conta a jornalista Virginie Leite que Gilberto Chateaubriand
+[p3c0] comprou um quadro de Di Cavalcanti ainda fresco e o deixou
+[p3c0] secando no atelier do pintor. Quando foi buscar a obra no dia
+[p3c0] seguinte, Di tinha vendido. Chateaubriand escolheu então outro
+[p3c0] quadro”, Mulheres de Pescadores, que recebia as últimas
+[p3c0] pinceladas. Mas, dessa vez, precaveu-se: - Esse vai secar lá em
+[p3c0] casa.”
+[p3c0] Assinale a afirmativa correta obre os nomes próprios empregados
+[p3c0] nesse pequeno texto.
+[p3c0] (A) Virginie Leite é identificada por sua profissão, jornalista, para
+[p3c0] dar mais credibilidade ao narrado.
+[p3c0] (B) Gilberto Chateaubriand não recebe inicialmente qualquer
+[p3c0] identificação, pois sua identidade é revelada na continuidade
+[p3c0] do texto.
+[p3c0] (C) A primeira menção do nome do pintor é feita da forma pela
+[p3c0] qual o artista é mais conhecido.
+[p3c0] (D) A segunda menção do nome do pintor foi reduzida a “Di”,
+[p3c0] forma inadequada em função da formalidade do texto.
+[p3c0] (E) Na segunda menção do nome do comprador, foi empregada a
+[p3c0] forma Chateaubriand, forma adequada, já que nomes de
+[p3c0] homens são sempre abreviados pelo sobrenome.
+[p3c0] 2
+[p3c0] Observe este segmento:
+[p3c0] “Conta a jornalista Virginie Leite que Gilberto Chateaubriand
+[p3c0] comprou um quadro de Di Cavalcanti ainda fresco e o deixou
+[p3c0] secando no atelier do pintor.”
+[p3c0] Nesse trecho, aparece um galicismo, ou seja, uma palavra de
+[p3c0] origem francesa presente na língua portuguesa: atelier.
+[p3c0] Entre as frases abaixo, aquela que mostra um galicismo com seu
+[p3c0] equivalente em língua portuguesa, corretamente indicado, é:
+[p3c0] (A) O cinema apresentava naquela semana a avant-première do
+[p3c0] filme mais moderno de Walt Disney. / primeira versão.
+[p3c0] (B) Como exigia a moda da época, o cavalheiro trazia em seus
+[p3c0] braços um bouquet de flores. / a caixa.
+[p3c0] (C) O cliente do restaurante sempre solicitava que retirassem do
+[p3c0] arroz o champignon. / a pimenta.
+[p3c0] (D) Os funcionários eram obrigados a usar crachat colocado em
+[p3c0] volta do pescoço. / cartaz.
+[p3c0] (E) Os restaurantes são obrigados a deixar um menu na porta de
+[p3c0] entrada para consulta dos clientes. / cardápio.
+[p3c0] Analista Legislativo - Analista de Ciência de Dados – TARDE
+[p3c1] 3
+[p3c1] A coesão é uma das marcas da textualidade e pode ser construída
+[p3c1] por meio de diferentes processos.
+[p3c1] Em todas as opções abaixo, há um termo sublinhado que é referido
+[p3c1] na continuidade do texto. A opção, em que o processo de coesão
+[p3c1] está corretamente identificado, é:
+[p3c1] (A) “Conta a jornalista Virginie Leite que Gilberto Chateaubriand
+[p3c1] comprou um quadro de Di Cavalcanti ainda fresco e o deixou
+[p3c1] secando no atelier do pintor.” / substituição por um pronome
+[p3c1] demonstrativo.
+[p3c1] (B) “Conta a jornalista Virginie Leite que Gilberto Chateaubriand
+[p3c1] comprou um quadro de Di Cavalcanti ainda fresco e o deixou
+[p3c1] secando no atelier do pintor.” / substituição por um termo
+[p3c1] sinônimo.
+[p3c1] (C) “Quando foi buscar a obra no dia seguinte, Di tinha vendido.”
+[p3c1] / omissão por elipse.
+[p3c1] (D) “Chateaubriand escolheu então outro quadro, Mulheres de
+[p3c1] Pescadores, que recebia as últimas pinceladas.” / substituição
+[p3c1] por pronome indefinido.
+[p3c1] (E) “Chateaubriand escolheu então outro quadro, Mulheres de
+[p3c1] Pescadores. Mas dessa vez, precaveu-se: - Esse vai secar lá em
+[p3c1] casa.” / substituição por advérbio.
+[p3c1] 4
+[p3c1] O verbo agradecer é geralmente empregado com objeto direto de
+[p3c1] coisa e objeto indireto de pessoa.
+[p3c1] Assinale a frase abaixo em que esse verbo mostra uma regência
+[p3c1] diferente dessa.
+[p3c1] (A) As pessoas agradeciam-lhe a simpatia e o obséquio.
+[p3c1] (B) Quando chegaram, os demais convidados agradeceram-lhes os
+[p3c1] elogios.
+[p3c1] (C) Ouvimos missa na catedral; ao levantar a Deus, agradecia a
+[p3c1] vida e a saúde de meu filho.
+[p3c1] (D) Os candidatos eleitos agradeceram aos eleitores todos os
+[p3c1] votos recebidos.
+[p3c1] (E) Os feirantes agradeceram os fregueses por todas as compras
+[p3c1] feitas.
+[p3c1] 5
+[p3c1] A frase abaixo, retirada de obras machadianas, com maior número
+[p3c1] de adjetivos é:
+[p3c1] (A) “Carlos Maria achava os homens declamadores, grosseiros,
+[p3c1] cansativos, pesados, frívolos, chulos, triviais.” (Quincas Borba)
+[p3c1] (B) “Duas tristes luzes alumiavam aquela pequena sala.” (Helena)
+[p3c1] (C) “As roupas eram rafadas; o chapéu velho que lhe cobria a
+[p3c1] cabeça tinha já uma cor inverossímil.” (Helena)
+[p3c1] (D) “Luís Garcia tinha o costume de guar tudo, cartas, exemplares
+[p3c1] de jornais em que havia alguma coisa de interesse,
+[p3c1] apontamentos, simples cópias.” (Iaiá Garcia)
+[p3c1] (E) Quincas Borba mal podia encobrir a satisfação do triunfo.
+[p3c1] Tinha uma asa de frango no prato e trincava-a com filosófica
+[p3c1] serenidade.” (Memórias Póstumas de Brás Cubas)
+[p3c1] TIPO BRANCA – PÁGINA 3
+[p4c0] 6
+[p4c0] A frase abaixo, retirada do romance O Coruja, de Aluísio Azevedo,
+[p4c0] que mostra uma troca indevida entre acidente e incidente, é:
+[p4c0] (A) “Não procuravam as suas relações, nem ele as de ninguém, e,
+[p4c0] apesar das vaias e das repetidas pilhérias dos colegas, teria
+[p4c0] passado tranquilamente os primeiros dias da sua nova
+[p4c0] existência, se um incidente desagradável não o viesse
+[p4c0] perturbar.”
+[p4c0] (B) “Amavam-se brutalmente, e ambos sabiam disso. Esse amor
+[p4c0] irracional e empírico carregara-se muito mais, de parte a parte,
+[p4c0] com o trágico incidente da viagem, em que ele fora vítima.”
+[p4c0] (C) “Chegaram sem o menor incidente ao destino que levaram.”
+[p4c0] (D) “Coruja resignou-se, sem um gesto de contrariedade e não
+[p4c0] falou a ninguém sobre esse incidente, nem mesmo ao amigo.”
+[p4c0] (E) “E às quatro da tarde, sem nenhum outro incidente
+[p4c0] desagradável, voltavam à fazenda, trazendo consigo o tal
+[p4c0] Hipólito, que parecia embirrar com o Coruja ainda mais do que
+[p4c0] a própria noiva.”
+[p4c0] 7
+[p4c0] Dentre as frases a seguir, retiradas do romance O Coruja, de Aluísio
+[p4c0] Azevedo, assinale aquela em que o acento grave indicativo da
+[p4c0] crase foi corretamente usado.
+[p4c0] (A) “... mas caiu logo em si, lembrando-se de que já se fazia tarde
+[p4c0] e naquele dia, distraído com a morte do amigo, descuidara-se
+[p4c0] da gente que tinha à sua conta.”
+[p4c0] (B) “Nunca fazia à ninguém interrogação de espécie alguma, e,
+[p4c0] certo dia perguntando-lhe o padre se ele o estimava, o menino
+[p4c0] sacudiu com a cabeça, negativamente.”
+[p4c0] (C) “Mas, no íntimo, abominava o pupilo; mil vezes preferia não o
+[p4c0] ter à seu lado; suportava-o, sabia Deus como! como quem
+[p4c0] suporta uma obrigação inevitável e aborrecida.”
+[p4c0] (D) “E cada vez detestava mais o pequeno; afinal era já um ódio
+[p4c0] violento, uma antipatia especial, que se manifestava à todo o
+[p4c0] instante...”
+[p4c0] (E) “- Ora, que mono fora ele descobrir!... dizia de si para si, à
+[p4c0] contemplar o rapaz por cima dos óculos.”
+[p4c0] 8
+[p4c0] Entre as palavras sublinhadas nas frases abaixo, aquela em que o
+[p4c0] U (em QUE ou QUI) deve ser pronunciado, é:
+[p4c0] (A) Ser ou não ser: eis a questão. (Shakespeare)
+[p4c0] (B) Quem abre o coração à ambição, fecha-o à tranquilidade.
+[p4c0] (provérbio chinês)(C) Cada ideologia tem a inquisição
+[p4c0] que merece. (Millôr Fernandes)
+[p4c0] (D) Antes dele, outros quatro chefes de polícia saíram da
+[p4c0] instituição, responsável por um inquérito interno sobre o caso
+[p4c0] que começou em 2007 com a denúncia de uma vítima, mas
+[p4c0] que foi arquivado sem chegar a nenhuma conclusão. (FSP-
+[p4c0] 26/06/2009)
+[p4c0] (E) Descubra a Europa sobre trilhos Segóvia exibe aqueduto
+[p4c0] romano bem conservado Biarritz combina surfe, glamour e
+[p4c0] bons restaurantes. (FSP-18/10/2012)
+[p4c0] Analista Legislativo - Analista de Ciência de Dados – TARDE
+[p4c1] 9
+[p4c1] Entre as palavras sublinhadas nas frases abaixo, propositalmente
+[p4c1] grafadas sem acentos, aquela que deve ser pronunciada como
+[p4c1] paroxítona, é:
+[p4c1] (A) A história do viúvo pudico, que se apaixona por uma prostituta
+[p4c1] com vocação para amante e, graças às armações do irmão
+[p4c1] invejoso, acaba traído pelo filho e pela amada, traz as marcas
+[p4c1] inconfundíveis do autor, que a definia como "uma obsessão
+[p4c1] em três atos". (FSP-01/11/2012)
+[p4c1] (B) O valor do pagamento de benefícios da Previdência Social
+[p4c1] superou a arrecadação em julho e provocou um deficit de R$
+[p4c1] 3,09 bilhões. (FSP-19/08/2009)
+[p4c1] (C) Uma fábrica chinesa de iPhones, da Apple, informou que
+[p4c1] suspendeu o trabalho de funcionários, após um empregado ter
+[p4c1] cometido suicídio, aparentemente sob ameaça quando um
+[p4c1] prototipo foi perdido. (FSP-22/07/2009)
+[p4c1] (D) Qualquer violeta ou crisantemo de supermercado já ajuda.
+[p4c1] (FSP-26/07/2011)
+[p4c1] (E) Nesse interim, Colting vê seu livro ser traduzido para o
+[p4c1] húngaro e para o coreano --línguas em que jamais sonhara
+[p4c1] publicar. (FSP-11/12/2010)
+[p4c1] 10
+[p4c1] Assinale o segmento textual a seguir que é classificado como de
+[p4c1] tipo textual publicitário.
+[p4c1] (A) As mulheres sofrem de ansiedade com mais frequência do que
+[p4c1] os homens: Especialistas revelam o porquê.
+[p4c1] (B) Enem em Sergipe: mais de 78 mil candidatos devem fazer
+[p4c1] provas de matemática e ciências da natureza.
+[p4c1] (C) Fundada em homenagem a Gregório Thaumaturgo de
+[p4c1] Azevedo, figura histórica da anexação do Acre ao Brasil, a
+[p4c1] cidade de Marechal Thaumaturgo é um retrato singular do
+[p4c1] Brasil profundo.
+[p4c1] (D) Estudo do Observatório Nacional da Violência contra
+[p4c1] Educadores traça cenário de desvalorização e violência
+[p4c1] enfrentados por docentes em instituições públicas e privadas
+[p4c1] no país.
+[p4c1] (E) O benefício que motiva, retém e alimenta resultados. Com
+[p4c1] Ticket Restaurante, sua empresa cuida de quem faz acontecer
+[p4c1] com menos custo e mais valor percebido.
+[p4c1] 11
+[p4c1] Na pronúncia descuidada, muitas palavras são proferidas com
+[p4c1] eliminação ou troca de fonemas; em todas as opções abaixo, há
+[p4c1] palavras sublinhadas que mostram esse problema.
+[p4c1] A única opção em que a palavra sublinhada mostra forma correta,
+[p4c1] é:
+[p4c1] (A) Para enterter as crianças durante o recesso escolar --
+[p4c1] determinado pela Secretaria de Estado da Saúde em função da
+[p4c1] gripe A--, os apresentadores do "Cambalhota" também dão
+[p4c1] dicas de brincadeiras e atividades que podem ser realizadas
+[p4c1] dentro de casa. (FSP-05/08/2009)
+[p4c1] (B) Bistrô crepe de Paris Aqui, a raclette (prato com queijo suíço
+[p4c1] homônimo derretido) é acompanhada por batatas, tauba de
+[p4c1] frios, pães caseiros e molhos (R$ 58, por pessoa). (FSP-
+[p4c1] 17/07/2009)
+[p4c1] (C) O supérfluo dos ricos é propiedade dos pobres. (Santo
+[p4c1] Agostinho)
+[p4c1] (D) Outras 251 pessoas morreram ao atravessar regularmente a
+[p4c1] fronteira, principalmente por enfarte, disseram os
+[p4c1] pesquisadores. (FSP-12/08/2009)
+[p4c1] (E) Uma conduta irrepreensível consiste em manter cada um a sua
+[p4c1] dignidade sem perjudicar a liberdade alheia. (Voltaire)
+[p4c1] TIPO BRANCA – PÁGINA 4
+[p5c0] 12
+[p5c0] Assinale o segmento textual abaixo que é classificado como de
+[p5c0] modo injuntivo.
+[p5c0] (A) O Instituto Nacional de Meteorologia (Inmet) emitiu, neste
+[p5c0] domingo (16), um alerta de tempestade severa para
+[p5c0] municípios de quatro estados brasileiros — Rio Grande do Sul,
+[p5c0] Santa Catarina, Paraná e Mato Grosso do Sul.
+[p5c0] (B) Para os idosos, o conforto e a segurança são aspectos cruciais
+[p5c0] na escolha de um carro. O Fiat 500e, por exemplo, é um carro
+[p5c0] compacto que facilita manobras e estacionamento, equipado
+[p5c0] com sensores de estacionamento 360º para maior segurança
+[p5c0] ao dirigir.
+[p5c0] (C) A dinâmica do relacionamento pode ser complexa, mas o que
+[p5c0] dizemos e como falamos pode ter um grande impacto em
+[p5c0] como o nosso parceiro se sente.
+[p5c0] (D) André declarou: “Ganhei mais músculos nesse último mês do
+[p5c0] que nos últimos 3 anos de academia. Incrível! Queria ter
+[p5c0] descoberto isso antes.”
+[p5c0] (E) Sentir-se cansado após um dia longo ou depois de atividades
+[p5c0] físicas intensas é comum e geralmente normal
+[p5c0] Analista Legislativo - Analista de Ciência de Dados – TARDE
+[p5c1] 13
+[p5c1] Entre as palavras destacadas nas frases a seguir, aquela em que,
+[p5c1] na forma plural, a pronúncia é feita com O aberto (ó) é:
+[p5c1] (A) O aeroporto mais prejudicado é o de Heathrow, onde centenas
+[p5c1] de pessoas passaram a noite no terminal. (FSP-21/12/2010)
+[p5c1] (B) Segundo Yigit, o produto não tem o objetivo de ser um mero
+[p5c1] adorno decorativo: também tem a pretensão de dialogar com
+[p5c1] o conjunto arquitetônico do espaço. (FSP-05/07/2012)
+[p5c1] (C) Considero como uma das felicidades da minha vida não
+[p5c1] escrever nos jornais; isto faz mal ao meu bolso, mas faz bem à
+[p5c1] minha consciência. (Gustave Flaubert)
+[p5c1] (D) O planeta, porém, está longe demais para que astrônomos
+[p5c1] consigam enxergar seu contorno diretamente. (FSP-
+[p5c1] 15/09/2011)
+[p5c1] (E) O clássico é também um esboço para 2013, ano em que as
+[p5c1] duas equipes podem polarizar a rivalidade estadual. (FSP-
+[p5c1] 02/12/2012)
+[p5c1] 14
+[p5c1] Nas opções abaixo há termos destacados que são referidos de
+[p5c1] forma diferente na continuidade do texto; a opção em que essa
+[p5c1] segunda referência é feita por uma intensificação do termo
+[p5c1] anterior, é:
+[p5c1] (A) O mesmo dever que prende o servo ao soberano, liga, ao tutor,
+[p5c1] o cachorro.
+[p5c1] (B) Enquanto alguns já estão na terceira onda, outros ainda não
+[p5c1] saíram da primeira marola.
+[p5c1] (C) Muitas pessoas têm vontade de morar no interior enquanto
+[p5c1] outros mostram ânsia em morar na cidade.
+[p5c1] (D) Há bons casamentos, porém não há compromissos deliciosos.
+[p5c1] (E) É ruim dois cônjuges se aborrecerem mutuamente; porém é
+[p5c1] muito pior somente um dos parceiros aborrecer o outro.
+[p5c1] TIPO BRANCA – PÁGINA 5
+[p6c0] Raciocínio Lógico
+[p6c0] 15
+[p6c0] Considere verdadeiras as afirmações:
+[p6c0] • Todos os sapos são verdes.
+[p6c0] • Nenhum animal verde vive na água.
+[p6c0] É correto concluir que
+[p6c0] (A) alguns sapos vivem na água.
+[p6c0] (B) nenhum sapo vive na água.
+[p6c0] (C) nem todo sapo é verde.
+[p6c0] (D) todos os animais verdes são sapos.
+[p6c0] (E) todos os animais que não vivem na água não são verdes.
+[p6c0] 16
+[p6c0] Sejam 𝑝 e 𝑞 duas proposições. Considere a sentença 𝑆 dada por:
+[p6c0] (𝑝 → 𝑞) ↔ (~𝑝 ∨ 𝑞) e a tabela verdade abaixo.
+[p6c0] 𝑝 𝑞 𝑆
+[p6c0] V V
+[p6c0] V F
+[p6c0] F V
+[p6c0] F F
+[p6c0] Construindo a tabela verdade acima, os valores lógicos da
+[p6c0] sentença 𝑆 (de cima para baixo) são:
+[p6c0] (A) V – V – V – V.
+[p6c0] (B) V – F – V – V.
+[p6c0] (C) V – V – V – F.
+[p6c0] (D) V – F – F – V.
+[p6c0] (E) V – F – V – F.
+[p6c0] Analista Legislativo - Analista de Ciência de Dados – TARDE
+[p6c1] 17
+[p6c1] Cinco bolinhas iguais estão em uma caixa e cada uma delas contém
+[p6c1] uma letra diferente da sigla ALEGO.
+[p6c1] Retirando ao acaso duas bolinhas da caixa em sequência e sem
+[p6c1] reposição, a probabilidade de que uma bolinha contenha uma
+[p6c1] vogal e a outra uma consoante é
+[p6c1] (A) 1/2.
+[p6c1] (B) 2/3.
+[p6c1] (C) 3/4.
+[p6c1] (D) 2/5.
+[p6c1] (E) 3/5.
+[p6c1] 18
+[p6c1] Na faixa quadriculada abaixo, as linhas verticais estão numeradas
+[p6c1] da esquerda para a direita e o lado de cada quadradinho mede 1
+[p6c1] unidade.
+[p6c1] Um objeto iniciou seu movimento no ponto A e andou sobre as
+[p6c1] linhas mais escuras do desenho mantendo o padrão visível na
+[p6c1] figura.
+[p6c1] Após percorrer 2026 unidades o objeto estará na linha vertical de
+[p6c1] número
+[p6c1] (A) 867.
+[p6c1] (B) 868.
+[p6c1] (C) 869.
+[p6c1] (D) 870.
+[p6c1] (E) 871.
+[p6c1] 19
+[p6c1] Considere a afirmação:
+[p6c1] ”se tenho febre então não vou trabalhar”.
+[p6c1] A negação dessa afirmação é:
+[p6c1] (A) se não tenho febre então vou trabalhar.
+[p6c1] (B) tenho febre e vou trabalhar.
+[p6c1] (C) não tenho febre e não vou trabalhar.
+[p6c1] (D) não tenho febre ou não vou trabalhar.
+[p6c1] (E) tenho febre ou vou trabalhar.
+[p6c1] 20
+[p6c1] Considere todas as sequências de 5 letras diferentes utilizando as
+[p6c1] letras da sigla A L E G O. Essas sequências são escritas em ordem
+[p6c1] alfabética.
+[p6c1] Nessa ordenação, a sequência G E L O A ocupa a posição de
+[p6c1] número
+[p6c1] (A) 55.
+[p6c1] (B) 56.
+[p6c1] (C) 57.
+[p6c1] (D) 58.
+[p6c1] (E) 59.
+[p6c1] TIPO BRANCA – PÁGINA 6
+[p7c0] Realidade Étnica, Social, Histórica,
+[p7c0] Geográfica, Cultural, Política e
+[p7c0] Econômica do Estado de Goiás
+[p7c0] 21
+[p7c0] O período de maior intensidade do Ciclo do Ouro em Goiás ocorreu
+[p7c0] entre os séculos XVIII e XIX, quando a região se tornou um
+[p7c0] importante centro de mineração no Brasil colonial. A descoberta
+[p7c0] de grandes depósitos de ouro atraiu trabalhadores, comerciantes
+[p7c0] e aventureiros, estimulando o crescimento de assentamentos na
+[p7c0] região.
+[p7c0] Assinale a opção que apresenta corretamente os impactos da
+[p7c0] mineração na ocupação de Goiás durante o auge do ciclo do ouro.
+[p7c0] (A) A técnica de perfuração permitiu uma exploração intensa e
+[p7c0] prolongada das lavras, o que evitou seu esgotamento e
+[p7c0] favoreceu o assentamento de uma população permanente.
+[p7c0] (B) O uso predominante da mão de obra indígena, valorizada por
+[p7c0] suas habilidades específicas na mineração, contribuiu para o
+[p7c0] crescimento da população nativa na região.
+[p7c0] (C) A extração do ouro de aluvião exigiu a presença de
+[p7c0] especialistas e tecnologia avançada na região, o que deu
+[p7c0] origem a um polo industrial local.
+[p7c0] (D) O uso do mercúrio na mineração facilitou a extração do ouro,
+[p7c0] o que tornou a atividade mais produtiva e atraiu
+[p7c0] trabalhadores, resultando no surgimento de vilas e arraiais.
+[p7c0] (E) A mineração de morro tornou a agropecuária a principal
+[p7c0] atividade econômica da região, voltada à criação de animais de
+[p7c0] tração, o que resultou no assentamento da população.
+[p7c0] Analista Legislativo - Analista de Ciência de Dados – TARDE
+[p7c1] 22
+[p7c1] Leia o trecho a seguir.
+[p7c1] O bandeirismo no período colonial deu origem a democracia
+[p7c1] brasileira, graças a mobilidade externa que conseguiu uma
+[p7c1] geografia antitotalitária; hierarquização do negro e do índio, que
+[p7c1] foram deslocados do comunismo tribal para a área social em que
+[p7c1] operavam os bandeirantes; absorção de grupos étnicos através da
+[p7c1] assimilação de seus elementos; desfeudalização dos engenhos. O
+[p7c1] objetivo era incrementar o povoamento. O “Projeto Rondon”, hoje
+[p7c1] em pleno desenvolvimento, completa o bandeirismo. Portanto, o
+[p7c1] bandeirismo como foi praticado pelos paulistas durante três
+[p7c1] séculos pertence, naturalmente, a História. Até hoje existe uma
+[p7c1] “personalidade bandeirante” na sociedade brasileira. Quando se
+[p7c1] fala em “Estado bandeirante”, já se sabe qual é; “povo
+[p7c1] bandeirante”, também. Mas “bandeirar”, hoje em dia, é imposição
+[p7c1] do Brasil inteiro, que atende ao seu “imperialismo interno” e
+[p7c1] depende, muito ainda, da aventura criadora tradicional do período
+[p7c1] colonial.
+[p7c1] Adaptado de: RICARDO, Cassiano. Marcha para Oeste. São Paulo:
+[p7c1] Universidade de São Paulo, 4 edição, 1970, pp. xxxi – xxxix.
+[p7c1] O trecho, de Cassiano Ricardo, ideólogo do Estado Novo e
+[p7c1] publicado em 1940, serviu de base para a política de “Marcha para
+[p7c1] o Oeste” do governo Vargas.
+[p7c1] Com base na sua leitura, é correto afirmar que a imagem do
+[p7c1] bandeirismo do período colonial brasileiro foi usada pelo governo
+[p7c1] Vargas como símbolo de
+[p7c1] (A) decadência, ao destacar o período colonial como atrasado, em
+[p7c1] consonância com o projeto modernizador e de
+[p7c1] desenvolvimento do Estado Novo para a superação desse
+[p7c1] passado.
+[p7c1] (B) expansão territorial, ao destacar a ampliação do espaço
+[p7c1] geográfico e a ocupação do interior do país, em consonância
+[p7c1] com os projetos do Estado Novo de integração do território
+[p7c1] nacional.
+[p7c1] (C) heroísmo, ao destacar o extermínio dos povos nativos pelos
+[p7c1] bandeirantes como elemento positivo, em consonância com o
+[p7c1] projeto do Estado Novo de conquista e integração das
+[p7c1] populações indígenas ao Estado brasileiro.
+[p7c1] (D) mobilidade social, ao destacar a participação igualitária dos
+[p7c1] grupos sociais na sociedade brasileira, em consonância com o
+[p7c1] ideal de democracia racial defendido pelo Estado Novo.
+[p7c1] (E) valentia, ao destacar a atuação dos bandeirantes europeus na
+[p7c1] ocupação do território nacional, em consonância com a busca
+[p7c1] do Estado Novo por modelos estrangeiros para a construção
+[p7c1] da identidade nacional.
+[p7c1] TIPO BRANCA – PÁGINA 7
+[p8c0] 23
+[p8c0] O Cerrado em Goiás, um dos biomas mais ricos em biodiversidade
+[p8c0] do Brasil, vem sofrendo intensa devastação nos últimos anos, com
+[p8c0] grande parte de sua vegetação nativa sendo destruída, o que
+[p8c0] ameaça diversas espécies de fauna e flora e compromete a
+[p8c0] qualidade da água e do solo.
+[p8c0] As opções a seguir descrevem corretamente fatores que explicam
+[p8c0] a devastação do cerrado goiano, à exceção de uma. Assinale-a.
+[p8c0] (A) A construção de rodovias e estrada fragmenta o Cerrado e
+[p8c0] compromete a biodiversidade e os recursos naturais da região.
+[p8c0] (B) O crescimento desordenado de cidades e vilarejos, ocupando
+[p8c0] áreas do Cerrado, leva à destruição da vegetação e ao
+[p8c0] aumento da pressão sobre os recursos naturais da região.
+[p8c0] (C) A expansão da agricultura e da pecuária em larga escala
+[p8c0] contribui para a destruição da vegetação nativa e a degradação
+[p8c0] do solo no Cerrado.
+[p8c0] (D) O uso frequente do fogo para preparar o solo, aliado à
+[p8c0] inexistência de bacias hidrográficas no Cerrado, favorece a
+[p8c0] ocorrência de incêndios fora de controle.
+[p8c0] (E) A introdução de espécies exóticas, ao competir com a flora
+[p8c0] nativa, dificulta a regeneração natural do Cerrado e provoca
+[p8c0] alterações em seus ecossistemas.
+[p8c0] 24
+[p8c0] Em 2023, foi sancionada a Lei Complementar nº 181, que cria a
+[p8c0] Região Metropolitana do Entorno do Distrito Federal (RME). A
+[p8c0] legislação prevê a realização de ações integradas entre os
+[p8c0] governos de Goiás, do Distrito Federal e da União.
+[p8c0] Fazem parte da RME os seguintes municípios: Águas Lindas de
+[p8c0] Goiás, Cidade Ocidental, Cocalzinho de Goiás, Cristalina, Formosa,
+[p8c0] Luziânia, Novo Gama, Padre Bernardo, Planaltina, Santo Antônio
+[p8c0] do Descoberto e Valparaíso de Goiás.
+[p8c0] Assinale a opção que apresenta corretamente os objetivos
+[p8c0] da criação da Região Metropolitana do Entorno do Distrito Federal
+[p8c0] (RME).
+[p8c0] (A) Controlar o crescimento populacional na região, a fim de
+[p8c0] reduzir os problemas socioeconômicos decorrentes da
+[p8c0] expansão urbana.
+[p8c0] (B) Estruturar a administração de Goiás segundo as demandas do
+[p8c0] Distrito Federal, de modo a articular políticas públicas que
+[p8c0] atendam às prioridades da capital.
+[p8c0] (C) Garantir a proteção dos recursos e do desenvolvimento da
+[p8c0] região, que se destaca positivamente nos indicadores sociais
+[p8c0] em comparação às demais localidades do estado de Goiás.
+[p8c0] (D) Incentivar o desenvolvimento dos municípios goianos
+[p8c0] geograficamente distantes do Distrito Federal por meio de
+[p8c0] estruturas conjuntas de gestão.
+[p8c0] (E) Promover soluções integradas na região, com planejamento e
+[p8c0] implementação de serviços públicos essenciais e
+[p8c0] infraestrutura de interesse comum.
+[p8c0] Analista Legislativo - Analista de Ciência de Dados – TARDE
+[p8c1] Legislação do Estado de Goiás
+[p8c1] 25
+[p8c1] Com base na Resolução nº 1.073/2001, avalie se ao servidor é
+[p8c1] proibido, entre outras ações:
+[p8c1] I. Referir-se de modo depreciativo em informação, parecer ou
+[p8c1] despacho, às autoridades e atos da administração da
+[p8c1] Assembleia Legislativa, ou censurá-los pela imprensa ou
+[p8c1] qualquer outro órgão de divulgação pública, podendo, porém,
+[p8c1] criticá-los, do ponto de vista doutrinário ou da organização do
+[p8c1] serviço.
+[p8c1] II. Valer-se do cargo ou função para lograr proveito pessoal em
+[p8c1] detrimento da dignidade da função pública.
+[p8c1] III. Coagir ou aliciar subordinados com objetivo de natureza
+[p8c1] partidária.
+[p8c1] IV. Participar, de fato e de direito, de gerência ou administração
+[p8c1] de sociedade empresária, ainda que unipessoal, personificada
+[p8c1] ou não, bem como atuar como empresário durante a jornada
+[p8c1] de trabalho, mediante o exercício profissional de atividade
+[p8c1] econômica organizada para a produção ou circulação de bens
+[p8c1] ou de serviços, na caracterização determinada na legislação
+[p8c1] civil e observadas as exceções ali constantes.
+[p8c1] São efetivamente proibidas ao servidor as ações
+[p8c1] (A) I e II, apenas.
+[p8c1] (B) III e IV, apenas.
+[p8c1] (C) I, II e III, apenas.
+[p8c1] (D) II, III e IV, apenas.
+[p8c1] (E) I, II, III e IV.
+[p8c1] 26
+[p8c1] De acordo com a Resolução nº 1.073/2001, o conjunto de
+[p8c1] atribuições agrupadas, pela espécie de atividade e pela
+[p8c1] especialização exigível ao seu desempenho, é denominado
+[p8c1] (A) classe.
+[p8c1] (B) grupo.
+[p8c1] (C) categoria funcional.
+[p8c1] (D) cargo.
+[p8c1] (E) padrão.
+[p8c1] TIPO BRANCA – PÁGINA 8
+[p9c0] 27
+[p9c0] O Art. 10 da Resolução 1.073/2001 estabelece que os cargos de
+[p9c0] provimento em comissão se destinam a atender a encargos de
+[p9c0] Direção, Chefia, Assessoramento Superior e Intermediário e
+[p9c0] Função Especial de Confiança e são providos mediante ato do
+[p9c0] Presidente, podendo recair em servidor público efetivo, inclusive
+[p9c0] inativo, ou mesmo em pessoa estranha ao serviço público,
+[p9c0] observados os requisitos necessários, inclusive a habilitação
+[p9c0] profissional para a respectiva investidura.
+[p9c0] Em relação ao tema, avalie se as afirmativas a seguir estão
+[p9c0] corretas.
+[p9c0] I. 50% (cinquenta por cento) dos cargos em comissão, com nível
+[p9c0] de Direção e Chefia, serão preenchidos por servidor efetivo da
+[p9c0] Assembleia Legislativa, com observância do critério de
+[p9c0] confiança.
+[p9c0] II. Recaindo a nomeação em servidor público, esse optará pelo
+[p9c0] vencimento do cargo em comissão ou pela percepção da
+[p9c0] remuneração de seu cargo efetivo, sendo, em qualquer
+[p9c0] hipótese, acrescido de uma gratificação correspondente ao
+[p9c0] valor fixado para a do cargo em comissão.
+[p9c0] III. O servidor ocupante, exclusivamente, de cargo em comissão e
+[p9c0] de função especial de confiança, é segurado obrigatório do
+[p9c0] Regime Geral da Previdência Social – RGPS, na qualidade de
+[p9c0] empregado.
+[p9c0] IV. O inativo provido em cargo em comissão ou função especial de
+[p9c0] confiança perceberá, integralmente, o vencimento e a
+[p9c0] gratificação para esses fixados, cumulativamente com o
+[p9c0] respectivo provento, desde que obedecido o teto
+[p9c0] constitucional.
+[p9c0] Está correto o que se afirma em
+[p9c0] (A) I e II, apenas.
+[p9c0] (B) III e IV, apenas.
+[p9c0] (C) I, II e III, apenas.
+[p9c0] (D) II, III e IV, apenas.
+[p9c0] (E) I, II, III e IV.
+[p9c0] 28
+[p9c0] O Art. 56 da Resolução 1.073/2001 dispõe que, cumprido
+[p9c0] satisfatoriamente o estágio probatório, o servidor detentor de
+[p9c0] cargo efetivo adquirirá estabilidade no serviço público ao
+[p9c0] completar 3 (três) anos de efetivo exercício.
+[p9c0] Em relação ao tema, avalie se o servidor público estável perderá o
+[p9c0] cargo nas seguintes hipóteses:
+[p9c0] I. Em virtude de sentença judicial transitada em julgado.
+[p9c0] II. Mediante processo administrativo em que lhe seja assegurada
+[p9c0] ampla defesa.
+[p9c0] III. Mediante procedimento de avaliação periódica de
+[p9c0] desempenho, nos termos de regulamento próprio, assegurada
+[p9c0] ampla defesa.
+[p9c0] IV. Se for extinto o cargo ou declarada sua desnecessidade.
+[p9c0] Está correto o que se afirma em
+[p9c0] (A) I e II, apenas.
+[p9c0] (B) III e IV, apenas.
+[p9c0] (C) I, II e III, apenas.
+[p9c0] (D) II, III e IV, apenas.
+[p9c0] (E) I, II, III e IV.
+[p9c0] Analista Legislativo - Analista de Ciência de Dados – TARDE
+[p9c1] Conhecimentos Específicos
+[p9c1] Direito Constitucional
+[p9c1] 29
+[p9c1] A rede de telecomunicação Alfa, com forte representatividade e
+[p9c1] capilaridade, vem publicando uma série de reportagens para
+[p9c1] demonstrar que a população almeja ser consultada diretamente
+[p9c1] sobre os assuntos de relevância nacional, por meio de plebiscitos.
+[p9c1] Nesse cenário, considerando as disposições da Constituição
+[p9c1] Federal, é correto afirmar que convocar plebiscito é uma
+[p9c1] competência
+[p9c1] (A) comum entre o Congresso Nacional e o Poder Executivo.
+[p9c1] (B) privativa da Câmara dos Deputados.
+[p9c1] (C) exclusiva do Congresso Nacional.
+[p9c1] (D) privativa do Poder Executivo.
+[p9c1] (E) exclusiva do Senado Federal.
+[p9c1] 30
+[p9c1] Lucas, candidato ao cargo de Deputado Federal, defendeu,
+[p9c1] durante a sua campanha eleitoral, a necessidade de se proceder a
+[p9c1] mudanças no texto constitucional, com o objetivo de alterar a
+[p9c1] forma federativa de Estado, bem como o voto secreto.
+[p9c1] Nesse cenário, considerando as disposições da Constituição
+[p9c1] Federal, é correto afirmar que as bandeiras de Lucas
+[p9c1] (A) podem prosperar em parte, pois não há qualquer vedação na
+[p9c1] deliberação de proposta de emenda tendente a abolir a forma
+[p9c1] federativa de Estado. Contudo, não se admite qualquer
+[p9c1] discussão que busque alterar o caráter secreto do voto.
+[p9c1] (B) podem prosperar em parte, pois não há qualquer vedação na
+[p9c1] deliberação de proposta de emenda tendente a abolir o voto
+[p9c1] secreto. Contudo, não se admite qualquer discussão que
+[p9c1] busque alterar a forma federativa de Estado.
+[p9c1] (C) não podem prosperar, pois não será objeto de deliberação a
+[p9c1] proposta de emenda tendente a abolir a forma federativa de
+[p9c1] Estado ou o voto secreto, salvo se realizado referido
+[p9c1] constitucional em sentido contrário.
+[p9c1] (D) podem prosperar, pois não há qualquer vedação na
+[p9c1] deliberação de proposta de emenda tendente a abolir a forma
+[p9c1] federativa de Estado ou o voto secreto.
+[p9c1] (E) não podem prosperar, pois não será objeto de deliberação a
+[p9c1] proposta de emenda tendente a abolir a forma federativa de
+[p9c1] Estado ou o voto secreto.
+[p9c1] TIPO BRANCA – PÁGINA 9
+[p10c0] 31
+[p10c0] Após a observância do contraditório e da ampla defesa, Mário,
+[p10c0] brasileiro naturalizado, foi condenado, definitivamente, pela
+[p10c0] prática do crime de extorsão mediante sequestro, de natureza
+[p10c0] hedionda. Em seguida, as autoridades brasileiras competentes o
+[p10c0] extraditaram para um determinado país no exterior. Registre-se,
+[p10c0] por fim, que a conduta delitiva foi praticada por Mário após o
+[p10c0] encerramento do seu processo de naturalização.
+[p10c0] Nesse cenário, considerando as disposições da Constituição
+[p10c0] Federal, é correto afirmar que as autoridades brasileiras agiram
+[p10c0] (A) incorretamente, pois a Constituição Federal só admite a
+[p10c0] extradição do brasileiro naturalizado em caso de crime
+[p10c0] comum, praticado antes da naturalização ou de comprovado
+[p10c0] envolvimento em tráfico ilícito de entorpecentes e drogas
+[p10c0] afins, na forma da lei.
+[p10c0] (B) incorretamente, pois a Constituição Federal só admite a
+[p10c0] extradição do brasileiro naturalizado em caso de crime
+[p10c0] comum, praticado antes da naturalização ou de comprovado
+[p10c0] envolvimento em crimes hediondos, na forma da lei
+[p10c0] complementar.
+[p10c0] (C) acertadamente, pois a Constituição Federal admite a
+[p10c0] extradição de brasileiros naturalizados, em caso de
+[p10c0] condenação definitiva pela prática de crime hediondo.
+[p10c0] (D) acertadamente, pois a Constituição Federal admite a
+[p10c0] extradição de brasileiros, natos ou naturalizados, em caso de
+[p10c0] condenação definitiva pela prática de crime hediondo.
+[p10c0] (E) acertadamente, pois a Constituição Federal admite a
+[p10c0] extradição de brasileiros naturalizados.
+[p10c0] 32
+[p10c0] Jorge, interessado em ocupar um cargo público no âmbito do
+[p10c0] Poder Público, resolveu estudar as normas constitucionais que
+[p10c0] versam sobre a matéria, tomando conhecimento de que a
+[p10c0] Administração Pública direta e indireta de qualquer dos Poderes
+[p10c0] da União, dos Estados, do Distrito Federal e dos Municípios
+[p10c0] obedecerá aos princípios de legalidade, impessoalidade,
+[p10c0] moralidade, publicidade e eficiência.
+[p10c0] De acordo com a narrativa e considerando as disposições da
+[p10c0] Constituição Federal, analise as afirmativas a seguir:
+[p10c0] I. O servidor público titular de cargo efetivo poderá ser
+[p10c0] reintegrado para exercício de cargo cujas atribuições e
+[p10c0] responsabilidades sejam compatíveis com a limitação que
+[p10c0] tenha sofrido em sua capacidade física ou mental, enquanto
+[p10c0] permanecer nesta condição, desde que possua a habilitação e
+[p10c0] o nível de escolaridade exigidos para o cargo de destino,
+[p10c0] fazendo jus à remuneração deste.
+[p10c0] II. A autonomia gerencial, orçamentária e financeira dos órgãos e
+[p10c0] entidades da administração direta e indireta poderá ser
+[p10c0] ampliada mediante contrato, a ser firmado entre seus
+[p10c0] administradores e o poder público, que tenha por objeto a
+[p10c0] fixação de metas de desempenho para o órgão ou entidade.
+[p10c0] III. Os órgãos e entidades da administração pública, individual ou
+[p10c0] conjuntamente, poderão realizar, periodicamente, avaliação
+[p10c0] das políticas públicas, inclusive com divulgação do objeto a ser
+[p10c0] avaliado e dos resultados alcançados, na forma da lei
+[p10c0] complementar.
+[p10c0] Nesse cenário, considerando as disposições da Constituição
+[p10c0] Federal, é correto o que se afirma em
+[p10c0] (A) I, apenas.
+[p10c0] (B) II, apenas.
+[p10c0] (C) III, apenas.
+[p10c0] (D) I e III, apenas.
+[p10c0] (E) I, II e III,
+[p10c0] Analista Legislativo - Analista de Ciência de Dados – TARDE
+[p10c1] 33
+[p10c1] Após meses de negociações infrutíferas, surgiu complexo conflito
+[p10c1] entre o Estado Alfa e o Estado Beta, dando ensejo à propositura
+[p10c1] de uma demanda em juízo, para a resolução do litígio apresentado.
+[p10c1] Assim, considerando as disposições da Constituição Federal, é
+[p10c1] correto afirmar que caberá ao
+[p10c1] (A) Tribunal de Justiça do Estado Alfa ou ao Tribunal de Justiça do
+[p10c1] Estado Beta processar e julgar, em sede recursal, a demanda,
+[p10c1] por prevenção.
+[p10c1] (B) Tribunal de Justiça do Estado Alfa ou ao Tribunal de Justiça do
+[p10c1] Estado Beta processar e julgar, originariamente, a demanda,
+[p10c1] por prevenção.
+[p10c1] (C) Superior Tribunal de Justiça processar e julgar,
+[p10c1] originariamente, a demanda.
+[p10c1] (D) Superior Tribunal de Justiça processar e julgar, em sede
+[p10c1] recursal, a demanda.
+[p10c1] (E) Supremo Tribunal Federal processar e julgar, originariamente,
+[p10c1] a demanda.
+[p10c1] 34
+[p10c1] A sociedade empresária Alfa demonstrou interesse em prestar
+[p10c1] serviços de comunicação social no Brasil. Dessa forma, os
+[p10c1] dirigentes da referida entidade estudaram a matéria, constatando
+[p10c1] que compete ao Poder Executivo outorgar e renovar concessão,
+[p10c1] permissão e autorização para o serviço de radiodifusão sonora e
+[p10c1] de sons e imagens, observado o princípio da complementaridade
+[p10c1] dos sistemas privado, público e estatal.
+[p10c1] De acordo com a narrativa e considerando as disposições da
+[p10c1] Constituição Federal, analise as afirmativas a seguir:
+[p10c1] I. A não renovação da concessão ou permissão dependerá de
+[p10c1] aprovação de, no mínimo, três quintos do Congresso Nacional,
+[p10c1] em votação secreta.
+[p10c1] II. O cancelamento da concessão ou permissão, antes de vencido
+[p10c1] o prazo, depende de decisão judicial.
+[p10c1] III. O prazo da concessão ou permissão será de dez anos para as
+[p10c1] emissoras de rádio e de quinze para as de televisão.
+[p10c1] Nesse cenário, considerando as disposições da Constituição
+[p10c1] Federal, é correto o que se afirma em
+[p10c1] (A) I, apenas.
+[p10c1] (B) II, apenas.
+[p10c1] (C) III, apenas.
+[p10c1] (D) II e III, apenas.
+[p10c1] (E) I, II e III.
+[p10c1] TIPO BRANCA – PÁGINA 10
+[p11c0] Direito Administrativo
+[p11c0] 35
+[p11c0] Após o devido processo licitatório, a sociedade empresária Alfa
+[p11c0] celebrou contrato administrativo com o Estado Beta. Registre-se,
+[p11c0] contudo, que, durante a execução, o contrato foi extinto, por meio
+[p11c0] de um ato unilateral e escrito da Administração. Irresignada com a
+[p11c0] situação posta, a entidade privada contratada procurou o auxílio
+[p11c0] de especialistas na matéria, para entender os direitos que possui.
+[p11c0] Nesse cenário, considerando as disposições da Lei
+[p11c0] no 14.133/2021, é correto afirmar que, em face da extinção do
+[p11c0] contrato administrativo,
+[p11c0] (A) caberá recurso, no prazo de cinco dias, desde que a contratada
+[p11c0] demonstre que suportou grave prejuízo com a efetivação da
+[p11c0] medida.
+[p11c0] (B) não caberá recurso, já que a Administração Pública fez uso de
+[p11c0] uma cláusula exorbitante aplicável ao contrato administrativo.
+[p11c0] (C) não caberá recurso, à exceção do pedido de reconsideração,
+[p11c0] no prazo de três dias úteis.
+[p11c0] (D) não caberá recurso, por se tratar de um direito potestativo da
+[p11c0] Administração Pública.
+[p11c0] (E) caberá recurso, no prazo de três dias úteis.
+[p11c0] 36
+[p11c0] Com o objetivo de ser qualificada como organização social (OS) e,
+[p11c0] por consequência, estar apta a celebrar contratos de gestão com
+[p11c0] o Poder Público, a associação privada Alfa passou a adotar todas
+[p11c0] as providências legais cabíveis, alterando, na forma da lei, o seu
+[p11c0] ato constitutivo.
+[p11c0] Nesse cenário, considerando as disposições da Lei no 9.637/1998,
+[p11c0] para que a entidade privada Alfa seja qualificada como
+[p11c0] organização social, o seu ato constitutivo deverá dispor sobre a
+[p11c0] (A) proibição de distribuição de bens ou de parcela do patrimônio
+[p11c0] líquido em qualquer hipótese, inclusive em razão de
+[p11c0] desligamento, retirada ou falecimento de associado ou
+[p11c0] membro da entidade.
+[p11c0] (B) possibilidade de investimento de seus excedentes financeiros
+[p11c0] no desenvolvimento das suas atividades ou de distribuição dos
+[p11c0] excedentes em benefício dos associados, de forma
+[p11c0] fundamentada.
+[p11c0] (C) previsão expressa de a entidade ter, além de um órgão
+[p11c0] colegiado de deliberação superior, um conselho fiscal,
+[p11c0] composto por cinco membros.
+[p11c0] (D) obrigatoriedade de publicação semestral, no Diário Oficial da
+[p11c0] União, dos relatórios financeiros e do relatório de execução do
+[p11c0] contrato de gestão.
+[p11c0] (E) vedação à participação, no órgão colegiado de deliberação
+[p11c0] superior, de representantes do Poder Público.
+[p11c0] Analista Legislativo - Analista de Ciência de Dados – TARDE
+[p11c1] 37
+[p11c1] Henrique, servidor público no Estado Alfa, de forma dolosa,
+[p11c1] concedeu benefício fiscal à sociedade empresária Beta, sem a
+[p11c1] observância das formalidades legais aplicáveis à espécie, causando
+[p11c1] prejuízo ao ente público. Os fatos foram comunicados ao
+[p11c1] Ministério Público, que estudou a possibilidade de requerer, em
+[p11c1] juízo, a indisponibilidade dos bens do referido agente público.
+[p11c1] Nesse cenário, considerando as disposições da Lei no 8.429/1992,
+[p11c1] é correto afirmar que o valor da indisponibilidade considerará
+[p11c1] (A) a estimativa de dano e o valor da multa, indicados na petição
+[p11c1] inicial, permitida a sua substituição por caução idônea, por
+[p11c1] fiança bancária ou por seguro-garantia judicial, a
+[p11c1] requerimento do juiz.
+[p11c1] (B) a estimativa de dano indicada pelo ente público lesado,
+[p11c1] permitida a sua substituição por caução idônea, por fiança
+[p11c1] bancária ou por seguro-garantia judicial, a requerimento do
+[p11c1] juiz.
+[p11c1] (C) a estimativa de dano indicada na petição inicial, permitida a
+[p11c1] sua substituição por caução idônea, por fiança bancária ou por
+[p11c1] seguro-garantia judicial, a requerimento do réu.
+[p11c1] (D) o valor da multa indicado pelo ente público lesado, permitida
+[p11c1] a sua substituição por caução idônea, por fiança bancária ou
+[p11c1] por seguro-garantia judicial, a requerimento do réu.
+[p11c1] (E) o valor da multa indicado na petição inicial, permitida a sua
+[p11c1] substituição por caução idônea, por fiança bancária ou por
+[p11c1] seguro-garantia judicial, a requerimento do juiz.
+[p11c1] 38
+[p11c1] João ingressou com processo administrativo junto à Administração
+[p11c1] Pública do Estado de Goiás. Após a observância das formalidades
+[p11c1] legais, foi proferida decisão contrária aos interesses do
+[p11c1] administrativo. Irresignado, João recorreu da decisão, mas acabou
+[p11c1] por interpor o recurso perante autoridade incompetente na esfera
+[p11c1] administrativa.
+[p11c1] Nesse cenário, considerando as disposições da Lei Estadual
+[p11c1] no 13.800/2001, é correto afirmar que o recurso interposto por
+[p11c1] João
+[p11c1] (A) não será conhecido, mas indicar-se-á ao recorrente a
+[p11c1] autoridade competente para futuras impugnações, vedada a
+[p11c1] devolução do prazo para recurso.
+[p11c1] (B) não será conhecido, mas indicar-se-á ao recorrente a
+[p11c1] autoridade competente, sendo-lhe devolvido o prazo para
+[p11c1] recurso.
+[p11c1] (C) será conhecido e, no mérito, julgado improcedente, em razão
+[p11c1] da oposição perante autoridade incompetente.
+[p11c1] (D) será conhecido e, no mérito, julgado prejudicado, em razão da
+[p11c1] oposição perante autoridade incompetente.
+[p11c1] (E) não será conhecido, vedada a devolução do prazo para
+[p11c1] recurso.
+[p11c1] TIPO BRANCA – PÁGINA 11
+[p12c0] 39
+[p12c0] O Prefeito do Município Alfa, no âmbito do Estado Beta, solicitou
+[p12c0] à sua equipe jurídica a confecção de parecer dos contornos da
+[p12c0] legislação que versa sobre o regime de concessão e permissão da
+[p12c0] prestação de serviços públicos.
+[p12c0] Nesse cenário, considerando as disposições da Lei no 8.987/1995,
+[p12c0] é correto afirmar que o Município Alfa poderá atuar como poder
+[p12c0] concedente, celebrando contratos administrativos de
+[p12c0] (A) concessão de serviços públicos que se encontrem no seu
+[p12c0] espectro de competências. Contudo, as permissões de serviços
+[p12c0] públicos só podem ser pactuadas com a União ou com os
+[p12c0] Estados.
+[p12c0] (B) concessão de serviços públicos que se encontrem no seu
+[p12c0] espectro de competências. Contudo, as permissões de serviços
+[p12c0] públicos só podem ser pactuadas com os Estados.
+[p12c0] (C) concessão ou de permissão de serviços públicos que se
+[p12c0] encontrem no seu espectro de competências, desde que haja
+[p12c0] a concordância do Estado Beta.
+[p12c0] (D) concessão ou de permissão de serviços públicos que se
+[p12c0] encontrem no seu espectro de competências, desde que haja
+[p12c0] a concordância da União.
+[p12c0] (E) concessão ou de permissão de serviços públicos que se
+[p12c0] encontrem no seu espectro de competências.
+[p12c0] 40
+[p12c0] Lucas, Prefeito do Município Charlie, pretende, por meio da
+[p12c0] descentralização administrativa, criar pessoas jurídicas que
+[p12c0] integrarão a Administração Indireta do referido ente federativo.
+[p12c0] Busca-se, em síntese, a instituição de uma autarquia, de uma
+[p12c0] empresa pública, de uma sociedade de economia mista e de uma
+[p12c0] fundação.
+[p12c0] Nesse cenário, considerando as disposições da Constituição
+[p12c0] Federal, é correto afirmar que
+[p12c0] (A) exige-se lei específica para autorizar a criação da autarquia, da
+[p12c0] empresa pública e da sociedade de economia mista. A
+[p12c0] fundação, por outro lado, pode ser criada por meio de decreto
+[p12c0] do Chefe do Poder Executivo.
+[p12c0] (B) a autarquia deve ser criada por meio de uma lei específica. Por
+[p12c0] sua vez, exige-se lei específica para autorizar a criação da
+[p12c0] empresa pública, da sociedade de economia mista e da
+[p12c0] fundação.
+[p12c0] (C) a empresa pública e a sociedade de economia mista devem ser
+[p12c0] criadas por meio de uma lei específica. Por sua vez, exige-se lei
+[p12c0] específica para autorizar a criação da autarquia e da fundação.
+[p12c0] (D) a autarquia, a empresa pública, a sociedade de economia
+[p12c0] mista e a fundação devem ser criadas por meio de leis
+[p12c0] específicas.
+[p12c0] (E) exige-se lei específica para autorizar a criação da autarquia, da
+[p12c0] empresa pública, da sociedade de economia mista e da
+[p12c0] fundação.
+[p12c0] Analista Legislativo - Analista de Ciência de Dados – TARDE
+[p12c1] Analista de Ciência de Dados
+[p12c1] 41
+[p12c1] Ciência de Dados (CD) utiliza conjuntos de dados para tentar
+[p12c1] entender e resolver problemas do mundo real. Com relação aos
+[p12c1] fundamentos essenciais da CD, analise as afirmativas a seguir.
+[p12c1] I. Os dados figuram como o elemento central. O objetivo é
+[p12c1] extrair desses toda informação possível para que se possam
+[p12c1] tomar decisões e antecipar resultados de maneira precisa.
+[p12c1] II. Não é campo de conhecimento alheio às outras ciências. Ao
+[p12c1] contrário, que se trata de uma combinação de instrumentos
+[p12c1] fornecidos por diversos campos do saber, com destaque para
+[p12c1] a Estatística e a Ciência da Computação.
+[p12c1] III. CD lida exclusivamente com a análise de dados estruturados,
+[p12c1] como planilhas e bancos de dados SQL, focando apenas em
+[p12c1] visualizações básicas e relatórios descritivos.
+[p12c1] Está correto o que se afirma em
+[p12c1] (A) I, II, III.
+[p12c1] (B) II e III, apenas.
+[p12c1] (C) I e II, apenas.
+[p12c1] (D) III, apenas.
+[p12c1] (E) II, apenas.
+[p12c1] 42
+[p12c1] A importância da qualidade dos dados é um dos fundamentos da
+[p12c1] Ciência da Dados, é essencial nos projetos desenvolvidos na
+[p12c1] ALEGO. Tais características são bem delineadas e classificadas na
+[p12c1] literatura e, em essência, servem de indicadores para avaliar quais
+[p12c1] conjuntos de dados são importantes ou não para um determinado
+[p12c1] estudo.
+[p12c1] A classificação das características básicas da qualidade de dados
+[p12c1] são, respectivamente,
+[p12c1] (A) intrínseca, contextual, representacional e acessibilidade,
+[p12c1] apenas.
+[p12c1] (B) encontrável, acessível, interpolável e reusável, apenas.
+[p12c1] (C) contextualização, completude e acurácia, apenas.
+[p12c1] (D) consistência, singularidade e relevância, apenas.
+[p12c1] (E) completude, acurácia e acessibilidade, apenas.
+[p12c1] TIPO BRANCA – PÁGINA 12
+[p13c0] 43
+[p13c0] Os analistas de Ciência de Dados da ALEGO reconhecem que a
+[p13c0] abordagem tradicional de análise de dados envolve um ciclo
+[p13c0] composto por diversas etapas e uma vez que tenham definidos
+[p13c0] seus modelos preditivos, eles podem ser aplicados a novos
+[p13c0] conjuntos de dados. A figura criada pelos analistas representa um
+[p13c0] ciclo de análise preditiva e score de dados. Analise a figura e
+[p13c0] relacione a numeração indicada nas etapas com as suas
+[p13c0] respectivas operações.
+[p13c0] A relação correta, na ordem dada, é:
+[p13c0] (A) 1 = Operações de Integração de Dados,
+[p13c0] 2 = Operações de Extração de Dados,
+[p13c0] 3 = Operações de Preparação de Dados,
+[p13c0] 4 = Operações de Construção de Modelos e Score.
+[p13c0] (B) 1 = Operações de Preparação de Dados,
+[p13c0] 2 = Operações de Extração de Dados,
+[p13c0] 3 = Operações de Construção de Modelos e Score,
+[p13c0] 4 = Operações de Integração de Dados.
+[p13c0] (C) 1 = Operações de Construção de Modelos e Score,
+[p13c0] 2 = Operações de Preparação de Dados,
+[p13c0] 3 = Operações de Integração de Dados,
+[p13c0] 4 = Operações de Extração de Dados.
+[p13c0] (D) 1 = Operações de Extração de Dados,
+[p13c0] 2 = Operações de Integração de Dados,
+[p13c0] 3 = Operações de Construção de Modelos e Score,
+[p13c0] 4 = Operações de Preparação de Dados.
+[p13c0] (E) 1 = Operações de Extração de Dados,
+[p13c0] 2 = Operações de Integração de Dados,
+[p13c0] 3 = Operações de Preparação de Dados,
+[p13c0] 4 = Operações de Construção de Modelos e Score.
+[p13c0] 44
+[p13c0] O aprendizado não supervisionado utiliza algoritmos de
+[p13c0] aprendizado de máquina para analisar e agrupar conjuntos de
+[p13c0] dados sem rótulos. Esses algoritmos descobrem padrões ocultos,
+[p13c0] fazem associações ou agrupamentos de dados sem a necessidade
+[p13c0] de intervenção humana.
+[p13c0] Selecione a alternativa que apresenta um algoritmo de regras de
+[p13c0] associação.
+[p13c0] (A) Apriori.
+[p13c0] (B) Aposteriori.
+[p13c0] (C) Ligação de Ward.
+[p13c0] (D) Modelo de mistura gaussiana.
+[p13c0] (E) Análise de componentes principais.
+[p13c0] Analista Legislativo - Analista de Ciência de Dados – TARDE
+[p13c1] 45
+[p13c1] Rafaela é uma estagiária do setor de TI da ALEGO, ela está
+[p13c1] elaborando um DER em papel. O diagrama será apresentado em
+[p13c1] uma reunião para os analistas da ALEGO. A estagiária sabe que
+[p13c1] modelagem relacional é amplamente usada na instituição, mas
+[p13c1] está na dúvida sobre os elementos gráficos do DER.
+[p13c1] Segundo a notação de Peter Chen, o elemento gráfico que Rafaela
+[p13c1] deverá utilizar para indicar um relacionamento é o
+[p13c1] (A) envelope fechado.
+[p13c1] (B) círculo preenchido.
+[p13c1] (C) retângulo.
+[p13c1] (D) triângulo.
+[p13c1] (E) losango.
+[p13c1] 46
+[p13c1] Com relação ao conceito de cardinalidades dos relacionamentos
+[p13c1] em um diagrama ER do modelo relacional, avalie se as afirmativas
+[p13c1] a seguir são verdadeiras (V) ou falsas (F).
+[p13c1] ( ) A cardinalidade mínima 0 também recebe a denominação de
+[p13c1] “associação obrigatória”, já que ela indica que o
+[p13c1] relacionamento deve obrigatoriamente associar uma
+[p13c1] ocorrência de entidade a cada ocorrência da entidade em
+[p13c1] questão.
+[p13c1] ( ) A cardinalidade mínima -1 recebe a denominação de
+[p13c1] “associação opcional”, já que ela indica que o relacionamento
+[p13c1] deve opcionalmente se associar uma ocorrência de entidade a
+[p13c1] cada ocorrência da entidade em questão.
+[p13c1] ( ) A cardinalidade máxima 0 recebe a denominação de
+[p13c1] “associação semântica”, já que ela indica que o
+[p13c1] relacionamento deve necessariamente ter várias ocorrências
+[p13c1] de entidade a cada ocorrência da entidade em questão.
+[p13c1] As afirmativas são, respectivamente,
+[p13c1] (A) V – V – V.
+[p13c1] (B) F – V – V.
+[p13c1] (C) F – F – F.
+[p13c1] (D) F – F – V.
+[p13c1] (E) V – V – F.
+[p13c1] 47
+[p13c1] Os analistas da ALEGO fazem uso corriqueiro de modelagem
+[p13c1] multidimensional em seus projetos. Esse paradigma de
+[p13c1] modelagem permite que eles modelem diversos tipos de
+[p13c1] problemas.
+[p13c1] O tipo de dimensão que permite armazenar os flags e indicadores
+[p13c1] ou coleções de dados transacionais aleatórios que não estão
+[p13c1] relacionados a nenhuma outra dimensão específica se
+[p13c1] denominada
+[p13c1] (A) Role Playing.
+[p13c1] (B) Degenerada.
+[p13c1] (C) Conformed
+[p13c1] (D) Gigante.
+[p13c1] (E) Junk.
+[p13c1] TIPO BRANCA – PÁGINA 13
+[p14c0] 48
+[p14c0] O aprendizado de máquina (ML) é um tema muito abrangente e
+[p14c0] que possui diversas aplicações nos diversos setores da ALEGO.
+[p14c0] Existem diferentes técnicas que são utilizadas dependendo do tipo
+[p14c0] de problema a ser solucionado. Elas foram agrupadas em métodos
+[p14c0] de ML com seus modelos de programação.
+[p14c0] O tipo de aprendizado que faz com que o modelo tome decisões
+[p14c0] por si próprio, e é recompensado de acordo com o progresso que
+[p14c0] faz na atividade em que foi designado se denomina
+[p14c0] (A) aprendizado não subvencionado.
+[p14c0] (B) aprendizado supervisionado.
+[p14c0] (C) aprendizado por reforço.
+[p14c0] (D) aprendizado autônomo.
+[p14c0] (E) aprendizado dedutivo.
+[p14c0] 49
+[p14c0] As máquinas de vetores de suporte (SVM) são um conjunto de
+[p14c0] métodos de aprendizado usados para tratar problemas de
+[p14c0] classificação, regressão e detecção de outliers. Considerando as
+[p14c0] vantagens e desvantagens do uso do SVM no python 3.0 através
+[p14c0] da biblioteca scikit learn (versão 1.7.2), avalie se as afirmativas a
+[p14c0] seguir são verdadeiras (V) ou falsas (F).
+[p14c0] ( ) Como vantagem, as SVM são eficazes em espaços de alta
+[p14c0] dimensionalidade e eficaz nos casos em que o número de
+[p14c0] dimensões é maior que o número de amostras.
+[p14c0] ( ) Como desvantagem, as SVM utilizam um subconjunto de
+[p14c0] pontos de treinamento na função de decisão, sendo, portanto,
+[p14c0] sendo pouco eficiente em termos de uso de memória.
+[p14c0] ( ) Como desvantagem, se o número de características for muito
+[p14c0] maior que o número de amostras, evitar o sobreajuste na
+[p14c0] escolha das funções Kernel e do termo de regularização é
+[p14c0] crucial.
+[p14c0] ( ) Como vantagem, as SVMs fornecem estimativas de
+[p14c0] probabilidade diretamente; estas são calculadas usando uma
+[p14c0] validação cruzada de muitas partes que é um processo
+[p14c0] dispendioso.
+[p14c0] As afirmativas são, respectivamente,
+[p14c0] (A) V – V – V – F.
+[p14c0] (B) V – F – V – F.
+[p14c0] (C) V – V – F – V.
+[p14c0] (D) F – V – F – V.
+[p14c0] (E) F – V – F – F.
+[p14c0] Analista Legislativo - Analista de Ciência de Dados – TARDE
+[p14c1] 50
+[p14c1] Martinha, uma analista da ALEGO, desenvolveu o programa
+[p14c1] Python (versão 3) que utiliza as bibliotecas numpy (2.0.2) e scikit-
+[p14c1] learn (versão 1.6.1) para realizar análise discriminante linear.
+[p14c1] Analise o programa a seguir.
+[p14c1] import numpy as np
+[p14c1] from sklearn.discriminant_analysis import
+[p14c1] LinearDiscriminantAnalysis
+[p14c1] X = np.array([[-1, -1], [-2, -1], [-3, -2],
+[p14c1] [1, 1], [2, 1], [3, 2], [1, 2]])
+[p14c1] y = np.array([1, 1, 1, 2, 2, 2, 2])
+[p14c1] clf = LinearDiscriminantAnalysis()
+[p14c1] clf.fit(X, y)
+[p14c1] print(clf.predict([[-0.8, -2]]))
+[p14c1] O resultado impresso é igual a
+[p14c1] (A) [0].
+[p14c1] (B) [1].
+[p14c1] (C) [2].
+[p14c1] (D) [3]
+[p14c1] (E) [-1].
+[p14c1] 51
+[p14c1] A biblioteca scikit-learn (versão 1.7.2) do Python (versão 3) oferece
+[p14c1] uma classe que implementa a regressão logística. Seleciona a
+[p14c1] alternativa que apresenta a sintaxe correta dessa classe.
+[p14c1] (A) class sklearn.linear_model.MaxEnt(penalty='l2', *, dual=False,
+[p14c1] tol=0.0001, C=1.0, fit_intercept=True, intercept_scaling=1,
+[p14c1] class_weight=None, random_state=None, solver='lbfgs',
+[p14c1] max_iter=100, multi_class='deprecated', verbose=0,
+[p14c1] warm_start=False, n_jobs=None, l1_ratio=None)
+[p14c1] (B) class sklearn.linear_model.Logit(penalty='l2', *, dual=False,
+[p14c1] tol=0.0001, C=1.0, fit_intercept=True, intercept_scaling=1,
+[p14c1] class_weight=None, random_state=None, solver='lbfgs',
+[p14c1] max_iter=100, multi_class='deprecated', verbose=0,
+[p14c1] warm_start=True, l1_ratio=None).
+[p14c1] (C) class sklearn.linear_model.LogitRegression(penalty='l1', *,
+[p14c1] dual=False, tol=0.1, C=1.0, fit_intercept=True,
+[p14c1] intercept_scaling=10, class_weight=None, regression_step=
+[p14c1] '1', random_state=None, solver='lbfgs', min_iter=1000,
+[p14c1] warm_start=True, n_jobs=None, l1_ratio=None).
+[p14c1] (D) class sklearn.linear_model.Sigmoid(penalty='l1', *,
+[p14c1] dual=False, tol=0.000001, C=1.0, fit_intercept=True,
+[p14c1] intercept_scaling=10, class_weight=None,
+[p14c1] random_state=None, solver='lbfgs', min_iter=1000,
+[p14c1] multi_class='deprecated', verbose=1, warm_start=True,
+[p14c1] n_jobs=None, l1_ratio=None).
+[p14c1] (E) class sklearn.linear_model.LogisticRegression(penalty='l2', *,
+[p14c1] dual=False, tol=0.0001, C=1.0, fit_intercept=True,
+[p14c1] intercept_scaling=1, class_weight=None,
+[p14c1] random_state=None, solver='lbfgs', max_iter=100,
+[p14c1] multi_class='deprecated', verbose=0, warm_start=False,
+[p14c1] n_jobs=None, l1_ratio=None).
+[p14c1] TIPO BRANCA – PÁGINA 14
+[p15c0] 52
+[p15c0] A regressão logística é um modelo muito popular na ciência de
+[p15c0] dados, ele é muito utilizado em diversos projetos da ALEGO. Com
+[p15c0] relação às características da regressão logística, analise as
+[p15c0] afirmativas a seguir.
+[p15c0] I. É um modelo de regressão linear e dentro do contexto do
+[p15c0] aprendizado de máquina, a regressão logística pertence à
+[p15c0] família de modelos de aprendizado de máquina
+[p15c0] supervisionado.
+[p15c0] II. Representa dois grupos de interesse como uma variável
+[p15c0] binária com valores 0 e 1, não importando qual o grupo é
+[p15c0] designado com os valores o versus 1, mas a designação de
+[p15c0] como dever ser observada interpretação dos coeficientes.
+[p15c0] III. A função logística é representada pelas seguintes fórmulas:
+[p15c0] a) Logit(pi) = 1/(1+ ln(-pi))
+[p15c0] b) exp(pi/(1-pi)) = β_0 + β _1*X_1 + … + β _k*K_k.
+[p15c0] onde:
+[p15c0] logit(pi) é a variável dependente ou de resposta, e x é a
+[p15c0] variável independente.
+[p15c0] Está correto o que se afirma em
+[p15c0] (A) II e III, apenas.
+[p15c0] (B) I e III, apenas.
+[p15c0] (C) I e II, apenas.
+[p15c0] (D) II, apenas.
+[p15c0] (E) I, apenas.
+[p15c0] 53
+[p15c0] Janaina, uma analista da ALEGO, desenvolveu o programa Python
+[p15c0] (versão 3) que utiliza as bibliotecas numpy (2.0.2) e scikit-learn
+[p15c0] (versão 1.6.1) para realizar uma análise de agrupamentos. Analise
+[p15c0] o código a seguir.
+[p15c0] from sklearn.cluster import KMeans
+[p15c0] import numpy as np
+[p15c0] X = np.array([[1, 2], [1, 4], [1, 0],
+[p15c0] [10, 2], [10, 4], [10, 0]])
+[p15c0] kmeans = KMeans(n_clusters=2, random_state=0,
+[p15c0] n_init="auto").fit(X)
+[p15c0] kmeans.labels_
+[p15c0] kmeans.predict([[1, 1], [14, 4]])
+[p15c0] kmeans.cluster_centers_
+[p15c0] O resultado impresso é igual a
+[p15c0] (A) array([[1., 2.],
+[p15c0] [ 10., 2.]])
+[p15c0] (B) array([[1., 4.],
+[p15c0] [ 10., 4.]])
+[p15c0] (C) array([[1., 3.],
+[p15c0] [ 9., 4.]])
+[p15c0] (D) array([[10., 4.],
+[p15c0] [ 1., 4.]])
+[p15c0] (E) array([[10., 2.],
+[p15c0] [ 1., 2.]])
+[p15c0] Analista Legislativo - Analista de Ciência de Dados – TARDE
+[p15c1] 54
+[p15c1] O algoritmo k-Nearest Neighbors (KNN) baseia-se
+[p15c1] fundamentalmente em calcular a distância entre o novo ponto e
+[p15c1] todos os pontos de dados do conjunto de treinamento. As medidas
+[p15c1] de distância do KNN definem quão “próximos” ou “semelhantes”
+[p15c1] dois pontos são no espaço de recursos. Analise a fórmula da
+[p15c1] distância de Minkowski
+[p15c1] Com relação a derivação da fórmula da distância de Minkowski,
+[p15c1] analise as afirmativas a seguir.
+[p15c1] I. Se P = 2, a fórmula calculará a distância Euclidiana.
+[p15c1] II. Se P = 1, a fórmula calculará a distância de Manhattan.
+[p15c1] III. Se P = 0, a fórmula calculará a distância Hamming.
+[p15c1] Está correto o que se afirma em
+[p15c1] (A) II e III, apenas.
+[p15c1] (B) I e III, apenas.
+[p15c1] (C) I e II, apenas.
+[p15c1] (D) II, apenas.
+[p15c1] (E) I, apenas.
+[p15c1] 55
+[p15c1] Árvores de decisão (AD) são classificadores muito utilizados em
+[p15c1] Ciência de Dados. Com relação as características da AD, analise as
+[p15c1] afirmativas a seguir.
+[p15c1] I. É a representação de uma função que mapeia um vetor de
+[p15c1] valores de atributos para um único valor de saída.
+[p15c1] II. Uma árvore de decisão chega à sua decisão realizando uma
+[p15c1] sequência de testes, começando por uma de suas raízes e
+[p15c1] seguindo o ramo apropriado até que uma folha seja alcançada.
+[p15c1] III. Cada nó interno na árvore corresponde a um teste do valor de
+[p15c1] um dos atributos de entrada, os ramos a partir do nó são
+[p15c1] rotulados com os possíveis valores do atributo, e os nós folha
+[p15c1] especificam qual valor deve ser retornado pela função.
+[p15c1] Está correto o que se afirma em
+[p15c1] (A) I e III, apenas.
+[p15c1] (B) I e II, apenas.
+[p15c1] (C) III, apenas.
+[p15c1] (D) II, apenas.
+[p15c1] (E) I, apenas.
+[p15c1] TIPO BRANCA – PÁGINA 15
+[p16c0] 56
+[p16c0] O perceptron é um dos modelos de redes neurais artificiais mais
+[p16c0] simples e tradicionais. A figura a seguir ilustra o grafo arquitetural
+[p16c0] de um perceptron. Analise-a.
+[p16c0] Com relação as características do grafo, analise as afirmativas a
+[p16c0] seguir.
+[p16c0] I. A rede possui várias camadas, sendo quatro camadas ocultas
+[p16c0] e três camadas de saída de dados.
+[p16c0] II. A rede é do tipo totalmente conectada, isso significa que cada
+[p16c0] neurônio em qualquer camada está conectado a todos os
+[p16c0] outros neurônios da camada anterior.
+[p16c0] III. O fluxo de sinais é unidirecional e progride na rede da
+[p16c0] esquerda para a direita e de camada em camada.
+[p16c0] Está correto o que se afirma em
+[p16c0] (A) I, apenas.
+[p16c0] (B) II, apenas.
+[p16c0] (C) III, apenas.
+[p16c0] (D) I e II, apenas.
+[p16c0] (E) II e III, apenas.
+[p16c0] 57
+[p16c0] Matheus foi empossado recentemente pela ALEGO como analista
+[p16c0] e está se aprofundando nos estudos das redes neurais (RN). Ele
+[p16c0] sabe que as RN podem ter diversas formas de aprendizagem não
+[p16c0] supervisionada.
+[p16c0] O tipo de aprendizado onde os neurônios de saída da rede
+[p16c0] disputam entre si para se tornarem ativos e somente um neurônio
+[p16c0] de saída é ativado em determinado instante se denomina:
+[p16c0] (A) Hebbiano.
+[p16c0] (B) Boltzmann.
+[p16c0] (C) Competitivo.
+[p16c0] (D) Correção de Erros.
+[p16c0] (E) Baseada em Memória.
+[p16c0] Analista Legislativo - Analista de Ciência de Dados – TARDE
+[p16c1] 58
+[p16c1] Uma matriz de confusão resume o desempenho da classificação
+[p16c1] realizada por um classificador em relação a alguns dados de
+[p16c1] teste. Um caso especial da matriz de confusão é
+[p16c1] frequentemente utilizado com apenas duas classes, uma
+[p16c1] designada como classe positiva e a outra classe negativa. Nesse
+[p16c1] contexto, as quatro células da matriz são designadas como
+[p16c1] verdadeiros positivos (VP), falsos positivos (FP), verdadeiros
+[p16c1] negativos (VN) e falsos negativos (FN), conforme indicado na
+[p16c1] tabela a seguir
+[p16c1] Classe atribuída
+[p16c1] Positivo Negativo
+[p16c1] Classe atual Positivo VP FN
+[p16c1] Negativo FP VN
+[p16c1] Com relação ao cálculo das medidas de desempenho, analise as
+[p16c1] afirmativas a seguir.
+[p16c1] I. A medida da especificidade (também conhecido por Taxa de
+[p16c1] verdadeiros negativos) pode ser alcançada através da
+[p16c1] fórmula: Especificidade = VN / (VN + FP).
+[p16c1] II. A medida da sensibilidade (também conhecido por Taxa de
+[p16c1] verdadeiros positivos ou Recall) pode ser alcançada através
+[p16c1] da fórmula: Recall = VP / (VP + FN).
+[p16c1] III. O valor preditivo positivo (também conhecido como
+[p16c1] Precisão) pode ser alcançada através da fórmula: Precisão =
+[p16c1] VN / (VN + FN)
+[p16c1] IV. Por fim, O valor preditivo negativo (VPN) pode ser alcançada
+[p16c1] através da fórmula: VPN = VP / (VP + FP).
+[p16c1] Está correto o que se afirma em
+[p16c1] (A) III e IV, apenas.
+[p16c1] (B) II e IV, apenas.
+[p16c1] (C) II e III, apenas.
+[p16c1] (D) I e III, apenas.
+[p16c1] (E) I e II, apenas.
+[p16c1] TIPO BRANCA – PÁGINA 16
+[p17c0] 59
+[p17c0] Um analista precisa calcular o tempo, em número de dias, de
+[p17c0] duração dos cursos que os servidores da ALEGO participaram
+[p17c0] recentemente. Ele fez um programa em Python (versão 3) e
+[p17c0] embutiu no código dados sobre as matrículas do servidor e as
+[p17c0] datas de início de conclusão de curso. Analise o código a seguir.
+[p17c0] import pandas as x
+[p17c0] dados_ficticios = {
+[p17c0] 'id_matricula': [1004, 1005],
+[p17c0] 'data_inicio': ['2023-08-25', '2021-02-01'],
+[p17c0] 'data_conclusao': ['2024-01-15', '2024-01-15']
+[p17c0] }
+[p17c0] dados = x.DataFrame(dados_ficticios)
+[p17c0] dados['data_inicio'] =
+[p17c0] x.to_datetime(dados['data_inicio'], format='%Y-%m-
+[p17c0] %d')
+[p17c0] dados['data_conclusao'] =
+[p17c0] x.to_datetime(dados['data_conclusao'], format='%Y-
+[p17c0] %m-%d')
+[p17c0] dados['duracao_curso'] = (dados['data_conclusao']
+[p17c0] - dados['data_inicio']).dt.days
+[p17c0] print(dados)
+[p17c0] A estrutura utilizada na variável dados_ficticios para
+[p17c0] armazenar os dados que são tratados pelo programa é conhecido
+[p17c0] como
+[p17c0] (A) dicionário.
+[p17c0] (B) conjunto.
+[p17c0] (C) arquivo.
+[p17c0] (D) tensor.
+[p17c0] (E) array.
+[p17c0] 60
+[p17c0] A linguagem Python oferece um amplo conjunto de bibliotecas
+[p17c0] para visualização de dados, permitindo que os analistas da ALEGO
+[p17c0] usem-nas em projetos de ciência de dados e transformem dados
+[p17c0] em representações gráficas. Diversas bibliotecas atendem a
+[p17c0] diferentes necessidades de visualização, desde gráficos estáticos
+[p17c0] básicos até painéis interativos sofisticados.
+[p17c0] Assinale a alternativa que não corresponde a uma biblioteca para
+[p17c0] visualização de dados.
+[p17c0] (A) vega-altair.
+[p17c0] (B) seaborn.
+[p17c0] (C) pygtk.
+[p17c0] (D) bokeh.
+[p17c0] (E) ploty.
+[p17c0] Analista Legislativo - Analista de Ciência de Dados – TARDE
+[p17c1] 61
+[p17c1] A biblioteca Maptplotlib (versão 3.10) do Python permite que os
+[p17c1] cientistas de dados elaborem sofisticadas visualizações de análise
+[p17c1] de dados.
+[p17c1] Selecione a visualização gráfica do tipo Boxplot.
+[p17c1] (A)
+[p17c1] (B)
+[p17c1] (C)
+[p17c1] (D)
+[p17c1] (E)
+[p17c1] TIPO BRANCA – PÁGINA 17
+[p18c0] 62
+[p18c0] As plataformas de Business Intelligence (BI) possuem diversos
+[p18c0] tipos de elementos. Um desse elementos são os Data Warehouse
+[p18c0] (DW), eles são considerados um dos principais dessa plataformas.
+[p18c0] Com relação às propriedades dos DW, analise as afirmativas a
+[p18c0] seguir.
+[p18c0] I. Sofrem muitas operações de atualização de dados e tem alta
+[p18c0] normalização de dados.
+[p18c0] II. São orientados por assunto e tem baixa volatidades dos dados.
+[p18c0] III. Apresentam alta agregação de dados e baixa suporte a dados
+[p18c0] não relacionais.
+[p18c0] Está correto o que se afirma em
+[p18c0] (A) I, II e III.
+[p18c0] (B) I, apenas.
+[p18c0] (C) II, apenas.
+[p18c0] (D) III, apenas.
+[p18c0] (E) II e III, apenas.
+[p18c0] 63
+[p18c0] O Oracle BI Enterprise Edition (OBIEE) é uma suíte de soluções de
+[p18c0] Business Intelligence desenvolvida pela Oracle. Os principais
+[p18c0] componentes do OBIEE versão 11g são respectivamente
+[p18c0] (A) Oracle BI Server e Oracle Essbase.
+[p18c0] (B) Oracle BI OLAP Server e Essbase Analytics Link.
+[p18c0] (C) Oracle BI Analytics Server e Oracle BI Subscriber.
+[p18c0] (D) Oracle BI OLAP Server e Oracle Reporting Server.
+[p18c0] (E) Oracle BI Analytics Server e Oracle Scorecard and Strategy
+[p18c0] Management.
+[p18c0] 64
+[p18c0] Maria e Josefa precisam fazer uma apresentação sobre o Oracle BI
+[p18c0] Enterprise Edition versão 11g (OBIEE) para os seus os cientistas de
+[p18c0] dados da ALEGO. Elas sabem que o OBIEE fornece a gama de
+[p18c0] recursos analíticos para inteligência de negócios. Selecione a
+[p18c0] alternativa que não indica um recurso oferecido pelo OBIEE.
+[p18c0] (A) análises ad-hoc.
+[p18c0] (B) painéis interativos.
+[p18c0] (C) análises preditivas.
+[p18c0] (D) relatórios corporativos.
+[p18c0] (E) grafos de conhecimento.
+[p18c0] 65
+[p18c0] O QlikView é uma plataforma de inteligência de negócios
+[p18c0] tradicional, sua arquitetura possui vários componentes.
+[p18c0] O componente usado como serviço de distribuição para distribuir
+[p18c0] os documentos com extensão .qvw entre vários servidores e
+[p18c0] usuários da plataforma se denomina
+[p18c0] (A) QlikView Server.
+[p18c0] (B) QlikView Publisher.
+[p18c0] (C) QlikView Desktop.
+[p18c0] (D) QlikView Enterprise.
+[p18c0] (E) QlikView Distributer.
+[p18c0] Analista Legislativo - Analista de Ciência de Dados – TARDE
+[p18c1] 66
+[p18c1] As APIs REST do Power BI foram projetadas para permitir uma
+[p18c1] ampla interação programática, elas fornecem serviços para
+[p18c1] inserção, administração, governança e recursos de usuário. Com
+[p18c1] relação às funcionalidades dessas APIs, analise as afirmativas a
+[p18c1] seguir
+[p18c1] I. Gerenciam o conteúdo do Power BI.
+[p18c1] II. Executam operações de administrador.
+[p18c1] III. Inserem conteúdo do Power BI.
+[p18c1] Está correto o que se afirma em
+[p18c1] (A) II e III, apenas.
+[p18c1] (B) I e III, apenas.
+[p18c1] (C) III, apenas.
+[p18c1] (D) II, apenas.
+[p18c1] (E) I, II e III.
+[p18c1] 67
+[p18c1] Oracle Data Visualization 12c (ODV) oferece uma série de
+[p18c1] funcionalidades e benefício que permitem que os analistas da
+[p18c1] ALEGO explorem dados analíticos de forma visual e
+[p18c1] individualizada. Com relação aos benefícios do ODV, analise as
+[p18c1] afirmativas a seguir
+[p18c1] I. É uma aplicação do tipo single-user que pode operar offline.
+[p18c1] II. As análises completamente privadas, mas existem muitas
+[p18c1] tarefas administrativas relacionadas a sua utilização e
+[p18c1] segurança.
+[p18c1] III. O usuário possui controle total das conexões de fonte de dados
+[p18c1] e acesso direto a fontes de dados locais.
+[p18c1] Está correto o que se afirma em
+[p18c1] (A) II e III, apenas.
+[p18c1] (B) I e III, apenas.
+[p18c1] (C) III, apenas.
+[p18c1] (D) II, apenas.
+[p18c1] (E) I, II e III.
+[p18c1] 68
+[p18c1] Keras é uma API de aprendizado profundo que oferece velocidade
+[p18c1] de depuração, elegância com concisão do código e facilidade de
+[p18c1] manutenção de implantação. Os blocos de construção básica das
+[p18c1] redes neurais usando Keras (versão 3.0) e Python são conhecidos
+[p18c1] como
+[p18c1] (A) sets.
+[p18c1] (B) pipes.
+[p18c1] (C) layers.
+[p18c1] (D) planes.
+[p18c1] (E) frames.
+[p18c1] TIPO BRANCA – PÁGINA 18
+[p19c0] 69
+[p19c0] Processamento de linguagem natural (PLN) é uma área em
+[p19c0] ascensão na Ciência da Computação e na inteligência artificial (IA),
+[p19c0] analise as afirmativas a seguir
+[p19c0] I. Permite que computadores e dispositivos digitais reconheçam,
+[p19c0] entendam e gerem textos e áudios, pois combinam linguística
+[p19c0] computacional, modelagem estatística, aprendizado de
+[p19c0] máquina e deep learning.
+[p19c0] II. Já faz parte da vida cotidiana de muitas pessoas em todo o
+[p19c0] mundo, alimentando mecanismos de busca, acionando
+[p19c0] chatbots para atendimento aos clientes com comandos de voz,
+[p19c0] sistemas GPS operados por voz e assistentes digitais de
+[p19c0] resposta a perguntas em smartphones.
+[p19c0] III. Desempenha um papel cada vez maior em soluções
+[p19c0] empresariais que ajudam a otimizar e automatizar operações
+[p19c0] de negócios, aumentar a produtividade e simplificar processos
+[p19c0] empresariais.
+[p19c0] Está correto o que se afirma em
+[p19c0] (A) I e III, apenas.
+[p19c0] (B) I e II, apenas.
+[p19c0] (C) III, apenas.
+[p19c0] (D) II, apenas.
+[p19c0] (E) I, II e III.
+[p19c0] Analista Legislativo - Analista de Ciência de Dados – TARDE
+[p19c1] 70
+[p19c1] Sebastião necessita criar aplicações Web com Python para a
+[p19c1] ALEGO.
+[p19c1] O framework para desenvolver de aplicações web completas que
+[p19c1] incluam mapeamento objeto-relacional (ORM), roteamento de
+[p19c1] URLs e um sistema de templates se denomina
+[p19c1] (A) HTML5.
+[p19c1] (B) Node.JS.
+[p19c1] (C) Django.
+[p19c1] (D) React.
+[p19c1] (E) Rust.
+[p19c1] TIPO BRANCA – PÁGINA 19
+[p20c0] Prova discursiva
+[p20c0] 1
+[p20c0] Considere que um analista necessita criar um diagrama ER para model
+[p20c0] Um grupo empresarial precisa ser representado como uma dependênc
+[p20c0] identificar um grupo de empresas é usado um código único. Já uma e
+[p20c0] número da empresa dentro do grupo. Finalmente, uma filial é identi
+[p20c0] dentro da empresa. Considere que o grupo empresarial poderá ter ne
+[p20c0] várias filiais.
+[p20c0] Diante da descrição:
+[p20c0] 1. Elabore o diagrama ER, segundo a notação Peter Chen, que indica
+[p20c0] 2. Indique no diagrama os conjuntos de cardinalidades máximas e m
+[p20c0] 3. Explique o tipo de dependência existente entre as empresas e as
+[p20c0] 1
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 2
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 3
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 4
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 5
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 6
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 7
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 8
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 9
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 10
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 11
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 12
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 13
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 14
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 15
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 16
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 17
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 18
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 19
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 20
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 21
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 22
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 23
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 24
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 25
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 26
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 27
+[p20c0] ---------------------------------------------------------------------------------------------------------
+[p20c0] 28
+[p20c0] Analista Legislativo - Analista de Ciência de Dados – TARDE
+[p20c1] lar a seguinte situação.
+[p20c1] cia entre suas empresas que podem ter várias filiais. Sabe-se que para
+[p20c1] empresa é identificada pelo grupo ao qual está relacionada e por um
+[p20c1] ificada pela empresa à qual está vinculada e por um número de filial
+[p20c1] enhuma ou várias empresas e cada empresa poderá ter nenhuma ou
+[p20c1] a essa situação.
+[p20c1] mínimas para cada dependência modelada.
+[p20c1] s filiais.
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] --------------------------------------------------------------------------------------------------------
+[p20c1] TIPO BRANCA – PÁGINA 20
+[p21c0] ---------------------------------------------------------------------------------------------------------
+[p21c0] 29
+[p21c0] ---------------------------------------------------------------------------------------------------------
+[p21c0] 30
+[p21c0] ---------------------------------------------------------------------------------------------------------
+[p21c0] Analista Legislativo - Analista de Ciência de Dados – TARDE
+[p21c1] --------------------------------------------------------------------------------------------------------
+[p21c1] --------------------------------------------------------------------------------------------------------
+[p21c1] --------------------------------------------------------------------------------------------------------
+[p21c1] TIPO BRANCA – PÁGINA 21
+[p22c0] 2
+[p22c0] K-Means é um dos métodos de agrupamento mais populares da atua
+[p22c0] aprendizado não supervisionado. Sabe-se que o objetivo do K-Means é
+[p22c0] predefinido e realizar o agrupamento.
+[p22c0] Descreva o algoritmo de agrupamento do K-Means, considere que el
+[p22c0] que é o conjunto de dados com N pontos.
+[p22c0] 1
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 2
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 3
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 4
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 5
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 6
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 7
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 8
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 9
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 10
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 11
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 12
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 13
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 14
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 15
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 16
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 17
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 18
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 19
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 20
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 21
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 22
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 23
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 24
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 25
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 26
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 27
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 28
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 29
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] 30
+[p22c0] ---------------------------------------------------------------------------------------------------------
+[p22c0] Analista Legislativo - Analista de Ciência de Dados – TARDE
+[p22c1] alidade sendo amplamente utilizado em problemas que demandam o
+[p22c1] é particionar um conjunto de dados em K grupos, onde K é um número
+[p22c1] le requer como entrada o valor de K (número de agrupamentos) e D
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] --------------------------------------------------------------------------------------------------------
+[p22c1] TIPO BRANCA – PÁGINA 22
+[p24c0] Realiz
+[p24c1] zação

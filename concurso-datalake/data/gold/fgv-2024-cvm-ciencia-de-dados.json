@@ -1,0 +1,1396 @@
+{
+ "prova": "fgv-2024-cvm-ciencia-de-dados",
+ "banca": "FGV",
+ "ano": 2024,
+ "orgao": "CVM",
+ "cargo": "Analista - Perfil 7 - Ciência de Dados",
+ "tipo": "TIPO 1",
+ "pdf": "fgv-2024-cvm-analista-cvm-perfil-7-ciencia-de-dados-tarde-prova.pdf",
+ "questoes": [
+  {
+   "numero": 1,
+   "pagina": 3,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere um modelo de rede neural projetado para tarefas de\nclassificação de imagens. A arquitetura da rede consiste em\nvárias camadas, incluindo camadas de entrada, ocultas e de\nsaída. Durante o treinamento, o modelo aprende a atribuir\nimagens de entrada a classes predefinidas (por exemplo, “gato”,\n“cachorro”, “pássaro”, etc.).\nSobre o papel da camada de saída nessa rede neural, é correto\nafirmar que ela:",
+   "alternativas": {
+    "A": "garante que a rede neural generalize bem para dados não vistos, prevenindo o sobreajuste;",
+    "B": "ajusta os pesos dos neurônios ocultos para minimizar o erro de classificação durante o treinamento;",
+    "C": "mapeia as características aprendidas para rótulos de classe específicos com base em padrões aprendidos;",
+    "D": "realiza a extração de características aprendendo representações hierárquicas a partir de valores de pixel brutos;",
+    "E": "calcula a soma ponderada das características de entrada e aplica uma função de ativação para produzir probabilidades de classe."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 2,
+   "pagina": 3,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O cientista de dados Pedro trabalha em um projeto que envolve a\nprevisão dos movimentos de um braço robótico em um ambiente\ncomplexo. Pedro tem um fluxograma de um algoritmo de\naprendizado por reforço que é capaz de se adaptar\ndinamicamente ao ambiente e ajustar suas ações com base nos\nresultados de ações anteriores.\nO algoritmo representado pelo referido fluxograma que deve ser\nempregado para a realização da tarefa de Pedro é o:",
+   "alternativas": {
+    "A": "Máquina de Vetores de Suporte (SVM);",
+    "B": "Rede Neural Convolucional (CNN);",
+    "C": "Long Short-Term Memory (LSTM);",
+    "D": "Twin Delayed Deep Deterministic Policy Gradient (TD3);",
+    "E": "K-Vizinhos Mais Próximos (KNN)."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 3,
+   "pagina": 3,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere uma estrutura específica de rede neural recorrente,\nconhecida como Long Short-Term Memory (LSTM). Essa estrutura\né projetada para enfrentar desafios como capturar dependências\nde longo prazo e mitigar o problema do gradiente que\ndesaparece.\nA inovação arquitetônica distintiva da LSTM é(são):",
+   "alternativas": {
+    "A": "o recorte de gradiente;",
+    "B": "as células de memória com mecanismos de gating;",
+    "C": "os mecanismos de atenção;",
+    "D": "as conexões de salto;",
+    "E": "as camadas de Max-pooling."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 4,
+   "pagina": 3,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A abordagem que garante uma exploração completa das\ncombinações de hiperparâmetros na identificação da\nconfiguração ideal para maximizar o desempenho do modelo de\naprendizado de máquina é a:",
+   "alternativas": {
+    "A": "realização de uma Grid Search, explorando sistematicamente os valores de hiperparâmetros predefinidos para identificar a combinação ideal para maximizar o desempenho do modelo;",
+    "B": "utilização de uma Busca Aleatória, amostrando aleatoriamente o espaço de hiperparâmetros, oferecendo uma abordagem mais eficiente para o ajuste de hiperparâmetros em comparação com os métodos exaustivos;",
+    "C": "implementação de uma Validação Cruzada K-fold, particionando o conjunto de dados em K subconjuntos para treinar e avaliar iterativamente o modelo, fornecendo uma avaliação robusta de seu desempenho de generalização;",
+    "D": "aplicação de métodos Ensemble, combinando vários modelos para aproveitar suas diversas forças, visando a melhorar o desempenho geral, particularmente quando os modelos individuais apresentam diferentes tipos de erros;",
+    "E": "utilização de uma Feature Scaling, normalizando a escala das características de entrada para garantir comparações justas entre diferentes variáveis, o que é particularmente benéfico para algoritmos sensíveis a diferenças de escala."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 5,
+   "pagina": 3,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um cientista trabalha em um projeto de cibersegurança no qual\ndeve identificar atividades de rede incomuns, que podem indicar\npossíveis ameaças de segurança. Após coletar dados sobre o\ntráfego de rede, o cientista percebe que alguns pontos de dados\nexibem padrões significativamente diferentes da maioria.\nO método que deve ser aplicado para detectar as anomalias,\nidentificando outliers isolados nos dados e possíveis ameaças de\nsegurança, é o:",
+   "alternativas": {
+    "A": "Isolation Forest;",
+    "B": "Box Plot (IQR);",
+    "C": "Local Outlier Factor (LOF);",
+    "D": "do desvio padrão;",
+    "E": "DBSCAN (Density-Based Spatial Clustering of Applications with Noise).  Tipo 1 – Branca – Página 3"
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q05-0.png"
+   ]
+  },
+  {
+   "numero": 6,
+   "pagina": 4,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Observe os conjuntos de dados a seguir.\nConjunto de Dados Sensíveis A:\nID Nome Profissão CEP Situação\n10 Luis Agente 20321-560 Em Análise\nAlberto Autonomo\nNascimento\n11 Juliana Agente 70125-120 Suspenso\nLopes Fiduciário\nQuinta\n12 Dércio Analista 15080-121 Cancelado\nRoberto de Sistemas\nCunha\n13 Edson Engenheiro 32800-090 Normal\nNilo do de Software\nNascimento\nConjunto de Dados B:\nID Nome Profissão CEP Situação\n2 Luis Agente 20321 Sem acesso\nAlberto\nSouza\n4 Juliana Agente 70125 Sem acesso\nLima\nQuinta\n6 Dércio Profissional 15080 Sem acesso\nRui de TI\nCunha\n8 Edson Profissional 32800 Com acesso\nNilo da de TI\nSilva\nPara desidentificar o Conjunto de Dados Sensíveis A e gerar o\nConjunto de Dados B, a técnica de anonimização que deve ser\naplicada é o(a):",
+   "alternativas": {
+    "A": "adição de ruído no atributo ID;",
+    "B": "truncagem no atributo Nome;",
+    "C": "encobrimento no atributo Profissão;",
+    "D": "supressão no atributo CEP;",
+    "E": "blurring no atributo Situação."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 7,
+   "pagina": 4,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O analista João desenvolveu diversos dashboards na plataforma\nMicrosoft Power BI e solicitou ao programador web Pedro que\ndisponibilizasse aquelas análises no portal de acesso à\ninformação da CVM.\nPara inserir os dashboards desenvolvidos por João na página web\nda CVM, o recurso do Power BI que Pedro deve usar é o(a):",
+   "alternativas": {
+    "A": "Modelo semântico;",
+    "B": "Relatório Paginado;",
+    "C": "Conexão com fontes de dados Web;",
+    "D": "Análise Integrada (Embedded Analytics);",
+    "E": "Visualização Narrativa Inteligente (Smart Narrative)."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 8,
+   "pagina": 4,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Para tomar decisões diárias, o analista João precisa consultar o\npreço de diversas ações do mercado financeiro, bem como outros\ndados da CVM. Contudo, ao acessar o ambiente de BigData da\nCVM, João verificou que os preços das ações desse ambiente\ndemoravam para ser atualizados.\nJoão procurou o arquiteto de BigData da CVM para tratar a\ndimensão da qualidade de dados denominada:",
+   "alternativas": {
+    "A": "validade (validity);",
+    "B": "correspondência (matching);",
+    "C": "unicidade (uniqueness);",
+    "D": "consistência (consistency);",
+    "E": "temporalidade (timeliness)."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 9,
+   "pagina": 4,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O cientista de dados Miguel decidiu buscar um serviço de nuvem\nque forneça recursos de computação sob demanda, tais como\nservidores, rede, armazenamento e outros, para construir seu\nambiente de análise e exploração de dados, podendo incorporar\nsistemas operacionais e aplicativos.\nPara isso, Miguel deve contratar o serviço de nuvem:",
+   "alternativas": {
+    "A": "DaaS;",
+    "B": "FaaS;",
+    "C": "IaaS;",
+    "D": "PaaS;",
+    "E": "SaaS."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 10,
+   "pagina": 4,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O sistema CVMWeb armazena os dados pessoais dos consultores\nde valores mobiliários, como nome, telefone e e-mail. Uma\nentidade financeira privada solicita, ao setor de recursos\nhumanos da CVM, os dados de contato dos consultores\ncadastrados para oferecer linhas de crédito e financiamento\nimobiliário.\nNesse contexto, é correto afirmar que o pedido foi:",
+   "alternativas": {
+    "A": "negado, pois há incompatibilidade entre a finalidade original da coleta e a finalidade proposta para o compartilhamento, além de não haver enquadramento em uma das exceções previstas (Art. 26º, § 1, da LGPD);",
+    "B": "analisado pela autoridade competente, que decidiu que os dados dos consultores inativos poderão ser compartilhados atendendo ao princípio da não discriminação (Art. 6º, IX, da LGPD);",
+    "C": "enviado para a Autoridade Nacional de Privacidade de Dados, que deverá emitir um parecer autorizando o compartilhamento (Art. 30º, da LGPD);",
+    "D": "atendido, com base no Art. 7º, II, da LGPD, segundo o qual o compartilhamento de dados pessoais pelo Poder Público poderá ser realizado “para o cumprimento de obrigação legal ou regulatória pelo controlador”;",
+    "E": "legitimado pelo Art. 26º § 1º da LGPD: “É autorizado ao Poder Público transferir a entidades privadas dados pessoais constantes de bases de dados a que tenha acesso desde que previamente tratados.”  Tipo 1 – Branca – Página 4"
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q10-0.png"
+   ]
+  },
+  {
+   "numero": 11,
+   "pagina": 5,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "As informações são a base de toda tomada de decisão e gestão\nde empresas, sendo um diferencial importante o uso de grandes\nvolumes de dados de diversas fontes.\nNesse contexto, as soluções de Big Data para análise de dados\ndevem ter a capacidade de:",
+   "alternativas": {
+    "A": "processar dados heterogêneos, de alto volume e alta velocidade, utilizando estruturas computacionais aprimoradas para a automação de processos e tomadas de decisão;",
+    "B": "operar dados homogêneos, de alto volume e limitada velocidade, gerando valor agregado para o negócio da empresa;",
+    "C": "manusear volumes de dados armazenados localmente, heterogêneos e com atividades semiestruturadas, agregando valor ao processo decisório da empresa;",
+    "D": "processar grandes volumes de dados homogêneos, cujo objetivo principal é a implementação de técnicas avançadas de criptografia;",
+    "E": "auxiliar no processo de gestão empresarial, processando dados heterogêneos, de alto volume e alta velocidade, descartando domínios de dados e transações. Texto 1 Aline, cientista de dados da CVM, foi designada para aferir a reação à prova da CVM entre os usuários de uma rede social de textos curtos usando técnicas de análise de sentimentos. Para isso, ela realiza um processo de KDD. Nesse processo, Aline opta por representar os textos obtidos da rede social no formato de vetores reais de baixa dimensionalidade, calculados a partir das representações das palavras obtidas de um modelo de linguagem pré-treinado utilizando a técnica word2vec."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 12,
+   "pagina": 5,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considerando o texto 1, a representação das palavras que será\nutilizada por Aline é chamada de:",
+   "alternativas": {
+    "A": "TF-IDF;",
+    "B": "tokens;",
+    "C": "n-gramas;",
+    "D": "bag-of-words;",
+    "E": "word embeddings."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 13,
+   "pagina": 5,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considerando o texto 1, a fase do KDD em que Aline gera os\nvetores a partir dos textos é chamada de:",
+   "alternativas": {
+    "A": "seleção dos dados;",
+    "B": "limpeza dos dados;",
+    "C": "mineração dos dados;",
+    "D": "transformação dos dados;",
+    "E": "enriquecimento dos dados."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 14,
+   "pagina": 5,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Alexandre recebe a tarefa de treinar um sistema de detecção de\nfraudes no banco em que trabalha. Para isso, ele testa cinco\nmodelos, M1, M2, M3, M4 e M5, que possuem, respectivamente,\n2, 2, 2, 3 e 3 parâmetros. Alexandre realiza uma seleção\nbayesiana dos modelos, usando o critério de informação\nbayesiano.\nSabendo que o tamanho da amostra é 200 e que os valores\nmaximizados das funções de verossimilhança dos modelos são\n0,3; 0,4; 0,5; 0,3 e 0,5, respectivamente, Alexandre seleciona o\nmodelo:\n(se necessário, use ln(2) = 0,7; ln(3) = 1,1 e ln(5) = 1,6)",
+   "alternativas": {
+    "A": "M1;",
+    "B": "M2;",
+    "C": "M3;",
+    "D": "M4;",
+    "E": "M5."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 15,
+   "pagina": 5,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Flávia, responsável pelo setor de análise de dados de uma rede\nde concessionárias de carros, está realizando o pré-\nprocessamento dos dados dos clientes da rede. Entre os atributos\ndo conjunto de dados, estão os CPFs dos clientes, o seu sexo e a\nquantidade de carros que eles já compraram na rede.\nEsses três atributos podem ser classificados, respectivamente,\ncomo:",
+   "alternativas": {
+    "A": "qualitativo nominal, qualitativo nominal e quantitativo discreto;",
+    "B": "qualitativo nominal, qualitativo ordinal e quantitativo discreto;",
+    "C": "qualitativo nominal, qualitativo nominal e quantitativo contínuo;",
+    "D": "qualitativo ordinal, qualitativo nominal e quantitativo discreto;",
+    "E": "quantitativo discreto, qualitativo nominal e quantitativo contínuo."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 16,
+   "pagina": 5,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma certa organização busca melhorar a qualidade e agilidade do\nseu atendimento eletrônico. Para isso um projeto foi criado para\nagrupar os e-mails recebidos de acordo com o tipo de problema a\nser resolvido e assim repassá-los para o setor mais apropriado.\nA equipe responsável pela implementação do projeto resolveu\nutilizar um modelo de linguagem recente para representar o\nmáximo possível de informação contida num e-mail em um vetor\nde dimensão 768. Entretanto, depararam-se com o seguinte\nproblema: as distâncias entre os vetores se mostraram muito\npequenas, tornando o agrupamento por diversos algoritmos\nmuito pouco significativo.\nCom esse último problema em mente, a sequência mais\napropriada de algoritmos a ser aplicada sobre os vetores, de\nforma a obter um agrupamento significativo dos e-mails, é:",
+   "alternativas": {
+    "A": "PCA → t-SNE → KNN;",
+    "B": "UMAP → KNN;",
+    "C": "t-SNE → HDBSCAN → K-Means;",
+    "D": "UMAP → HDBSCAN;",
+    "E": "K-Means -> t-SNE.  Tipo 1 – Branca – Página 5"
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q16-0.png"
+   ]
+  },
+  {
+   "numero": 17,
+   "pagina": 6,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma equipe de analistas de dados preparou um modelo preditivo\ncuja entrada consiste em planilhas contendo uma matriz de\nvalores reais entre 1 e 10. Tais planilhas são obtidas de um\nsistema externo à equipe. O modelo foi treinado com um\nconjunto de planilhas que foi coletado pelos analistas, de forma a\nobter uma amostra representativa dos dados a serem utilizados.\nA média e o desvio padrão de duas colunas importantes foram\ncalculados do conjunto de treinamento, como uma forma simples\nde verificar a consistência da distribuição dos dados, sendo seus\nvalores 4,89 e 3,08, respectivamente. O modelo obteve bons\nresultados durante sua etapa de testes, com uma precisão de\n94%.\nAo iniciar a operação do modelo com planilhas atuais, entretanto,\nos analistas observaram que o modelo teve um desempenho\nmuito inferior, com precisão de apenas 72%. Investigando as\nplanilhas recebidas, obtiveram a média e o desvio padrão para as\nduas colunas importantes com valores 5,34 e 3,68,\nrespectivamente.\nA explicação mais adequada à situação descrita é:",
+   "alternativas": {
+    "A": "as planilhas atuais contêm ruído: valores ausentes nas colunas importantes;",
+    "B": "a distribuição dos valores nas planilhas atuais não corresponde mais aos dados usados no treinamento, pois foram coletadas em momentos diferentes (drifting);",
+    "C": "a distribuição dos valores nas planilhas atuais não corresponde mais aos dados usados no treinamento devido a uma mudança na posição das colunas;",
+    "D": "a distribuição dos valores nas planilhas de treinamento não corresponde aos dados atuais, pois a amostra obtida pelos analistas não foi representativa;",
+    "E": "as planilhas atuais contêm ruído: valores fora do intervalo definido para o modelo."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 18,
+   "pagina": 6,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Visando a maximizar a eficiência de uma equipe de auditores\nfiscais, um sistema de classificação de documentação foi\nencomendado à equipe de ciência de dados, com o objetivo de\ndecidir, com base nos documentos obtidos durante uma\nfiscalização, se um exame detalhado de documentação é ou não\nnecessário.\nIdealmente, o sistema permitiria aos auditores direcionar mais\ntempo às auditorias complexas e agilizar a análise dos casos mais\nsimples, otimizando o custo de pessoal e equipamento\nespecializado. Contudo, não examinar detalhadamente um caso\ncomplexo pode custar muito caro ao governo, a ponto de anular\nquaisquer ganhos obtidos usando o sistema com um pequeno\nnúmero de erros.\nConsiderando esse cenário, e o fato de o sistema de classificação\nresponder apenas “sim” ou “não” quanto à necessidade de\nexame detalhado, a métrica de classificação a ser maximizada\npela equipe que irá implementar o sistema é:",
+   "alternativas": {
+    "A": "acurácia;",
+    "B": "revocação;",
+    "C": "F1-score;",
+    "D": "precisão;",
+    "E": "AUC."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 19,
+   "pagina": 6,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Para ser utilizado em um modelo neural de regressão, um\nconjunto de dados precisa ser tratado de tal forma que todos os\natributos de entrada sejam representados como um ou mais\nvalores numéricos no intervalo [0, 1].\nOs atributos de uma observação são: idade (inteiro >= 18),\nescolaridade (fundamental, médio, superior, pós-graduação),\nestado de residência (Acre, Alagoas, …, Tocantins, incluindo\nDistrito Federal) e local de trabalho (empresa, home office,\nmisto).\nO número mínimo de valores necessários para representar uma\nobservação com os atributos acima descritos para o modelo de\nregressão, de forma que não ocorra perda de informação ordinal\nnem inserção de vieses nos dados, é:",
+   "alternativas": {
+    "A": "4;",
+    "B": "10;",
+    "C": "16;",
+    "D": "32;",
+    "E": "35."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 20,
+   "pagina": 6,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Ao receber um conjunto de dados para elaborar um modelo\npreditivo, uma equipe de analistas de dados percebeu que havia\numa quantidade significativa de dados faltantes em certos\natributos. Foi então debatido o uso de duas técnicas para lidar\ncom esse problema: (1) remoção de observações contendo dados\nausentes e (2) “inputação” multivariável, sendo que apenas uma\ndas duas seria aplicada.\nDuas características do conjunto de dados que devem ser\nprioritariamente consideradas na escolha entre as duas técnicas\nsão:",
+   "alternativas": {
+    "A": "o intervalo dos atributos com dados faltantes e a fração de dados faltantes;",
+    "B": "o número de observações e a fração de dados faltantes;",
+    "C": "a fração de atributos com dados faltantes e o intervalo dos atributos com dados faltantes ;",
+    "D": "uma medida de dependência estatística entre os atributos e a fração de atributos com dados faltantes;",
+    "E": "o número de observações e uma medida de dependência estatística entre os atributos."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 21,
+   "pagina": 6,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere-se a aplicação de um modelo grande de linguagem\n(LLM) com 3 bilhões de parâmetros, distribuído em formato não\nquantizado, meia-precisão.\nA quantidade mínima de memória necessária para carregar os\npesos do modelo para inferência (sem gradientes), considerando\napenas o espaço ocupado pelos pesos, é:",
+   "alternativas": {
+    "A": "8GB;",
+    "B": "16GB;",
+    "C": "32GB;",
+    "D": "64GB;",
+    "E": "128GB.  Tipo 1 – Branca – Página 6"
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q21-0.png"
+   ]
+  },
+  {
+   "numero": 22,
+   "pagina": 7,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um dos principais fatores que tornam viável a aplicação de\nmodelos grandes de linguagem (LLMs) é o controle do espaço de\nprobabilidade de tokens através da redução de dimensionalidade\ndo vocabulário, sem perda da capacidade de reconstruir qualquer\ntoken válido da linguagem sendo modelada.\nConsiderando esse objetivo, dois algoritmos que podem ser\nutilizados para esse fim são:",
+   "alternativas": {
+    "A": "UMAP, BPE;",
+    "B": "T5, UMAP;",
+    "C": "BPE, WordPiece;",
+    "D": "WordPiece, T5;",
+    "E": "UMAP, GTE."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 23,
+   "pagina": 7,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere o código python a seguir.\nimport torch\nfrom torch import nn, Tensor\nclass CVMNet(nn.Module):\ndef __init__(self,\ndim_in: int,\ndim_hidden: int,\nn_classes: int):\nsuper().__init__()\nself.i_layer = nn.Linear(dim_in, dim_hidden)\nself.h_layer = nn.Sequential(\nnn.Linear(dim_hidden, dim_hidden // 2),\nnn.Tanh()\n)\nself.o_layer = nn.Sequential(\nnn.Dropout(0.2),\nnn.Linear(dim_hidden // 2, n_classes),\nnn.Softmax(dim=-1)\n)\ndef forward(self, x: Tensor):\nreturn self.o_layer(self.h_layer(self.i_layer(x)))\nmodel = CVMNet(400, 100, 3)\npred = model(torch.eye(20).flatten()).detach()\nSobre a variável pred, é correto afirmar que:",
+   "alternativas": {
+    "A": "seus gradientes foram preparados para a retropropagação;",
+    "B": "seus valores, quando somados, resultam em 1.0;",
+    "C": "sua dimensão é 50;",
+    "D": "seus valores serão os mesmos para qualquer execução do código;",
+    "E": "sua dimensão é 1."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q23-0.png"
+   ]
+  },
+  {
+   "numero": 24,
+   "pagina": 7,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma certa organização gostaria de compartilhar dados com um\ngrupo de pesquisadores de uma universidade para a condução de\num estudo sobre problemas ergonômicos nos seus escritórios.\nEntre os dados coletados, há informações sensíveis sobre seus\nfuncionários; portanto, o responsável pela coleta decidiu\nanonimizar os dados. Isso foi feito removendo-se nomes e outros\ncampos identificadores e adicionando-se um número\nidentificador próprio a cada funcionário. Dessa forma, a\nidentidade dos funcionários seria preservada. Após a verificação\nde uma amostra, o pesquisador responsável pelo estudo\nrecomendou medidas que deveriam ser aplicadas antes que os\ndados pudessem ser aceitos para o estudo.\nO problema que mais provavelmente motivou a recomendação\ndo pesquisador e uma medida que pode mitigar esse problema\nsão, respectivamente:",
+   "alternativas": {
+    "A": "os dados podem ser reidentificados usando uma combinação dos campos restantes → embaralhamento dos campos;",
+    "B": "o número identificador não é suficiente para separar os dados → hashing usando os campos restantes;",
+    "C": "os dados podem ser reidentificados utilizando dados externos ao conjunto compartilhado → privacidade diferencial;",
+    "D": "os dados podem ser reidentificados através de engenharia reversa do número identificador → randomização não linear dos identificadores;",
+    "E": "o campos restantes podem ser usados para deduzir informação não inclusa no conjunto de dados → k-anonimato."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 25,
+   "pagina": 7,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere o código python a seguir.\nimport spacy\nnlp = spacy.load(\"pt_core_news_lg\")\ndoc = nlp(\"O rato roeu a roupa do rei de Roma\")\nprint(doc[2].pos_, doc[2].dep_)\nOs valores exibidos pela última linha são:",
+   "alternativas": {
+    "A": "NOUN, NSUBJ;",
+    "B": "VERB, ROOT;",
+    "C": "NMOD, DET;",
+    "D": "VERB, CASE;",
+    "E": "NSUBJ, NOUN. Linguagens e Banco de Dados"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q25-0.png"
+   ]
+  },
+  {
+   "numero": 26,
+   "pagina": 7,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "No método tensorflow.keras.layers.Dense(...), se nenhuma\nfunção de ativação é especificada, é utilizada por padrão a\nfunção:",
+   "alternativas": {
+    "A": "linear;",
+    "B": "ReLU;",
+    "C": "sigmoide;",
+    "D": "softmax;",
+    "E": "softplus.  Tipo 1 – Branca – Página 7"
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q26-0.png"
+   ]
+  },
+  {
+   "numero": 27,
+   "pagina": 8,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um cientista de dados utiliza a biblioteca scikit-learn para treinar\num estimador clf usando um conjunto de treinamento X1 e seu\nrespectivo conjunto de atributos-alvo y. Posteriormente, o\ncientista estima os atributos-alvo do conjunto X2.\nPara realizar o treinamento e a predição, o cientista de dados\ndeve usar, respectivamente, os métodos:",
+   "alternativas": {
+    "A": "fit(X1,y) e estimate(X2);",
+    "B": "fit(X1,y) e predict(X2);",
+    "C": "train(X1,y) e estimate(X2);",
+    "D": "train(X1,y) e predict(X2);",
+    "E": "train(X1,y) e test(X2)."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 28,
+   "pagina": 8,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Igor, analista de dados da CVM, escreveu e rodou o código a\nseguir.\nfrom nltk.corpus import stopwords\nfrom nltk.tokenize import word_tokenize\ntexto = \"Eu sou um analista de dados da\nCVM!\"\nstop_words =\nset(stopwords.words('portuguese'))\ntokens = word_tokenize(texto)\ntokens_processados = [w for w in tokens if\nnot w in stop_words]\nprint(tokens_processados)\nConsiderando que o código foi executado sem erros e sabendo\nque Igor está usando Python 3.10.12 e NLTK 3.8.1, a saída do\nterminal foi:",
+   "alternativas": {
+    "A": "['analista', 'dados', 'CVM'];",
+    "B": "['analista', 'dados', 'CVM', '!'];",
+    "C": "['Eu', 'analista', 'dados', 'CVM'];",
+    "D": "['Eu', 'analista', 'dados', 'CVM', '!'];",
+    "E": "['Eu', 'sou', 'analista', 'dados', 'CVM', '!']."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q28-0.png"
+   ]
+  },
+  {
+   "numero": 29,
+   "pagina": 8,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Documentos do Jupyter Notebook são salvos com a extensão\n.ipynb, mas internamente eles são documentos do tipo:",
+   "alternativas": {
+    "A": "DTD;",
+    "B": "HTML;",
+    "C": "JSON;",
+    "D": "XHTML;",
+    "E": "XML."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 30,
+   "pagina": 8,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Observe o Modelo de Entidades e Relacionamentos a seguir.\nCom base nos relacionamentos apresentados, está explícito que:",
+   "alternativas": {
+    "A": "I e J podem se relacionar com B;",
+    "B": "H transforma A em uma entidade-forte;",
+    "C": "B é um relacionamento semântico ternário;",
+    "D": "G tem uma dependência do tipo todo-parte em relação a C;",
+    "E": "I é um tipo de E dependente do relacionamento com B."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 31,
+   "pagina": 8,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O modelo relacional representa o banco de dados como uma\ncoleção de relações. Considere a relação COLABORADOR\napresentada a seguir, cuja chave primária é Matricula.\nCOLABORADOR\nNome Matricula Cpf Celular Endereco\nFernando 1234 422.111.232-(21) Rua das\nAzul 78 9888-9991 Flores, 8\nCarla 1357 444.222.333-(21) Rua da\nVermelha 77 9777-7474 Árvore, 4\nVivian 1458 147.854.111-NULL Rua das\nAmarela 12 Frutas, 2\nNa relação COLABORADOR, o(a):",
+   "alternativas": {
+    "A": "superchave padrão é representada pelos atributos Matricula e Cpf;",
+    "B": "estado de relação atual reflete a cardinalidade dos domínios e o produto cartesiano;",
+    "C": "ordenação das tuplas faz parte da definição da relação sendo influenciada pela alteração da ordem das tuplas;",
+    "D": "domínio de cada atributo é um conjunto de valores atômicos, indivisível em se tratando de modelo relacional formal;",
+    "E": "restrição de integridade referencial garante que nenhum valor da chave primária será NULL."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 32,
+   "pagina": 8,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "As transações em banco de dados possuem propriedades que\nbuscam proteger dados contra perdas ou danos.\nA propriedade durabilidade tem relação com:",
+   "alternativas": {
+    "A": "a técnica de recuperação, para desfazer quaisquer efeitos de transações não completadas por algum motivo;",
+    "B": "as restrições de integridade especificadas para o esquema, bem como quaisquer outras restrições no banco de dados;",
+    "C": "o subsistema de recuperação do Sistema Gerenciador de Banco de Dados, por meio do log do sistema, para transações confirmadas e modificáveis pela execução de outra transação futura;",
+    "D": "o ocultamento das atualizações por parte de cada transação até que esta esteja confirmada;",
+    "E": "os níveis de durabilidade de uma transação variando do nível 1 ao 3, de forma a evitar atualizações perdidas.  Tipo 1 – Branca – Página 8"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q32-0.png"
+   ]
+  },
+  {
+   "numero": 33,
+   "pagina": 9,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Os Sistemas Gerenciadores de Banco de Dados (SGBD) comerciais\nimplementam internamente técnicas para processar, otimizar e\nexecutar consultas de alto nível.\nUma estratégia eficiente utilizada pelo otimizador de consultas\ndo SGBD considera o uso de:",
+   "alternativas": {
+    "A": "regras heurísticas de forma a realizar restrições (seleções) antes de projeções para reduzir o número de atributos para as projeções;",
+    "B": "estimativas de custo para identificar restrições (seleções) mais eficientes como entrada para execução das projeções com menos atributos;",
+    "C": "regras heurísticas de forma a realizar restrições (seleções) antes de projeções para reduzir o número de tuplas para as projeções;",
+    "D": "estimativas de custo para consultas compiladas com o intuito de realizar junções e projeções antes das restrições (seleções);",
+    "E": "regras heurísticas associadas a estimativas de custo para consultas interpretadas para eliminar o produto cartesiano."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 34,
+   "pagina": 9,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Diante de várias reclamações de performance em resposta a\nconsultas a dados por meio de um dos sistemas estruturantes de\numa autarquia federal, a equipe de tecnologia identificou que o\nmotivo estava na lentidão para recuperação de registros na base\nde dados utilizada pelo sistema. Para agilizar a recuperação de\nregistros em resposta a uma pesquisa que utiliza um campo que\ncomporta valores repetidos, a equipe de tecnologia criou índices.\nConsiderando que já existe um índice primário para o conjunto\nde dados em questão, a equipe criou um índice:",
+   "alternativas": {
+    "A": "multinível secundário esparso de chave candidata;",
+    "B": "de agrupamento (clustering) denso para o campo de ordenação física;",
+    "C": "bitmap para um ou mais campos de pesquisa para os quais há grandes variações de valores;",
+    "D": "de hash para o campo de pesquisa que é utilizado para organização do índice primário;",
+    "E": "secundário não denso para o campo de pesquisa com um nível de indireção extra para múltiplos ponteiros."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 35,
+   "pagina": 9,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Janine é a responsável pela administração dos bancos de dados\ngerenciados pelo PostgreSQL de uma autarquia federal. Durante\na criação de um banco de dados, Janine especificou a criação de\num tablespace diferente do tablespace default.\nO tablespace criado por Janine:",
+   "alternativas": {
+    "A": "é independente dos metadados contidos no diretório de dados principal;",
+    "B": "será tratado pelo PostgreSQL como uma coleção autônoma de arquivos de dados;",
+    "C": "pode ser anexado a outro cluster de banco de dados diferente daquele no qual foi criado;",
+    "D": "pode ter uma rotina de backup individual, independente de outros componentes do banco de dados;",
+    "E": "requer que o superusuário do banco de dados conceda o privilégio de criação no tablespace aos usuários comuns do banco de dados."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 36,
+   "pagina": 9,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O analista Gabriel fez um levantamento das bases de dados\nexistentes na CVM e percebeu que havia Data Marts distintos,\ncriados para atender a requisitos analíticos específicos de cada\nSuperintendência, como: Relações Institucionais, Auditoria e\nRegistro de Valores Imobiliários. Cada Data Mart foi construído\nde forma independente, o que dificultava análises integradas\npara relacionar dados das diferentes Superintendências. Gabriel\nobservou que havia várias dimensões em comum nos Data Marts.\nPara permitir análises integradas padronizando e compartilhando\nas dimensões em comum dos Data Marts da CVM, Gabriel\nimplementou um(a):",
+   "alternativas": {
+    "A": "Data Mart Híbrido;",
+    "B": "Data Mart Dependente;",
+    "C": "Modelo de Dados Normalizado;",
+    "D": "Repositório de Metadados Mestres Corporativos;",
+    "E": "Arquitetura e Matriz de Barramento de Data Warehouse."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 37,
+   "pagina": 9,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Para apoiar análises sobre os fundadores de empresas ao longo\ndo tempo, elaborou-se, inicialmente, o seguinte modelo\nmultidimensional de dados, no qual a tabela FATO FUNDAÇÃO\nEMPRESAS se relaciona com múltiplos valores da tabela\nDIMENSÃO FUNDADOR.\nNo caso apresentado, a implementação de uma dimensão\nmultivalorada deve ser realizada por meio da aplicação da técnica\nde modelagem multidimensional:",
+   "alternativas": {
+    "A": "Tabela Ponte (Bridge Tables);",
+    "B": "Tabela Fato sem Fatos (Factless Fact Tables);",
+    "C": "Dimensão Degenerada (Degenerate Dimensions);",
+    "D": "Dimensão Floco de Neve (Snowflaked Dimensions);",
+    "E": "Dimensão que Desempenha Múltiplos Papéis (Role-Playing Dimensions).  Tipo 1 – Branca – Página 9"
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q37-0.png"
+   ]
+  },
+  {
+   "numero": 38,
+   "pagina": 10,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "As transações financeiras da CVM são realizadas sobre ativos\nnacionais, utilizando a moeda real (R$), e ativos internacionais,\nutilizando a moeda dólar americano (US$).\nPara implementar um Data Mart Financeiro da CVM, permitindo\nanálises dos ativos nas duas moedas, deve-se:",
+   "alternativas": {
+    "A": "criar um par de colunas para cada moeda na Tabela Fato, uma contendo o valor da moeda utilizada na transação e outra contendo o valor da moeda convertida. Criar uma Dimensão relacionada contendo a moeda utilizada na transação;",
+    "B": "criar uma Minidimensão contendo duas colunas, uma com o valor da transação em real e a outra coluna com o valor em dólar. Correlacionar cada registro da Minidimensão com o respectivo valor da Tabela Fato;",
+    "C": "normalizar a Dimensão que contém as moedas utilizadas em transações financeiras criando um snowflake apenas para as moedas real e dólar americano. Na Tabela Fato, criar um registro para cada transação relacionando-o com o respectivo registro da Dimensão normalizada;",
+    "D": "criar uma Dimensão Auditoria para armazenar a descrição da moeda utilizada na transação armazenada na Tabela Fato, a qual deve armazenar o valor convertido;",
+    "E": "entrevistar o gestor financeiro para levantar a regra de negócio da conversão de câmbio. Criar a tabela Dimensão correspondente e implementar a regra de negócio em um pacote de Extração, Transformação e Carga (ETL) para carregar o valor convertido a cada nova transação."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 39,
+   "pagina": 10,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O ambiente analítico da CVM armazena dados no formato\nmultidimensional, implementa um cubo de dados e disponibiliza\numa ferramenta OLAP para apoiar os analistas no desempenho\nde suas funções. Diante da grande quantidade de dados\ndisponíveis, eles precisam reduzir o seu domínio de análise.\nPara isso, a operação OLAP, que extrai um subcubo da seleção de\nduas ou mais dimensões de um cubo de dados, é a:",
+   "alternativas": {
+    "A": "Slice;",
+    "B": "Dice;",
+    "C": "Pivot;",
+    "D": "Roll up;",
+    "E": "Drill down."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 40,
+   "pagina": 10,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O dado no formato JSON – padrão utilizado para armazenar e\ntransportar dados – deve ser de algum tipo.\nO dado que representa o tipo de dado JSON Array é o:",
+   "alternativas": {
+    "A": "[\"nome\":\"Joca\"] {\"idade\":\"30\"}",
+    "B": "{\"idade\":30} {\"idade\":20}",
+    "C": "{\"funcionario\":{\"nome\":\"Joca\", \"idade\":30}}",
+    "D": "[\"Joca\", \"Ana\", \"Pedro\"]",
+    "E": "{\"vendido\":true} {\"sobrenome\":null}"
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 41,
+   "pagina": 10,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "As demandas de dados pelos analistas e cientistas de dados da\nCVM estão aumentando a cada dia. Para atendê-las com\nagilidade, é necessário obter dados de diversas fontes\nheterogêneas no seu formato original para posterior seleção e\nprocessamento sob demanda.\nPara armazenar dados estruturados, não estruturados e\nsemiestruturados, deve-se implementar um(a):",
+   "alternativas": {
+    "A": "Stage Area;",
+    "B": "Data Lake;",
+    "C": "Data Mining;",
+    "D": "Data Warehouse;",
+    "E": "Operational Data Store."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 42,
+   "pagina": 10,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma das principais atividades de implementação de um ambiente\nanalítico é a limpeza dos conjuntos de dados origem. A biblioteca\nPandas do Python é utilizada para analisar e também para limpar\nconjuntos de dados. Observe o trecho de código Python a seguir,\nque utiliza a biblioteca Pandas.\nimport pandas as pd\ndf = pd.read_csv('data.csv')\ndf.dropna(inplace = True)\nO resultado da execução do código apresentado é a alteração do\nconjunto original de dados com o(a):",
+   "alternativas": {
+    "A": "eliminação das linhas duplicadas;",
+    "B": "truncamento dos dados do tipo boolean;",
+    "C": "correção dos dados que estão na posição errada;",
+    "D": "remoção das linhas com células vazias;",
+    "E": "alteração do formato errado dos dados.  Tipo 1 – Branca – Página 10"
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q42-0.png"
+   ]
+  },
+  {
+   "numero": 43,
+   "pagina": 11,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Durante a preparação de dados para análise, alterar a quantidade\nde dimensões e/ou elementos de cada dimensão de um dado do\ntipo Array é uma operação importante na manipulação de dados.\nObserve o seguinte trecho de código escrito na linguagem de\nprogramação Python:\nimport numpy as np\narr = np.array([1, 2, 3, 4, 5, 6, 7, 8, 9,\n10, 11, 12])\nnewarr = arr.reshape(2, 3, 2)\nprint(newarr)\nO resultado da execução do código apresentado é:",
+   "alternativas": {
+    "A": "[[ 1 2 3] [ 4 5 6] [ 7 8 9] [10 11 12]]",
+    "B": "[[ 1 2 3 4] [ 5 6 7 8] [ 9 10 11 12]]",
+    "C": "[[[ 1 2] [ 3 4] [ 5 6]] [[ 7 8] [ 9 10] [11 12]]]",
+    "D": "[[ 1 2 3 4 5 6] [ 7 8 9 10 11 12]]",
+    "E": "[[[ 1 2 3] [ 4 5 6]] [[ 7 8 9] [10 11 12]]]"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q43-0.png"
+   ]
+  },
+  {
+   "numero": 44,
+   "pagina": 11,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Observe o script SQL a seguir.\nCREATE TABLE AUDITOR (ID_A INT NOT NULL,\nNome varchar(20),PRIMARY KEY (ID_A));\nCREATE TABLE AUDITADO (ID_O INT NOT NULL,\nNome varchar(20), ID_A INT,\nPRIMARY KEY (ID_O),FOREIGN KEY (ID_A)\nREFERENCES AUDITOR(ID_A));\nINSERT INTO AUDITOR (ID_A, Nome)\nVALUES (1, 'Maite');\nINSERT INTO AUDITOR (ID_A, Nome)\nVALUES (2, 'Lucca');\nINSERT INTO AUDITOR (ID_A, Nome)\nVALUES (3, 'Maria Clara');\nINSERT INTO AUDITADO (ID_O, Nome, ID_A)\nVALUES (1, 'Felipe', 1);\nINSERT INTO AUDITADO (ID_O, Nome, ID_A)\nVALUES (2, 'Stella', 2);\nINSERT INTO AUDITADO (ID_O, Nome, ID_A)\nVALUES (3, 'Patricia', NULL);\nPara analisar quais auditores estão realizando auditoria em quais\nauditados, é necessária a execução de uma consulta SQL que\napresente o seguinte resultado:\nAuditor Auditado\nMaite Felipe\nLucca Stella\nPara obter o resultado apresentado, deve-se executar a consulta\nSQL:",
+   "alternativas": {
+    "A": "SELECT AUDITOR.Nome as 'Auditor' FROM AUDITOR WHERE AUDITOR.ID_A = ALL (SELECT AUDITADO.Nome as 'Auditado' FROM AUDITADO WHERE AUDITADO.ID_A=AUDITOR.ID_A);",
+    "B": "SELECT AUDITOR.Nome as 'Auditor', AUDITADO.Nome as 'Auditado' FROM AUDITOR, AUDITADO HAVING AUDITADO.ID_A=AUDITOR.ID_A;",
+    "C": "SELECT AUDITOR.Nome as 'Auditor', AUDITADO.Nome as 'Auditado' FROM AUDITOR INNER JOIN AUDITADO ON AUDITADO.ID_A=AUDITOR.ID_A;",
+    "D": "SELECT AUDITOR.Nome as 'Auditor' FROM AUDITOR WHERE EXISTS (SELECT AUDITADO.Nome as 'Auditado' FROM AUDITADO WHERE AUDITADO.ID_A=AUDITOR.ID_A);",
+    "E": "SELECT AUDITOR.Nome as 'Auditor' FROM AUDITOR UNION SELECT AUDITADO.Nome as 'Auditado' FROM AUDITADO;  Tipo 1 – Branca – Página 11"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q44-0.png"
+   ]
+  },
+  {
+   "numero": 45,
+   "pagina": 12,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Observe o script SQL a seguir.\nCREATE TABLE Pessoa (Nome varchar(255));\nINSERT INTO Pessoa (Nome)\nVALUES ('Ana Luca');\nINSERT INTO Pessoa (Nome)\nVALUES ('Antonio Silva');\nINSERT INTO Pessoa (Nome)\nVALUES ('Tania Rosendo');\nINSERT INTO Pessoa (Nome)\nVALUES ('Rosa Flor');\nINSERT INTO Pessoa (Nome)\nVALUES ('Lara Bel');\nSELECT * FROM Pessoa\nWHERE (Nome LIKE 'A_A%'\nOR Nome LIKE 'R%' /*OR Nome LIKE '%BEL'\nOR Nome LIKE '%T%'*/ OR Nome LIKE '%F');\nO resultado JSON da execução do script apresentado é:",
+   "alternativas": {
+    "A": "[{\"Nome\":\"Ana Luca\"},{\"Nome\":\"Rosa Flor\"}]",
+    "B": "[{\"Nome\":\"Rosa Flor\"},{\"Nome\":\"Lara Bel\"}]",
+    "C": "[{\"Nome\":\"Ana Luca\"},{\"Nome\":\"Tania Rosendo\"},{\"Nome\":\"Lara Bel\"}]",
+    "D": "[{\"Nome\":\"Antonio Silva\"},{\"Nome\":\"Tania Rosendo\"},{\"Nome\":\"Rosa Flor\"}]",
+    "E": "[{\"Nome\":\"Ana Luca\"},{\"Nome\":\"Antonio Silva\"},{\"Nome\":\"Tania Rosendo\"},{\"Nome\":\"Lara Bel\"}] Para a resolução das questões 61 a 70, pode ser necessário utilizar alguns dos resultados a seguir.  Probabilidades aproximadas da Normal padrão (Z ~ N(0,1): P(Z>0.25) = 0.40 P(Z>0.5) = 0.31 P(Z>0.8) = 0.21 P(Z>1) = 0.16 P(Z>1.2) = 0.12 P(Z>1.28) = 0.1, P(Z>1.5) = 0.07 P(Z>1.64) = 0.05 P(Z>1,96) = 0.025 P(Z>2) = 0.02 P(Z>2,33) = 0,01 P(Z>2.5) = 0.06; Pr(Z>2,575) = 0,005 P(Z>3) = 0.013  Valores aproximados da função exponencial: exp(-1/40) = 0.97 exp(-1) = 0,368 exp(-2) = 0,135 exp(-4) = 0,018  Valores aproximados da função logaritmo natural: ln(2) = 0,7 ln(3) = 1,1 ln(4) = 1,4. Também podem ser úteis os trechos de tabelas das distribuições a seguir.  Distribuição t de Student: Graus de Área de extremidade superior Liberdade 10% 5% 2,5% 1% 0,5% 15 1,341 1,753 2.131 2,602 2,947 16 1,337 1,746 2,120 2,583 2,921 17 1,333 1,740 2,110 2,567 2,898 18 1,330 1,734 2,101 2,552 2,878 19 1,328 1,729 2,093 2,539 2,861 20 1,325 1,725 2,086 2,528 2,845  Distribuição qui-quadrado: Graus de Área de extremidade superior Liberdade 2,5% 2% 1% 0,2% 0,1% 6 14,449 15,033 16,812 20,791 22,457 7 16,013 16,622 18,472 22,601 24,322 8 17,534 18,168 20,090 24,352 26,125 9 19,023 19,679 21,666 26,056 27,877 10 20,483 21,161 23,209 27,722 29,588  Distribuição qui-quadrado: Graus de Área de extremidade superior Liberdade 99% 98% 97,5% 95% 90% 8 1,646 2,032 2,180 2,733 3,490 9 2,088 2.532 2,700 3,325 4,168 10 2,558 3,059 3,247 3,940 4,865 11 3,053 3,609 3,816 4,575 5,578 12 3,571 4,178 4,404 5,226 6,304  Tipo 1 – Branca – Página 12"
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q45-0.png",
+    "img/fgv-2024-cvm-ciencia-de-dados/q45-1.png"
+   ]
+  },
+  {
+   "numero": 46,
+   "pagina": 13,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O desempenho de uma variável econômica em 2023, em termos\ndas variações percentuais trimestrais, foi armazenado no vetor\n(2, −1,4,−2)′. Com o intuito de avaliar a variabilidade nesse\nano, foram consideradas as quatro métricas a seguir.\n1. norma L1 das componentes do vetor;\n2. norma L2 das componentes do vetor;\n3. soma dos valores absolutos (módulos) dos desvios de cada\ncomponente do vetor em relação à mediana de todos;\n4. raiz quadrada da soma dos quadrados dos desvios em relação\nà sua média, isto é, o numerador do desvio padrão.\nA respeito da comparação entre os valores assumidos por essas\nmedidas, a única afirmativa correta é:",
+   "alternativas": {
+    "A": "1 e 3 coincidem, e são inferiores a todos os demais valores;",
+    "B": "3 é inferior a todos os demais, ao passo que 2 e 4 coincidem;",
+    "C": "1 é inferior a todos os demais, ao passo que 2 e 4 coincidem;",
+    "D": "4 é inferior a todos os demais, ao passo que 1 e 3 coincidem;",
+    "E": "2 e 4 coincidem, e são inferiores a todos os demais valores."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 47,
+   "pagina": 13,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um analista estuda discrepâncias salariais entre os seguintes\nsetores: manufatura, serviços financeiros e tecnologia. A figura a\nseguir apresenta os box-plots dos salários desses setores, em\nreais.\nDistribuição dos salários por setor\nDentre as afirmativas a seguir, a única correta é:",
+   "alternativas": {
+    "A": "o primeiro quartil de todos os setores é superior a 4.000 reais;",
+    "B": "a amplitude interquartil dos salários do setor de tecnologia vale aproximadamente 2.000 reais;",
+    "C": "um salário de 5.500 seria identificado como uma observação discrepante, ou seja, um outlier, para todos os três setores;",
+    "D": "a mediana dos salários do setor de serviços financeiros é menor do que o primeiro quartil do setor de tecnologia;",
+    "E": "o menor salário observado para o setor de tecnologia é maior do que a mediana dos salários do setor de manufatura."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q47-0.png"
+   ]
+  },
+  {
+   "numero": 48,
+   "pagina": 13,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Suponha que sejam usados indicadores para avaliar a\npossibilidade de inadimplência de títulos emitidos no mercado, e\nseja X um desses indicadores. Se X assume um valor inferior a 4, a\nprobabilidade de que o emissor do título venha a se tornar\ninadimplente é de apenas 0,2. Por outro lado, se X estiver acima\nde 7, a probabilidade de inadimplência é de 0,6. Finalmente, se o\nindicador estiver situado entre 4 e 7 (incluindo os extremos), o\ntítulo emitido possui probabilidade de inadimplência igual a 0,4.\nQuando se considera o universo de todos os títulos emitidos\nneste mercado, os valores de X seguem distribuição Normal com\nmédia 6 e variância 4.\nDado que o emissor de um determinado título se tornou\ninadimplente, a probabilidade de que o valor de X associado a ele\nestivesse situado entre 4 e 7 é:",
+   "alternativas": {
+    "A": "48/215;",
+    "B": "62/215;",
+    "C": "96/215;",
+    "D": "106/215;",
+    "E": "158/215."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 49,
+   "pagina": 13,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Em um concurso, 2.048 candidatos prestam um exame em que\nsão submetidos a 6 questões de múltipla escolha, cada uma com\n4 alternativas, das quais apenas uma é correta. Um candidato\npassa para a segunda fase do concurso caso acerte, pelo menos,\n4 questões.\nSe todos os candidatos “chutam” as respostas, isto é, sempre\nescolhem ao acaso uma alternativa, o valor esperado do número\nde aprovados para a segunda fase é:",
+   "alternativas": {
+    "A": "77;",
+    "B": "85;",
+    "C": "98;",
+    "D": "116;",
+    "E": "128."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 50,
+   "pagina": 13,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Suponha que o tempo T até um que investidor solicite o resgate\nintegral de um fundo, em meses, seja representado por uma\nvariável aleatória contínua com função de densidade\nf(t) = 0,05e−0.05t, t > 0.\nDe acordo com esse modelo probabilístico, o período até que a\nmetade dos investidores desse fundo venha a solicitar o resgate\nintegral é de, aproximadamente:",
+   "alternativas": {
+    "A": "7 meses;",
+    "B": "11 meses;",
+    "C": "14 meses;",
+    "D": "18 meses;",
+    "E": "20 meses.  Tipo 1 – Branca – Página 13"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q50-0.png"
+   ]
+  },
+  {
+   "numero": 51,
+   "pagina": 14,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma agência reguladora recebe, em média, uma denúncia a cada\n15 minutos.\nSe o número de denúncias em um período qualquer segue\ndistribuição de Poisson, a probabilidade de que, no intervalo de 1\nhora, cheguem pelo menos 2 denúncias, sabendo-se que pelo\nmenos uma denúncia terá chegado, é de:",
+   "alternativas": {
+    "A": "72/910;",
+    "B": "18/125;",
+    "C": "288/982;",
+    "D": "91/100;",
+    "E": "455/491."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 52,
+   "pagina": 14,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A proporção de emissões de títulos imobiliários com suspeita de\nirregularidade em um ano pode ser representada por uma\nvariável aleatória contínua X com função de densidade:\nf(x) = (+1)x, 0<x<1\nDeseja-se conduzir uma análise probabilística dessa proporção\nem 2024; porém, para isso, é preciso estimar o parâmetro . Nos\núltimos 5 anos, a proporção anual registrada foi: 0,3; 0,2; 0,6; 0,7\ne 0,2.\nConsiderando que esses registros sejam observações de uma\namostra aleatória simples da população referenciada por f(x), a\nestimativa do parâmetro  a partir dessa amostra, obtida pelo\nmétodo dos momentos, é:",
+   "alternativas": {
+    "A": "-2/3;",
+    "B": "-1/3;",
+    "C": "1/3;",
+    "D": "2/5;",
+    "E": "2/3."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q52-0.png"
+   ]
+  },
+  {
+   "numero": 53,
+   "pagina": 14,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Suponha que o tempo X, em dias, até que uma debênture\nincentivada aumente seu valor de mercado em 30%, seja uma\nvariável aleatória com função de densidade\nf(x) = 2xe−x; x > 0.\nO tempo médio registrado, com base nas observações de uma\namostra aleatória simples, foi de 400 dias.\nCom base nessa amostra, a estimativa de máxima\nverossimilhança do parâmetro  é:",
+   "alternativas": {
+    "A": "1/40;",
+    "B": "1/80;",
+    "C": "1/100;",
+    "D": "1/200;",
+    "E": "1/400."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q53-0.png"
+   ]
+  },
+  {
+   "numero": 54,
+   "pagina": 14,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um indicador de desempenho das instituições que atuam no\nmercado financeiro brasileiro é avaliado com base nas 8\nobservações de uma amostra aleatória simples, considerando 8\ndessas instituições. O desvio padrão amostral do indicador foi\nigual a 8.\nSupondo que a distribuição dos valores do indicador no universo\nem estudo seja Normal, o limite inferior do intervalo de confiança\nde 95% para a variância populacional é, aproximadamente\n(considere probabilidades iguais nas caudas):",
+   "alternativas": {
+    "A": "16;",
+    "B": "20;",
+    "C": "24;",
+    "D": "28;",
+    "E": "32."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 55,
+   "pagina": 14,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um analista busca evidenciar estatisticamente a conjectura de\nque a valorização média das cotas dos fundos imobiliários\nnegociados no mercado em 2023 tenha sido superior a 15%.\nSupõe-se que as valorizações das cotas sigam distribuição\nNormal, sendo o desvio padrão desconhecido. Com base nas\nobservações de uma amostra aleatória de tamanho 16, ele\nobserva que a valorização média foi de 15,85%, com desvio\npadrão amostral igual a 2%.\nConsiderando os três níveis de significância usuais (0,01, 0,05 e\n0,1), a conjectura investigada:",
+   "alternativas": {
+    "A": "foi evidenciada apenas aos níveis 0,05 e 0,1, o que resulta da comparação do valor da estatística de teste com os valores críticos 1,64 e 1,28;",
+    "B": "foi evidenciada apenas ao nível 0,1, o que se conclui a partir da comparação do valor da estatística de teste com os valores críticos 1,96 e 1,64;",
+    "C": "foi evidenciada apenas ao nível 0,1, o que se conclui a partir da comparação do valor da estatística de teste com os valores críticos 1,64 e 1,28;",
+    "D": "foi evidenciada apenas ao nível 0,1, o que se conclui a partir da comparação do valor da estatística de teste com os valores críticos 1,753 e 1,341;",
+    "E": "não foi evidenciada a nenhum dos três níveis, o que se conclui comparando o valor da estatística de teste com os valores 2,947, 2,131 e 1,753."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 56,
+   "pagina": 14,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O número de fraudes anuais detectadas no mercado financeiro,\nnos últimos 16 anos, foi registrado por um auditor. Ele deseja\ntestar se o resultado fornece evidência de que a média anual de\nfraudes no mercado é inferior a 4, supondo que esses 16 registros\nconstituam observações de uma amostra aleatória simples obtida\na partir de uma população Normal. A variância dessa população é\nconhecida e igual a 25.\nNessas condições, o auditor obterá evidência estatística de que a\nmédia populacional é inferior a 4, ao nível de significância 0,1, se\na média na amostra for menor ou igual a:",
+   "alternativas": {
+    "A": "1,6;",
+    "B": "1,8;",
+    "C": "2,4;",
+    "D": "3,6;",
+    "E": "5,6.  Tipo 1 – Branca – Página 14"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q56-0.png"
+   ]
+  },
+  {
+   "numero": 57,
+   "pagina": 15,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um analista investiga, mediante um modelo de regressão linear\nclássico, a relação entre a rentabilidade y de ofertas públicas\ndisponíveis no mercado e um indicador de risco associado ao\nemissor, representado pela variável explicativa x. Considera-se\nque o termo de erro do modelo siga distribuição Normal. Foi\nutilizada uma amostra aleatória simples de 20 pares (x,y) de\nobservações mensais. O modelo estimado está apresentado a\nseguir (erros padrão entre parênteses).\ny = 0,528 + 0,627𝑥\n(0,264) (0,300)\nO intervalo de 95% de confiança associado ao impacto de x sobre\ny é (considere apenas 3 casas decimais):",
+   "alternativas": {
+    "A": "[-0,009;1,255], e o impacto não é significante ao nível 0,05;",
+    "B": "[-0,033;1,257], e o impacto não é significante ao nível 0,05;",
+    "C": "[0,039;1,215], e o impacto é significante ao nível 0,05;",
+    "D": "[0,135;1,119], e o impacto é significante ao nível 0,05;",
+    "E": "[0,327;0,927], e o impacto é significante ao nível 0,05."
+   },
+   "gabarito": null,
+   "anulada": true,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q57-0.png"
+   ]
+  },
+  {
+   "numero": 58,
+   "pagina": 15,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um gestor avalia a expectativa de rentabilidade mensal de um\nfundo de ações utilizando o modelo de regressão linear clássico\n𝑦 = β + β x + ϵ, em que y é a rentabilidade, x é um indicador\n0 1\neconômico, β e β são parâmetros a serem estimados por\n0 1\nmínimos quadrados e ϵ é o termo de erro. O modelo satisfaz aos\npressupostos para estimação por mínimos quadrados. Com base\nem uma amostra de 3 meses, na qual os valores observados da\nvariável explicativa x foram x = 1, x = 2 e x = 2, o modelo\n1 2 3\nestimado conduziu aos resíduos e = 2, e = 1 e e = 1.\n1 2 3\nA estimativa, baseada no estimador não viciado, para a\ncovariância entre os estimadores de β e β , é:\n0 1",
+   "alternativas": {
+    "A": "- 4;",
+    "B": "- 5;",
+    "C": "-10;",
+    "D": "-15;",
+    "E": "-20."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q58-0.png"
+   ]
+  },
+  {
+   "numero": 59,
+   "pagina": 15,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um analista financeiro tenta prever a rentabilidade anual futura\nde um ativo, em termos reais. Ele considera que a rentabilidade\nreal (em %) siga, ao longo dos anos, um modelo\nAR(1): y =  +  y +  , em que t é o ano, E( ) = 0 e\nt 0 1 t-1 t t\ncorr( ,  ) = 0, para s = 1, 2, ... . Sabe-se que a rentabilidade real\nt t-s\nprevista pelo modelo para o longuíssimo prazo foi de 4% ao ano.\nSe a estimativa obtida para o parâmetro  foi 0,8, a estimativa\n1\ndo parâmetro  foi:\n0",
+   "alternativas": {
+    "A": "0,2;",
+    "B": "0,4;",
+    "C": "0,5;",
+    "D": "0,6;",
+    "E": "0,8."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q59-0.png"
+   ]
+  },
+  {
+   "numero": 60,
+   "pagina": 15,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere duas séries temporais x e y, ambas integradas de\nordem 1, ou I(1), representando a evolução de agregados\nmacroeconômicos no tempo. Ao aplicarmos o teste de raiz\nunitária ADF aos resíduos da regressão linear de y em x (com\nvalores críticos propostos por Engle-Granger para aplicá-lo a\nresíduos de uma regressão), verifica-se que a hipótese nula não é\nrejeitada, aos níveis usuais.\nÉ correto concluir que essas séries:\n(Obs: os valores críticos propostos por Engle-Granger para esse\ntipo de teste não são necessários para a resolução da questão)",
+   "alternativas": {
+    "A": "são cointegradas, pois tanto as séries quanto os resíduos são estacionários, o que torna a regressão entre elas válida;",
+    "B": "não são cointegradas, pois, apesar de serem estacionárias, os resíduos da regressão entre elas não são estacionários;",
+    "C": "são cointegradas, pois, embora não sejam estacionárias, os resíduos da regressão entre elas são estacionários;",
+    "D": "não são cointegradas, pois não são estacionárias e os resíduos da regressão entre elas não possuem raiz unitária;",
+    "E": "não são cointegradas, pois, embora não sejam estacionárias, os resíduos da regressão entre elas possuem raiz unitária. Gestão de Projetos"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 61,
+   "pagina": 15,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Em termos de recursos humanos, os projetos possuem gerentes,\nequipes de gerenciamento e as equipes de projeto, com as\npessoas efetivamente alocadas às atividades ao longo do ciclo de\nvida do projeto.\nIndependentemente de como as atividades de gerenciamento são\nestruturadas, existem aspectos comuns de desenvolvimento que\nsão relevantes para a maioria das equipes de projeto.\nTais aspectos incluem:",
+   "alternativas": {
+    "A": "atribuição de tarefas; monitoramento e controle; avaliação de desempenho; lições aprendidas;",
+    "B": "liderança; trabalho em equipe; negociação; solução de conflitos;",
+    "C": "visão e objetivos; papéis e responsabilidades; operações da equipe do projeto; orientação; e crescimento;",
+    "D": "visão e objetivos; valor do projeto; benefícios esperados; crescimento pessoal;",
+    "E": "papéis e responsabilidades; atribuições de atividades do projeto; execução das atividades; gestão do conhecimento.  Tipo 1 – Branca – Página 15"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q61-0.png"
+   ]
+  },
+  {
+   "numero": 62,
+   "pagina": 16,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O planejamento de um projeto sempre envolve a determinação\nde estimativas, que se dividem em estimativas de esforço,\nduração, custos, pessoas e recursos físicos do trabalho. Dentre os\naspectos ligados às estimativas, incluem-se as dimensões de\nintervalo, exatidão, precisão e confiança.\nDentre as caracterizações de cada uma dessas dimensões, a\ncorreta é:",
+   "alternativas": {
+    "A": "intervalo: as estimativas tendem a ter uma reduzida gama no início do projeto, quando não há muitas informações sobre o projeto, o escopo do produto, partes interessadas, requisitos, riscos e outras informações;",
+    "B": "exatidão: refere-se à assertividade de uma estimativa e está ligada ao intervalo, pois quanto maior a exatidão, menor o intervalo de valores em potencial;",
+    "C": "exatidão: uma estimativa no início do projeto terá mais exatidão do que se for elaborada quando da realização de 25% do trabalho do projeto;",
+    "D": "precisão: refere-se ao grau de erro associado à estimativa; a precisão das estimativas deve ser compatível com a exatidão obtida;",
+    "E": "confiança: aumenta com a experiência, e a experiência de trabalho em um projeto anterior semelhante pode ajudar com o nível de confiança necessário."
+   },
+   "gabarito": null,
+   "anulada": true,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 63,
+   "pagina": 16,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Na fase de planejamento de projetos, são elaborados os\ncronogramas. Um cronograma é um modelo para a execução das\natividades do projeto, incluindo durações, dependências e outras\ninformações de planejamento. O cronograma do projeto parte da\ndecomposição de seu escopo em atividades específicas. Essas\natividades podem estar ordenadas em série, em paralelo e em\ncombinações série/paralelo.\nPara tal são usadas as seguintes classes de dependências entre as\natividades:",
+   "alternativas": {
+    "A": "dependências críticas e não críticas;",
+    "B": "dependências obrigatórias, arbitradas, externas, e internas;",
+    "C": "dependências lógicas e físicas;",
+    "D": "dependências obrigatórias, contratuais, lógicas e internas;",
+    "E": "dependências do caminho crítico, externas e internas."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 64,
+   "pagina": 16,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Você foi designado como gerente de um novo projeto, que logo\nterá o respectivo termo de abertura aprovado pela cúpula\nestratégica da sua organização.\nAs habilidades do gerente de projetos que são essenciais para\nvocê iniciar o trabalho são:",
+   "alternativas": {
+    "A": "empreendedorismo; alocação de recursos; análise das partes interessadas;",
+    "B": "construção de equipes; liderança; planejamento;",
+    "C": "iniciação; planejamento; análise de partes interessadas;",
+    "D": "resolução de conflitos; competências técnicas; competências comportamentais;",
+    "E": "detalhamento do escopo; identificação das partes interessadas; organização."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 65,
+   "pagina": 16,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Você foi convocado para uma reunião com a cúpula estratégica\nda sua empresa. Na reunião, foi informado de que um projeto em\nexecução em uma filial localizada em outro estado está\nenfrentando problemas. Atrasos, gastos em excesso e conflitos\ntécnicos entre membros da equipe têm sido relatados à diretoria.\nVocê foi, então, designado para acompanhar o projeto, coletar e\ninformar os indicadores de desempenho e identificar as causas\nprováveis dos problemas.\nSabendo que a sua empresa utiliza a metodologia de análise de\nvalor agregado (EVA - Earned Value Analysis), você deve iniciar o\ntrabalho com:",
+   "alternativas": {
+    "A": "coleta dos indicadores de progresso de entregas, de progresso de cronograma e de progresso de custos;",
+    "B": "coleta dos indicadores de desempenho de prazo e de custo;",
+    "C": "cálculo da variação de prazo e de custo do projeto;",
+    "D": "medição do valor planejado, valor agregado e custo real atuais;",
+    "E": "medição dos valores orçados, dos gastos efetivos e do saldo do projeto."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 66,
+   "pagina": 16,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Você é gerente de um projeto cujo prazo total é de oito meses e\nque está em fase de execução. No último dia do quarto mês do\nprojeto, você solicitou o cálculo do índice de desempenho de\nprazo do projeto, e o resultado, nessa data, foi de 50%.\nTal índice significa que:",
+   "alternativas": {
+    "A": "o projeto está caminhando conforme o previsto, pois está na metade da duração estabelecida;",
+    "B": "o projeto está pronto para ser encerrado, pois as atividades foram realizadas na metade do tempo previsto;",
+    "C": "o projeto teve desembolsos equivalentes a 50% do que havia sido previsto no plano inicial;",
+    "D": "o projeto deve levar o dobro do tempo para ser concluído, caso o desempenho passado permaneça o mesmo a partir de hoje;",
+    "E": "conclusões não podem ser tiradas sem informações das entregas realizadas no período."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 67,
+   "pagina": 16,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Hoje em dia, todas as organizações realizam projetos, a partir de\num direcionamento estratégico e visando, entre outros aspectos,\na estarem aptas para atender às exigências crescentes de seus\nrespectivos mercados, em um ambiente de intensa competição e\ninovação tecnológica. Ainda assim, os diferentes tipos de\norganizações terão abordagens diferentes na condução de\nprojetos, em função de sua atividade fim.\nNesse sentido, é correto afirmar que organizações:",
+   "alternativas": {
+    "A": "baseadas em projetos são aquelas empresas intensivas no desenvolvimento de novas tecnologias;",
+    "B": "suportadas por projetos são aquelas nas quais a principal fonte de receita é oriunda das suas operações de produção de bens e/ou serviços;",
+    "C": "caracterizadas por projetos em redes são unidades de negócio de um mesmo grupo empresarial, que executam projetos em parceria;",
+    "D": "baseadas em processos são aquelas que adotam processos de gerenciamento de projetos alinhados com as áreas de conhecimento e os grupos de processos mencionados no Guia PMBOK (6ª. edição);",
+    "E": "baseadas em portfólios são aquelas que possuem uma gestão integrada de projetos, programas e operações, com um portfólio ativo.  Tipo 1 – Branca – Página 16"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q67-0.png"
+   ]
+  },
+  {
+   "numero": 68,
+   "pagina": 17,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O uso de softwares de gerenciamento de projetos tem se\ndisseminado desde a década de 1980, inicialmente em\ncomputadores pessoais isolados (PCs) e depois com solução em\nrede e armazenamento na nuvem. O Microsoft Project\n(MS Project) é um software surgido em 1985 que se tornou uma\nespécie de padrão para a área de projetos.\nA respeito do planejamento de recursos humanos no MS Project,\né correto afirmar que:",
+   "alternativas": {
+    "A": "o “nivelamento de recursos” permite que todos os recursos tenham a mesma carga de trabalho ao longo do projeto;",
+    "B": "o “nivelamento de recursos”, aliado ao cálculo das folgas das atividades do projeto, distribui as alocações individuais de trabalho, minimizando picos e períodos de ociosidade;",
+    "C": "a “planilha de recursos” permite a visualização de todas as atividades alocadas a um recurso específico;",
+    "D": "o “planejador de equipe” permite a visualização do custo previsto para todos os recursos do projeto;",
+    "E": "a “planilha de recursos” permite a visualização do desempenho de cada recurso ao longo da execução do projeto."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 69,
+   "pagina": 17,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Para aumentar a probabilidade de sucesso dos projetos e\nassegurar que seus objetivos sejam cumpridos, processos de\ngerenciamento são utilizados. São cinco os grupos de processos\nde gerenciamento de projetos.\nVocê foi designado para gerenciar um projeto que estava em\nexecução no ano passado, mas foi interrompido por falta de\nrecursos e mudança de prioridades na sua empresa. Agora a\nempresa quer retomar o projeto.\nPara obter sucesso, você deverá começar o trabalho a partir do\ngrupo de processos de:",
+   "alternativas": {
+    "A": "execução, pois você precisa validar o escopo do trabalho já concluído até a data da interrupção;",
+    "B": "encerramento, para encerrar as atividades realizadas antes da interrupção do projeto;",
+    "C": "planejamento, pois a retomada vai requerer a atualização no plano de gerenciamento do projeto;",
+    "D": "iniciação, pois você deve reiniciar o projeto a partir do ponto em que ele foi interrompido;",
+    "E": "monitoramento e controle, pois, para retomar o projeto, você deve criar nova EAP (Estrutura Analítica de Projeto)."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 70,
+   "pagina": 17,
+   "disciplina": "Matemática e Estatística",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Trabalhando em uma empresa de produtos de beleza e cuidados\npessoais, você foi designado gerente de um projeto de\nlançamento de uma nova linha de perfumes no mercado. A data\ndo evento de lançamento já foi definida pela cúpula estratégica. O\nescopo inclui a campanha de lançamento, definição dos pontos\nde venda, com instalação de quiosques nos principais shoppings,\nbem como a definição dos estoques iniciais e sua distribuição.\nDurante a realização dos processos de gerenciamento do\ncronograma do projeto, você solicitou que a equipe de\ngerenciamento fizesse a verificação das atividades, seu\nsequenciamento e respectivas estimativas de duração. Em uma\nreunião de planejamento, ao perguntar sobre o caminho crítico\ndo projeto, você recebeu diferentes informações a respeito, uma\nde cada membro.\nA informação correta é:",
+   "alternativas": {
+    "A": "“Não há como calcular o caminho crítico do projeto, pois dependemos da fábrica para definição do lote inicial dos produtos”;",
+    "B": "“Sem os quiosques prontos nos shoppings não há como concluir o projeto, portanto o caminho crítico passa pelas atividades de montagem dos quiosques”;",
+    "C": "“De acordo com as estimativas de duração de cada atividade do projeto, bem como de seu respectivo sequenciamento, o caminho crítico do projeto foi calculado e será detalhado na apresentação”;",
+    "D": "“O projeto tem muitas atividades que dependem de terceiros, como aquisição de matérias-primas novas, montagem de estruturas em shopping e contratação de agência de publicidade, portanto todas as atividades são críticas”;",
+    "E": "“A diretoria da empresa não poderia ter definido a data de lançamento sem consultar a equipe; portanto, independentemente do caminho crítico, esse projeto deverá atrasar”.  Tipo 1 – Branca – Página 17  Tipo 1 – Branca  Tipo 1 – Branca Realiz zação"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-cvm-ciencia-de-dados/q70-0.png",
+    "img/fgv-2024-cvm-ciencia-de-dados/q70-1.png",
+    "img/fgv-2024-cvm-ciencia-de-dados/q70-2.png",
+    "img/fgv-2024-cvm-ciencia-de-dados/q70-3.png",
+    "img/fgv-2024-cvm-ciencia-de-dados/q70-4.png"
+   ]
+  }
+ ]
+}

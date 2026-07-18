@@ -1,0 +1,2082 @@
+[p1c0] TRIBUN
+[p1c0] S E
+[p1c0] ISTEMAS
+[p1c0] SUA PROVA
+[p1c0] • Além deste caderno contendo 100 (cem)
+[p1c0] questões objetivas você receberá do fiscal de sala
+[p1c0] o cartão de respostas;
+[p1c0] • As questões objetivas têm 5 (cinco) opções de
+[p1c0] resposta (A, B, C, D e E) e somente uma delas
+[p1c0] está correta.
+[p1c0] TEMPO
+[p1c0] • Você dispõe de 5 (cinco) horas para a realização
+[p1c0] da prova, já incluído o tempo para a marcação do
+[p1c0] cartão de respostas;
+[p1c0] • 2 (duas) horas e 30 (trinta) minutos após o
+[p1c0] início da prova, é possível retirar-se da sala, sem
+[p1c0] levar o caderno de questões;
+[p1c0] • A partir dos 30 (trinta) minutos anteriores ao
+[p1c0] término da prova é possível retirar-se da sala
+[p1c0] levando o caderno de questões.
+[p1c0] NÃO SERÁ PERMITIDO
+[p1c0] • Qualquer tipo de comunicação entre os
+[p1c0] candidatos durante a aplicação da prova;
+[p1c0] • Anotar informações relativas às respostas em
+[p1c0] qualquer outro meio que não seja o caderno de
+[p1c0] questões;
+[p1c0] • Levantar da cadeira sem autorização do fiscal de
+[p1c0] sala;
+[p1c0] • Usar o sanitário ao término da prova, após deixar
+[p1c0] a sala.
+[p1c1] NAL DE CONTAS DO ESTADO DO PIAUÍ
+[p1c1] CONCURSO PÚBLICO – EDITAL Nº 01/2024
+[p1c1] PROVA OBJETIVA – MANHÃ
+[p1c1] AUDITOR DE CONTROLE EXTERNO
+[p1c1] E D
+[p1c1] NGENHARIA DE ADOS E
+[p1c1] C D
+[p1c1] IÊNCIA DE ADOS
+[p1c1] NÍVEL SUPERIOR TIPO 1 – BRANCA
+[p1c1] INFORMAÇÕES GERAIS
+[p1c1] • Verifique se seu caderno de questões está completo,
+[p1c1] sem repetição de questões ou falhas. Caso contrário,
+[p1c1] notifique imediatamente o fiscal da sala, para
+[p1c1] que sejam tomadas as devidas providências;
+[p1c1] • Confira seus dados pessoais, especialmente nome,
+[p1c1] número de inscrição e documento de identidade e leia
+[p1c1] atentamente as instruções para preencher o cartão de
+[p1c1] respostas;
+[p1c1] • Para o preenchimento do cartão de respostas, use
+[p1c1] somente caneta esferográfica, fabricada em material
+[p1c1] transparente, com tinta preta ou azul;
+[p1c1] • Assine seu nome apenas no(s) espaço(s) reservado(s)
+[p1c1] no cartão de respostas;
+[p1c1] • Confira seu cargo, cor e tipo do caderno de questões.
+[p1c1] Caso tenha recebido caderno de cargo ou cor ou tipo
+[p1c1] diferente do impresso em seu cartão de respostas, o
+[p1c1] fiscal de sala deve ser obrigatoriamente informado
+[p1c1] para o devido registro na ata da sala;
+[p1c1] • Reserve tempo suficiente para o preenchimento do
+[p1c1] seu cartão de respostas. O preenchimento é de sua
+[p1c1] responsabilidade e não será permitida a troca do
+[p1c1] cartão de respostas em caso de erro cometido
+[p1c1] pelo candidato;
+[p1c1] • Para fins de avaliação, serão levadas em consideração
+[p1c1] apenas as marcações realizadas no cartão de
+[p1c1] respostas;
+[p1c1] • A FGV coletará as impressões digitais dos candidatos
+[p1c1] na lista de presença;
+[p1c1] • Os candidatos serão submetidos ao sistema de
+[p1c1] detecção de metais quando do ingresso e da saída de
+[p1c1] sanitários durante a realização das provas.
+[p1c1] • Boa prova!
+[p3c0] CONHECIMENTOS BÁSICOS
+[p3c0] Língua Portuguesa
+[p3c0] 1
+[p3c0] …a Justiça sustenta numa das mãos a balança e que pesa o
+[p3c0] Direito, e na outra a espada de que se serve para o defender.
+[p3c0] A espada sem a balança é a força brutal; a balança sem a espada
+[p3c0] é a impotência do Direito.
+[p3c0] (Rudolf von Ihering. Metáfora da balança da Justiça.)
+[p3c0] Sobre o texto acima, assinale a afirmativa incorreta.
+[p3c0] (A) Segundo o texto, as punições são indispensáveis no exercício
+[p3c0] da justiça.
+[p3c0] (B) O emprego da vírgula no segundo período se deve à omissão
+[p3c0] do verbo.
+[p3c0] (C) O primeiro período do texto podia mostrar entre vírgulas o
+[p3c0] termo “numa das mãos”.
+[p3c0] (D) O texto não cita o fato de a justiça também ser cega, o que
+[p3c0] aparece representado na imagem.
+[p3c0] (E) O texto pode ser interpretado como uma crítica à justiça.
+[p3c0] 2
+[p3c0] Leia a nota da OAB a seguir.
+[p3c0] A prática reiterada e impune de atos de corrupção leva as pessoas
+[p3c0] a pensar que a improbidade e a falta de ética são naturais e a
+[p3c0] improbidade é uma regra para os grandes delinquentes.
+[p3c0] Sobre a estruturação desse pequeno texto, assinale a afirmativa
+[p3c0] correta.
+[p3c0] (A) O adjetivo “grandes” mostra valor de importância social dos
+[p3c0] delinquentes.
+[p3c0] (B) Os adjetivos “reiterada” e “impune” são redundantes,
+[p3c0] bastando tão somente o emprego de um deles.
+[p3c0] (C) O texto mostra um erro de construção na forma verbal
+[p3c0] “pensar”, que deveria ser substituída por “pensarem”.
+[p3c0] (D) A repetição da palavra “improbidade” poderia ser evitada,
+[p3c0] trocando-se a segunda ocorrência pelo demonstrativo “esta”.
+[p3c0] (E) O verbo “pensar” só tem por complemento a primeira oração
+[p3c0] que o segue: “que a improbidade e a falta de ética são
+[p3c0] naturais”.
+[p3c0] 3
+[p3c0] Leia o fragmento a seguir.
+[p3c0] Temo que deveríamos tornar o mundo honesto antes de
+[p3c0] honestamente dizer a nossos filhos que a honestidade é a melhor
+[p3c0] política. (Bernard Shaw)
+[p3c0] Nesse pensamento aparecem três palavras da mesma família:
+[p3c0] honesto, honestamente e honestidade.
+[p3c0] Assinale a opção que apresenta três palavras que pertencem
+[p3c0] também a uma mesma família e repetem, respectivamente, as
+[p3c0] mesmas classes gramaticais.
+[p3c0] (A) legível – legalmente – leitura.
+[p3c0] (B) correto – corretamente – correção.
+[p3c0] (C) elegível – eleitoralmente – eleitoral.
+[p3c0] (D) distinguido – distintamente – distinto.
+[p3c0] (E) punibilidade – impunemente – punição.
+[p3c0] AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS
+[p3c1] 4
+[p3c1] Assinale a frase em que termo sublinhado não mantém coesão
+[p3c1] com um termo anterior.
+[p3c1] (A) Jogo imbecil é aquele em que ninguém ganha.
+[p3c1] (B) Se eu morresse em um hospital, eu o processaria.
+[p3c1] (C) Um pouco de incenso queimado é bom remédio para deixar
+[p3c1] lá com ela.
+[p3c1] (D) Os médicos creem que, encontrada a causa da enfermidade,
+[p3c1] sua cura está descoberta.
+[p3c1] (E) Por quatro gerações estamos fazendo remédios como se a
+[p3c1] vida das pessoas dependesse deles.
+[p3c1] 5
+[p3c1] Assinale a frase em que a expressão é que está empregada para
+[p3c1] dar ênfase.
+[p3c1] (A) Quanto é que custam as batatas?
+[p3c1] (B) Onde é que você mora?
+[p3c1] (C) Como é que você se chama?
+[p3c1] (D) Quando é que é o dia da Independência?
+[p3c1] (E) Quando é que ela chega?
+[p3c1] 6
+[p3c1] Assinale a frase que mostra a presença de antônimos em sua
+[p3c1] estruturação.
+[p3c1] (A) Para grandes males, grandes remédios.
+[p3c1] (B) A distância mais longa é entre a cabeça e o coração.
+[p3c1] (C) Depois do jantar descansarás ou andarás mil passos.
+[p3c1] (D) Sabemos que tudo pode ser comum ou extraordinário.
+[p3c1] (E) Os médicos devem inserir fé e esperança nos pacientes.
+[p3c1] 7
+[p3c1] Leia a frase em discurso direto a seguir.
+[p3c1] — Amanhã estarei saindo daqui com minha irmã.
+[p3c1] Assinale a opção que apresenta essa frase em discurso indireto.
+[p3c1] (Começando por Ele disse que...)
+[p3c1] (A) amanhã estará saindo de lá com sua irmã.
+[p3c1] (B) amanhã estaria saindo de lá com a irmã dele.
+[p3c1] (C) amanhã estava saindo de lá com a irmã dele.
+[p3c1] (D) no dia seguinte estaria saindo de lá com sua irmã.
+[p3c1] (E) no dia seguinte ele estaria saindo de lá com a irmã dele.
+[p3c1] 8
+[p3c1] Assinale a opção que indica o fragmento textual que pertence ao
+[p3c1] modo narrativo de organização discursiva.
+[p3c1] (A) “A iluminação era fraca, mas, como havia luz externa, o
+[p3c1] problema era de pouca monta.”
+[p3c1] (B) “Alguns clientes conversavam em diversas mesas e pareciam
+[p3c1] contentes com alguma coisa.”
+[p3c1] (C) “O restaurante era pequeno, com muitas mesas espalhadas
+[p3c1] pelo salão, com velas sobre elas.”
+[p3c1] (D) “Restaurantes são lugares públicos e devem estar sempre
+[p3c1] com boa aparência para atrair os clientes.”
+[p3c1] (E) “Estava com fome. Dobrei a esquina, dirigi-me a um
+[p3c1] restaurante que estava aberto e sentei-me na primeira
+[p3c1] mesa.”
+[p3c1] S E CIÊNCIA DE DADOS – MANHÃ TIPO BRANCA – PÁGINA 3
+[p4c0] 9
+[p4c0] Assinale a frase que está inteiramente em linguagem lógica, sem
+[p4c0] conotação (linguagem figurada).
+[p4c0] (A) Dinheiro fala.
+[p4c0] (B) Êxtase: descobrir uma nova camada de bombons sob a
+[p4c0] primeira.
+[p4c0] (C) Se você ficar com medo da guerra, coma uma bomba de
+[p4c0] chocolate.
+[p4c0] (D) Se você tem alguma coisa importante a dizer, embrulhe-a em
+[p4c0] chocolate.
+[p4c0] (E) Lavo muita roupa no tanque e só ando de bicicleta. Acho que
+[p4c0] isso faz o corpo ficar em forma.
+[p4c0] 10
+[p4c0] Todo texto argumentativo mostra uma tese e os argumentos que
+[p4c0] a defendem.
+[p4c0] Assinale a frase em que o argumento apresentado é
+[p4c0] caracterizado como testemunho de autoridade.
+[p4c0] (A) Não deixe para amanhã o que pode fazer depois de amanhã.
+[p4c0] (B) Se quiser consertar o país, basta fazer com que todos creiam
+[p4c0] em Deus.
+[p4c0] (C) Sigo tomando o ônibus em lugar do metrô, pois assim faz a
+[p4c0] maioria dos cidadãos.
+[p4c0] (D) Já dizia meu pai que o samba brasileiro ia perder espaço para
+[p4c0] a música estrangeira.
+[p4c0] (E) Ontem choveu e as ruas ficaram alagadas; hoje, choveu de
+[p4c0] novo, logo as ruas ficarão alagadas.
+[p4c0] Língua Inglesa
+[p4c0] Read Text I and answer the five questions that follow it
+[p4c0] Text I
+[p4c0] Cybersecurity risk: time for auditors to take heed?
+[p4c0] The global interest in cybersecurity is growing. As we move
+[p4c0] into the cyber age, technology has become a huge part of both
+[p4c0] our everyday lives and today’s business environment, as more
+[p4c0] and more businesses increase their online presence and digital
+[p4c0] exposure by leveraging technology for almost every aspect of
+[p4c0] their business. But just as technology presents opportunities to
+[p4c0] many businesses, it also presents threats and challenges. Over
+[p4c0] the years, cyber attacks have continued to occur, escalating in
+[p4c0] frequency, severity and impact. These incidents have impacted
+[p4c0] every industry from financial services to retailers, entertainment
+[p4c0] and healthcare providers.
+[p4c0] […]
+[p4c0] Perhaps due to its constantly evolving nature, cybersecurity
+[p4c0] risk remains complex and abstract to many. There may also be a
+[p4c0] perception that cybersecurity risk is not relevant to small
+[p4c0] businesses, hence, cybersecurity risk may not have been
+[p4c0] considered and addressed in all financial statements audits. But
+[p4c0] let us think about this: risk assessment is a crucial part of audit
+[p4c0] planning and auditors are required under the auditing standards
+[p4c0] to obtain an understanding of business risks that may result in
+[p4c0] risks of material misstatement of the financial statements. Just as
+[p4c0] auditors would consider an entity’s business risks in a financial
+[p4c0] statements audit, cybersecurity risk is an equally important risk
+[p4c0] area that cannot be ignored. Perhaps even more so, given the
+[p4c0] broad extent to which cyber attacks can cause fundamental
+[p4c0] AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS
+[p4c1] enterprise-wide damage to organisations, and for some attacks,
+[p4c1] even a huge impact to the financial statements. Cybersecurity risk
+[p4c1] is hence an essential consideration in any financial statements
+[p4c1] audit.
+[p4c1] Adapted from : https://charteredaccountantsworldwide.com/cybersecurity-risk-
+[p4c1] time-for-auditors-to-take-heed/
+[p4c1] 11
+[p4c1] The objective of Text I is to
+[p4c1] (A) detail a plan.
+[p4c1] (B) place a complaint.
+[p4c1] (C) spread some panic.
+[p4c1] (D) provide an argument.
+[p4c1] (E) change some instructions.
+[p4c1] 12
+[p4c1] In the title, the expression take heed can be replaced, without
+[p4c1] significant change in meaning, by
+[p4c1] (A) consider carefully.
+[p4c1] (B) view marginally.
+[p4c1] (C) look casually.
+[p4c1] (D) think lightly.
+[p4c1] (E) act quickly.
+[p4c1] 13
+[p4c1] In technology has become a huge part of both our everyday lives
+[p4c1] and today’s business environment (1st paragraph), the word huge
+[p4c1] is similar in meaning to
+[p4c1] (A) small.
+[p4c1] (B) sizable.
+[p4c1] (C) narrow.
+[p4c1] (D) complex.
+[p4c1] (E) dangerous.
+[p4c1] 14
+[p4c1] The word hence in Cybersecurity risk is hence an essential
+[p4c1] consideration (2nd paragraph) is the same as
+[p4c1] (A) yet.
+[p4c1] (B) but.
+[p4c1] (C) often.
+[p4c1] (D) moreover.
+[p4c1] (E) therefore.
+[p4c1] 15
+[p4c1] The first word in the fragment Perhaps due to its constantly
+[p4c1] evolving nature (2nd paragraph) expresses
+[p4c1] (A) validity.
+[p4c1] (B) urgency.
+[p4c1] (C) disparity.
+[p4c1] (D) frequency.
+[p4c1] (E) uncertainty.
+[p4c1] S E CIÊNCIA DE DADOS – MANHÃ TIPO BRANCA – PÁGINA 4
+[p5c0] Read Text II and answer the five questions that follow it
+[p5c0] Text II
+[p5c0] OpenAI’s GPT-4 Scores in the Top 1% of Creative Thinking
+[p5c0] By Erik Guzik
+[p5c0] Of all the forms of human intellect that one might expect
+[p5c0] artificial intelligence to emulate, few people would likely place
+[p5c0] creativity at the top of their list. Creativity is wonderfully
+[p5c0] mysterious—and frustratingly fleeting. It defines us as human
+[p5c0] beings—and seemingly defies the cold logic that lies behind the
+[p5c0] silicon curtain of machines. Yet, the use of AI for creative
+[p5c0] endeavors is now growing.
+[p5c0] New AI tools like DALL-E and Midjourney are increasingly part
+[p5c0] of creative production, and some have started to win awards for
+[p5c0] their creative output. The growing impact is both social and
+[p5c0] economic—as just one example, the potential of AI to generate
+[p5c0] new, creative content is a defining flashpoint behind the
+[p5c0] Hollywood writers’ strike.
+[p5c0] And if our recent study into the striking originality of AI is any
+[p5c0] indication, the emergence of AI-based creativity—along with
+[p5c0] examples of both its promise and peril—is likely just beginning.
+[p5c0] When people are at their most creative, they’re responding
+[p5c0] to a need, goal, or problem by generating something new—a
+[p5c0] product or solution that didn’t previously exist.
+[p5c0] In this sense, creativity is an act of combining existing
+[p5c0] resources — ideas, materials, knowledge — in a novel way that’s
+[p5c0] useful or gratifying. Quite often, the result of creative thinking is
+[p5c0] also surprising, leading to something the creator did not — and
+[p5c0] perhaps could not — foresee.
+[p5c0] Our results?
+[p5c0] GPT-4 scored in the top 1 percent of test-takers for the
+[p5c0] originality of its ideas. From our research, we believe this marks
+[p5c0] one of the first examples of AI meeting or exceeding the human
+[p5c0] ability for original thinking.
+[p5c0] In short, we believe that AI models like GPT-4 are capable of
+[p5c0] producing ideas that people see as unexpected, novel, and
+[p5c0] unique. Other researchers are arriving at similar conclusions in
+[p5c0] their research of AI and creativity.
+[p5c0] Adapted from https://singularityhub.com/2023/09/10/openais-gpt-4-scores-in-the-
+[p5c0] top-1-of-creative-thinking/
+[p5c0] 16
+[p5c0] Based on Text II, mark the statements below as true (T) or false
+[p5c0] (F).
+[p5c0] ( ) The text opens by asserting that emulating human creativity
+[p5c0] has always been considered by everybody as a priority in AI
+[p5c0] projects.
+[p5c0] ( ) The outcome of creative thinking can be unpredictable at
+[p5c0] times.
+[p5c0] ( ) The author concludes that using AI for creative ventures is
+[p5c0] worth the effort.
+[p5c0] The statements are, respectively,
+[p5c0] (A) F – F – T.
+[p5c0] (B) F – T – T.
+[p5c0] (C) T – F – T.
+[p5c0] (D) T – F – F.
+[p5c0] (E) T – T – F.
+[p5c0] AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS
+[p5c1] 17
+[p5c1] The modal verb might in one might expect artificial intelligence to
+[p5c1] emulate (1st paragraph) expresses
+[p5c1] (A) singularity.
+[p5c1] (B) permission.
+[p5c1] (C) possibility.
+[p5c1] (D) obligation.
+[p5c1] (E) ability.
+[p5c1] 18
+[p5c1] When the writer qualifies creativity as being frustratingly fleeting
+[p5c1] (1st paragraph), he characterizes it as being disappointingly
+[p5c1] (A) taxing.
+[p5c1] (B) lasting.
+[p5c1] (C) strenuous.
+[p5c1] (D) momentary.
+[p5c1] (E) cumbersome.
+[p5c1] 19
+[p5c1] When the author informs that some have started to win awards
+[p5c1] for their creative output (2nd paragraph), he reveals that creative
+[p5c1] tools are being
+[p5c1] (A) bailed.
+[p5c1] (B) broken.
+[p5c1] (C) banned.
+[p5c1] (D) boosted.
+[p5c1] (E) burglarized.
+[p5c1] 20
+[p5c1] In the last paragraph, the phrase In short is similar in meaning to
+[p5c1] (A) In a nutshell.
+[p5c1] (B) Besides that.
+[p5c1] (C) Still further.
+[p5c1] (D) In addition.
+[p5c1] (E) Thus far.
+[p5c1] Legislação Aplicável ao Tribunal de
+[p5c1] Contas do Estado do Piauí
+[p5c1] 21
+[p5c1] O TCE-PI, no exercício do controle externo da Administração
+[p5c1] Pública, tem competência para controlar as contas dos
+[p5c1] administradores e demais responsáveis por dinheiros, bens e
+[p5c1] valores da Administração direta e indireta e as contas daqueles
+[p5c1] que derem causa a perda, extravio ou outra irregularidade de que
+[p5c1] resulte prejuízo ao erário.
+[p5c1] Em alguns casos, o TCE-PI julga diretamente as contas, e, em
+[p5c1] outros casos, apenas as aprecia, mediante parecer prévio,
+[p5c1] cabendo ao Poder Legislativo o seu julgamento.
+[p5c1] Nesses termos, considere os seguintes órgãos e agentes públicos:
+[p5c1] I. Mesa Diretora da Assembleia Legislativa.
+[p5c1] II. Presidente do Tribunal de Justiça.
+[p5c1] III. Presidente do TCE-PI.
+[p5c1] IV. Prefeito(a) de Teresina-PI.
+[p5c1] V. Governador(a) do Estado do Piauí.
+[p5c1] Caberá ao TCE-PI julgar as contas apenas de
+[p5c1] (A) II e III.
+[p5c1] (B) II e IV.
+[p5c1] (C) I, II e III.
+[p5c1] (D) I, IV e V.
+[p5c1] (E) I, II, III e IV.
+[p5c1] S E CIÊNCIA DE DADOS – MANHÃ TIPO BRANCA – PÁGINA 5
+[p6c0] 22
+[p6c0] No curso de auditoria governamental na Secretaria de Cultura do
+[p6c0] Município Alfa, jurisdicionado do TCE-PI, os auditores da Corte de
+[p6c0] Contas identificaram inconsistências na contratação de shows e
+[p6c0] eventos pela municipalidade, com valores muito além dos
+[p6c0] praticados pelo mercado e completamente dissonantes da
+[p6c0] realidade financeira e orçamentária do ente.
+[p6c0] Ficou evidenciado que tal fato era de conhecimento não só do
+[p6c0] Prefeito e do Secretário de Cultura, mas também do controlador
+[p6c0] interno, Carlos, servidor exclusivamente comissionado.
+[p6c0] Em sede de entrevista, foi evidenciado que o controlador não
+[p6c0] tomou qualquer medida sanatória e nem reportou a
+[p6c0] irregularidade ao TCE-PI por receio de ser exonerado ad nutum,
+[p6c0] uma vez que não titulariza cargo público efetivo, não gozando de
+[p6c0] estabilidade.
+[p6c0] Nos termos do Regimento Interno do TCE-PI, a omissão no dever
+[p6c0] de informar à Corte de Contas as irregularidades apuradas no
+[p6c0] âmbito do controle interno, acarretará a Carlos sua
+[p6c0] (A) isenção de culpa.
+[p6c0] (B) responsabilização solidária.
+[p6c0] (C) responsabilização eventual, apenas no caso de reiteração da
+[p6c0] conduta omissiva.
+[p6c0] (D) responsabilização eventual, apenas no caso de as contas do
+[p6c0] prefeito serem julgadas regulares.
+[p6c0] (E) responsabilização subsidiária, apenas nos casos das contas do
+[p6c0] prefeito serem julgadas regulares com ressalvas.
+[p6c0] 23
+[p6c0] A adoção da forma republicana de Estado acarreta o dever de
+[p6c0] accountability, impondo-se a responsabilidade de prestação de
+[p6c0] contas por aqueles que administram recursos públicos.
+[p6c0] No processo de prestação de contas perante o Tribunal de Contas
+[p6c0] do Estado do Piauí, a Corte detém competência para emitir
+[p6c0] parecer prévio e julgar as contas de gestores de recursos públicos
+[p6c0] regulares, regulares com ressalva ou irregulares.
+[p6c0] Nos termos do regimento interno do TCE-PI, assinale a afirmativa
+[p6c0] correta acerca da natureza da decisão de julgamento de contas.
+[p6c0] (A) Preliminar, não sujeita a recurso.
+[p6c0] (B) Definitiva, sujeita a recurso de apelação no prazo de 30 dias.
+[p6c0] (C) Preliminar, sujeita a pedido de reexame no prazo de 30 dias.
+[p6c0] (D) Definitiva, sujeita a recurso de reconsideração no prazo de
+[p6c0] 30 dias.
+[p6c0] (E) Terminativa, sujeita a recurso ordinário constitucional
+[p6c0] perante o STJ, no prazo de 15 dias úteis.
+[p6c0] AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS
+[p6c1] 24
+[p6c1] O Município Alfa, jurisdicionado do TCE-PI, após processo
+[p6c1] licitatório, firmou contrato de fornecimento de produtos
+[p6c1] hospitalares para seu Hospital Municipal, permitindo a prestação
+[p6c1] do serviço público de saúde com regularidade.
+[p6c1] Ato contínuo, o prefeito municipal nomeou sua filha, Carla, para
+[p6c1] exercer cargo administrativo, no qual teria, entre outras
+[p6c1] atribuições, a posição de fiscal do referido contrato.
+[p6c1] Em sede de auditoria, o controle interno municipal identificou
+[p6c1] superfaturamento no contrato de fornecimento de produtos
+[p6c1] hospitalares e a prática de nepotismo, ante a nomeação de Carla
+[p6c1] para o cargo administrativo, tendo imediatamente comunicado à
+[p6c1] Corte de Contas.
+[p6c1] Tendo tomado conhecimento dos fatos supramencionados, o
+[p6c1] TCE-PI assinou prazo para que o Município adotasse as
+[p6c1] providências necessárias ao exato cumprimento da lei, o que não
+[p6c1] foi atendido.
+[p6c1] Nos termos da Lei Orgânica do TCE-PI, com relação ao ato de
+[p6c1] nomeação de Carla e ao contrato de fornecimento de produtos
+[p6c1] hospitalares, com vistas a sanar as irregularidades apresentadas,
+[p6c1] a Corte de Contas deverá
+[p6c1] (A) sustar o ato de nomeação de Carla, comunicando a decisão à
+[p6c1] Assembleia Legislativa e oficiar à Câmara Municipal acerca
+[p6c1] das irregularidades verificadas no contrato, determinando
+[p6c1] que delibere sobre a sustação de seus efeitos.
+[p6c1] (B) oficiar à Câmara Municipal acerca das irregularidades
+[p6c1] verificadas no ato de nomeação de Carla, sugerindo que
+[p6c1] delibere sobre a sustação de seus efeitos e sustar o contrato,
+[p6c1] comunicando a decisão à Câmara Municipal.
+[p6c1] (C) oficiar ao Tribunal de Justiça do Estado do Piauí acerca das
+[p6c1] irregularidades no ato de nomeação de Carla e comunicar à
+[p6c1] Assembleia Legislativa acerca das irregularidades verificadas
+[p6c1] no contrato.
+[p6c1] (D) oficiar ao Supremo Tribunal Federal acerca das
+[p6c1] irregularidades no ato de nomeação de Carla, ante a violação
+[p6c1] à Súmula Vinculante 13 e comunicar ao Congresso Nacional
+[p6c1] acerca das irregularidades verificadas no contrato.
+[p6c1] (E) sustar o ato de nomeação de Carla, comunicando a decisão à
+[p6c1] Câmara Municipal e oficiar à Câmara Municipal acerca de
+[p6c1] irregularidades verificadas no contrato, sugerindo que
+[p6c1] delibere sobre a sustação de seus efeitos.
+[p6c1] S E CIÊNCIA DE DADOS – MANHÃ TIPO BRANCA – PÁGINA 6
+[p7c0] 25
+[p7c0] No plano anual de controle externo dos exercícios de 2024/2025
+[p7c0] do TCE-PI, estão previstas as realizações de fiscalizações pelas
+[p7c0] unidades técnicas da Secretaria de Controle Externo nas áreas de
+[p7c0] educação, gestão ambiental e segurança pública, visando
+[p7c0] I. examinar a legalidade e a legitimidade dos atos de gestão dos
+[p7c0] responsáveis sujeitos à sua jurisdição, quanto aos aspectos
+[p7c0] contábil, financeiro, orçamentário, operacional e patrimonial.
+[p7c0] II. avaliar, ao longo de um período predeterminado, o
+[p7c0] desempenho dos órgãos e das entidades jurisdicionadas,
+[p7c0] assim como dos sistemas, dos programas e das ações
+[p7c0] governamentais, quanto aos aspectos da economicidade, da
+[p7c0] eficiência e da eficácia dos atos praticados.
+[p7c0] III. conhecer a organização e o funcionamento dos órgãos e das
+[p7c0] entidades da administração direta, indireta e fundacional do
+[p7c0] Estado e dos Municípios, incluindo fundos e demais
+[p7c0] instituições que lhe sejam jurisdicionadas, assim como dos
+[p7c0] sistemas, dos programas e das ações governamentais sob os
+[p7c0] aspectos contábil, financeiro, orçamentário, operacional e
+[p7c0] patrimonial.
+[p7c0] Considerando as disposições do Regimento Interno, os
+[p7c0] instrumentos de fiscalização adequados a serem utilizados pelas
+[p7c0] unidades técnicas na execução do plano proposto pela Secretaria
+[p7c0] de Controle Externo do TCE-PI são, respectivamente,
+[p7c0] (A) inspeção, monitoramento e levantamento.
+[p7c0] (B) levantamento, monitoramento e inspeção.
+[p7c0] (C) auditoria, monitoramento e levantamento.
+[p7c0] (D) monitoramento, auditoria e acompanhamento.
+[p7c0] (E) auditoria, acompanhamento e levantamento.
+[p7c0] 26
+[p7c0] Luciana, auditora de controle externo do Tribunal de Contas do
+[p7c0] Estado do Piauí, obteve, no curso de auditoria governamental,
+[p7c0] informações sigilosas de órgão jurisdicionado da Corte de Contas,
+[p7c0] tomando a devida cautela no seu armazenamento e na restrição
+[p7c0] de acesso.
+[p7c0] Visando robustecer ainda mais as evidências obtidas, Luciana
+[p7c0] realizou entrevistas de auditoria com outros órgãos
+[p7c0] jurisdicionados do TCE-PI e com representantes da sociedade
+[p7c0] civil, disponibilizando as informações sigilosas recebidas para fins
+[p7c0] de confronto e circularização.
+[p7c0] Nos termos do Estatuto dos Servidores Públicos do Estado do
+[p7c0] Piauí, a conduta de Luciana de divulgar informações sigilosas
+[p7c0] obtidas no exercício das funções pode sujeitá-la à penalidade
+[p7c0] disciplinar de
+[p7c0] (A) demissão.
+[p7c0] (B) suspensão.
+[p7c0] (C) advertência.
+[p7c0] (D) destituição de função gratificada.
+[p7c0] (E) destituição de cargo em comissão.
+[p7c0] AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS
+[p7c1] 27
+[p7c1] Nos termos do regimento interno do Tribunal de Contas do
+[p7c1] Estado do Piauí, sobre o parecer prévio emitido pela Corte, no
+[p7c1] âmbito das contas do chefe do Poder Executivo municipal,
+[p7c1] assinale a afirmativa correta.
+[p7c1] (A) Estará sujeito a julgamento pelo Tribunal de Justiça do Estado
+[p7c1] do Piauí, após emissão de parecer prévio pelo TCE-PI, que só
+[p7c1] deixará de prevalecer por decisão de dois terços da
+[p7c1] totalidade dos membros do órgão judicial.
+[p7c1] (B) Estará sujeito a julgamento pela Câmara Municipal, após
+[p7c1] emissão de parecer prévio pelo TCE-PI, que só deixará de
+[p7c1] prevalecer por decisão de dois terços da totalidade dos
+[p7c1] membros da Câmara Municipal.
+[p7c1] (C) Estará sujeito a julgamento pela Câmara Municipal, após
+[p7c1] emissão de parecer prévio pelo TCE-PI, que só deixará de
+[p7c1] prevalecer por decisão de três quintos da totalidade dos
+[p7c1] membros da Câmara Municipal.
+[p7c1] (D) Estará sujeito a julgamento pela Assembleia Legislativa, após
+[p7c1] emissão de parecer prévio pelo TCE-PI, que só deixará de
+[p7c1] prevalecer por decisão de dois terços da totalidade dos
+[p7c1] membros da Assembleia Legislativa.
+[p7c1] (E) Estará sujeito a julgamento pelo TCE-PI, após emissão de
+[p7c1] parecer prévio pela Secretaria de Controle Externo do órgão,
+[p7c1] que só deixará de prevalecer por decisão de dois terços da
+[p7c1] totalidade dos membros da Corte de Contas.
+[p7c1] 28
+[p7c1] No curso de auditoria governamental para fiscalização da
+[p7c1] regularidade dos contratos de fornecimento de merendas
+[p7c1] escolares para a Escola Municipal Alfa, os auditores de controle
+[p7c1] externo do TCE-PI verificaram fortes indícios de
+[p7c1] superfaturamento dos contratos, oriundos de conduta dolosa de
+[p7c1] agentes públicos, sob a chefia do Secretário Municipal de
+[p7c1] Educação.
+[p7c1] Percebendo que o avanço das investigações levaria
+[p7c1] inexoravelmente à descoberta de seu envolvimento nos danos
+[p7c1] causados ao erário, o secretário tomou providências para impedir
+[p7c1] a atuação da equipe de auditores, se negando a permitir sua
+[p7c1] entrada nas dependências da Secretaria, bem como negando o
+[p7c1] acesso às informações e aos documentos requisitados por ela.
+[p7c1] Ante a frustração da execução da auditoria, a equipe de auditores
+[p7c1] reportou o fato ao corpo deliberativo da Corte de Contas,
+[p7c1] sugerindo a aplicação de medidas que garantam a continuidade
+[p7c1] dos trabalhos.
+[p7c1] Ciente da situação, a Corte de Contas determinará,
+[p7c1] (A) cautelarmente, o julgamento das contas de Bruno irregulares,
+[p7c1] por deliberação do Conselheiro relator.
+[p7c1] (B) cautelarmente, o afastamento temporário de Bruno, por
+[p7c1] deliberação da maioria absoluta do colegiado competente.
+[p7c1] (C) definitivamente, o afastamento de Bruno, por deliberação da
+[p7c1] maioria relativa do colegiado competente, em voto secreto.
+[p7c1] (D) cautelarmente, o ressarcimento ao erário pelos danos
+[p7c1] decorrentes do superfaturamento dos contratos, ainda que
+[p7c1] não liquidados.
+[p7c1] (E) cautelarmente, a realização de monitoramento, com escolta
+[p7c1] da equipe de auditores pela polícia militar, visando garantir a
+[p7c1] continuidade da auditoria.
+[p7c1] S E CIÊNCIA DE DADOS – MANHÃ TIPO BRANCA – PÁGINA 7
+[p8c0] 29
+[p8c0] Rodrigo, servidor público efetivo do município de Teresina-PI,
+[p8c0] requereu sua aposentadoria perante o órgão de origem, tendo o
+[p8c0] ato de aposentadoria sido encaminhado ao TCE-PI para fins de
+[p8c0] apreciação de sua legalidade.
+[p8c0] Seis anos após a chegada do processo à Corte de Contas, sua
+[p8c0] análise foi realizada por Márcio, auditor de controle externo, que
+[p8c0] verificou ainda serem necessários 7 meses de efetivo exercício
+[p8c0] das atividades para que Rodrigo alcançasse o período aquisitivo
+[p8c0] para sua aposentadoria.
+[p8c0] Considerando a jurisprudência do Supremo Tribunal Federal
+[p8c0] acerca do tema, o auditor, em sede de instrução processual, deve
+[p8c0] (A) decidir pela remessa ao Poder Judiciário, visto que não cabe
+[p8c0] ao TCE-PI analisar a legalidade de atos de aposentadoria.
+[p8c0] (B) remeter à Assembleia Legislativa, visto que cabe ao Poder
+[p8c0] Legislativo o exercício do controle externo da administração,
+[p8c0] observado o contraditório.
+[p8c0] (C) remeter à Câmara Municipal, visto que cabe ao Poder
+[p8c0] Legislativo o exercício do controle externo da administração,
+[p8c0] observado o contraditório.
+[p8c0] (D) opinar pela ilegalidade do ato de concessão inicial de
+[p8c0] aposentadoria, ante a ausência de cumprimento do período
+[p8c0] aquisitivo, independentemente de contraditório.
+[p8c0] (E) opinar pela legalidade do ato de concessão inicial de
+[p8c0] aposentadoria, ante o advento do lapso de 6 anos desde a
+[p8c0] chegada do processo à Corte de Contas, independentemente
+[p8c0] de contraditório.
+[p8c0] 30
+[p8c0] Laura, auditora do TCE-PI, foi escalada para compor a equipe que
+[p8c0] executará auditoria governamental no âmbito das políticas de
+[p8c0] combate à violência doméstica e familiar contra a mulher, tendo
+[p8c0] como órgãos auditados as delegacias especializadas no
+[p8c0] atendimento à mulher do Estado.
+[p8c0] Considerando que Laura foi vítima de violência doméstica por
+[p8c0] parte de seu ex-marido, com medida protetiva em vigor, e que a
+[p8c0] execução da auditoria lhe daria poder de fiscalizar e de
+[p8c0] influenciar a atividade administrativa dos agentes policiais que
+[p8c0] investigam seu caso, deverá a auditora, nos termos do Código de
+[p8c0] Ética dos Servidores do TCE-PI, declarar-se
+[p8c0] (A) suspeita, abstendo-se de atuar de qualquer forma no
+[p8c0] processo administrativo.
+[p8c0] (B) impedida, abstendo-se de atuar de qualquer forma no
+[p8c0] processo administrativo.
+[p8c0] (C) impedida, podendo atuar no processo administrativo, desde
+[p8c0] que supervisionada por seus pares.
+[p8c0] (D) suspeita, podendo atuar no processo administrativo, desde
+[p8c0] que supervisionada por seus pares.
+[p8c0] (E) suspeita, podendo atuar no processo administrativo, desde
+[p8c0] que não tenha contato direto com o jurisdicionado.
+[p8c0] AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS
+[p8c1] CONHECIMENTOS ESPECÍFICOS
+[p8c1] Administração Financeira e
+[p8c1] Orçamentária
+[p8c1] 31
+[p8c1] Do Manual Técnico do Orçamento depreende-se as possíveis
+[p8c1] tipologias para classificação da despesa.
+[p8c1] A esse respeito, assinale a afirmativa correta.
+[p8c1] (A) A classificação por Esfera Orçamentária é formada por
+[p8c1] funções e subfunções e procura explicitar as áreas em que as
+[p8c1] despesas são realizadas.
+[p8c1] (B) Em se tratando de despesa por Esfera Orçamentária, há
+[p8c1] apenas duas possíveis classificações: 10 – Orçamento Fiscal e
+[p8c1] 20 – Orçamento da Seguridade Social.
+[p8c1] (C) Na classificação por Esfera Orçamentária temos os dois
+[p8c1] primeiros dígitos para o Órgão Orçamentário e os três dígitos
+[p8c1] seguintes para a Unidade Orçamentária.
+[p8c1] (D) A classificação institucional engloba o orçamento das
+[p8c1] empresas em que a União, direta ou indiretamente, detenha
+[p8c1] a maioria do capital social com direito a voto, ou seja, o
+[p8c1] Orçamento de Investimento.
+[p8c1] (E) Em termos de Classificação Institucional, alguns fundos
+[p8c1] especiais podem figurar como um Órgão Orçamentário ou
+[p8c1] uma Unidade Orçamentária, sem corresponder,
+[p8c1] necessariamente, a uma estrutura administrativa.
+[p8c1] 32
+[p8c1] O processo de elaboração das estimativas de Receitas
+[p8c1] Orçamentárias possui etapas que envolvem a revisão e a
+[p8c1] possibilidade de alteração nas estimativas realizadas, para as
+[p8c1] quais se requer uma justificativa, que não pode ser
+[p8c1] (A) pautada em uma argumentação de necessidade de gasto
+[p8c1] essencial.
+[p8c1] (B) baseada em alterações nas alíquotas ou valores de taxas,
+[p8c1] tarifas e/ou serviços.
+[p8c1] (C) baseada no fato de se tratar de uma receita nova, que não
+[p8c1] possui histórico de arrecadação, dificultando a modelagem
+[p8c1] no SIOP.
+[p8c1] (D) fundamentada em situações a partir das quais as receitas
+[p8c1] forem impactadas direta ou indiretamente por efeitos
+[p8c1] decorrentes de alterações legais ou contratuais.
+[p8c1] (E) sustentada a partir do fato de que se trata de uma receita
+[p8c1] atípica ou de baixa previsibilidade, de difícil modelagem no
+[p8c1] SIOP, como por exemplo as receitas oriundas de licitações,
+[p8c1] convênios, doações, inscrições, entre outras.
+[p8c1] S E CIÊNCIA DE DADOS – MANHÃ TIPO BRANCA – PÁGINA 8
+[p9c0] 33
+[p9c0] A Seção IV do Capítulo II da Lei de Responsabilidade Fiscal trata
+[p9c0] da Execução Orçamentária e do Cumprimento das Metas no
+[p9c0] Orçamento Público.
+[p9c0] Sobre este tema, avalie as afirmativas a seguir.
+[p9c0] I. A execução orçamentária e financeira identificará os
+[p9c0] beneficiários de pagamento de sentenças judiciais, por meio
+[p9c0] de sistema de contabilidade e administração financeira, para
+[p9c0] fins de observância da ordem cronológica.
+[p9c0] II. O Ministério da Fazenda é o órgão responsável para, no prazo
+[p9c0] de noventa dias após o encerramento de cada semestre,
+[p9c0] avaliar o cumprimento dos objetivos e metas das políticas
+[p9c0] monetária e creditícia, evidenciando o impacto e o custo
+[p9c0] fiscal de suas operações e os resultados demonstrados nos
+[p9c0] balanços.
+[p9c0] III. Uma vez estabelecida a programação financeira e o
+[p9c0] cronograma de execução mensal de desembolso pelo Poder
+[p9c0] Executivo, é possível utilizar recursos legalmente vinculados à
+[p9c0] finalidade específica para atender ao objeto de sua
+[p9c0] vinculação, mesmo que seja em exercício diverso daquele em
+[p9c0] que ocorrer o ingresso.
+[p9c0] Está correto o que se afirma em
+[p9c0] (A) I, apenas.
+[p9c0] (B) I e II, apenas.
+[p9c0] (C) I e III, apenas.
+[p9c0] (D) II e III, apenas.
+[p9c0] (E) I, II e III.
+[p9c0] 34
+[p9c0] Relacione os procedimentos da Contabilidade Aplicada ao Setor
+[p9c0] Público (CASP) a seguir às respectivas afirmativas.
+[p9c0] 1. Orçamentário.
+[p9c0] 2. Patrimonial.
+[p9c0] 3. Fiscal.
+[p9c0] ( ) Os princípios e as normas contábeis voltadas para o
+[p9c0] reconhecimento, a mensuração e a evidenciação dos ativos e
+[p9c0] passivos e de suas variações, devem ser atendidos.
+[p9c0] ( ) Compreende a apuração e a evidenciação, por meio da
+[p9c0] contabilidade, dos indicadores estabelecidos pela LRF. Entre
+[p9c0] os objetivos de seus relatórios está o de analisar o equilíbrio
+[p9c0] das contas públicas.
+[p9c0] ( ) Os procedimentos contábeis visam melhorar a qualidade e a
+[p9c0] consistência das informações prestadas a toda a sociedade,
+[p9c0] de modo a possibilitar o exercício da cidadania no processo
+[p9c0] de fiscalização da arrecadação das receitas e da execução das
+[p9c0] despesas.
+[p9c0] Assinale a opção que apresenta a relação correta, segundo a
+[p9c0] ordem apresentada.
+[p9c0] (A) 1 – 2 – 3.
+[p9c0] (B) 2 – 3 – 1.
+[p9c0] (C) 3 – 1 – 2.
+[p9c0] (D) 1 – 3 – 2.
+[p9c0] (E) 2 – 1 – 3.
+[p9c0] AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS
+[p9c1] 35
+[p9c1] Sobre os instrumentos de planejamento orçamentário, avalie as
+[p9c1] afirmativas a seguir.
+[p9c1] I. Em consonância com o PPA, compete à Lei de Diretrizes
+[p9c1] Orçamentárias (LDO), entre outras atribuições, estabelecer as
+[p9c1] metas e prioridades da administração pública e orientar a
+[p9c1] elaboração dos orçamentos anuais.
+[p9c1] II. A Lei de Responsabilidade Fiscal (LRF) conferiu à LDO novas e
+[p9c1] importantes atribuições, além das constitucionalmente
+[p9c1] previstas, especialmente no tocante à fixação de metas
+[p9c1] fiscais.
+[p9c1] III. À luz do PPA e da LDO, cabe à Lei Orçamentária Anual (LOA)
+[p9c1] estimar receitas e fixar despesas, de modo a efetivamente
+[p9c1] autorizar a realização de gastos públicos em determinado
+[p9c1] exercício financeiro.
+[p9c1] Está correto o que se afirma em
+[p9c1] (A) I, apenas.
+[p9c1] (B) I e II, apenas.
+[p9c1] (C) I e III, apenas.
+[p9c1] (D) II e III, apenas.
+[p9c1] (E) I, II e III.
+[p9c1] 36
+[p9c1] Com relação ao Orçamento-Programa, avalie as afirmativas a
+[p9c1] seguir e assinale (V) para a verdadeira e (F) para a falsa.
+[p9c1] ( ) O Orçamento-Programa está ligado à ideia de planejamento.
+[p9c1] Assim, o orçamento deve considerar os objetivos que o
+[p9c1] governo pretende alcançar, durante um período determinado
+[p9c1] de tempo.
+[p9c1] ( ) O Orçamento-Programa tem como característica marcante a
+[p9c1] avaliação da eficiência, da eficácia e da efetividade das ações
+[p9c1] governamentais.
+[p9c1] ( ) No Orçamento-Programa as decisões orçamentárias são
+[p9c1] tomadas tendo em vista as necessidades das unidades
+[p9c1] organizacionais.
+[p9c1] As afirmativas são, respectivamente,
+[p9c1] (A) V – V – V.
+[p9c1] (B) V – V – F.
+[p9c1] (C) F – V – V.
+[p9c1] (D) V – F – V.
+[p9c1] (E) F – V – F.
+[p9c1] 37
+[p9c1] A CRFB/88 estabelece:
+[p9c1] “Art. 167. São vedados: [...] IV. A vinculação de receita de
+[p9c1] impostos a órgão, fundo ou despesa, ressalvadas a repartição do
+[p9c1] produto da arrecadação dos impostos a que se referem os Arts.
+[p9c1] 158 e 159, a destinação de recursos para as ações e serviços
+[p9c1] públicos de saúde, para manutenção e desenvolvimento do ensino
+[p9c1] e para realização de atividades da administração tributária [...]”
+[p9c1] Com relação aos impostos e às vinculações, o princípio da
+[p9c1] Constituição Federal que o texto acima consagra é o
+[p9c1] (A) do Equilíbrio.
+[p9c1] (B) da Exclusividade.
+[p9c1] (C) da Uniformidade.
+[p9c1] (D) do Orçamento Bruto.
+[p9c1] (E) da Não-Afetação das Receitas.
+[p9c1] S E CIÊNCIA DE DADOS – MANHÃ TIPO BRANCA – PÁGINA 9
+[p10c0] 38
+[p10c0] Com relação ao Anexo de Metas Fiscais, que integrará o Projeto
+[p10c0] de Lei de Diretrizes Orçamentárias, em atendimento ao disposto
+[p10c0] no Art. 4º, § 1º, da Lei Complementar nº 101/2000, e que deverá
+[p10c0] ser elaborado, de acordo com o Art. 1º, § 2º, da LRF, pelo Poder
+[p10c0] Executivo da União, dos Estados, do Distrito Federal e dos
+[p10c0] Municípios, abrangendo tanto o Poder Executivo quanto os
+[p10c0] Poderes Legislativo e Judiciário, avalie as afirmativas a seguir.
+[p10c0] I. O cumprimento das metas deve ser acompanhado com base
+[p10c0] nas informações divulgadas no Relatório Resumido da
+[p10c0] Execução Orçamentária e no Relatório de Gestão Fiscal.
+[p10c0] II. O Demonstrativo das Metas Anuais deverá ser instruído com
+[p10c0] a memória e a metodologia de cálculo, visando esclarecer a
+[p10c0] forma de obtenção dos valores relativos a receitas, despesas,
+[p10c0] resultado primário, resultado nominal, e montante da dívida
+[p10c0] pública.
+[p10c0] III. O Demonstrativo de Metas Anuais tem por objetivo, além de
+[p10c0] dar transparência sobre as metas fiscais, orientar a
+[p10c0] elaboração do projeto de lei orçamentária anual, de forma a
+[p10c0] permitir o alcance das metas, conforme planejado.
+[p10c0] Está correto o que se afirma em
+[p10c0] (A) I, apenas.
+[p10c0] (B) I e II, apenas.
+[p10c0] (C) I e III, apenas.
+[p10c0] (D) II e III, apenas.
+[p10c0] (E) I, II e III.
+[p10c0] Auditoria Governamental
+[p10c0] 39
+[p10c0] A NBASP 100 - Princípios Fundamentais de Auditoria no Setor
+[p10c0] Público estabelece as diretrizes essenciais que regem as
+[p10c0] auditorias governamentais, orientando a conduta e a prática dos
+[p10c0] auditores no setor público. Essa norma define os princípios
+[p10c0] básicos de independência, competência, ética e ceticismo
+[p10c0] profissional, além de enfatizar a necessidade de uma auditoria
+[p10c0] transparente, objetiva e eficiente, visando promover a
+[p10c0] responsabilidade, a boa governança e a prestação de contas no
+[p10c0] uso dos recursos públicos.
+[p10c0] Quanto à NBASP 100, avalie as afirmativas a seguir e assinale (V)
+[p10c0] para a verdadeira e (F) para a falsa.
+[p10c0] ( ) Em geral, a auditoria do setor público pode ser descrita como
+[p10c0] um processo sistemático de obter e avaliar objetivamente
+[p10c0] evidências para determinar se as informações ou as
+[p10c0] condições reais de um objeto estão de acordo com critérios
+[p10c0] aplicáveis.
+[p10c0] ( ) Todas as auditorias do setor público contam com os mesmos
+[p10c0] elementos básicos: o auditor, os demonstrativos contábeis e
+[p10c0] os usuários previstos (as três partes da auditoria).
+[p10c0] ( ) O objeto da auditoria refere-se à informação, condição ou
+[p10c0] atividade que é mensurada ou avaliada de acordo com certos
+[p10c0] critérios. Pode assumir várias formas e ter diferentes
+[p10c0] características, dependendo do objetivo da auditoria.
+[p10c0] As afirmativas são, respectivamente,
+[p10c0] (A) V – V – V.
+[p10c0] (B) V – F – V.
+[p10c0] (C) F – F – F.
+[p10c0] (D) V – V – F.
+[p10c0] (E) F – V – V.
+[p10c0] AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS
+[p10c1] 40
+[p10c1] A auditoria no setor público é fundamental para assegurar a
+[p10c1] correta aplicação dos recursos públicos, promovendo
+[p10c1] transparência, responsabilidade e boa governança. As auditorias
+[p10c1] ajudam a prevenir fraudes e desperdícios, fortalecendo a
+[p10c1] confiança dos cidadãos nas instituições governamentais e
+[p10c1] garantindo que os recursos sejam utilizados de forma ética e
+[p10c1] eficaz para o bem coletivo.
+[p10c1] Relacione os tipos principais de auditoria do setor público
+[p10c1] estabelecidos na NBASP 100 - Princípios Fundamentais de
+[p10c1] Auditoria no Setor Público, às suas respectivas definições.
+[p10c1] I. Auditoria Financeira
+[p10c1] II. Auditoria Operacional
+[p10c1] III. Auditoria de Conformidade
+[p10c1] ( ) Foca em determinar se um particular objeto está de acordo
+[p10c1] com normas identificadas como critérios. É realizada para
+[p10c1] avaliar se atividades, transações financeiras e informações
+[p10c1] cumprem, em todos os aspectos relevantes, as normas que
+[p10c1] regem a entidade auditada.
+[p10c1] ( ) Foca em determinar se intervenções, programas e
+[p10c1] instituições estão atuando em conformidade com os
+[p10c1] princípios de economicidade, de eficiência e de efetividade,
+[p10c1] bem como se há espaço para aperfeiçoamento. O objetivo é
+[p10c1] responder a questões-chave de auditoria e apresentar
+[p10c1] recomendações para aperfeiçoamento.
+[p10c1] ( ) Foca em determinar se a informação contábil de uma
+[p10c1] entidade é apresentada em conformidade com a estrutura de
+[p10c1] relatório financeiro e o marco regulatório aplicável.
+[p10c1] Assinale a opção que indica a relação correta, segundo a ordem
+[p10c1] apresentada.
+[p10c1] (A) I – II – III.
+[p10c1] (B) III – II – I.
+[p10c1] (C) III – I – II.
+[p10c1] (D) I – III – II.
+[p10c1] (E) II – III – I.
+[p10c1] 41
+[p10c1] A abordagem geral de auditoria é um elemento central de
+[p10c1] qualquer auditoria. Ela determina a natureza do exame que deve
+[p10c1] ser feito. Também define o conhecimento, a informação, os
+[p10c1] dados e os procedimentos de auditoria necessários para obtê-los
+[p10c1] e analisá-los.
+[p10c1] A auditoria operacional geralmente segue abordagens orientadas a
+[p10c1] (A) sistemas, resultados e problemas.
+[p10c1] (B) programas, processos e resultados.
+[p10c1] (C) orçamento, resultados e operações.
+[p10c1] (D) operações, desempenho e problemas.
+[p10c1] (E) sistemas, procedimentos e orçamento.
+[p10c1] S E CIÊNCIA DE DADOS – MANHÃ TIPO BRANCA – PÁGINA 10
+[p11c0] 42
+[p11c0] O Auditor Governamental, ao seguir os requisitos gerais da
+[p11c0] NBASP 3000, realiza auditorias operacionais com integridade,
+[p11c0] independência e competência, garantindo a credibilidade e a
+[p11c0] qualidade do trabalho. Esses requisitos asseguram que o auditor
+[p11c0] aplique ceticismo profissional, obtenha evidências apropriadas e
+[p11c0] suficientes, e adote uma abordagem baseada em risco.
+[p11c0] Quanto à NBASP 3000, avalie as afirmativas a seguir e assinale (V)
+[p11c0] para a verdadeira e (F) para a falsa.
+[p11c0] ( ) O auditor deve, como parte do planejamento e/ou da
+[p11c0] condução da auditoria, discutir os critérios de auditoria com a
+[p11c0] entidade auditada.
+[p11c0] ( ) O auditor deve gerenciar ativamente o risco de auditoria para
+[p11c0] evitar o desenvolvimento de achados, conclusões e
+[p11c0] recomendações incorretos ou incompletos, fornecendo
+[p11c0] informações inconsistentes ou que não agregam valor.
+[p11c0] ( ) O auditor deve planejar e manter uma comunicação eficaz e
+[p11c0] adequada dos aspectos-chave da auditoria com a entidade
+[p11c0] auditada e as partes interessadas durante todo o processo de
+[p11c0] auditoria.
+[p11c0] As afirmativas são, respectivamente,
+[p11c0] (A) V – F – V.
+[p11c0] (B) F – V – V.
+[p11c0] (C) V – V – V.
+[p11c0] (D) V – V – F.
+[p11c0] (E) V – F – F.
+[p11c0] 43
+[p11c0] A NBASP 400 - Auditoria de Conformidade assegura que o auditor
+[p11c0] execute seu trabalho de maneira objetiva, garantindo a
+[p11c0] transparência e a integridade da gestão pública. Ao promover a
+[p11c0] conformidade, a NBASP 400 reforça a responsabilidade e a
+[p11c0] prestação de contas, fortalecendo a confiança da sociedade nas
+[p11c0] instituições governamentais.
+[p11c0] Assinale a opção que indica o elemento que um Relatório de
+[p11c0] Auditoria de Conformidade deve incluir.
+[p11c0] (A) Local da auditoria.
+[p11c0] (B) Entidade revisora.
+[p11c0] (C) Programas avaliados.
+[p11c0] (D) Achados de auditoria.
+[p11c0] (E) Planejamento da auditoria.
+[p11c0] 44
+[p11c0] A avaliação de política pública objetiva avaliar a utilidade dessa
+[p11c0] política. Ela analisa seus objetivos, sua implementação, seus
+[p11c0] produtos, resultados e impactos o mais sistematicamente
+[p11c0] possível, mede seu desempenho visando avaliar sua utilidade.
+[p11c0] Por isso, a avaliação está se tornando cada vez mais importante
+[p11c0] para o debate público, uma vez que líderes políticos precisam
+[p11c0] tomar decisões baseadas em evidências.
+[p11c0] De acordo com a NBASP 9020, uma avaliação de política pública
+[p11c0] pode ser realizada em três momentos diferentes a saber:
+[p11c0] (A) antes, durante e depois.
+[p11c0] (B) antes, no início e no final.
+[p11c0] (C) no início, durante e depois.
+[p11c0] (D) no início, no meio e no final.
+[p11c0] (E) planejamento, execução e relatório.
+[p11c0] AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS
+[p11c1] Controle Externo da Administração
+[p11c1] Pública
+[p11c1] 45
+[p11c1] José, servidor efetivo de município jurisdicionado ao TCE-PI,
+[p11c1] praticou atos que violavam as normas financeiras, contábeis e
+[p11c1] orçamentárias aplicáveis, razão pela qual foi multado pela Corte
+[p11c1] de Contas Estadual, no valor de R$ 100.000,00 (cem mil reais).
+[p11c1] Os atos praticados por José não resultaram em prejuízo ao erário,
+[p11c1] pelo que a penalidade aplicada pode ser considerada uma multa
+[p11c1] simples.
+[p11c1] Sobre a hipótese, a execução do crédito decorrente da multa
+[p11c1] aplicada compete
+[p11c1] (A) ao Estado do Piauí.
+[p11c1] (B) ao Tribunal de Contas.
+[p11c1] (C) ao Tribunal Regional Eleitoral do Piauí.
+[p11c1] (D) à Câmara de Vereadores do respectivo Município.
+[p11c1] (E) ao Município a que José está vinculado funcionalmente.
+[p11c1] 46
+[p11c1] Ao Ministério Público junto ao TCE-PI (MPC-PI) incumbe a função
+[p11c1] constitucional de defesa da ordem jurídica, do regime
+[p11c1] democrático e dos interesses sociais e individuais indisponíveis.
+[p11c1] Sobre o MPC-PI, avalie as afirmativas a seguir.
+[p11c1] I. O dispositivo de lei orgânica estadual, que dispensa a
+[p11c1] formação de lista tríplice para nomeação de Procurador-Geral
+[p11c1] de Contas do MPC-PI, é constitucional.
+[p11c1] II. O Ministério Público junto ao Tribunal de Contas não dispõe
+[p11c1] de fisionomia institucional própria, não integrando o conceito
+[p11c1] de Ministério Público como ente despersonalizado de função
+[p11c1] essencial à Justiça.
+[p11c1] III. Ao MPC-PI compete a iniciativa legislativa para propor
+[p11c1] projetos de lei que tratem da criação e da extinção de seus
+[p11c1] cargos e serviços auxiliares, da política remuneratória de seus
+[p11c1] membros, seus planos de carreira e, especialmente, sobre
+[p11c1] sua organização e funcionamento.
+[p11c1] Está correto o que se afirma em
+[p11c1] (A) I, apenas.
+[p11c1] (B) I e II apenas.
+[p11c1] (C) I e III, apenas.
+[p11c1] (D) II e III, apenas.
+[p11c1] (E) I, II e III.
+[p11c1] 47
+[p11c1] Em razão da prática de ato danoso ao erário, o TCE-PI aplicou
+[p11c1] multa e imputou débito a João, gestor de uma autarquia de
+[p11c1] município jurisdicionado àquela Corte de Contas.
+[p11c1] A decisão do TCE-PI que resultou na imputação de débito a João
+[p11c1] tem natureza de
+[p11c1] (A) dívida ativa.
+[p11c1] (B) dívida tributária.
+[p11c1] (C) decisão jurisdicional.
+[p11c1] (D) título de crédito judicial.
+[p11c1] (E) título executivo extrajudicial.
+[p11c1] S E CIÊNCIA DE DADOS – MANHÃ TIPO BRANCA – PÁGINA 11
+[p12c0] 48
+[p12c0] José, Diretor-Presidente da Fundação de Educação do Município
+[p12c0] Beta, localizado no Estado Alfa, foi nomeado para esse cargo em
+[p12c0] janeiro de 2016, hipótese em que recebeu um montante
+[p12c0] significativo de recursos necessários à implementação de uma
+[p12c0] política pública voltada à melhoria da qualidade da educação.
+[p12c0] Em agosto de 2022, José foi exonerado do cargo, ocasião em que
+[p12c0] o Tribunal de Contas do Estado Alfa (TCE) iniciou uma auditoria
+[p12c0] para apurar a falta de aplicação dos recursos e a não realização
+[p12c0] da referida política pública.
+[p12c0] Em setembro de 2024, o TCE julgou os fatos apontados no
+[p12c0] relatório de auditoria, aplicando a José as penalidades de multa e
+[p12c0] de inabilitação para o exercício de cargo em comissão na
+[p12c0] administração pública direta e indireta nos entes federativos do
+[p12c0] Estado Alfa.
+[p12c0] Nessa hipótese, sobre a decisão do TCE que resultou na aplicação
+[p12c0] de penalidades, assinale a afirmativa correta.
+[p12c0] (A) Não está sujeita ao controle jurisdicional.
+[p12c0] (B) Tem a prescrição interrompida com a publicação do ato de
+[p12c0] exoneração de João.
+[p12c0] (C) Decai em 10 anos, a contar da prática dos fatos apurados no
+[p12c0] relatório de auditoria.
+[p12c0] (D) É válida, pois a pretensão punitiva do TCE tem seu termo
+[p12c0] prescricional iniciado em agosto de 2022.
+[p12c0] (E) É nula, em razão do advento da prescrição da pretensão
+[p12c0] punitiva, cujo termo inicial se deu em janeiro de 2016.
+[p12c0] 49
+[p12c0] Os Tribunais de Contas dos Estados são compostos por sete
+[p12c0] Conselheiros, dentre os quais, três são escolhidos pelo Poder
+[p12c0] Executivo (Governador do Estado) e os demais pelo Poder
+[p12c0] Legislativo (Assembleia Legislativa).
+[p12c0] Sobre as regras constitucionais de escolha de Conselheiro do TCE
+[p12c0] pelo Governador do Estado Alfa, avalie as afirmativas a seguir.
+[p12c0] I. Os critérios de antiguidade e merecimento não se aplicam na
+[p12c0] escolha do Conselheiro-Substituto para a vaga de Conselheiro
+[p12c0] Titular.
+[p12c0] II. A escolha de Procurador do Ministério Público de Contas para
+[p12c0] a vaga de Conselheiro do TCE prescinde de aprovação da
+[p12c0] Assembleia Legislativa do Estado Alfa.
+[p12c0] III. O Membro do Ministério Público de Contas deve contar com
+[p12c0] idade máxima de setenta anos para ocupar a vaga de
+[p12c0] Conselheiro do TCE.
+[p12c0] Está correto o que se afirma em
+[p12c0] (A) I, apenas.
+[p12c0] (B) II apenas.
+[p12c0] (C) III, apenas.
+[p12c0] (D) I e III, apenas.
+[p12c0] (E) II e III, apenas.
+[p12c0] AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS
+[p12c1] 50
+[p12c1] Adão, Conselheiro de Tribunal de Contas do Estado Alfa, foi
+[p12c1] denunciado pelo Ministério Público pela prática de crime comum
+[p12c1] (homicídio).
+[p12c1] A denúncia foi aceita pelo Superior Tribunal de Justiça e
+[p12c1] inaugurou o respectivo processo penal em que Adão figurou
+[p12c1] como réu.
+[p12c1] Considerando a situação hipotética, avalie as afirmativas a seguir.
+[p12c1] I. O processo deve ser encaminhado ao juízo de primeira
+[p12c1] instância, tendo em vista que o STJ somente pode processar e
+[p12c1] julgar os membros dos Tribunais de Contas por crimes
+[p12c1] relacionados ao exercício de suas funções.
+[p12c1] II. A prerrogativa de foro privilegiado fica afastada, exceto na
+[p12c1] hipótese de federalização das investigações, o que desloca a
+[p12c1] competência do julgamento para o STF.
+[p12c1] III. O crime cometido pelo Conselheiro, mesmo que não esteja
+[p12c1] relacionado às suas funções, deverá ser julgado pelo STJ com
+[p12c1] o objetivo de preservar a isenção (imparcialidade e
+[p12c1] independência) do órgão julgador.
+[p12c1] Está correto o que se afirma em
+[p12c1] (A) I, apenas.
+[p12c1] (B) II, apenas.
+[p12c1] (C) III, apenas.
+[p12c1] (D) I e II, apenas.
+[p12c1] (E) II e III, apenas.
+[p12c1] Noções de Direito Administrativo
+[p12c1] 51
+[p12c1] João, auditor de controle externo do Tribunal de Contas do
+[p12c1] Estado Alfa, no exercício de suas funções, analisou de forma
+[p12c1] errônea o pedido de concessão de aposentadoria formulado por
+[p12c1] Ana, servidora pública de órgão jurisdicionado. Esse fato resultou
+[p12c1] no indeferimento do pedido de aposentadoria por parte do corpo
+[p12c1] deliberativo da Corte de Contas, com consequente retorno da
+[p12c1] servidora ao exercício das funções, mesmo já tendo cumprido
+[p12c1] integralmente o período aquisitivo.
+[p12c1] Sentindo-se prejudicada pelo indeferimento do pleito, Ana
+[p12c1] ajuizou demanda judicial diretamente contra João, pleiteando
+[p12c1] reparação pelos danos morais e materiais sofridos, em razão da
+[p12c1] análise errônea realizada pelo auditor.
+[p12c1] Nesse contexto, em sede de responsabilidade civil do Estado,
+[p12c1] assinale a afirmativa correta.
+[p12c1] (A) João poderá ser demandado diretamente, sendo sua
+[p12c1] responsabilidade de natureza objetiva.
+[p12c1] (B) João poderá ser demandado diretamente, sendo sua
+[p12c1] responsabilidade de natureza subjetiva.
+[p12c1] (C) João não poderá ser demandado diretamente, mas apenas
+[p12c1] em regresso, sendo sua responsabilidade de natureza
+[p12c1] objetiva.
+[p12c1] (D) João não poderá ser demandado diretamente, mas apenas
+[p12c1] em regresso, sendo sua responsabilidade de natureza
+[p12c1] subjetiva.
+[p12c1] (E) João poderá ser demandado concomitantemente com o
+[p12c1] órgão público ao qual pertence, sendo sua responsabilidade
+[p12c1] de natureza objetiva.
+[p12c1] S E CIÊNCIA DE DADOS – MANHÃ TIPO BRANCA – PÁGINA 12
+[p13c0] 52
+[p13c0] Considere os atores do Estado do Piauí listados a seguir.
+[p13c0] I. Fundação Pública Estadual de direito privado Alfa.
+[p13c0] II. Ministério Público do Estado do Piauí.
+[p13c0] III. Empresa Pública Federal Beta, sediada em Teresina/PI.
+[p13c0] IV. João, Secretário de Estado do Piauí, ordenador de despesas.
+[p13c0] V. Ordem dos Advogados do Brasil, seccional Piauí.
+[p13c0] Acerca da competência das Cortes de Contas, os atores que estão
+[p13c0] sujeitos ao controle externo exercido pelo Tribunal de Contas do
+[p13c0] Estado do Piauí são
+[p13c0] (A) III e IV, apenas.
+[p13c0] (B) III e V, apenas.
+[p13c0] (C) I, II e IV, apenas.
+[p13c0] (D) I, II e III, apenas.
+[p13c0] (E) I, II, III e V, apenas.
+[p13c0] 53
+[p13c0] O Município de Teresina-PI, atento à realidade nacional, pretende
+[p13c0] implementar, no exercício de 2025, política pública de busca de
+[p13c0] pessoas desaparecidas.
+[p13c0] Um dos programas dessa política refere-se ao desenvolvimento
+[p13c0] de um sistema de alertas, que permite a comunicação, em tempo
+[p13c0] real, do desaparecimento de crianças, adolescentes e pessoas
+[p13c0] vulneráveis.
+[p13c0] Visando concretizar e dar eficácia ao programa, a municipalidade
+[p13c0] pretende firmar parcerias com organizações da sociedade civil,
+[p13c0] permitindo uma melhor interface entre o poder público e a
+[p13c0] população.
+[p13c0] Essa parceria terá por escopo a divulgação de informações, fotos
+[p13c0] e características da pessoa desaparecida pelas organizações, por
+[p13c0] meio de uma central informática, implementada com recursos
+[p13c0] oriundos de transferências financeiras realizadas pelo Município
+[p13c0] de Teresina.
+[p13c0] Considerando a Lei nº 13.019/2014, o instrumento jurídico
+[p13c0] adequado a ser firmado pelo Município de Teresina com as
+[p13c0] Organizações da Sociedade Civil é o
+[p13c0] (A) Termo de Colaboração.
+[p13c0] (B) Termo de Fomento.
+[p13c0] (C) Termo de Pactuação.
+[p13c0] (D) Acordo de Finanças.
+[p13c0] (E) Acordo de Divulgação.
+[p13c0] AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS
+[p13c1] 54
+[p13c1] O Governo do Estado do Piauí pretende realizar, no exercício
+[p13c1] financeiro de 2025, tratativas para adquirir, entre outros, os bens
+[p13c1] e serviços listados a seguir.
+[p13c1] I. Aquisição de software inovador de inteligência artificial com
+[p13c1] funcionalidades adaptadas, específica e individualmente, para
+[p13c1] cada tipo de trabalho executado por suas Secretarias de
+[p13c1] Estado, a serem definidas e identificados durante o processo
+[p13c1] licitatório.
+[p13c1] II. Registro formal de preços de notebooks de última geração a
+[p13c1] serem licitados quando da implementação do software de
+[p13c1] inteligência artificial.
+[p13c1] III. Chamamento público de profissionais interessados na
+[p13c1] prestação de serviço de TI e manutenção de equipamentos
+[p13c1] informáticos, em regime de contratação simultânea e
+[p13c1] padronizada.
+[p13c1] No que tange à Lei de Licitações (Lei nº 14.133/2021), os
+[p13c1] instrumentos jurídicos a serem adotados pela administração do
+[p13c1] Estado do Piauí para a aquisição dos bens e serviços
+[p13c1] supramencionados (segundo a ordem apresentada) são,
+[p13c1] respectivamente,
+[p13c1] (A) concurso, pregão e diálogo competitivo.
+[p13c1] (B) pré-qualificação, credenciamento e diálogo competitivo.
+[p13c1] (C) diálogo competitivo, sistema de registro de preços e pregão.
+[p13c1] (D) credenciamento, diálogo competitivo e sistema de registro de
+[p13c1] preços.
+[p13c1] (E) diálogo competitivo, sistema de registro de preços e
+[p13c1] credenciamento.
+[p13c1] 55
+[p13c1] Os Tribunais de Contas são órgãos independentes, de
+[p13c1] envergadura constitucional, responsáveis pelo controle externo
+[p13c1] da Administração Pública, ostentando competências próprias e
+[p13c1] privativas.
+[p13c1] As decisões proferidas pelas Cortes de Contas têm capacidade de
+[p13c1] impactar diretamente a esfera jurídica dos órgãos
+[p13c1] jurisdicionados, definindo deveres e responsabilidades.
+[p13c1] Nesse contexto, considerando as disposições da Lei de Introdução
+[p13c1] às Normas do Direito Brasileiro - LINDB, no âmbito de sua
+[p13c1] atuação, o Tribunal de Contas do Estado do Piauí
+[p13c1] (A) ao decidir, poderá se basear em valores jurídicos abstratos,
+[p13c1] mesmo sem considerar as consequências práticas da decisão,
+[p13c1] desde que o faça de forma motivada.
+[p13c1] (B) ao motivar seus atos, demonstrará a necessidade e a
+[p13c1] adequação da medida imposta ou da invalidação de ato,
+[p13c1] contrato, ajuste, processo ou norma administrativa, inclusive
+[p13c1] em face das possíveis alternativas.
+[p13c1] (C) ao interpretar normas sobre gestão pública, deverá
+[p13c1] considerar os obstáculos, as dificuldades reais do gestor e as
+[p13c1] exigências das políticas públicas a seu cargo, mesmo que com
+[p13c1] eventual prejuízo dos direitos dos administrados.
+[p13c1] (D) ao decretar a invalidação de ato, contrato, ajuste, processo
+[p13c1] ou norma administrativa, deverá indicar de modo expresso
+[p13c1] suas consequências administrativas, mas não as jurídicas, em
+[p13c1] razão do princípio da inafastabilidade do controle
+[p13c1] jurisdicional.
+[p13c1] (E) ao estabelecer interpretação ou orientação nova sobre
+[p13c1] norma de conteúdo indeterminado, impondo novo dever ou
+[p13c1] novo condicionamento de direito, dará a ela aplicabilidade
+[p13c1] imediata, se abstendo, em qualquer caso, de estabelecer
+[p13c1] regime de transição, aplicável apenas à esfera judicial.
+[p13c1] S E CIÊNCIA DE DADOS – MANHÃ TIPO BRANCA – PÁGINA 13
+[p14c0] Noções de Direito Constitucional
+[p14c0] 56
+[p14c0] O Art. 92-B, §2º, do Ato das Disposições Constitucionais
+[p14c0] Transitórias da Constituição da República, acrescido pela Emenda
+[p14c0] Constitucional nº 132/2023, tem a seguinte redação:
+[p14c0] Lei complementar instituirá Fundo de Sustentabilidade e
+[p14c0] Diversificação Econômica do Estado do Amazonas, que será
+[p14c0] constituído com recursos da União e por ela gerido, com a efetiva
+[p14c0] participação do Estado do Amazonas na definição das políticas,
+[p14c0] com o objetivo de fomentar o desenvolvimento e a diversificação
+[p14c0] das atividades econômicas no Estado.
+[p14c0] A interpretação desse comando normativo permite concluir que
+[p14c0] se está perante norma de
+[p14c0] (A) eficácia contida.
+[p14c0] (B) aplicabilidade imediata.
+[p14c0] (C) aplicabilidade direta, mas não integral.
+[p14c0] (D) eficácia limitada e de princípio institutivo.
+[p14c0] (E) eficácia limitada e de princípio programático.
+[p14c0] 57
+[p14c0] Após ampla mobilização popular, o Município Alfa editou a Lei
+[p14c0] municipal nº X, dispondo que os jovens de até vinte e um anos de
+[p14c0] idade teriam direito a concessão de desconto de 50% sobre o
+[p14c0] preço do ingresso cobrado por casas de diversões situadas em
+[p14c0] seu território.
+[p14c0] Esse diploma normativo foi muito festejado no ambiente social,
+[p14c0] pois nem a legislação do Estado em cujo território Alfa está
+[p14c0] situado nem a legislação da União contêm preceito similar.
+[p14c0] Apesar disso, a associação dos empresários do setor, os quais
+[p14c0] teriam seus lucros reduzidos, criticou duramente a Lei municipal
+[p14c0] nº X, tendo solicitado que um especialista analisasse a sua
+[p14c0] conformidade constitucional, mais especificamente se Alfa
+[p14c0] poderia legislar sobre a matéria.
+[p14c0] Assinale a opção que apresenta o esclarecimento correto dado à
+[p14c0] associação.
+[p14c0] (A) Compete privativamente à União legislar sobre produção e
+[p14c0] consumo, logo, a Lei municipal nº X é inconstitucional nesse
+[p14c0] aspecto.
+[p14c0] (B) O Município Alfa somente tem competência para legislar
+[p14c0] sobre a matéria se houver lei complementar federal
+[p14c0] autorizativa.
+[p14c0] (C) Todos os entes federativos possuem competência legislativa
+[p14c0] comum para legislar sobre lazer, logo, a Lei municipal nº X é
+[p14c0] constitucional nesse aspecto.
+[p14c0] (D) Se trata de típico interesse local, logo, Alfa tem competência
+[p14c0] privativa para legislar sobre a matéria, o que torna a Lei
+[p14c0] municipal nº X constitucional nesse aspecto.
+[p14c0] (E) O Município Alfa pode suplementar a legislação federal e
+[p14c0] estadual em matéria de direito econômico, logo, a Lei
+[p14c0] municipal nº X é constitucional nesse aspecto.
+[p14c0] AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS
+[p14c1] 58
+[p14c1] Ana, servidora pública estadual ocupante de cargo de provimento
+[p14c1] efetivo, preencheu os requisitos para a aposentadoria
+[p14c1] compulsória, o que redundou na expedição do ato de
+[p14c1] aposentadoria, com a correlata fixação dos seus proventos pela
+[p14c1] autoridade máxima da estrutura de poder a que estava vinculada.
+[p14c1] Esse ato foi expedido no dia 10 de setembro de 2018, mas até a
+[p14c1] presente data ainda não foi analisado pelo Tribunal de Contas.
+[p14c1] Sobre a hipótese apresentada, à luz da sistemática vigente,
+[p14c1] assinale a afirmativa correta.
+[p14c1] (A) Pela natureza do ato de aposentação, não é necessário o seu
+[p14c1] registro no Tribunal de Contas.
+[p14c1] (B) Em razão do tempo decorrido desde a expedição do ato, a
+[p14c1] aposentadoria de Maria tornou-se irreversível.
+[p14c1] (C) O Tribunal de Contas pode analisar a qualquer tempo a
+[p14c1] legalidade do ato inicial de aposentadoria, não se exigindo a
+[p14c1] observância do contraditório e da ampla defesa.
+[p14c1] (D) Em razão do tempo decorrido, eventual negativa de registro,
+[p14c1] pelo Tribunal de Contas, deve ser antecedida da observância
+[p14c1] das garantias do contraditório e da ampla defesa.
+[p14c1] (E) É possível que o ato seja considerado registrado em razão do
+[p14c1] decurso do tempo, mas o termo inicial da contagem é o
+[p14c1] ingresso do processo administrativo no Tribunal de Contas.
+[p14c1] 59
+[p14c1] A Lei estadual nº X instituiu a Taxa de Serviços Diversos (TSD),
+[p14c1] dispondo que o seu fato gerador decorreria do exercício do poder
+[p14c1] de polícia ou pela utilização, efetiva ou potencial, de serviços
+[p14c1] públicos específicos e divisíveis, prestados ao contribuinte ou
+[p14c1] postos à sua disposição pela Secretaria Estadual de
+[p14c1] Desenvolvimento Econômico.
+[p14c1] Logo após a edição da Lei estadual nº X e a realização dos
+[p14c1] primeiros lançamentos tributários, diversos contribuintes
+[p14c1] insurgiram-se contra a cobrança desse tributo, argumentando
+[p14c1] com a sua inconstitucionalidade.
+[p14c1] Sobre a TSD, considerando a sistemática constitucional vigente,
+[p14c1] assinale a afirmativa correta.
+[p14c1] (A) É inconstitucional, pois somente a União poderia instituir
+[p14c1] tributo dessa natureza.
+[p14c1] (B) É inconstitucional, por não definir a atuação estatal que seria
+[p14c1] o fato gerador do tributo.
+[p14c1] (C) É constitucional, considerando que a descrição do fato
+[p14c1] gerador se ajusta ao permissivo constitucional.
+[p14c1] (D) É inconstitucional, pois tributo dessa natureza deveria ser
+[p14c1] criado por meio de lei complementar estadual.
+[p14c1] (E) É constitucional, pois cabe ao regulamento detalhar o fato
+[p14c1] gerador do tributo, a partir da enunciação geral da lei.
+[p14c1] S E CIÊNCIA DE DADOS – MANHÃ TIPO BRANCA – PÁGINA 14
+[p15c0] 60
+[p15c0] O Estado Beta editou a Lei estadual nº Y, instituindo o programa
+[p15c0] estadual de crescimento econômico, que tem como um dos
+[p15c0] pilares o diferimento do recolhimento do imposto sobre
+[p15c0] operações relativas à circulação de mercadorias e sobre
+[p15c0] prestações de serviços de transporte interestadual e
+[p15c0] intermunicipal e de comunicação, ainda que as operações e as
+[p15c0] prestações se iniciem no exterior (ICMS).
+[p15c0] Esse diferimento seria fruído pelas sociedades empresárias que
+[p15c0] se instalassem na região do Estado que apresentasse menor
+[p15c0] índice de desenvolvimento humano.
+[p15c0] Diversos municípios do Estado Beta argumentaram com a
+[p15c0] inconstitucionalidade da Lei estadual nº Y, pois esse diploma
+[p15c0] normativo impactara negativamente as suas receitas.
+[p15c0] Sobre a hipótese narrada, à luz da sistemática constitucional,
+[p15c0] assinale a afirmativa correta.
+[p15c0] (A) A arrecadação do ICMS, pelo Estado Beta, não apresenta
+[p15c0] qualquer correlação com o aumento ou a redução da
+[p15c0] arrecadação dos municípios situados em seu território.
+[p15c0] (B) Não há afronta ao sistema de repartição de receitas
+[p15c0] tributárias, desde que o repasse da parcela pertencente aos
+[p15c0] municípios seja realizado quando do recolhimento do ICMS.
+[p15c0] (C) Caso haja o depósito prévio, no Fundo de Participação dos
+[p15c0] Municípios, do valor a que fazem jus os municípios atingidos,
+[p15c0] o diferimento do recolhimento do ICMS será considerado
+[p15c0] lícito.
+[p15c0] (D) O diferimento do recolhimento do ICMS não afeta o sistema
+[p15c0] de repartição de receitas tributárias, desde que o repasse da
+[p15c0] parcela pertencente aos Municípios seja realizado quando da
+[p15c0] prática do fato gerador do imposto.
+[p15c0] (E) O diferimento do recolhimento do ICMS somente será
+[p15c0] considerado lícito se forem adotadas medidas de
+[p15c0] compensação por Beta, considerando outros impostos cuja
+[p15c0] arrecadação deva ser repartida com os municípios.
+[p15c0] Análise de Dados
+[p15c0] 61
+[p15c0] Um analista do Tribunal de Contas realizou um estudo para tentar
+[p15c0] prever o gasto com passagens áreas com os servidores do
+[p15c0] tribunal.
+[p15c0] Nesse estudo, ele levou em consideração as seguintes variáveis:
+[p15c0] 1. A distância entre o local de origem e o local de destino.
+[p15c0] 2. Se o servidor é de nível médio ou superior.
+[p15c0] 3. Se o servidor tem direito a bagagem ou não.
+[p15c0] Essas variáveis são dos seguintes tipos, respectivamente:
+[p15c0] (A) Quantitativa contínua, qualitativa ordinal e qualitativa
+[p15c0] nominal.
+[p15c0] (B) Quantitativa discreta, qualitativa nominal e qualitativa
+[p15c0] ordinal.
+[p15c0] (C) Quantitativa contínua, qualitativa ordinal e quantitativa
+[p15c0] discreta.
+[p15c0] (D) Quantitativa discreta, qualitativa nominal e qualitativa
+[p15c0] nominal.
+[p15c0] (E) Quantitativa contínua, qualitativa nominal, qualitativa
+[p15c0] nominal.
+[p15c0] AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS
+[p15c1] 62
+[p15c1] O setor de recursos humanos de uma sociedade empresária
+[p15c1] avaliou, com notas de 0 a 5, quatro candidatos ao cargo de
+[p15c1] gerente, digamos A, B, C e D, considerando quatro atributos:
+[p15c1] organização, liderança, discrição e iniciativa.
+[p15c1] O resultado da avaliação encontra-se no gráfico a seguir.
+[p15c1] Avaliação dos Candidatos por Atributos
+[p15c1] Organização
+[p15c1] 5
+[p15c1] 4
+[p15c1] 3
+[p15c1] 2
+[p15c1] 1
+[p15c1] Iniciativa 0 Liderança
+[p15c1] A
+[p15c1] B
+[p15c1] C
+[p15c1] Discrição
+[p15c1] D
+[p15c1] Se considerarmos a média dos atributos para seleção do
+[p15c1] candidato, assinale a afirmativa correta acerca do candidato a ser
+[p15c1] escolhido.
+[p15c1] (A) Deve ser escolhido o A.
+[p15c1] (B) Deve ser escolhido o B.
+[p15c1] (C) Deve ser escolhido o C.
+[p15c1] (D) Deve ser escolhido o D.
+[p15c1] (E) Mais de um candidato dever ser escolhido.
+[p15c1] 63
+[p15c1] Três funcionários de uma sociedade empresária executam uma
+[p15c1] mesma tarefa rotineira, mas importante para o faturamento da
+[p15c1] sociedade.
+[p15c1] O tempo médio de execução da tarefa dos funcionários, em
+[p15c1] minutos, e suas respectivas variâncias, estão na tabela abaixo.
+[p15c1] Funcionário Tempo médio Variância
+[p15c1] 1 9 4
+[p15c1] 2 10 4
+[p15c1] 3 14 9
+[p15c1] Sobre a variabilidade relativa da execução da tarefa, assinale a
+[p15c1] afirmativa correta.
+[p15c1] (A) O funcionário 1 tem a menor variabilidade.
+[p15c1] (B) O funcionário 2 tem a menor variabilidade.
+[p15c1] (C) O funcionário 3 tem a menor variabilidade.
+[p15c1] (D) O funcionário 1 tem menor variabilidade do que o funcionário
+[p15c1] 3.
+[p15c1] (E) O funcionário 1 tem a mesma variabilidade do que o
+[p15c1] funcionário 2.
+[p15c1] S E CIÊNCIA DE DADOS – MANHÃ TIPO BRANCA – PÁGINA 15
+[p16c0] 64
+[p16c0] Um determinado cartório registrou a informação da distribuição
+[p16c0] do número de serviços gratuitos oferecidos a 60 famílias carentes
+[p16c0] em determinado mês do ano.
+[p16c0] As informações estão sumarizadas na tabela a seguir.
+[p16c0] Número de Serviços Famílias Atendidas
+[p16c0] 1 15
+[p16c0] 2 20
+[p16c0] 3 10
+[p16c0] 4 10
+[p16c0] 5 5
+[p16c0] Sobre as medidas descritivas associadas a esses dados, assinale a
+[p16c0] afirmativa correta.
+[p16c0] (A) A média, a mediana e a moda são iguais.
+[p16c0] (B) A amplitude interquartil é igual à média.
+[p16c0] (C) A amplitude interquartil é igual à mediana.
+[p16c0] (D) A amplitude interquartil é maior que a moda.
+[p16c0] (E) A média e a moda são maiores que a mediana.
+[p16c0] 65
+[p16c0] Dez cidadãos com processos na Justiça entraram com o pedido de
+[p16c0] gratuidade, como mostra o quadro abaixo. A Justiça determinou
+[p16c0] que as condições para concessão de gratuidade eram: o cidadão
+[p16c0] ser casado, ter pelo menos um filho e estar desempregado.
+[p16c0] Foi então pedido a um analista que determinasse quantos
+[p16c0] cidadãos se enquadravam nas referidas condições.
+[p16c0] Cidadão Casado Nº de Filhos Empregado
+[p16c0] A Sim 1 Sim
+[p16c0] B Sim 2 Não
+[p16c0] C Não 1 Não
+[p16c0] D Não 0 Não
+[p16c0] E Sim 1 Sim
+[p16c0] F Sim 3 Não
+[p16c0] G Sim 0 Não
+[p16c0] H Não 1 Não
+[p16c0] I Sim 4 Não
+[p16c0] J Não 2 Sim
+[p16c0] O analista resolveu utilizar uma tabela dinâmica no Excel para
+[p16c0] determinar esse número.
+[p16c0] (A) Escolher a variável Cidadão e arrastá-la para o campo da
+[p16c0] soma de valores e escolher as outras três variáveis e arrastá-
+[p16c0] las para o campo linhas.
+[p16c0] (B) Escolher a variável Cidadão e arrastá-la para o campo da
+[p16c0] soma de valores e escolher as outras três variáveis e arrastá-
+[p16c0] las para o campo filtros.
+[p16c0] (C) Escolher a variável Cidadão e arrastá-la para o campo da
+[p16c0] soma de valores e escolher as outras três variáveis e arrastá-
+[p16c0] las para o campo colunas.
+[p16c0] (D) Escolher a variável Nº de Filhos e arrastá-la para o campo da
+[p16c0] soma de valores e escolher as outras três variáveis e arrastá-
+[p16c0] las para o campo filtros.
+[p16c0] (E) Escolher a variável Nº de Filhos e arrastá-la para o campo da
+[p16c0] soma de valores e escolher as outras três variáveis e arrastá-
+[p16c0] las para o campo linhas.
+[p16c0] AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS
+[p16c1] CONHECIMENTOS ESPECIALIZADOS
+[p16c1] Ciência de Dados
+[p16c1] 66
+[p16c1] Um analista de dados recebeu a tarefa de estimar os
+[p16c1] consumidores de uma rede de lojas de varejo digital que têm
+[p16c1] maior probabilidade de voltar a adquirir determinado produto. A
+[p16c1] empresa disponibilizou tabelas contendo, respectivamente, a
+[p16c1] lista de consumidores com seus dados demográficos, os
+[p16c1] resultados de vendas de cada loja e os dados básicos como
+[p16c1] endereço e área ocupada por cada loja. Para alimentar sua
+[p16c1] ferramenta de mineração de dados é necessário agregar as
+[p16c1] tabelas repassadas em um único banco de dados.
+[p16c1] Considerando o modelo de referência CRISP-DM, esse analista
+[p16c1] encontra-se na etapa de
+[p16c1] (A) avaliação.
+[p16c1] (B) modelagem.
+[p16c1] (C) entender os dados.
+[p16c1] (D) entender o negócio.
+[p16c1] (E) preparação dos dados.
+[p16c1] 67
+[p16c1] No campo da mineração de dados existem alguns problemas
+[p16c1] fundamentais que costumam aparecer com frequência em
+[p16c1] variados cenários de aplicação. O estudo desses problemas
+[p16c1] fornece ferramentas ao analista de dados que são aplicáveis em
+[p16c1] diferentes projetos de mineração de dados. Nesse conjunto se
+[p16c1] encontram os problemas de determinação de padrões,
+[p16c1] classificação de dados, segmentação de dados (clustering) e
+[p16c1] detecção de valores discrepantes (outliers).
+[p16c1] Considerando os problemas citados, analise as afirmativas a
+[p16c1] seguir.
+[p16c1] I. Em uma tabela binária esparsa, que representa uma base de
+[p16c1] dados de transações de clientes, em que as colunas
+[p16c1] representam cada produto e as linhas cada transação,
+[p16c1] verifica-se que, frequentemente, três das colunas
+[p16c1] apresentam simultaneamente o valor 1 para vários registros.
+[p16c1] Este tipo de análise é um problema de detecção de valores
+[p16c1] discrepantes.
+[p16c1] II. A identificação de consumidores que são similares entre si,
+[p16c1] para uso no contexto de aplicação de promoções orientadas,
+[p16c1] constitui um problema de segmentação de dados.
+[p16c1] III. O problema de classificação de dados pode ser considerado
+[p16c1] como supervisionado, pelo fato das relações entre as classes
+[p16c1] definidas e os demais atributos dos dados serem
+[p16c1] “aprendidas” pelo modelo.
+[p16c1] Está correto o que se afirma em
+[p16c1] (A) I, apenas.
+[p16c1] (B) I e II, apenas.
+[p16c1] (C) I e III, apenas.
+[p16c1] (D) II e III, apenas.
+[p16c1] (E) I, II e III.
+[p16c1] S E CIÊNCIA DE DADOS – MANHÃ TIPO BRANCA – PÁGINA 16
+[p17c0] 68
+[p17c0] Um conceito fundamental na modelagem probabilística de
+[p17c0] sequências de palavras é o de n-grama. Com relação a esse
+[p17c0] conceito, analise as afirmativas a seguir e assinale (V) para a
+[p17c0] verdadeira e (F) para a falsa.
+[p17c0] ( ) Um modelo bigrama assume a aproximação de que a
+[p17c0] probabilidade da próxima palavra em uma frase,
+[p17c0] considerando todas as palavras anteriores, é dada pela
+[p17c0] probabilidade condicional apenas da palavra imediatamente
+[p17c0] anterior.
+[p17c0] ( ) O modelo trigrama é também conhecido como modelo de
+[p17c0] Markov de terceira ordem.
+[p17c0] ( ) O cálculo de probabilidades em modelos n-grama é
+[p17c0] geralmente realizado utilizando logaritmos para evitar o
+[p17c0] fenômeno do underflow numérico.
+[p17c0] As afirmativas são, respectivamente,
+[p17c0] (A) V – F – F.
+[p17c0] (B) V – V – F.
+[p17c0] (C) F – V – F.
+[p17c0] (D) F – V – V.
+[p17c0] (E) V – F – V.
+[p17c0] 69
+[p17c0] A popularização da Internet permitiu que grande parcela da
+[p17c0] população pudesse expressar suas opiniões na forma de fóruns,
+[p17c0] blogs, avaliações de produtos, entre outros. Assim, deixou de ser
+[p17c0] necessário que empresas conduzam enquetes ou pesquisas para
+[p17c0] que possam saber a opinião dos consumidores sobre seus
+[p17c0] produtos ou de concorrentes. O volume de textos opinativos
+[p17c0] disponíveis é tal, que a tarefa de ler, sumarizar e organizar de
+[p17c0] forma útil essas informações é desafiadora. O campo da análise
+[p17c0] de sentimento, no processamento de linguagem natural, trata
+[p17c0] justamente dessa necessidade, da automatização da descoberta
+[p17c0] e da sumarização de opiniões.
+[p17c0] Considerando este tema, avalie as afirmativas a seguir.
+[p17c0] I. A análise de sentimentos pode ser tratada como um
+[p17c0] problema de classificação de textos, onde é importante
+[p17c0] definir se o texto é objetivo ou subjetivo. Textos subjetivos
+[p17c0] são os de principal interesse nesse campo de pesquisa.
+[p17c0] II. A análise de sentimentos pode ser usada para a identificação
+[p17c0] de avaliações falsas em sites de e-commerce. Uma limitação
+[p17c0] para essa aplicação é a dificuldade de obtenção de dados
+[p17c0] para treinamento de modelos, uma vez que a marcação
+[p17c0] manual de avaliações com opiniões falsas ou enganosas é
+[p17c0] muitas vezes difícil.
+[p17c0] III. Um exemplo de algoritmo supervisionado de análise de
+[p17c0] sentimentos para avaliações de produtos pode ser resumido
+[p17c0] nos seguintes passos: extração de frases com padrões
+[p17c0] predeterminados de opinião; cálculo de um indicador de
+[p17c0] orientação de cada frase; obtenção da orientação média da
+[p17c0] avaliação como um todo; e determinação se é positiva ou
+[p17c0] negativa.
+[p17c0] Está correto o que se afirma em
+[p17c0] (A) I, apenas.
+[p17c0] (B) I e II, apenas.
+[p17c0] (C) I e III, apenas.
+[p17c0] (D) II e III, apenas.
+[p17c0] (E) I, II e III.
+[p17c0] AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS
+[p17c1] 70
+[p17c1] Com relação ao ajuste de dados e a aplicação de modelos
+[p17c1] preditivos de aprendizado de máquina, analise os itens a seguir.
+[p17c1] I. O subajuste (underfitting) indica baixa capacidade preditiva
+[p17c1] do modelo para os dados de treinamento.
+[p17c1] II. O superajuste (overfitting) impacta negativamente a
+[p17c1] capacidade de generalização do modelo.
+[p17c1] III. A presença de ruído nos dados favorece a ocorrência de
+[p17c1] superajuste (overfitting) do modelo.
+[p17c1] Está correto o que se afirma em
+[p17c1] (A) I, apenas.
+[p17c1] (B) I e II, apenas.
+[p17c1] (C) I e III, apenas.
+[p17c1] (D) II e III, apenas.
+[p17c1] (E) I, II e III.
+[p17c1] 71
+[p17c1] Considere a matriz de confusão M dada abaixo, obtida depois da
+[p17c1] aplicação de um método de classificação em um certo conjunto
+[p17c1] de dados, para um problema com três classes.
+[p17c1] 15 3 2
+[p17c1] M = ( 5 23 6 )
+[p17c1] 7 4 35
+[p17c1] Seja a acurácia do classificador definida como a proporção de
+[p17c1] previsões corretas, em relação ao total de previsões do modelo.
+[p17c1] Logo, a acurácia do classificador, com base na matriz M, é dada
+[p17c1] por
+[p17c1] (A) 0,67.
+[p17c1] (B) 0,70.
+[p17c1] (C) 0,73.
+[p17c1] (D) 0,75.
+[p17c1] (E) 0,76.
+[p17c1] 72
+[p17c1] Com relação às técnicas de redução de dimensionalidade, no
+[p17c1] contexto de aprendizado de máquina, analise as afirmativas a
+[p17c1] seguir e assinale (V) para a verdadeira e (F) para a falsa.
+[p17c1] ( ) As técnicas de agregação formam novos atributos, por meio
+[p17c1] da combinação de grupos dos atributos originais.
+[p17c1] ( ) As técnicas de seleção de atributos descartam parte dos
+[p17c1] atributos originais.
+[p17c1] ( ) Técnicas de seleção de atributos embutidas são aplicadas na
+[p17c1] etapa de pré-processamento.
+[p17c1] As afirmativas são, respectivamente,
+[p17c1] (A) F – V – F.
+[p17c1] (B) F – V – V.
+[p17c1] (C) V – F – F.
+[p17c1] (D) V – V – F.
+[p17c1] (E) F – F – V.
+[p17c1] S E CIÊNCIA DE DADOS – MANHÃ TIPO BRANCA – PÁGINA 17
+[p18c0] 73
+[p18c0] Considere o código abaixo, escrito na linguagem de programação
+[p18c0] Python (versão 3.10.12), com uso da biblioteca sklearn (scikit-
+[p18c0] learn) versão 1.5.2.
+[p18c0] Com relação ao código acima, analise os itens a seguir.
+[p18c0] I. O valor atribuído a s0 (na linha 4) será ou True ou False.
+[p18c0] II. O valor atribuído a s1 (na linha 5) será diferente de s0.
+[p18c0] III. A operação na linha 6 causa erro do tipo ValueError.
+[p18c0] Está correto o que se afirma em
+[p18c0] (A) I, apenas.
+[p18c0] (B) II, apenas.
+[p18c0] (C) III, apenas.
+[p18c0] (D) I e II, apenas.
+[p18c0] (E) II e III, apenas.
+[p18c0] 74
+[p18c0] Considere o código abaixo, escrito na linguagem de programação
+[p18c0] Python (versão 3.10.12). As versões das bibliotecas NumPy e
+[p18c0] Pandas são 1.26.4 e 2.2.2, respectivamente.
+[p18c0] Com a execução do comando print na linha 7, o valor a ser escrito
+[p18c0] na tela é
+[p18c0] (A) 1.
+[p18c0] (B) 2.
+[p18c0] (C) 3.
+[p18c0] (D) 4.
+[p18c0] (E) nan.
+[p18c0] 75
+[p18c0] Considere a biblioteca sklearn (scikit-learn), versão 1.5.2, da
+[p18c0] linguagem de programação Python.
+[p18c0] O atributo da classe sklearn.linear_model.LinearRegression, que
+[p18c0] retorna o termo independente no modelo linear, quando os
+[p18c0] parâmetros estão configurados no modo padrão (default), é
+[p18c0] (A) fit_
+[p18c0] (B) coef_
+[p18c0] (C) predict_
+[p18c0] (D) intercept_
+[p18c0] (E) independent_
+[p18c0] AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS
+[p18c1] Governança de TI
+[p18c1] 76
+[p18c1] Em relação ao alinhamento estratégico entre TI e negócio, analise
+[p18c1] as afirmativas a seguir.
+[p18c1] I. A organização pode se beneficiar em todas as áreas quando
+[p18c1] esse alinhamento ocorre efetivamente.
+[p18c1] II. Instrumentos de gestão podem promover e manter esse
+[p18c1] alinhamento.
+[p18c1] III. É uma boa prática fazer planejamento de longo prazo (acima
+[p18c1] de 10 anos), com o alinhamento estático para aumentar a
+[p18c1] previsibilidade.
+[p18c1] Está correto o que se afirma em
+[p18c1] (A) I, apenas.
+[p18c1] (B) I e II, apenas.
+[p18c1] (C) II e III, apenas.
+[p18c1] (D) I e III, apenas.
+[p18c1] (E) I, II e III.
+[p18c1] 77
+[p18c1] Considerando os ciclos de vida de projetos e produtos, segundo o
+[p18c1] PMBOK v.7, analise as afirmativas a seguir.
+[p18c1] I. O ciclo de vida do projeto é a série de fases pelas quais um
+[p18c1] projeto passa desde o início até sua conclusão.
+[p18c1] II. Em projetos que utilizam a abordagem de desenvolvimento
+[p18c1] adaptativa, o ciclo de vida é fracionado em iterações e ao
+[p18c1] final de cada iteração o cliente recebe uma entrega funcional
+[p18c1] para avaliar.
+[p18c1] III. É mais indicado empregar uma abordagem de
+[p18c1] desenvolvimento adaptativa para entregas cujo escopo e
+[p18c1] requisitos são bem compreendidos, que o time de projeto já
+[p18c1] tenha trabalhado antes e que permitam um certo grau de
+[p18c1] previsibilidade para planejar.
+[p18c1] Está correto o que se afirma em
+[p18c1] (A) I, apenas.
+[p18c1] (B) II, apenas.
+[p18c1] (C) I e II, apenas.
+[p18c1] (D) II e III, apenas.
+[p18c1] (E) I, II e III.
+[p18c1] 78
+[p18c1] Sobre as práticas ITIL, analise as afirmativas a seguir.
+[p18c1] I. As práticas ITIL são aplicáveis em organizações de todos os
+[p18c1] portes, pequenas, médias ou grandes, públicas ou privadas.
+[p18c1] II. As práticas ITIL são flexíveis no sentido de que, de acordo
+[p18c1] com as necessidades e com o nível de maturidade da
+[p18c1] organização, podem ser customizadas e implantadas.
+[p18c1] III. Para implantar o ITIL é necessário ter sistemas e plataformas
+[p18c1] tecnológicas específicas.
+[p18c1] Está correto o que se afirma em
+[p18c1] (A) I, apenas.
+[p18c1] (B) I e II, apenas.
+[p18c1] (C) I e III, apenas.
+[p18c1] (D) II e III, apenas.
+[p18c1] (E) I, II e III.
+[p18c1] S E CIÊNCIA DE DADOS – MANHÃ TIPO BRANCA – PÁGINA 18
+[p19c0] 79
+[p19c0] Sobre as práticas ITIL, analise as afirmativas a seguir.
+[p19c0] I. O Sistema de Valor de Serviço (SVS) representa como os
+[p19c0] vários componentes e atividades da organização trabalham
+[p19c0] juntos para facilitar a criação de valor por meio de serviços de
+[p19c0] TI.
+[p19c0] II. A cadeia de valor do serviço e a melhoria contínua não fazem
+[p19c0] parte do Sistema de Valor do Serviço (SVS).
+[p19c0] III. A Cadeia de valor do serviço inclui seis atividades de cadeia
+[p19c0] de valor que levam à criação de produtos e serviços e, por sua
+[p19c0] vez, valor.
+[p19c0] Está correto o que se afirma em
+[p19c0] (A) I, apenas.
+[p19c0] (B) I e II, apenas.
+[p19c0] (C) I e III, apenas.
+[p19c0] (D) II e III, apenas.
+[p19c0] (E) I, II e III.
+[p19c0] 80
+[p19c0] De acordo com o framework COBIT 2019, a governança de TI é a
+[p19c0] responsável por definir a direção estratégica e supervisionar a
+[p19c0] gestão, enquanto a gestão desempenha um papel fundamental
+[p19c0] na execução das atividades planejadas pela governança. As áreas
+[p19c0] de atuação da governança e gestão são conhecidas como
+[p19c0] domínios.
+[p19c0] O domínio da governança abrange as atividades de
+[p19c0] (A) planejar, fazer e agir.
+[p19c0] (B) avaliar, dirigir e monitorar.
+[p19c0] (C) monitorar, avaliar e analisar.
+[p19c0] (D) elaborar, gerenciar e avaliar.
+[p19c0] (E) construir, adquirir e implementar.
+[p19c0] Engenharia de Dados
+[p19c0] 81
+[p19c0] Em sistemas de gerenciamento de bancos de dados, o Controle
+[p19c0] de Concorrência Multiversão (MVCC) é uma técnica utilizada para
+[p19c0] gerenciar transações concorrentes de maneira eficiente.
+[p19c0] A respeito do funcionamento do MVCC, assinale a afirmativa
+[p19c0] correta.
+[p19c0] (A) Elimina a necessidade de mecanismos de controle de
+[p19c0] concorrência e integridade.
+[p19c0] (B) Garante que uma transação possa modificar dados somente
+[p19c0] se nenhuma outra transação tiver lido esses dados.
+[p19c0] (C) Requer que todas as transações sejam executadas
+[p19c0] sequencialmente para manter a consistência dos dados.
+[p19c0] (D) Permite que existam múltiplas versões dos registros,
+[p19c0] possibilitando leituras consistentes sem bloquear escritas.
+[p19c0] (E) Usa bloqueios de leitura em nível de registro, assegurando
+[p19c0] que apenas uma transação possa acessar um registro por vez.
+[p19c0] AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS
+[p19c1] 82
+[p19c1] Em um banco de dados SQL existe uma tabela chamada Vendas
+[p19c1] com as colunas VendaID, VendedorID e ValorVenda.
+[p19c1] Para listar, sem duplicatas, o VendedorID de todos os
+[p19c1] vendedores que tenham realizado vendas superiores ao valor de
+[p19c1] 10.000, devemos usar a seguinte consulta:
+[p19c1] (A) SELECT VendedorID FROM Vendas
+[p19c1] WHERE ValorVenda > 10000;
+[p19c1] (B) SELECT DISTINCT VendedorID FROM Vendas
+[p19c1] GROUP BY VendedorID
+[p19c1] HAVING ValorVenda > 10000;
+[p19c1] (C) SELECT VendedorID FROM Vendas
+[p19c1] WHERE SUM(ValorVenda) > 10000;
+[p19c1] (D) SELECT DISTINCT VendedorID FROM Vendas
+[p19c1] WHERE ValorVenda > 10000;
+[p19c1] (E) SELECT VendedorID FROM Vendas
+[p19c1] WHERE MAX(ValorVenda) > 10000
+[p19c1] GROUP BY VendedorID;
+[p19c1] 83
+[p19c1] Visando otimizar uma consulta em SQL, o desenvolvedor
+[p19c1] implementa uma subconsulta com o objetivo de eliminar
+[p19c1] registros redundantes existentes em uma tabela.
+[p19c1] Consequentemente, ele deverá empregar a cláusula
+[p19c1] (A) INTERSECT.
+[p19c1] (B) DISTINCT.
+[p19c1] (C) UNION.
+[p19c1] (D) VIEW.
+[p19c1] (E) WITH.
+[p19c1] 84
+[p19c1] Considere a consulta SQL a seguir.
+[p19c1] SELECT id, nome, ST_AREA(geom) as area
+[p19c1] FROM tabelageo
+[p19c1] Para garantir a execução da consulta, o desenvolvedor deve
+[p19c1] (A) criar um índice espacial.
+[p19c1] (B) implementar a função ST_AREA.
+[p19c1] (C) substituir a cláusula ST_AREA por AREA.
+[p19c1] (D) substituir a cláusula ST_AREA por st_area.
+[p19c1] (E) instalar a extensão espacial correspondente.
+[p19c1] S E CIÊNCIA DE DADOS – MANHÃ TIPO BRANCA – PÁGINA 19
+[p20c0] 85
+[p20c0] Associe os dois conceitos a seguir, às suas respectivas
+[p20c0] características.
+[p20c0] 1. OLAP
+[p20c0] 2. Data Lake
+[p20c0] ( ) Seu principal padrão de escrita é a importação em massa
+[p20c0] (ETL) ou fluxo de eventos.
+[p20c0] ( ) Armazena principalmente dados brutos, passando ou não por
+[p20c0] transformação.
+[p20c0] ( ) É caracterizada pela agregação sobre um grande número de
+[p20c0] registros, alimentando relatórios que ajudam a gestão de
+[p20c0] uma empresa a tomar decisões mais informadas.
+[p20c0] ( ) permite o armazenamento de grandes volumes de dados de
+[p20c0] qualquer tipo e tamanho, sendo uma alternativa aos Data
+[p20c0] Warehouses tradicionais.
+[p20c0] Assinale a opção que apresenta a associação correta, na ordem
+[p20c0] apresentada.
+[p20c0] (A) 1 – 2 – 2 – 1.
+[p20c0] (B) 2 – 2 – 1 – 2.
+[p20c0] (C) 1 – 2 – 1 – 2.
+[p20c0] (D) 2 – 1 – 2 – 1.
+[p20c0] (E) 1 – 1 – 2 – 2.
+[p20c0] 86
+[p20c0] Com a diversificação das aplicações que empregam conjuntos de
+[p20c0] dados classificados como Big Data, foram desenvolvidos
+[p20c0] frameworks, heurísticas e metodologias para armazenar, acessar
+[p20c0] e processá-los sem comprometer o desempenho dos sistemas
+[p20c0] envolvidos. Duas soluções que se destacam nesse contexto são o
+[p20c0] Apache Hadoop e o Apache Spark.
+[p20c0] A respeito dessas soluções, assinale a afirmativa correta.
+[p20c0] (A) O GraphX é um componente do Hadoop permite visualizar e
+[p20c0] analisar dados com gráficos.
+[p20c0] (B) O Apache Spark copia os dados para a RAM antes de
+[p20c0] processá-los em vez de acessar dados do armazenamento
+[p20c0] externo.
+[p20c0] (C) O Yet Another Resource Negotiator (YARN) é um componente
+[p20c0] do Spark que aloca recursos para a execução de aplicações.
+[p20c0] (D) O Apache Spark não tem bibliotecas de machine learning
+[p20c0] integradas, enquanto o Apache Spark dispõe da biblioteca de
+[p20c0] machine learning MLlib.
+[p20c0] (E) O Apache Hadoop conta com uma tecnologia especial de
+[p20c0] processamento de dados chamada Conjunto de Dados
+[p20c0] Distribuídos Resiliente (RDD).
+[p20c0] 87
+[p20c0] Certas aplicações, por sua natureza, demandam o envio e o
+[p20c0] recebimento de volumes variados de dados de localização,
+[p20c0] eventos e sensores para análises em tempo real e visibilidade de
+[p20c0] diversos aspectos de suas atividades.
+[p20c0] Esse processamento pode ser em lotes ou por meio de
+[p20c0] transmissão por streaming, conforme as características da
+[p20c0] aplicação.
+[p20c0] Assinale a opção que apresenta uma característica inerente ao
+[p20c0] processamento de stream.
+[p20c0] (A) Dados analíticos complexos.
+[p20c0] (B) Latências em minutos para horas.
+[p20c0] (C) Registros individuais ou microlotes compostos de alguns
+[p20c0] registros.
+[p20c0] (D) Preferencial em caso de operações repetitivas, em ordem
+[p20c0] sequencial.
+[p20c0] (E) Consultas ou processamento de todos ou da maioria dos
+[p20c0] dados no conjunto de dados.
+[p20c0] AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS
+[p20c1] 88
+[p20c1] Um sistema de informações deve ser implementado com a
+[p20c1] finalidade de compilar dados relacionados à opinião dos usuários
+[p20c1] sobre uma determinada instituição, considerando as publicações
+[p20c1] de conteúdos na Web.
+[p20c1] A técnica empregada para navegar automaticamente por páginas
+[p20c1] Web e extrair informações relevantes para o contexto de
+[p20c1] aplicação recebe o nome de
+[p20c1] (A) Mineração de Dados.
+[p20c1] (B) Aprendizado de Máquina.
+[p20c1] (C) Raspagem de Dados em Redes.
+[p20c1] (D) Interface de Programação de Aplicações.
+[p20c1] (E) Descoberta de Conhecimento em Bases de Dados.
+[p20c1] 89
+[p20c1] Um serviço Web foi desenvolvido com a finalidade de
+[p20c1] disponibilizar dados oriundos de sensores de monitoramento de
+[p20c1] atividade em uma repartição pública, por meio de requisições
+[p20c1] HTTP.
+[p20c1] A forma de comunicação com o serviço deve ser por meio de uma
+[p20c1] API REST, em detrimento de uma API SOAP, o que implica a
+[p20c1] implementação do seguinte requisito:
+[p20c1] (A) armazenar todas as respostas da API em cache.
+[p20c1] (B) permitir apenas mensagens XML entre aplicações.
+[p20c1] (C) configurar camada adicional de segurança para funcionar
+[p20c1] com HTTPS.
+[p20c1] (D) considerar solicitações anteriores ao processar nova
+[p20c1] solicitação.
+[p20c1] (E) registrar o escopo e a função dos serviços Web em arquivo
+[p20c1] WSDL.
+[p20c1] 90
+[p20c1] Com relação às técnicas de Detecção de Outliers, analise as
+[p20c1] afirmativas a seguir e assinale (V) para a verdadeira e (F) para a
+[p20c1] falsa.
+[p20c1] ( ) A Distância de Mahalanobis é uma técnica eficaz para
+[p20c1] detectar outliers em dados multivariados, pois leva em
+[p20c1] consideração a média e a covariância dos dados, permitindo
+[p20c1] identificar pontos que são outliers em relação à distribuição
+[p20c1] conjunta das variáveis.
+[p20c1] ( ) Modelos de Misturas Gaussianas (GMM) não devem ser
+[p20c1] utilizados para detectar outliers com distribuições não
+[p20c1] normais, pois levam em consideração apenas distribuições
+[p20c1] Gaussianas.
+[p20c1] ( ) A Transformação Logarítmica é uma técnica comum e
+[p20c1] eficiente para remover outliers de forma definitiva em
+[p20c1] conjuntos de dados simétricos e assimétricos.
+[p20c1] As afirmativas são, respectivamente,
+[p20c1] (A) V – V – V.
+[p20c1] (B) V – V – F.
+[p20c1] (C) V – F – F.
+[p20c1] (D) F – F – F.
+[p20c1] (E) F – V – V.
+[p20c1] S E CIÊNCIA DE DADOS – MANHÃ TIPO BRANCA – PÁGINA 20
+[p21c0] Desenvolvimento de Sistemas
+[p21c0] 91
+[p21c0] Uma das soluções mais interessantes utilizadas atualmente nos
+[p21c0] servidores é a construção de sistemas por meio de contêineres.
+[p21c0] Contêineres são unidades leves e portáteis que empacotam uma
+[p21c0] aplicação e suas dependências (bibliotecas, configurações etc.),
+[p21c0] permitindo que ela seja executada de forma consistente em
+[p21c0] qualquer ambiente.
+[p21c0] Diante desse contexto, assinale a opção que indica uma
+[p21c0] característica específica de máquinas virtuais (VMs) em
+[p21c0] comparação aos contêineres.
+[p21c0] (A) Inicialização mais rápida das instâncias.
+[p21c0] (B) Maior isolamento do sistema operacional.
+[p21c0] (C) Uso mais eficiente dos recursos do sistema.
+[p21c0] (D) Maior portabilidade entre diferentes ambientes.
+[p21c0] (E) Compartilhamento do kernel do sistema operacional do host.
+[p21c0] 92
+[p21c0] DevOps é uma abordagem cultural e prática que integra as
+[p21c0] equipes de desenvolvimento (Dev) e operações (Ops) para
+[p21c0] melhorar a colaboração, automatizar processos e acelerar o ciclo
+[p21c0] de entrega de software.
+[p21c0] Com base nessa definição, assinale a opção que indica o princípio
+[p21c0] que está associado ao DevOps.
+[p21c0] (A) Integração contínua e entrega contínua (CI/CD).
+[p21c0] (B) Menor colaboração entre equipes para aumentar o foco
+[p21c0] individual.
+[p21c0] (C) Utilização de infraestrutura física ao invés de ambientes em
+[p21c0] nuvem.
+[p21c0] (D) Separação estrita entre as equipes de desenvolvimento e
+[p21c0] operações.
+[p21c0] (E) Ciclos de lançamento de software mais longos e controlados.
+[p21c0] 93
+[p21c0] Acerca de tecnologias, frameworks e linguagens de programação
+[p21c0] voltados para desenvolvimento de sistemas web/mobile, assinale
+[p21c0] a afirmativa correta.
+[p21c0] (A) O Bootstrap utiliza jQuery ao invés de Sass para gerar
+[p21c0] arquiteturas modulares e personalizáveis.
+[p21c0] (B) O AJAX foi originalmente concebido com JSON, porém agora
+[p21c0] é mais utilizado com XML, uma vez que é mais leve e parte
+[p21c0] integrante do JavaScript.
+[p21c0] (C) Mostrar ou ocultar partes de componentes específicos em
+[p21c0] vez de obter uma nova página no servidor é a principal
+[p21c0] característica do modelo Progressive Web App (PWA).
+[p21c0] (D) Single Page Application (SPA) tem como maior objetivo
+[p21c0] oferecer uma experiência de uso semelhante à de um
+[p21c0] aplicativo nativo, mas acessível através de um navegador.
+[p21c0] (E) TypeScript é uma linguagem de programação fortemente
+[p21c0] tipada, baseada em JavaScript, oferecendo melhor code
+[p21c0] completion e detecção de erros antes da execução do código.
+[p21c0] AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS
+[p21c1] 94
+[p21c1] Spring Boot é uma estrutura de software livre em Java, baseada
+[p21c1] em microsserviços e que simplifica o processo de configuração e
+[p21c1] inicialização para o uso de Spring em uma aplicação.
+[p21c1] Diante desse contexto, analise as afirmativas a seguir e assinale
+[p21c1] (V) para a verdadeira e (F) para a falsa.
+[p21c1] ( ) Por padrão, o Spring Boot Starter para Redis utiliza Jedis.
+[p21c1] ( ) Cada aplicativo Web Spring Boot inclui um servidor web
+[p21c1] embutido.
+[p21c1] ( ) Anotações de classe @RestController do Spring em uma
+[p21c1] aplicação Spring Boot renderizam uma resposta JSON por
+[p21c1] padrão, desde que Jackson2 esteja no classpath.
+[p21c1] As afirmativas são, respectivamente,
+[p21c1] (A) F – V – V.
+[p21c1] (B) V – V – F.
+[p21c1] (C) F – F – V.
+[p21c1] (D) F – V – F.
+[p21c1] (E) V – F – V.
+[p21c1] 95
+[p21c1] Sobre os conceitos e tecnologias relacionados à segurança, como
+[p21c1] OAuth, arquitetura Zero Trust e mTLS, analise as afirmativas a
+[p21c1] seguir.
+[p21c1] I. Ao contrário de uma Virtual Private Network (VPN), uma Zero
+[p21c1] Trust Network Access (ZTNA) é baseada em políticas definidas
+[p21c1] de controle de acesso, negando acesso por padrão e
+[p21c1] concedendo acesso a usuários somente com autorização
+[p21c1] explícita.
+[p21c1] II. O padrão OAuth define dois tipos de clientes em função da
+[p21c1] capacidade de manter a confidencialidade de suas
+[p21c1] credenciais: confidencial e público.
+[p21c1] III. Comumente empregado em estruturas Zero Trust, o mTLS
+[p21c1] assegura que os entes de uma conexão de rede são
+[p21c1] realmente quem afirmam ser, checando se ambos possuem a
+[p21c1] chave pública correta.
+[p21c1] Está correto o que se afirma em
+[p21c1] (A) I, apenas.
+[p21c1] (B) I e II, apenas.
+[p21c1] (C) I e III, apenas.
+[p21c1] (D) II e III, apenas.
+[p21c1] (E) I, II e III.
+[p21c1] Engenharia de Software
+[p21c1] 96
+[p21c1] Os níveis de maturidade do CMMI representam uma trilha para
+[p21c1] os esforços de melhoria de desempenho e processos de uma
+[p21c1] organização, com base em conjuntos predefinidos de áreas
+[p21c1] práticas.
+[p21c1] Diante desse contexto, assinale a opção que corresponde ao nível
+[p21c1] de maturidade com estas características: A estabilidade da
+[p21c1] organização proporciona uma plataforma para agilidade e
+[p21c1] inovação e a instituição está focada em melhoria contínua,
+[p21c1] respondendo a oportunidades e mudanças.
+[p21c1] (A) Nível 1 – Inicial.
+[p21c1] (B) Nível 2 – Gerenciado.
+[p21c1] (C) Nível 3 – Definido.
+[p21c1] (D) Nível 4 - Gerenciado quantitativamente.
+[p21c1] (E) Nível 5 – Otimização.
+[p21c1] S E CIÊNCIA DE DADOS – MANHÃ TIPO BRANCA – PÁGINA 21
+[p22c0] 97
+[p22c0] Acerca da elicitação e validação de requisitos, ao utilizar a técnica
+[p22c0] de casos de uso, assinale a opção que indica a prática que pode
+[p22c0] comprometer principalmente a rastreabilidade dos requisitos.
+[p22c0] (A) A construção dos casos de uso baseados somente em
+[p22c0] entrevistas com os usuários chave.
+[p22c0] (B) A ausência de detalhamento de cenários alternativos e
+[p22c0] exceções nos diagramas de casos de uso.
+[p22c0] (C) A falta de revisão contínua dos casos de uso pelos
+[p22c0] desenvolvedores após cada iteração do projeto.
+[p22c0] (D) A utilização de uma linguagem de modelagem que seja
+[p22c0] amplamente compreendida pelos usuários finais.
+[p22c0] (E) A inclusão de detalhes técnicos no fluxograma de casos de
+[p22c0] uso, visando a implementação direta pelos desenvolvedores.
+[p22c0] 98
+[p22c0] As fases possuem objetivos distintos e marcos importantes no
+[p22c0] processo unificado.
+[p22c0] Sobre essas fases, analise as afirmativas a seguir.
+[p22c0] I. Na fase de elaboração, o objetivo é definir o escopo inicial do
+[p22c0] projeto e identificar os principais requisitos de alto nível.
+[p22c0] II. A fase de transição é onde o sistema está pronto para ser
+[p22c0] implantado e disponibilizado aos usuários finais.
+[p22c0] III. Durante a fase de construção, o foco está em implementar as
+[p22c0] funcionalidades e realizar a integração do sistema.
+[p22c0] Está correto o que se afirma em
+[p22c0] (A) I, apenas.
+[p22c0] (B) III, apenas.
+[p22c0] (C) I e II, apenas.
+[p22c0] (D) II e III, apenas.
+[p22c0] (E) I, II e III.
+[p22c0] AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS
+[p22c1] 99
+[p22c1] A Análise por Pontos de Função (APF) é uma técnica usada para
+[p22c1] medir o tamanho funcional de um sistema de software. Um dos
+[p22c1] elementos utilizados na APF são os chamados deflatores, que são
+[p22c1] usados para
+[p22c1] (A) avaliar o desempenho do sistema com base nas transações de
+[p22c1] entrada externa.
+[p22c1] (B) ajustar o total de pontos de função com base nas
+[p22c1] características gerais do sistema.
+[p22c1] (C) converter pontos de função em estimativas de esforço com
+[p22c1] base na complexidade das funções de dados.
+[p22c1] (D) calcular a complexidade das funções transacionais com base
+[p22c1] no número de dados elementares referenciados.
+[p22c1] (E) reduzir os pontos de função considerando a reutilização de
+[p22c1] código com base em registros lógicos referenciados.
+[p22c1] 100
+[p22c1] Em relação ao gerenciamento de processos de negócios, analise
+[p22c1] as afirmativas a seguir.
+[p22c1] I. A automação dos processos implica eliminação de gargalos e
+[p22c1] fluxos de trabalho ineficientes.
+[p22c1] II. Estabelecer indicadores de desempenho baseados nas metas
+[p22c1] de longo prazo da organização implica dificuldade para
+[p22c1] otimizar os processos.
+[p22c1] III. Para uma visão mais próxima da realidade operacional, a
+[p22c1] análise de Pareto é mais indicada que brainstorming com
+[p22c1] colaboradores.
+[p22c1] É correto o que se afirma em
+[p22c1] (A) II, apenas.
+[p22c1] (B) III, apenas.
+[p22c1] (C) I e II, apenas.
+[p22c1] (D) I e III, apenas.
+[p22c1] (E) II e III, apenas.
+[p22c1] S E CIÊNCIA DE DADOS – MANHÃ TIPO BRANCA – PÁGINA 22
+[p24c0] Realiz
+[p24c1] zação

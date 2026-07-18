@@ -1,0 +1,1924 @@
+{
+ "prova": "fgv-2025-tcepi-dados",
+ "banca": "FGV",
+ "ano": 2025,
+ "orgao": "TCE-PI",
+ "cargo": "Auditor de Controle Externo - TI - Sistemas, Eng. de Dados e Ciência de Dados",
+ "tipo": "TIPO 1",
+ "pdf": "fgv-2025-tce-pi-auditor-de-controle-externo-controle-externo-especifica-de-tecnologia-da-informacao-sistemas-engenharia-de-dados-e-ciencia-de-dados-manha-prova.pdf",
+ "questoes": [
+  {
+   "numero": 1,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "…a Justiça sustenta numa das mãos a balança e que pesa o\nDireito, e na outra a espada de que se serve para o defender.\nA espada sem a balança é a força brutal; a balança sem a espada\né a impotência do Direito.\n(Rudolf von Ihering. Metáfora da balança da Justiça.)\nSobre o texto acima, assinale a afirmativa incorreta.",
+   "alternativas": {
+    "A": "Segundo o texto, as punições são indispensáveis no exercício da justiça.",
+    "B": "O emprego da vírgula no segundo período se deve à omissão do verbo.",
+    "C": "O primeiro período do texto podia mostrar entre vírgulas o termo “numa das mãos”.",
+    "D": "O texto não cita o fato de a justiça também ser cega, o que aparece representado na imagem.",
+    "E": "O texto pode ser interpretado como uma crítica à justiça."
+   },
+   "gabarito": null,
+   "anulada": true,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 2,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Leia a nota da OAB a seguir.\nA prática reiterada e impune de atos de corrupção leva as pessoas\na pensar que a improbidade e a falta de ética são naturais e a\nimprobidade é uma regra para os grandes delinquentes.\nSobre a estruturação desse pequeno texto, assinale a afirmativa\ncorreta.",
+   "alternativas": {
+    "A": "O adjetivo “grandes” mostra valor de importância social dos delinquentes.",
+    "B": "Os adjetivos “reiterada” e “impune” são redundantes, bastando tão somente o emprego de um deles.",
+    "C": "O texto mostra um erro de construção na forma verbal “pensar”, que deveria ser substituída por “pensarem”.",
+    "D": "A repetição da palavra “improbidade” poderia ser evitada, trocando-se a segunda ocorrência pelo demonstrativo “esta”.",
+    "E": "O verbo “pensar” só tem por complemento a primeira oração que o segue: “que a improbidade e a falta de ética são naturais”."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 3,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Leia o fragmento a seguir.\nTemo que deveríamos tornar o mundo honesto antes de\nhonestamente dizer a nossos filhos que a honestidade é a melhor\npolítica. (Bernard Shaw)\nNesse pensamento aparecem três palavras da mesma família:\nhonesto, honestamente e honestidade.\nAssinale a opção que apresenta três palavras que pertencem\ntambém a uma mesma família e repetem, respectivamente, as\nmesmas classes gramaticais.",
+   "alternativas": {
+    "A": "legível – legalmente – leitura.",
+    "B": "correto – corretamente – correção.",
+    "C": "elegível – eleitoralmente – eleitoral.",
+    "D": "distinguido – distintamente – distinto.",
+    "E": "punibilidade – impunemente – punição. AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 4,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Assinale a frase em que termo sublinhado não mantém coesão\ncom um termo anterior.",
+   "alternativas": {
+    "A": "Jogo imbecil é aquele em que ninguém ganha.",
+    "B": "Se eu morresse em um hospital, eu o processaria.",
+    "C": "Um pouco de incenso queimado é bom remédio para deixar lá com ela.",
+    "D": "Os médicos creem que, encontrada a causa da enfermidade, sua cura está descoberta.",
+    "E": "Por quatro gerações estamos fazendo remédios como se a vida das pessoas dependesse deles."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 5,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Assinale a frase em que a expressão é que está empregada para\ndar ênfase.",
+   "alternativas": {
+    "A": "Quanto é que custam as batatas?",
+    "B": "Onde é que você mora?",
+    "C": "Como é que você se chama?",
+    "D": "Quando é que é o dia da Independência?",
+    "E": "Quando é que ela chega?"
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 6,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Assinale a frase que mostra a presença de antônimos em sua\nestruturação.",
+   "alternativas": {
+    "A": "Para grandes males, grandes remédios.",
+    "B": "A distância mais longa é entre a cabeça e o coração.",
+    "C": "Depois do jantar descansarás ou andarás mil passos.",
+    "D": "Sabemos que tudo pode ser comum ou extraordinário.",
+    "E": "Os médicos devem inserir fé e esperança nos pacientes."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 7,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Leia a frase em discurso direto a seguir.\n— Amanhã estarei saindo daqui com minha irmã.\nAssinale a opção que apresenta essa frase em discurso indireto.\n(Começando por Ele disse que...)",
+   "alternativas": {
+    "A": "amanhã estará saindo de lá com sua irmã.",
+    "B": "amanhã estaria saindo de lá com a irmã dele.",
+    "C": "amanhã estava saindo de lá com a irmã dele.",
+    "D": "no dia seguinte estaria saindo de lá com sua irmã.",
+    "E": "no dia seguinte ele estaria saindo de lá com a irmã dele."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 8,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Assinale a opção que indica o fragmento textual que pertence ao\nmodo narrativo de organização discursiva.",
+   "alternativas": {
+    "A": "“A iluminação era fraca, mas, como havia luz externa, o problema era de pouca monta.”",
+    "B": "“Alguns clientes conversavam em diversas mesas e pareciam contentes com alguma coisa.”",
+    "C": "“O restaurante era pequeno, com muitas mesas espalhadas pelo salão, com velas sobre elas.”",
+    "D": "“Restaurantes são lugares públicos e devem estar sempre com boa aparência para atrair os clientes.”",
+    "E": "“Estava com fome. Dobrei a esquina, dirigi-me a um restaurante que estava aberto e sentei-me na primeira mesa.”"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 9,
+   "pagina": 4,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Assinale a frase que está inteiramente em linguagem lógica, sem\nconotação (linguagem figurada).",
+   "alternativas": {
+    "A": "Dinheiro fala.",
+    "B": "Êxtase: descobrir uma nova camada de bombons sob a primeira.",
+    "C": "Se você ficar com medo da guerra, coma uma bomba de chocolate.",
+    "D": "Se você tem alguma coisa importante a dizer, embrulhe-a em chocolate.",
+    "E": "Lavo muita roupa no tanque e só ando de bicicleta. Acho que isso faz o corpo ficar em forma."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 10,
+   "pagina": 4,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Todo texto argumentativo mostra uma tese e os argumentos que\na defendem.\nAssinale a frase em que o argumento apresentado é\ncaracterizado como testemunho de autoridade.",
+   "alternativas": {
+    "A": "Não deixe para amanhã o que pode fazer depois de amanhã.",
+    "B": "Se quiser consertar o país, basta fazer com que todos creiam em Deus.",
+    "C": "Sigo tomando o ônibus em lugar do metrô, pois assim faz a maioria dos cidadãos.",
+    "D": "Já dizia meu pai que o samba brasileiro ia perder espaço para a música estrangeira.",
+    "E": "Ontem choveu e as ruas ficaram alagadas; hoje, choveu de novo, logo as ruas ficarão alagadas. Read Text I and answer the five questions that follow it Text I Cybersecurity risk: time for auditors to take heed? The global interest in cybersecurity is growing. As we move into the cyber age, technology has become a huge part of both our everyday lives and today’s business environment, as more and more businesses increase their online presence and digital exposure by leveraging technology for almost every aspect of their business. But just as technology presents opportunities to many businesses, it also presents threats and challenges. Over the years, cyber attacks have continued to occur, escalating in frequency, severity and impact. These incidents have impacted every industry from financial services to retailers, entertainment and healthcare providers. […] Perhaps due to its constantly evolving nature, cybersecurity risk remains complex and abstract to many. There may also be a perception that cybersecurity risk is not relevant to small businesses, hence, cybersecurity risk may not have been considered and addressed in all financial statements audits. But let us think about this: risk assessment is a crucial part of audit planning and auditors are required under the auditing standards to obtain an understanding of business risks that may result in risks of material misstatement of the financial statements. Just as auditors would consider an entity’s business risks in a financial statements audit, cybersecurity risk is an equally important risk area that cannot be ignored. Perhaps even more so, given the broad extent to which cyber attacks can cause fundamental AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS enterprise-wide damage to organisations, and for some attacks, even a huge impact to the financial statements. Cybersecurity risk is hence an essential consideration in any financial statements audit. Adapted from : https://charteredaccountantsworldwide.com/cybersecurity-risk- time-for-auditors-to-take-heed/"
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 11,
+   "pagina": 4,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "The objective of Text I is to",
+   "alternativas": {
+    "A": "detail a plan.",
+    "B": "place a complaint.",
+    "C": "spread some panic.",
+    "D": "provide an argument.",
+    "E": "change some instructions."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 12,
+   "pagina": 4,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "In the title, the expression take heed can be replaced, without\nsignificant change in meaning, by",
+   "alternativas": {
+    "A": "consider carefully.",
+    "B": "view marginally.",
+    "C": "look casually.",
+    "D": "think lightly.",
+    "E": "act quickly."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 13,
+   "pagina": 4,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "In technology has become a huge part of both our everyday lives\nand today’s business environment (1st paragraph), the word huge\nis similar in meaning to",
+   "alternativas": {
+    "A": "small.",
+    "B": "sizable.",
+    "C": "narrow.",
+    "D": "complex.",
+    "E": "dangerous."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 14,
+   "pagina": 4,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "The word hence in Cybersecurity risk is hence an essential\nconsideration (2nd paragraph) is the same as",
+   "alternativas": {
+    "A": "yet.",
+    "B": "but.",
+    "C": "often.",
+    "D": "moreover.",
+    "E": "therefore."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 15,
+   "pagina": 4,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "The first word in the fragment Perhaps due to its constantly\nevolving nature (2nd paragraph) expresses",
+   "alternativas": {
+    "A": "validity.",
+    "B": "urgency.",
+    "C": "disparity.",
+    "D": "frequency.",
+    "E": "uncertainty. Read Text II and answer the five questions that follow it Text II OpenAI’s GPT-4 Scores in the Top 1% of Creative Thinking By Erik Guzik Of all the forms of human intellect that one might expect artificial intelligence to emulate, few people would likely place creativity at the top of their list. Creativity is wonderfully mysterious—and frustratingly fleeting. It defines us as human beings—and seemingly defies the cold logic that lies behind the silicon curtain of machines. Yet, the use of AI for creative endeavors is now growing. New AI tools like DALL-E and Midjourney are increasingly part of creative production, and some have started to win awards for their creative output. The growing impact is both social and economic—as just one example, the potential of AI to generate new, creative content is a defining flashpoint behind the Hollywood writers’ strike. And if our recent study into the striking originality of AI is any indication, the emergence of AI-based creativity—along with examples of both its promise and peril—is likely just beginning. When people are at their most creative, they’re responding to a need, goal, or problem by generating something new—a product or solution that didn’t previously exist. In this sense, creativity is an act of combining existing resources — ideas, materials, knowledge — in a novel way that’s useful or gratifying. Quite often, the result of creative thinking is also surprising, leading to something the creator did not — and perhaps could not — foresee. Our results? GPT-4 scored in the top 1 percent of test-takers for the originality of its ideas. From our research, we believe this marks one of the first examples of AI meeting or exceeding the human ability for original thinking. In short, we believe that AI models like GPT-4 are capable of producing ideas that people see as unexpected, novel, and unique. Other researchers are arriving at similar conclusions in their research of AI and creativity. Adapted from https://singularityhub.com/2023/09/10/openais-gpt-4-scores-in-the- top-1-of-creative-thinking/"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 16,
+   "pagina": 5,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Based on Text II, mark the statements below as true (T) or false\n(F).\n( ) The text opens by asserting that emulating human creativity\nhas always been considered by everybody as a priority in AI\nprojects.\n( ) The outcome of creative thinking can be unpredictable at\ntimes.\n( ) The author concludes that using AI for creative ventures is\nworth the effort.\nThe statements are, respectively,",
+   "alternativas": {
+    "A": "F – F – T.",
+    "B": "F – T – T.",
+    "C": "T – F – T.",
+    "D": "T – F – F.",
+    "E": "T – T – F. AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 17,
+   "pagina": 5,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "The modal verb might in one might expect artificial intelligence to\nemulate (1st paragraph) expresses",
+   "alternativas": {
+    "A": "singularity.",
+    "B": "permission.",
+    "C": "possibility.",
+    "D": "obligation.",
+    "E": "ability."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 18,
+   "pagina": 5,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "When the writer qualifies creativity as being frustratingly fleeting\n(1st paragraph), he characterizes it as being disappointingly",
+   "alternativas": {
+    "A": "taxing.",
+    "B": "lasting.",
+    "C": "strenuous.",
+    "D": "momentary.",
+    "E": "cumbersome."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 19,
+   "pagina": 5,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "When the author informs that some have started to win awards\nfor their creative output (2nd paragraph), he reveals that creative\ntools are being",
+   "alternativas": {
+    "A": "bailed.",
+    "B": "broken.",
+    "C": "banned.",
+    "D": "boosted.",
+    "E": "burglarized."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 20,
+   "pagina": 5,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "In the last paragraph, the phrase In short is similar in meaning to",
+   "alternativas": {
+    "A": "In a nutshell.",
+    "B": "Besides that.",
+    "C": "Still further.",
+    "D": "In addition.",
+    "E": "Thus far."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 21,
+   "pagina": 5,
+   "disciplina": "Legislação Aplicável ao TCE-PI",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O TCE-PI, no exercício do controle externo da Administração\nPública, tem competência para controlar as contas dos\nadministradores e demais responsáveis por dinheiros, bens e\nvalores da Administração direta e indireta e as contas daqueles\nque derem causa a perda, extravio ou outra irregularidade de que\nresulte prejuízo ao erário.\nEm alguns casos, o TCE-PI julga diretamente as contas, e, em\noutros casos, apenas as aprecia, mediante parecer prévio,\ncabendo ao Poder Legislativo o seu julgamento.\nNesses termos, considere os seguintes órgãos e agentes públicos:\nI. Mesa Diretora da Assembleia Legislativa.\nII. Presidente do Tribunal de Justiça.\nIII. Presidente do TCE-PI.\nIV. Prefeito(a) de Teresina-PI.\nV. Governador(a) do Estado do Piauí.\nCaberá ao TCE-PI julgar as contas apenas de",
+   "alternativas": {
+    "A": "II e III.",
+    "B": "II e IV.",
+    "C": "I, II e III.",
+    "D": "I, IV e V.",
+    "E": "I, II, III e IV."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 22,
+   "pagina": 6,
+   "disciplina": "Legislação Aplicável ao TCE-PI",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "No curso de auditoria governamental na Secretaria de Cultura do\nMunicípio Alfa, jurisdicionado do TCE-PI, os auditores da Corte de\nContas identificaram inconsistências na contratação de shows e\neventos pela municipalidade, com valores muito além dos\npraticados pelo mercado e completamente dissonantes da\nrealidade financeira e orçamentária do ente.\nFicou evidenciado que tal fato era de conhecimento não só do\nPrefeito e do Secretário de Cultura, mas também do controlador\ninterno, Carlos, servidor exclusivamente comissionado.\nEm sede de entrevista, foi evidenciado que o controlador não\ntomou qualquer medida sanatória e nem reportou a\nirregularidade ao TCE-PI por receio de ser exonerado ad nutum,\numa vez que não titulariza cargo público efetivo, não gozando de\nestabilidade.\nNos termos do Regimento Interno do TCE-PI, a omissão no dever\nde informar à Corte de Contas as irregularidades apuradas no\nâmbito do controle interno, acarretará a Carlos sua",
+   "alternativas": {
+    "A": "isenção de culpa.",
+    "B": "responsabilização solidária.",
+    "C": "responsabilização eventual, apenas no caso de reiteração da conduta omissiva.",
+    "D": "responsabilização eventual, apenas no caso de as contas do prefeito serem julgadas regulares.",
+    "E": "responsabilização subsidiária, apenas nos casos das contas do prefeito serem julgadas regulares com ressalvas."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 23,
+   "pagina": 6,
+   "disciplina": "Legislação Aplicável ao TCE-PI",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A adoção da forma republicana de Estado acarreta o dever de\naccountability, impondo-se a responsabilidade de prestação de\ncontas por aqueles que administram recursos públicos.\nNo processo de prestação de contas perante o Tribunal de Contas\ndo Estado do Piauí, a Corte detém competência para emitir\nparecer prévio e julgar as contas de gestores de recursos públicos\nregulares, regulares com ressalva ou irregulares.\nNos termos do regimento interno do TCE-PI, assinale a afirmativa\ncorreta acerca da natureza da decisão de julgamento de contas.",
+   "alternativas": {
+    "A": "Preliminar, não sujeita a recurso.",
+    "B": "Definitiva, sujeita a recurso de apelação no prazo de 30 dias.",
+    "C": "Preliminar, sujeita a pedido de reexame no prazo de 30 dias.",
+    "D": "Definitiva, sujeita a recurso de reconsideração no prazo de 30 dias.",
+    "E": "Terminativa, sujeita a recurso ordinário constitucional perante o STJ, no prazo de 15 dias úteis. AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS"
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 24,
+   "pagina": 6,
+   "disciplina": "Legislação Aplicável ao TCE-PI",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O Município Alfa, jurisdicionado do TCE-PI, após processo\nlicitatório, firmou contrato de fornecimento de produtos\nhospitalares para seu Hospital Municipal, permitindo a prestação\ndo serviço público de saúde com regularidade.\nAto contínuo, o prefeito municipal nomeou sua filha, Carla, para\nexercer cargo administrativo, no qual teria, entre outras\natribuições, a posição de fiscal do referido contrato.\nEm sede de auditoria, o controle interno municipal identificou\nsuperfaturamento no contrato de fornecimento de produtos\nhospitalares e a prática de nepotismo, ante a nomeação de Carla\npara o cargo administrativo, tendo imediatamente comunicado à\nCorte de Contas.\nTendo tomado conhecimento dos fatos supramencionados, o\nTCE-PI assinou prazo para que o Município adotasse as\nprovidências necessárias ao exato cumprimento da lei, o que não\nfoi atendido.\nNos termos da Lei Orgânica do TCE-PI, com relação ao ato de\nnomeação de Carla e ao contrato de fornecimento de produtos\nhospitalares, com vistas a sanar as irregularidades apresentadas,\na Corte de Contas deverá",
+   "alternativas": {
+    "A": "sustar o ato de nomeação de Carla, comunicando a decisão à Assembleia Legislativa e oficiar à Câmara Municipal acerca das irregularidades verificadas no contrato, determinando que delibere sobre a sustação de seus efeitos.",
+    "B": "oficiar à Câmara Municipal acerca das irregularidades verificadas no ato de nomeação de Carla, sugerindo que delibere sobre a sustação de seus efeitos e sustar o contrato, comunicando a decisão à Câmara Municipal.",
+    "C": "oficiar ao Tribunal de Justiça do Estado do Piauí acerca das irregularidades no ato de nomeação de Carla e comunicar à Assembleia Legislativa acerca das irregularidades verificadas no contrato.",
+    "D": "oficiar ao Supremo Tribunal Federal acerca das irregularidades no ato de nomeação de Carla, ante a violação à Súmula Vinculante 13 e comunicar ao Congresso Nacional acerca das irregularidades verificadas no contrato.",
+    "E": "sustar o ato de nomeação de Carla, comunicando a decisão à Câmara Municipal e oficiar à Câmara Municipal acerca de irregularidades verificadas no contrato, sugerindo que delibere sobre a sustação de seus efeitos."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 25,
+   "pagina": 7,
+   "disciplina": "Legislação Aplicável ao TCE-PI",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "No plano anual de controle externo dos exercícios de 2024/2025\ndo TCE-PI, estão previstas as realizações de fiscalizações pelas\nunidades técnicas da Secretaria de Controle Externo nas áreas de\neducação, gestão ambiental e segurança pública, visando\nI. examinar a legalidade e a legitimidade dos atos de gestão dos\nresponsáveis sujeitos à sua jurisdição, quanto aos aspectos\ncontábil, financeiro, orçamentário, operacional e patrimonial.\nII. avaliar, ao longo de um período predeterminado, o\ndesempenho dos órgãos e das entidades jurisdicionadas,\nassim como dos sistemas, dos programas e das ações\ngovernamentais, quanto aos aspectos da economicidade, da\neficiência e da eficácia dos atos praticados.\nIII. conhecer a organização e o funcionamento dos órgãos e das\nentidades da administração direta, indireta e fundacional do\nEstado e dos Municípios, incluindo fundos e demais\ninstituições que lhe sejam jurisdicionadas, assim como dos\nsistemas, dos programas e das ações governamentais sob os\naspectos contábil, financeiro, orçamentário, operacional e\npatrimonial.\nConsiderando as disposições do Regimento Interno, os\ninstrumentos de fiscalização adequados a serem utilizados pelas\nunidades técnicas na execução do plano proposto pela Secretaria\nde Controle Externo do TCE-PI são, respectivamente,",
+   "alternativas": {
+    "A": "inspeção, monitoramento e levantamento.",
+    "B": "levantamento, monitoramento e inspeção.",
+    "C": "auditoria, monitoramento e levantamento.",
+    "D": "monitoramento, auditoria e acompanhamento.",
+    "E": "auditoria, acompanhamento e levantamento."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 26,
+   "pagina": 7,
+   "disciplina": "Legislação Aplicável ao TCE-PI",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Luciana, auditora de controle externo do Tribunal de Contas do\nEstado do Piauí, obteve, no curso de auditoria governamental,\ninformações sigilosas de órgão jurisdicionado da Corte de Contas,\ntomando a devida cautela no seu armazenamento e na restrição\nde acesso.\nVisando robustecer ainda mais as evidências obtidas, Luciana\nrealizou entrevistas de auditoria com outros órgãos\njurisdicionados do TCE-PI e com representantes da sociedade\ncivil, disponibilizando as informações sigilosas recebidas para fins\nde confronto e circularização.\nNos termos do Estatuto dos Servidores Públicos do Estado do\nPiauí, a conduta de Luciana de divulgar informações sigilosas\nobtidas no exercício das funções pode sujeitá-la à penalidade\ndisciplinar de",
+   "alternativas": {
+    "A": "demissão.",
+    "B": "suspensão.",
+    "C": "advertência.",
+    "D": "destituição de função gratificada.",
+    "E": "destituição de cargo em comissão. AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS"
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 27,
+   "pagina": 7,
+   "disciplina": "Legislação Aplicável ao TCE-PI",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Nos termos do regimento interno do Tribunal de Contas do\nEstado do Piauí, sobre o parecer prévio emitido pela Corte, no\nâmbito das contas do chefe do Poder Executivo municipal,\nassinale a afirmativa correta.",
+   "alternativas": {
+    "A": "Estará sujeito a julgamento pelo Tribunal de Justiça do Estado do Piauí, após emissão de parecer prévio pelo TCE-PI, que só deixará de prevalecer por decisão de dois terços da totalidade dos membros do órgão judicial.",
+    "B": "Estará sujeito a julgamento pela Câmara Municipal, após emissão de parecer prévio pelo TCE-PI, que só deixará de prevalecer por decisão de dois terços da totalidade dos membros da Câmara Municipal.",
+    "C": "Estará sujeito a julgamento pela Câmara Municipal, após emissão de parecer prévio pelo TCE-PI, que só deixará de prevalecer por decisão de três quintos da totalidade dos membros da Câmara Municipal.",
+    "D": "Estará sujeito a julgamento pela Assembleia Legislativa, após emissão de parecer prévio pelo TCE-PI, que só deixará de prevalecer por decisão de dois terços da totalidade dos membros da Assembleia Legislativa.",
+    "E": "Estará sujeito a julgamento pelo TCE-PI, após emissão de parecer prévio pela Secretaria de Controle Externo do órgão, que só deixará de prevalecer por decisão de dois terços da totalidade dos membros da Corte de Contas."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 28,
+   "pagina": 7,
+   "disciplina": "Legislação Aplicável ao TCE-PI",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "No curso de auditoria governamental para fiscalização da\nregularidade dos contratos de fornecimento de merendas\nescolares para a Escola Municipal Alfa, os auditores de controle\nexterno do TCE-PI verificaram fortes indícios de\nsuperfaturamento dos contratos, oriundos de conduta dolosa de\nagentes públicos, sob a chefia do Secretário Municipal de\nEducação.\nPercebendo que o avanço das investigações levaria\ninexoravelmente à descoberta de seu envolvimento nos danos\ncausados ao erário, o secretário tomou providências para impedir\na atuação da equipe de auditores, se negando a permitir sua\nentrada nas dependências da Secretaria, bem como negando o\nacesso às informações e aos documentos requisitados por ela.\nAnte a frustração da execução da auditoria, a equipe de auditores\nreportou o fato ao corpo deliberativo da Corte de Contas,\nsugerindo a aplicação de medidas que garantam a continuidade\ndos trabalhos.\nCiente da situação, a Corte de Contas determinará,",
+   "alternativas": {
+    "A": "cautelarmente, o julgamento das contas de Bruno irregulares, por deliberação do Conselheiro relator.",
+    "B": "cautelarmente, o afastamento temporário de Bruno, por deliberação da maioria absoluta do colegiado competente.",
+    "C": "definitivamente, o afastamento de Bruno, por deliberação da maioria relativa do colegiado competente, em voto secreto.",
+    "D": "cautelarmente, o ressarcimento ao erário pelos danos decorrentes do superfaturamento dos contratos, ainda que não liquidados.",
+    "E": "cautelarmente, a realização de monitoramento, com escolta da equipe de auditores pela polícia militar, visando garantir a continuidade da auditoria."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 29,
+   "pagina": 8,
+   "disciplina": "Legislação Aplicável ao TCE-PI",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Rodrigo, servidor público efetivo do município de Teresina-PI,\nrequereu sua aposentadoria perante o órgão de origem, tendo o\nato de aposentadoria sido encaminhado ao TCE-PI para fins de\napreciação de sua legalidade.\nSeis anos após a chegada do processo à Corte de Contas, sua\nanálise foi realizada por Márcio, auditor de controle externo, que\nverificou ainda serem necessários 7 meses de efetivo exercício\ndas atividades para que Rodrigo alcançasse o período aquisitivo\npara sua aposentadoria.\nConsiderando a jurisprudência do Supremo Tribunal Federal\nacerca do tema, o auditor, em sede de instrução processual, deve",
+   "alternativas": {
+    "A": "decidir pela remessa ao Poder Judiciário, visto que não cabe ao TCE-PI analisar a legalidade de atos de aposentadoria.",
+    "B": "remeter à Assembleia Legislativa, visto que cabe ao Poder Legislativo o exercício do controle externo da administração, observado o contraditório.",
+    "C": "remeter à Câmara Municipal, visto que cabe ao Poder Legislativo o exercício do controle externo da administração, observado o contraditório.",
+    "D": "opinar pela ilegalidade do ato de concessão inicial de aposentadoria, ante a ausência de cumprimento do período aquisitivo, independentemente de contraditório.",
+    "E": "opinar pela legalidade do ato de concessão inicial de aposentadoria, ante o advento do lapso de 6 anos desde a chegada do processo à Corte de Contas, independentemente de contraditório."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 30,
+   "pagina": 8,
+   "disciplina": "Legislação Aplicável ao TCE-PI",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Laura, auditora do TCE-PI, foi escalada para compor a equipe que\nexecutará auditoria governamental no âmbito das políticas de\ncombate à violência doméstica e familiar contra a mulher, tendo\ncomo órgãos auditados as delegacias especializadas no\natendimento à mulher do Estado.\nConsiderando que Laura foi vítima de violência doméstica por\nparte de seu ex-marido, com medida protetiva em vigor, e que a\nexecução da auditoria lhe daria poder de fiscalizar e de\ninfluenciar a atividade administrativa dos agentes policiais que\ninvestigam seu caso, deverá a auditora, nos termos do Código de\nÉtica dos Servidores do TCE-PI, declarar-se",
+   "alternativas": {
+    "A": "suspeita, abstendo-se de atuar de qualquer forma no processo administrativo.",
+    "B": "impedida, abstendo-se de atuar de qualquer forma no processo administrativo.",
+    "C": "impedida, podendo atuar no processo administrativo, desde que supervisionada por seus pares.",
+    "D": "suspeita, podendo atuar no processo administrativo, desde que supervisionada por seus pares.",
+    "E": "suspeita, podendo atuar no processo administrativo, desde que não tenha contato direto com o jurisdicionado. AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 31,
+   "pagina": 8,
+   "disciplina": "Administração Financeira e Orçamentária",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Do Manual Técnico do Orçamento depreende-se as possíveis\ntipologias para classificação da despesa.\nA esse respeito, assinale a afirmativa correta.",
+   "alternativas": {
+    "A": "A classificação por Esfera Orçamentária é formada por funções e subfunções e procura explicitar as áreas em que as despesas são realizadas.",
+    "B": "Em se tratando de despesa por Esfera Orçamentária, há apenas duas possíveis classificações: 10 – Orçamento Fiscal e 20 – Orçamento da Seguridade Social.",
+    "C": "Na classificação por Esfera Orçamentária temos os dois primeiros dígitos para o Órgão Orçamentário e os três dígitos seguintes para a Unidade Orçamentária.",
+    "D": "A classificação institucional engloba o orçamento das empresas em que a União, direta ou indiretamente, detenha a maioria do capital social com direito a voto, ou seja, o Orçamento de Investimento.",
+    "E": "Em termos de Classificação Institucional, alguns fundos especiais podem figurar como um Órgão Orçamentário ou uma Unidade Orçamentária, sem corresponder, necessariamente, a uma estrutura administrativa."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 32,
+   "pagina": 8,
+   "disciplina": "Administração Financeira e Orçamentária",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O processo de elaboração das estimativas de Receitas\nOrçamentárias possui etapas que envolvem a revisão e a\npossibilidade de alteração nas estimativas realizadas, para as\nquais se requer uma justificativa, que não pode ser",
+   "alternativas": {
+    "A": "pautada em uma argumentação de necessidade de gasto essencial.",
+    "B": "baseada em alterações nas alíquotas ou valores de taxas, tarifas e/ou serviços.",
+    "C": "baseada no fato de se tratar de uma receita nova, que não possui histórico de arrecadação, dificultando a modelagem no SIOP.",
+    "D": "fundamentada em situações a partir das quais as receitas forem impactadas direta ou indiretamente por efeitos decorrentes de alterações legais ou contratuais.",
+    "E": "sustentada a partir do fato de que se trata de uma receita atípica ou de baixa previsibilidade, de difícil modelagem no SIOP, como por exemplo as receitas oriundas de licitações, convênios, doações, inscrições, entre outras."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 33,
+   "pagina": 9,
+   "disciplina": "Administração Financeira e Orçamentária",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A Seção IV do Capítulo II da Lei de Responsabilidade Fiscal trata\nda Execução Orçamentária e do Cumprimento das Metas no\nOrçamento Público.\nSobre este tema, avalie as afirmativas a seguir.\nI. A execução orçamentária e financeira identificará os\nbeneficiários de pagamento de sentenças judiciais, por meio\nde sistema de contabilidade e administração financeira, para\nfins de observância da ordem cronológica.\nII. O Ministério da Fazenda é o órgão responsável para, no prazo\nde noventa dias após o encerramento de cada semestre,\navaliar o cumprimento dos objetivos e metas das políticas\nmonetária e creditícia, evidenciando o impacto e o custo\nfiscal de suas operações e os resultados demonstrados nos\nbalanços.\nIII. Uma vez estabelecida a programação financeira e o\ncronograma de execução mensal de desembolso pelo Poder\nExecutivo, é possível utilizar recursos legalmente vinculados à\nfinalidade específica para atender ao objeto de sua\nvinculação, mesmo que seja em exercício diverso daquele em\nque ocorrer o ingresso.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 34,
+   "pagina": 9,
+   "disciplina": "Administração Financeira e Orçamentária",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Relacione os procedimentos da Contabilidade Aplicada ao Setor\nPúblico (CASP) a seguir às respectivas afirmativas.\n1. Orçamentário.\n2. Patrimonial.\n3. Fiscal.\n( ) Os princípios e as normas contábeis voltadas para o\nreconhecimento, a mensuração e a evidenciação dos ativos e\npassivos e de suas variações, devem ser atendidos.\n( ) Compreende a apuração e a evidenciação, por meio da\ncontabilidade, dos indicadores estabelecidos pela LRF. Entre\nos objetivos de seus relatórios está o de analisar o equilíbrio\ndas contas públicas.\n( ) Os procedimentos contábeis visam melhorar a qualidade e a\nconsistência das informações prestadas a toda a sociedade,\nde modo a possibilitar o exercício da cidadania no processo\nde fiscalização da arrecadação das receitas e da execução das\ndespesas.\nAssinale a opção que apresenta a relação correta, segundo a\nordem apresentada.",
+   "alternativas": {
+    "A": "1 – 2 – 3.",
+    "B": "2 – 3 – 1.",
+    "C": "3 – 1 – 2.",
+    "D": "1 – 3 – 2.",
+    "E": "2 – 1 – 3. AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 35,
+   "pagina": 9,
+   "disciplina": "Administração Financeira e Orçamentária",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Sobre os instrumentos de planejamento orçamentário, avalie as\nafirmativas a seguir.\nI. Em consonância com o PPA, compete à Lei de Diretrizes\nOrçamentárias (LDO), entre outras atribuições, estabelecer as\nmetas e prioridades da administração pública e orientar a\nelaboração dos orçamentos anuais.\nII. A Lei de Responsabilidade Fiscal (LRF) conferiu à LDO novas e\nimportantes atribuições, além das constitucionalmente\nprevistas, especialmente no tocante à fixação de metas\nfiscais.\nIII. À luz do PPA e da LDO, cabe à Lei Orçamentária Anual (LOA)\nestimar receitas e fixar despesas, de modo a efetivamente\nautorizar a realização de gastos públicos em determinado\nexercício financeiro.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 36,
+   "pagina": 9,
+   "disciplina": "Administração Financeira e Orçamentária",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Com relação ao Orçamento-Programa, avalie as afirmativas a\nseguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) O Orçamento-Programa está ligado à ideia de planejamento.\nAssim, o orçamento deve considerar os objetivos que o\ngoverno pretende alcançar, durante um período determinado\nde tempo.\n( ) O Orçamento-Programa tem como característica marcante a\navaliação da eficiência, da eficácia e da efetividade das ações\ngovernamentais.\n( ) No Orçamento-Programa as decisões orçamentárias são\ntomadas tendo em vista as necessidades das unidades\norganizacionais.\nAs afirmativas são, respectivamente,",
+   "alternativas": {
+    "A": "V – V – V.",
+    "B": "V – V – F.",
+    "C": "F – V – V.",
+    "D": "V – F – V.",
+    "E": "F – V – F."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 37,
+   "pagina": 9,
+   "disciplina": "Administração Financeira e Orçamentária",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A CRFB/88 estabelece:\n“Art. 167. São vedados: [...] IV. A vinculação de receita de\nimpostos a órgão, fundo ou despesa, ressalvadas a repartição do\nproduto da arrecadação dos impostos a que se referem os Arts.\n158 e 159, a destinação de recursos para as ações e serviços\npúblicos de saúde, para manutenção e desenvolvimento do ensino\ne para realização de atividades da administração tributária [...]”\nCom relação aos impostos e às vinculações, o princípio da\nConstituição Federal que o texto acima consagra é o",
+   "alternativas": {
+    "A": "do Equilíbrio.",
+    "B": "da Exclusividade.",
+    "C": "da Uniformidade.",
+    "D": "do Orçamento Bruto.",
+    "E": "da Não-Afetação das Receitas."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 38,
+   "pagina": 10,
+   "disciplina": "Administração Financeira e Orçamentária",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Com relação ao Anexo de Metas Fiscais, que integrará o Projeto\nde Lei de Diretrizes Orçamentárias, em atendimento ao disposto\nno Art. 4º, § 1º, da Lei Complementar nº 101/2000, e que deverá\nser elaborado, de acordo com o Art. 1º, § 2º, da LRF, pelo Poder\nExecutivo da União, dos Estados, do Distrito Federal e dos\nMunicípios, abrangendo tanto o Poder Executivo quanto os\nPoderes Legislativo e Judiciário, avalie as afirmativas a seguir.\nI. O cumprimento das metas deve ser acompanhado com base\nnas informações divulgadas no Relatório Resumido da\nExecução Orçamentária e no Relatório de Gestão Fiscal.\nII. O Demonstrativo das Metas Anuais deverá ser instruído com\na memória e a metodologia de cálculo, visando esclarecer a\nforma de obtenção dos valores relativos a receitas, despesas,\nresultado primário, resultado nominal, e montante da dívida\npública.\nIII. O Demonstrativo de Metas Anuais tem por objetivo, além de\ndar transparência sobre as metas fiscais, orientar a\nelaboração do projeto de lei orçamentária anual, de forma a\npermitir o alcance das metas, conforme planejado.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 39,
+   "pagina": 10,
+   "disciplina": "Auditoria Governamental",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A NBASP 100 - Princípios Fundamentais de Auditoria no Setor\nPúblico estabelece as diretrizes essenciais que regem as\nauditorias governamentais, orientando a conduta e a prática dos\nauditores no setor público. Essa norma define os princípios\nbásicos de independência, competência, ética e ceticismo\nprofissional, além de enfatizar a necessidade de uma auditoria\ntransparente, objetiva e eficiente, visando promover a\nresponsabilidade, a boa governança e a prestação de contas no\nuso dos recursos públicos.\nQuanto à NBASP 100, avalie as afirmativas a seguir e assinale (V)\npara a verdadeira e (F) para a falsa.\n( ) Em geral, a auditoria do setor público pode ser descrita como\num processo sistemático de obter e avaliar objetivamente\nevidências para determinar se as informações ou as\ncondições reais de um objeto estão de acordo com critérios\naplicáveis.\n( ) Todas as auditorias do setor público contam com os mesmos\nelementos básicos: o auditor, os demonstrativos contábeis e\nos usuários previstos (as três partes da auditoria).\n( ) O objeto da auditoria refere-se à informação, condição ou\natividade que é mensurada ou avaliada de acordo com certos\ncritérios. Pode assumir várias formas e ter diferentes\ncaracterísticas, dependendo do objetivo da auditoria.\nAs afirmativas são, respectivamente,",
+   "alternativas": {
+    "A": "V – V – V.",
+    "B": "V – F – V.",
+    "C": "F – F – F.",
+    "D": "V – V – F.",
+    "E": "F – V – V. AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 40,
+   "pagina": 10,
+   "disciplina": "Auditoria Governamental",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A auditoria no setor público é fundamental para assegurar a\ncorreta aplicação dos recursos públicos, promovendo\ntransparência, responsabilidade e boa governança. As auditorias\najudam a prevenir fraudes e desperdícios, fortalecendo a\nconfiança dos cidadãos nas instituições governamentais e\ngarantindo que os recursos sejam utilizados de forma ética e\neficaz para o bem coletivo.\nRelacione os tipos principais de auditoria do setor público\nestabelecidos na NBASP 100 - Princípios Fundamentais de\nAuditoria no Setor Público, às suas respectivas definições.\nI. Auditoria Financeira\nII. Auditoria Operacional\nIII. Auditoria de Conformidade\n( ) Foca em determinar se um particular objeto está de acordo\ncom normas identificadas como critérios. É realizada para\navaliar se atividades, transações financeiras e informações\ncumprem, em todos os aspectos relevantes, as normas que\nregem a entidade auditada.\n( ) Foca em determinar se intervenções, programas e\ninstituições estão atuando em conformidade com os\nprincípios de economicidade, de eficiência e de efetividade,\nbem como se há espaço para aperfeiçoamento. O objetivo é\nresponder a questões-chave de auditoria e apresentar\nrecomendações para aperfeiçoamento.\n( ) Foca em determinar se a informação contábil de uma\nentidade é apresentada em conformidade com a estrutura de\nrelatório financeiro e o marco regulatório aplicável.\nAssinale a opção que indica a relação correta, segundo a ordem\napresentada.",
+   "alternativas": {
+    "A": "I – II – III.",
+    "B": "III – II – I.",
+    "C": "III – I – II.",
+    "D": "I – III – II.",
+    "E": "II – III – I."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 41,
+   "pagina": 10,
+   "disciplina": "Auditoria Governamental",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A abordagem geral de auditoria é um elemento central de\nqualquer auditoria. Ela determina a natureza do exame que deve\nser feito. Também define o conhecimento, a informação, os\ndados e os procedimentos de auditoria necessários para obtê-los\ne analisá-los.\nA auditoria operacional geralmente segue abordagens orientadas a",
+   "alternativas": {
+    "A": "sistemas, resultados e problemas.",
+    "B": "programas, processos e resultados.",
+    "C": "orçamento, resultados e operações.",
+    "D": "operações, desempenho e problemas.",
+    "E": "sistemas, procedimentos e orçamento."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 42,
+   "pagina": 11,
+   "disciplina": "Auditoria Governamental",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O Auditor Governamental, ao seguir os requisitos gerais da\nNBASP 3000, realiza auditorias operacionais com integridade,\nindependência e competência, garantindo a credibilidade e a\nqualidade do trabalho. Esses requisitos asseguram que o auditor\naplique ceticismo profissional, obtenha evidências apropriadas e\nsuficientes, e adote uma abordagem baseada em risco.\nQuanto à NBASP 3000, avalie as afirmativas a seguir e assinale (V)\npara a verdadeira e (F) para a falsa.\n( ) O auditor deve, como parte do planejamento e/ou da\ncondução da auditoria, discutir os critérios de auditoria com a\nentidade auditada.\n( ) O auditor deve gerenciar ativamente o risco de auditoria para\nevitar o desenvolvimento de achados, conclusões e\nrecomendações incorretos ou incompletos, fornecendo\ninformações inconsistentes ou que não agregam valor.\n( ) O auditor deve planejar e manter uma comunicação eficaz e\nadequada dos aspectos-chave da auditoria com a entidade\nauditada e as partes interessadas durante todo o processo de\nauditoria.\nAs afirmativas são, respectivamente,",
+   "alternativas": {
+    "A": "V – F – V.",
+    "B": "F – V – V.",
+    "C": "V – V – V.",
+    "D": "V – V – F.",
+    "E": "V – F – F."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 43,
+   "pagina": 11,
+   "disciplina": "Auditoria Governamental",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A NBASP 400 - Auditoria de Conformidade assegura que o auditor\nexecute seu trabalho de maneira objetiva, garantindo a\ntransparência e a integridade da gestão pública. Ao promover a\nconformidade, a NBASP 400 reforça a responsabilidade e a\nprestação de contas, fortalecendo a confiança da sociedade nas\ninstituições governamentais.\nAssinale a opção que indica o elemento que um Relatório de\nAuditoria de Conformidade deve incluir.",
+   "alternativas": {
+    "A": "Local da auditoria.",
+    "B": "Entidade revisora.",
+    "C": "Programas avaliados.",
+    "D": "Achados de auditoria.",
+    "E": "Planejamento da auditoria."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 44,
+   "pagina": 11,
+   "disciplina": "Auditoria Governamental",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A avaliação de política pública objetiva avaliar a utilidade dessa\npolítica. Ela analisa seus objetivos, sua implementação, seus\nprodutos, resultados e impactos o mais sistematicamente\npossível, mede seu desempenho visando avaliar sua utilidade.\nPor isso, a avaliação está se tornando cada vez mais importante\npara o debate público, uma vez que líderes políticos precisam\ntomar decisões baseadas em evidências.\nDe acordo com a NBASP 9020, uma avaliação de política pública\npode ser realizada em três momentos diferentes a saber:",
+   "alternativas": {
+    "A": "antes, durante e depois.",
+    "B": "antes, no início e no final.",
+    "C": "no início, durante e depois.",
+    "D": "no início, no meio e no final.",
+    "E": "planejamento, execução e relatório. AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS"
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 45,
+   "pagina": 11,
+   "disciplina": "Controle Externo da Administração Pública",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "José, servidor efetivo de município jurisdicionado ao TCE-PI,\npraticou atos que violavam as normas financeiras, contábeis e\norçamentárias aplicáveis, razão pela qual foi multado pela Corte\nde Contas Estadual, no valor de R$ 100.000,00 (cem mil reais).\nOs atos praticados por José não resultaram em prejuízo ao erário,\npelo que a penalidade aplicada pode ser considerada uma multa\nsimples.\nSobre a hipótese, a execução do crédito decorrente da multa\naplicada compete",
+   "alternativas": {
+    "A": "ao Estado do Piauí.",
+    "B": "ao Tribunal de Contas.",
+    "C": "ao Tribunal Regional Eleitoral do Piauí.",
+    "D": "à Câmara de Vereadores do respectivo Município.",
+    "E": "ao Município a que José está vinculado funcionalmente."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 46,
+   "pagina": 11,
+   "disciplina": "Controle Externo da Administração Pública",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Ao Ministério Público junto ao TCE-PI (MPC-PI) incumbe a função\nconstitucional de defesa da ordem jurídica, do regime\ndemocrático e dos interesses sociais e individuais indisponíveis.\nSobre o MPC-PI, avalie as afirmativas a seguir.\nI. O dispositivo de lei orgânica estadual, que dispensa a\nformação de lista tríplice para nomeação de Procurador-Geral\nde Contas do MPC-PI, é constitucional.\nII. O Ministério Público junto ao Tribunal de Contas não dispõe\nde fisionomia institucional própria, não integrando o conceito\nde Ministério Público como ente despersonalizado de função\nessencial à Justiça.\nIII. Ao MPC-PI compete a iniciativa legislativa para propor\nprojetos de lei que tratem da criação e da extinção de seus\ncargos e serviços auxiliares, da política remuneratória de seus\nmembros, seus planos de carreira e, especialmente, sobre\nsua organização e funcionamento.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 47,
+   "pagina": 11,
+   "disciplina": "Controle Externo da Administração Pública",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Em razão da prática de ato danoso ao erário, o TCE-PI aplicou\nmulta e imputou débito a João, gestor de uma autarquia de\nmunicípio jurisdicionado àquela Corte de Contas.\nA decisão do TCE-PI que resultou na imputação de débito a João\ntem natureza de",
+   "alternativas": {
+    "A": "dívida ativa.",
+    "B": "dívida tributária.",
+    "C": "decisão jurisdicional.",
+    "D": "título de crédito judicial.",
+    "E": "título executivo extrajudicial."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 48,
+   "pagina": 12,
+   "disciplina": "Controle Externo da Administração Pública",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "José, Diretor-Presidente da Fundação de Educação do Município\nBeta, localizado no Estado Alfa, foi nomeado para esse cargo em\njaneiro de 2016, hipótese em que recebeu um montante\nsignificativo de recursos necessários à implementação de uma\npolítica pública voltada à melhoria da qualidade da educação.\nEm agosto de 2022, José foi exonerado do cargo, ocasião em que\no Tribunal de Contas do Estado Alfa (TCE) iniciou uma auditoria\npara apurar a falta de aplicação dos recursos e a não realização\nda referida política pública.\nEm setembro de 2024, o TCE julgou os fatos apontados no\nrelatório de auditoria, aplicando a José as penalidades de multa e\nde inabilitação para o exercício de cargo em comissão na\nadministração pública direta e indireta nos entes federativos do\nEstado Alfa.\nNessa hipótese, sobre a decisão do TCE que resultou na aplicação\nde penalidades, assinale a afirmativa correta.",
+   "alternativas": {
+    "A": "Não está sujeita ao controle jurisdicional.",
+    "B": "Tem a prescrição interrompida com a publicação do ato de exoneração de João.",
+    "C": "Decai em 10 anos, a contar da prática dos fatos apurados no relatório de auditoria.",
+    "D": "É válida, pois a pretensão punitiva do TCE tem seu termo prescricional iniciado em agosto de 2022.",
+    "E": "É nula, em razão do advento da prescrição da pretensão punitiva, cujo termo inicial se deu em janeiro de 2016."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 49,
+   "pagina": 12,
+   "disciplina": "Controle Externo da Administração Pública",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Os Tribunais de Contas dos Estados são compostos por sete\nConselheiros, dentre os quais, três são escolhidos pelo Poder\nExecutivo (Governador do Estado) e os demais pelo Poder\nLegislativo (Assembleia Legislativa).\nSobre as regras constitucionais de escolha de Conselheiro do TCE\npelo Governador do Estado Alfa, avalie as afirmativas a seguir.\nI. Os critérios de antiguidade e merecimento não se aplicam na\nescolha do Conselheiro-Substituto para a vaga de Conselheiro\nTitular.\nII. A escolha de Procurador do Ministério Público de Contas para\na vaga de Conselheiro do TCE prescinde de aprovação da\nAssembleia Legislativa do Estado Alfa.\nIII. O Membro do Ministério Público de Contas deve contar com\nidade máxima de setenta anos para ocupar a vaga de\nConselheiro do TCE.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II apenas.",
+    "C": "III, apenas.",
+    "D": "I e III, apenas.",
+    "E": "II e III, apenas. AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 50,
+   "pagina": 12,
+   "disciplina": "Controle Externo da Administração Pública",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Adão, Conselheiro de Tribunal de Contas do Estado Alfa, foi\ndenunciado pelo Ministério Público pela prática de crime comum\n(homicídio).\nA denúncia foi aceita pelo Superior Tribunal de Justiça e\ninaugurou o respectivo processo penal em que Adão figurou\ncomo réu.\nConsiderando a situação hipotética, avalie as afirmativas a seguir.\nI. O processo deve ser encaminhado ao juízo de primeira\ninstância, tendo em vista que o STJ somente pode processar e\njulgar os membros dos Tribunais de Contas por crimes\nrelacionados ao exercício de suas funções.\nII. A prerrogativa de foro privilegiado fica afastada, exceto na\nhipótese de federalização das investigações, o que desloca a\ncompetência do julgamento para o STF.\nIII. O crime cometido pelo Conselheiro, mesmo que não esteja\nrelacionado às suas funções, deverá ser julgado pelo STJ com\no objetivo de preservar a isenção (imparcialidade e\nindependência) do órgão julgador.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "III, apenas.",
+    "D": "I e II, apenas.",
+    "E": "II e III, apenas."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 51,
+   "pagina": 12,
+   "disciplina": "Noções de Direito Administrativo",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "João, auditor de controle externo do Tribunal de Contas do\nEstado Alfa, no exercício de suas funções, analisou de forma\nerrônea o pedido de concessão de aposentadoria formulado por\nAna, servidora pública de órgão jurisdicionado. Esse fato resultou\nno indeferimento do pedido de aposentadoria por parte do corpo\ndeliberativo da Corte de Contas, com consequente retorno da\nservidora ao exercício das funções, mesmo já tendo cumprido\nintegralmente o período aquisitivo.\nSentindo-se prejudicada pelo indeferimento do pleito, Ana\najuizou demanda judicial diretamente contra João, pleiteando\nreparação pelos danos morais e materiais sofridos, em razão da\nanálise errônea realizada pelo auditor.\nNesse contexto, em sede de responsabilidade civil do Estado,\nassinale a afirmativa correta.",
+   "alternativas": {
+    "A": "João poderá ser demandado diretamente, sendo sua responsabilidade de natureza objetiva.",
+    "B": "João poderá ser demandado diretamente, sendo sua responsabilidade de natureza subjetiva.",
+    "C": "João não poderá ser demandado diretamente, mas apenas em regresso, sendo sua responsabilidade de natureza objetiva.",
+    "D": "João não poderá ser demandado diretamente, mas apenas em regresso, sendo sua responsabilidade de natureza subjetiva.",
+    "E": "João poderá ser demandado concomitantemente com o órgão público ao qual pertence, sendo sua responsabilidade de natureza objetiva."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 52,
+   "pagina": 13,
+   "disciplina": "Noções de Direito Administrativo",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere os atores do Estado do Piauí listados a seguir.\nI. Fundação Pública Estadual de direito privado Alfa.\nII. Ministério Público do Estado do Piauí.\nIII. Empresa Pública Federal Beta, sediada em Teresina/PI.\nIV. João, Secretário de Estado do Piauí, ordenador de despesas.\nV. Ordem dos Advogados do Brasil, seccional Piauí.\nAcerca da competência das Cortes de Contas, os atores que estão\nsujeitos ao controle externo exercido pelo Tribunal de Contas do\nEstado do Piauí são",
+   "alternativas": {
+    "A": "III e IV, apenas.",
+    "B": "III e V, apenas.",
+    "C": "I, II e IV, apenas.",
+    "D": "I, II e III, apenas.",
+    "E": "I, II, III e V, apenas."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 53,
+   "pagina": 13,
+   "disciplina": "Noções de Direito Administrativo",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O Município de Teresina-PI, atento à realidade nacional, pretende\nimplementar, no exercício de 2025, política pública de busca de\npessoas desaparecidas.\nUm dos programas dessa política refere-se ao desenvolvimento\nde um sistema de alertas, que permite a comunicação, em tempo\nreal, do desaparecimento de crianças, adolescentes e pessoas\nvulneráveis.\nVisando concretizar e dar eficácia ao programa, a municipalidade\npretende firmar parcerias com organizações da sociedade civil,\npermitindo uma melhor interface entre o poder público e a\npopulação.\nEssa parceria terá por escopo a divulgação de informações, fotos\ne características da pessoa desaparecida pelas organizações, por\nmeio de uma central informática, implementada com recursos\noriundos de transferências financeiras realizadas pelo Município\nde Teresina.\nConsiderando a Lei nº 13.019/2014, o instrumento jurídico\nadequado a ser firmado pelo Município de Teresina com as\nOrganizações da Sociedade Civil é o",
+   "alternativas": {
+    "A": "Termo de Colaboração.",
+    "B": "Termo de Fomento.",
+    "C": "Termo de Pactuação.",
+    "D": "Acordo de Finanças.",
+    "E": "Acordo de Divulgação. AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS"
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 54,
+   "pagina": 13,
+   "disciplina": "Noções de Direito Administrativo",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O Governo do Estado do Piauí pretende realizar, no exercício\nfinanceiro de 2025, tratativas para adquirir, entre outros, os bens\ne serviços listados a seguir.\nI. Aquisição de software inovador de inteligência artificial com\nfuncionalidades adaptadas, específica e individualmente, para\ncada tipo de trabalho executado por suas Secretarias de\nEstado, a serem definidas e identificados durante o processo\nlicitatório.\nII. Registro formal de preços de notebooks de última geração a\nserem licitados quando da implementação do software de\ninteligência artificial.\nIII. Chamamento público de profissionais interessados na\nprestação de serviço de TI e manutenção de equipamentos\ninformáticos, em regime de contratação simultânea e\npadronizada.\nNo que tange à Lei de Licitações (Lei nº 14.133/2021), os\ninstrumentos jurídicos a serem adotados pela administração do\nEstado do Piauí para a aquisição dos bens e serviços\nsupramencionados (segundo a ordem apresentada) são,\nrespectivamente,",
+   "alternativas": {
+    "A": "concurso, pregão e diálogo competitivo.",
+    "B": "pré-qualificação, credenciamento e diálogo competitivo.",
+    "C": "diálogo competitivo, sistema de registro de preços e pregão.",
+    "D": "credenciamento, diálogo competitivo e sistema de registro de preços.",
+    "E": "diálogo competitivo, sistema de registro de preços e credenciamento."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 55,
+   "pagina": 13,
+   "disciplina": "Noções de Direito Administrativo",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Os Tribunais de Contas são órgãos independentes, de\nenvergadura constitucional, responsáveis pelo controle externo\nda Administração Pública, ostentando competências próprias e\nprivativas.\nAs decisões proferidas pelas Cortes de Contas têm capacidade de\nimpactar diretamente a esfera jurídica dos órgãos\njurisdicionados, definindo deveres e responsabilidades.\nNesse contexto, considerando as disposições da Lei de Introdução\nàs Normas do Direito Brasileiro - LINDB, no âmbito de sua\natuação, o Tribunal de Contas do Estado do Piauí",
+   "alternativas": {
+    "A": "ao decidir, poderá se basear em valores jurídicos abstratos, mesmo sem considerar as consequências práticas da decisão, desde que o faça de forma motivada.",
+    "B": "ao motivar seus atos, demonstrará a necessidade e a adequação da medida imposta ou da invalidação de ato, contrato, ajuste, processo ou norma administrativa, inclusive em face das possíveis alternativas.",
+    "C": "ao interpretar normas sobre gestão pública, deverá considerar os obstáculos, as dificuldades reais do gestor e as exigências das políticas públicas a seu cargo, mesmo que com eventual prejuízo dos direitos dos administrados.",
+    "D": "ao decretar a invalidação de ato, contrato, ajuste, processo ou norma administrativa, deverá indicar de modo expresso suas consequências administrativas, mas não as jurídicas, em razão do princípio da inafastabilidade do controle jurisdicional.",
+    "E": "ao estabelecer interpretação ou orientação nova sobre norma de conteúdo indeterminado, impondo novo dever ou novo condicionamento de direito, dará a ela aplicabilidade imediata, se abstendo, em qualquer caso, de estabelecer regime de transição, aplicável apenas à esfera judicial."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 56,
+   "pagina": 14,
+   "disciplina": "Noções de Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O Art. 92-B, §2º, do Ato das Disposições Constitucionais\nTransitórias da Constituição da República, acrescido pela Emenda\nConstitucional nº 132/2023, tem a seguinte redação:\nLei complementar instituirá Fundo de Sustentabilidade e\nDiversificação Econômica do Estado do Amazonas, que será\nconstituído com recursos da União e por ela gerido, com a efetiva\nparticipação do Estado do Amazonas na definição das políticas,\ncom o objetivo de fomentar o desenvolvimento e a diversificação\ndas atividades econômicas no Estado.\nA interpretação desse comando normativo permite concluir que\nse está perante norma de",
+   "alternativas": {
+    "A": "eficácia contida.",
+    "B": "aplicabilidade imediata.",
+    "C": "aplicabilidade direta, mas não integral.",
+    "D": "eficácia limitada e de princípio institutivo.",
+    "E": "eficácia limitada e de princípio programático."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 57,
+   "pagina": 14,
+   "disciplina": "Noções de Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Após ampla mobilização popular, o Município Alfa editou a Lei\nmunicipal nº X, dispondo que os jovens de até vinte e um anos de\nidade teriam direito a concessão de desconto de 50% sobre o\npreço do ingresso cobrado por casas de diversões situadas em\nseu território.\nEsse diploma normativo foi muito festejado no ambiente social,\npois nem a legislação do Estado em cujo território Alfa está\nsituado nem a legislação da União contêm preceito similar.\nApesar disso, a associação dos empresários do setor, os quais\nteriam seus lucros reduzidos, criticou duramente a Lei municipal\nnº X, tendo solicitado que um especialista analisasse a sua\nconformidade constitucional, mais especificamente se Alfa\npoderia legislar sobre a matéria.\nAssinale a opção que apresenta o esclarecimento correto dado à\nassociação.",
+   "alternativas": {
+    "A": "Compete privativamente à União legislar sobre produção e consumo, logo, a Lei municipal nº X é inconstitucional nesse aspecto.",
+    "B": "O Município Alfa somente tem competência para legislar sobre a matéria se houver lei complementar federal autorizativa.",
+    "C": "Todos os entes federativos possuem competência legislativa comum para legislar sobre lazer, logo, a Lei municipal nº X é constitucional nesse aspecto.",
+    "D": "Se trata de típico interesse local, logo, Alfa tem competência privativa para legislar sobre a matéria, o que torna a Lei municipal nº X constitucional nesse aspecto.",
+    "E": "O Município Alfa pode suplementar a legislação federal e estadual em matéria de direito econômico, logo, a Lei municipal nº X é constitucional nesse aspecto. AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 58,
+   "pagina": 14,
+   "disciplina": "Noções de Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Ana, servidora pública estadual ocupante de cargo de provimento\nefetivo, preencheu os requisitos para a aposentadoria\ncompulsória, o que redundou na expedição do ato de\naposentadoria, com a correlata fixação dos seus proventos pela\nautoridade máxima da estrutura de poder a que estava vinculada.\nEsse ato foi expedido no dia 10 de setembro de 2018, mas até a\npresente data ainda não foi analisado pelo Tribunal de Contas.\nSobre a hipótese apresentada, à luz da sistemática vigente,\nassinale a afirmativa correta.",
+   "alternativas": {
+    "A": "Pela natureza do ato de aposentação, não é necessário o seu registro no Tribunal de Contas.",
+    "B": "Em razão do tempo decorrido desde a expedição do ato, a aposentadoria de Maria tornou-se irreversível.",
+    "C": "O Tribunal de Contas pode analisar a qualquer tempo a legalidade do ato inicial de aposentadoria, não se exigindo a observância do contraditório e da ampla defesa.",
+    "D": "Em razão do tempo decorrido, eventual negativa de registro, pelo Tribunal de Contas, deve ser antecedida da observância das garantias do contraditório e da ampla defesa.",
+    "E": "É possível que o ato seja considerado registrado em razão do decurso do tempo, mas o termo inicial da contagem é o ingresso do processo administrativo no Tribunal de Contas."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 59,
+   "pagina": 14,
+   "disciplina": "Noções de Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A Lei estadual nº X instituiu a Taxa de Serviços Diversos (TSD),\ndispondo que o seu fato gerador decorreria do exercício do poder\nde polícia ou pela utilização, efetiva ou potencial, de serviços\npúblicos específicos e divisíveis, prestados ao contribuinte ou\npostos à sua disposição pela Secretaria Estadual de\nDesenvolvimento Econômico.\nLogo após a edição da Lei estadual nº X e a realização dos\nprimeiros lançamentos tributários, diversos contribuintes\ninsurgiram-se contra a cobrança desse tributo, argumentando\ncom a sua inconstitucionalidade.\nSobre a TSD, considerando a sistemática constitucional vigente,\nassinale a afirmativa correta.",
+   "alternativas": {
+    "A": "É inconstitucional, pois somente a União poderia instituir tributo dessa natureza.",
+    "B": "É inconstitucional, por não definir a atuação estatal que seria o fato gerador do tributo.",
+    "C": "É constitucional, considerando que a descrição do fato gerador se ajusta ao permissivo constitucional.",
+    "D": "É inconstitucional, pois tributo dessa natureza deveria ser criado por meio de lei complementar estadual.",
+    "E": "É constitucional, pois cabe ao regulamento detalhar o fato gerador do tributo, a partir da enunciação geral da lei."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 60,
+   "pagina": 15,
+   "disciplina": "Noções de Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O Estado Beta editou a Lei estadual nº Y, instituindo o programa\nestadual de crescimento econômico, que tem como um dos\npilares o diferimento do recolhimento do imposto sobre\noperações relativas à circulação de mercadorias e sobre\nprestações de serviços de transporte interestadual e\nintermunicipal e de comunicação, ainda que as operações e as\nprestações se iniciem no exterior (ICMS).\nEsse diferimento seria fruído pelas sociedades empresárias que\nse instalassem na região do Estado que apresentasse menor\níndice de desenvolvimento humano.\nDiversos municípios do Estado Beta argumentaram com a\ninconstitucionalidade da Lei estadual nº Y, pois esse diploma\nnormativo impactara negativamente as suas receitas.\nSobre a hipótese narrada, à luz da sistemática constitucional,\nassinale a afirmativa correta.",
+   "alternativas": {
+    "A": "A arrecadação do ICMS, pelo Estado Beta, não apresenta qualquer correlação com o aumento ou a redução da arrecadação dos municípios situados em seu território.",
+    "B": "Não há afronta ao sistema de repartição de receitas tributárias, desde que o repasse da parcela pertencente aos municípios seja realizado quando do recolhimento do ICMS.",
+    "C": "Caso haja o depósito prévio, no Fundo de Participação dos Municípios, do valor a que fazem jus os municípios atingidos, o diferimento do recolhimento do ICMS será considerado lícito.",
+    "D": "O diferimento do recolhimento do ICMS não afeta o sistema de repartição de receitas tributárias, desde que o repasse da parcela pertencente aos Municípios seja realizado quando da prática do fato gerador do imposto.",
+    "E": "O diferimento do recolhimento do ICMS somente será considerado lícito se forem adotadas medidas de compensação por Beta, considerando outros impostos cuja arrecadação deva ser repartida com os municípios. Análise de Dados"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 61,
+   "pagina": 15,
+   "disciplina": "Noções de Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um analista do Tribunal de Contas realizou um estudo para tentar\nprever o gasto com passagens áreas com os servidores do\ntribunal.\nNesse estudo, ele levou em consideração as seguintes variáveis:\n1. A distância entre o local de origem e o local de destino.\n2. Se o servidor é de nível médio ou superior.\n3. Se o servidor tem direito a bagagem ou não.\nEssas variáveis são dos seguintes tipos, respectivamente:",
+   "alternativas": {
+    "A": "Quantitativa contínua, qualitativa ordinal e qualitativa nominal.",
+    "B": "Quantitativa discreta, qualitativa nominal e qualitativa ordinal.",
+    "C": "Quantitativa contínua, qualitativa ordinal e quantitativa discreta.",
+    "D": "Quantitativa discreta, qualitativa nominal e qualitativa nominal.",
+    "E": "Quantitativa contínua, qualitativa nominal, qualitativa nominal. AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS"
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 62,
+   "pagina": 15,
+   "disciplina": "Noções de Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O setor de recursos humanos de uma sociedade empresária\navaliou, com notas de 0 a 5, quatro candidatos ao cargo de\ngerente, digamos A, B, C e D, considerando quatro atributos:\norganização, liderança, discrição e iniciativa.\nO resultado da avaliação encontra-se no gráfico a seguir.\nAvaliação dos Candidatos por Atributos\nOrganização\n5\n4\n3\n2\n1\nIniciativa 0 Liderança\nA\nB\nC\nDiscrição\nD\nSe considerarmos a média dos atributos para seleção do\ncandidato, assinale a afirmativa correta acerca do candidato a ser\nescolhido.",
+   "alternativas": {
+    "A": "Deve ser escolhido o A.",
+    "B": "Deve ser escolhido o B.",
+    "C": "Deve ser escolhido o C.",
+    "D": "Deve ser escolhido o D.",
+    "E": "Mais de um candidato dever ser escolhido."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2025-tcepi-dados/q62-0.png"
+   ]
+  },
+  {
+   "numero": 63,
+   "pagina": 15,
+   "disciplina": "Noções de Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Três funcionários de uma sociedade empresária executam uma\nmesma tarefa rotineira, mas importante para o faturamento da\nsociedade.\nO tempo médio de execução da tarefa dos funcionários, em\nminutos, e suas respectivas variâncias, estão na tabela abaixo.\nFuncionário Tempo médio Variância\n1 9 4\n2 10 4\n3 14 9\nSobre a variabilidade relativa da execução da tarefa, assinale a\nafirmativa correta.",
+   "alternativas": {
+    "A": "O funcionário 1 tem a menor variabilidade.",
+    "B": "O funcionário 2 tem a menor variabilidade.",
+    "C": "O funcionário 3 tem a menor variabilidade.",
+    "D": "O funcionário 1 tem menor variabilidade do que o funcionário 3.",
+    "E": "O funcionário 1 tem a mesma variabilidade do que o funcionário 2."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2025-tcepi-dados/q63-0.png"
+   ]
+  },
+  {
+   "numero": 64,
+   "pagina": 16,
+   "disciplina": "Noções de Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um determinado cartório registrou a informação da distribuição\ndo número de serviços gratuitos oferecidos a 60 famílias carentes\nem determinado mês do ano.\nAs informações estão sumarizadas na tabela a seguir.\nNúmero de Serviços Famílias Atendidas\n1 15\n2 20\n3 10\n4 10\n5 5\nSobre as medidas descritivas associadas a esses dados, assinale a\nafirmativa correta.",
+   "alternativas": {
+    "A": "A média, a mediana e a moda são iguais.",
+    "B": "A amplitude interquartil é igual à média.",
+    "C": "A amplitude interquartil é igual à mediana.",
+    "D": "A amplitude interquartil é maior que a moda.",
+    "E": "A média e a moda são maiores que a mediana."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2025-tcepi-dados/q64-0.png"
+   ]
+  },
+  {
+   "numero": 65,
+   "pagina": 16,
+   "disciplina": "Noções de Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Dez cidadãos com processos na Justiça entraram com o pedido de\ngratuidade, como mostra o quadro abaixo. A Justiça determinou\nque as condições para concessão de gratuidade eram: o cidadão\nser casado, ter pelo menos um filho e estar desempregado.\nFoi então pedido a um analista que determinasse quantos\ncidadãos se enquadravam nas referidas condições.\nCidadão Casado Nº de Filhos Empregado\nA Sim 1 Sim\nB Sim 2 Não\nC Não 1 Não\nD Não 0 Não\nE Sim 1 Sim\nF Sim 3 Não\nG Sim 0 Não\nH Não 1 Não\nI Sim 4 Não\nJ Não 2 Sim\nO analista resolveu utilizar uma tabela dinâmica no Excel para\ndeterminar esse número.",
+   "alternativas": {
+    "A": "Escolher a variável Cidadão e arrastá-la para o campo da soma de valores e escolher as outras três variáveis e arrastá- las para o campo linhas.",
+    "B": "Escolher a variável Cidadão e arrastá-la para o campo da soma de valores e escolher as outras três variáveis e arrastá- las para o campo filtros.",
+    "C": "Escolher a variável Cidadão e arrastá-la para o campo da soma de valores e escolher as outras três variáveis e arrastá- las para o campo colunas.",
+    "D": "Escolher a variável Nº de Filhos e arrastá-la para o campo da soma de valores e escolher as outras três variáveis e arrastá- las para o campo filtros.",
+    "E": "Escolher a variável Nº de Filhos e arrastá-la para o campo da soma de valores e escolher as outras três variáveis e arrastá- las para o campo linhas. AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS Ciência de Dados"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2025-tcepi-dados/q65-0.png",
+    "img/fgv-2025-tcepi-dados/q65-1.png"
+   ]
+  },
+  {
+   "numero": 66,
+   "pagina": 16,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um analista de dados recebeu a tarefa de estimar os\nconsumidores de uma rede de lojas de varejo digital que têm\nmaior probabilidade de voltar a adquirir determinado produto. A\nempresa disponibilizou tabelas contendo, respectivamente, a\nlista de consumidores com seus dados demográficos, os\nresultados de vendas de cada loja e os dados básicos como\nendereço e área ocupada por cada loja. Para alimentar sua\nferramenta de mineração de dados é necessário agregar as\ntabelas repassadas em um único banco de dados.\nConsiderando o modelo de referência CRISP-DM, esse analista\nencontra-se na etapa de",
+   "alternativas": {
+    "A": "avaliação.",
+    "B": "modelagem.",
+    "C": "entender os dados.",
+    "D": "entender o negócio.",
+    "E": "preparação dos dados."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 67,
+   "pagina": 16,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "No campo da mineração de dados existem alguns problemas\nfundamentais que costumam aparecer com frequência em\nvariados cenários de aplicação. O estudo desses problemas\nfornece ferramentas ao analista de dados que são aplicáveis em\ndiferentes projetos de mineração de dados. Nesse conjunto se\nencontram os problemas de determinação de padrões,\nclassificação de dados, segmentação de dados (clustering) e\ndetecção de valores discrepantes (outliers).\nConsiderando os problemas citados, analise as afirmativas a\nseguir.\nI. Em uma tabela binária esparsa, que representa uma base de\ndados de transações de clientes, em que as colunas\nrepresentam cada produto e as linhas cada transação,\nverifica-se que, frequentemente, três das colunas\napresentam simultaneamente o valor 1 para vários registros.\nEste tipo de análise é um problema de detecção de valores\ndiscrepantes.\nII. A identificação de consumidores que são similares entre si,\npara uso no contexto de aplicação de promoções orientadas,\nconstitui um problema de segmentação de dados.\nIII. O problema de classificação de dados pode ser considerado\ncomo supervisionado, pelo fato das relações entre as classes\ndefinidas e os demais atributos dos dados serem\n“aprendidas” pelo modelo.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 68,
+   "pagina": 17,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um conceito fundamental na modelagem probabilística de\nsequências de palavras é o de n-grama. Com relação a esse\nconceito, analise as afirmativas a seguir e assinale (V) para a\nverdadeira e (F) para a falsa.\n( ) Um modelo bigrama assume a aproximação de que a\nprobabilidade da próxima palavra em uma frase,\nconsiderando todas as palavras anteriores, é dada pela\nprobabilidade condicional apenas da palavra imediatamente\nanterior.\n( ) O modelo trigrama é também conhecido como modelo de\nMarkov de terceira ordem.\n( ) O cálculo de probabilidades em modelos n-grama é\ngeralmente realizado utilizando logaritmos para evitar o\nfenômeno do underflow numérico.\nAs afirmativas são, respectivamente,",
+   "alternativas": {
+    "A": "V – F – F.",
+    "B": "V – V – F.",
+    "C": "F – V – F.",
+    "D": "F – V – V.",
+    "E": "V – F – V."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 69,
+   "pagina": 17,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A popularização da Internet permitiu que grande parcela da\npopulação pudesse expressar suas opiniões na forma de fóruns,\nblogs, avaliações de produtos, entre outros. Assim, deixou de ser\nnecessário que empresas conduzam enquetes ou pesquisas para\nque possam saber a opinião dos consumidores sobre seus\nprodutos ou de concorrentes. O volume de textos opinativos\ndisponíveis é tal, que a tarefa de ler, sumarizar e organizar de\nforma útil essas informações é desafiadora. O campo da análise\nde sentimento, no processamento de linguagem natural, trata\njustamente dessa necessidade, da automatização da descoberta\ne da sumarização de opiniões.\nConsiderando este tema, avalie as afirmativas a seguir.\nI. A análise de sentimentos pode ser tratada como um\nproblema de classificação de textos, onde é importante\ndefinir se o texto é objetivo ou subjetivo. Textos subjetivos\nsão os de principal interesse nesse campo de pesquisa.\nII. A análise de sentimentos pode ser usada para a identificação\nde avaliações falsas em sites de e-commerce. Uma limitação\npara essa aplicação é a dificuldade de obtenção de dados\npara treinamento de modelos, uma vez que a marcação\nmanual de avaliações com opiniões falsas ou enganosas é\nmuitas vezes difícil.\nIII. Um exemplo de algoritmo supervisionado de análise de\nsentimentos para avaliações de produtos pode ser resumido\nnos seguintes passos: extração de frases com padrões\npredeterminados de opinião; cálculo de um indicador de\norientação de cada frase; obtenção da orientação média da\navaliação como um todo; e determinação se é positiva ou\nnegativa.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III. AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 70,
+   "pagina": 17,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Com relação ao ajuste de dados e a aplicação de modelos\npreditivos de aprendizado de máquina, analise os itens a seguir.\nI. O subajuste (underfitting) indica baixa capacidade preditiva\ndo modelo para os dados de treinamento.\nII. O superajuste (overfitting) impacta negativamente a\ncapacidade de generalização do modelo.\nIII. A presença de ruído nos dados favorece a ocorrência de\nsuperajuste (overfitting) do modelo.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 71,
+   "pagina": 17,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere a matriz de confusão M dada abaixo, obtida depois da\naplicação de um método de classificação em um certo conjunto\nde dados, para um problema com três classes.\n15 3 2\nM = ( 5 23 6 )\n7 4 35\nSeja a acurácia do classificador definida como a proporção de\nprevisões corretas, em relação ao total de previsões do modelo.\nLogo, a acurácia do classificador, com base na matriz M, é dada\npor",
+   "alternativas": {
+    "A": "0,67.",
+    "B": "0,70.",
+    "C": "0,73.",
+    "D": "0,75.",
+    "E": "0,76."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 72,
+   "pagina": 17,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Com relação às técnicas de redução de dimensionalidade, no\ncontexto de aprendizado de máquina, analise as afirmativas a\nseguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) As técnicas de agregação formam novos atributos, por meio\nda combinação de grupos dos atributos originais.\n( ) As técnicas de seleção de atributos descartam parte dos\natributos originais.\n( ) Técnicas de seleção de atributos embutidas são aplicadas na\netapa de pré-processamento.\nAs afirmativas são, respectivamente,",
+   "alternativas": {
+    "A": "F – V – F.",
+    "B": "F – V – V.",
+    "C": "V – F – F.",
+    "D": "V – V – F.",
+    "E": "F – F – V."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 73,
+   "pagina": 18,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere o código abaixo, escrito na linguagem de programação\nPython (versão 3.10.12), com uso da biblioteca sklearn (scikit-\nlearn) versão 1.5.2.\nCom relação ao código acima, analise os itens a seguir.\nI. O valor atribuído a s0 (na linha 4) será ou True ou False.\nII. O valor atribuído a s1 (na linha 5) será diferente de s0.\nIII. A operação na linha 6 causa erro do tipo ValueError.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "III, apenas.",
+    "D": "I e II, apenas.",
+    "E": "II e III, apenas."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2025-tcepi-dados/q73-0.png"
+   ]
+  },
+  {
+   "numero": 74,
+   "pagina": 18,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere o código abaixo, escrito na linguagem de programação\nPython (versão 3.10.12). As versões das bibliotecas NumPy e\nPandas são 1.26.4 e 2.2.2, respectivamente.\nCom a execução do comando print na linha 7, o valor a ser escrito\nna tela é",
+   "alternativas": {
+    "A": "1.",
+    "B": "2.",
+    "C": "3.",
+    "D": "4.",
+    "E": "nan."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2025-tcepi-dados/q74-0.png"
+   ]
+  },
+  {
+   "numero": 75,
+   "pagina": 18,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere a biblioteca sklearn (scikit-learn), versão 1.5.2, da\nlinguagem de programação Python.\nO atributo da classe sklearn.linear_model.LinearRegression, que\nretorna o termo independente no modelo linear, quando os\nparâmetros estão configurados no modo padrão (default), é",
+   "alternativas": {
+    "A": "fit_",
+    "B": "coef_",
+    "C": "predict_",
+    "D": "intercept_",
+    "E": "independent_ AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS Governança de TI"
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 76,
+   "pagina": 18,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Em relação ao alinhamento estratégico entre TI e negócio, analise\nas afirmativas a seguir.\nI. A organização pode se beneficiar em todas as áreas quando\nesse alinhamento ocorre efetivamente.\nII. Instrumentos de gestão podem promover e manter esse\nalinhamento.\nIII. É uma boa prática fazer planejamento de longo prazo (acima\nde 10 anos), com o alinhamento estático para aumentar a\nprevisibilidade.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II, apenas.",
+    "C": "II e III, apenas.",
+    "D": "I e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 77,
+   "pagina": 18,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considerando os ciclos de vida de projetos e produtos, segundo o\nPMBOK v.7, analise as afirmativas a seguir.\nI. O ciclo de vida do projeto é a série de fases pelas quais um\nprojeto passa desde o início até sua conclusão.\nII. Em projetos que utilizam a abordagem de desenvolvimento\nadaptativa, o ciclo de vida é fracionado em iterações e ao\nfinal de cada iteração o cliente recebe uma entrega funcional\npara avaliar.\nIII. É mais indicado empregar uma abordagem de\ndesenvolvimento adaptativa para entregas cujo escopo e\nrequisitos são bem compreendidos, que o time de projeto já\ntenha trabalhado antes e que permitam um certo grau de\nprevisibilidade para planejar.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "I e II, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 78,
+   "pagina": 18,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Sobre as práticas ITIL, analise as afirmativas a seguir.\nI. As práticas ITIL são aplicáveis em organizações de todos os\nportes, pequenas, médias ou grandes, públicas ou privadas.\nII. As práticas ITIL são flexíveis no sentido de que, de acordo\ncom as necessidades e com o nível de maturidade da\norganização, podem ser customizadas e implantadas.\nIII. Para implantar o ITIL é necessário ter sistemas e plataformas\ntecnológicas específicas.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 79,
+   "pagina": 19,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Sobre as práticas ITIL, analise as afirmativas a seguir.\nI. O Sistema de Valor de Serviço (SVS) representa como os\nvários componentes e atividades da organização trabalham\njuntos para facilitar a criação de valor por meio de serviços de\nTI.\nII. A cadeia de valor do serviço e a melhoria contínua não fazem\nparte do Sistema de Valor do Serviço (SVS).\nIII. A Cadeia de valor do serviço inclui seis atividades de cadeia\nde valor que levam à criação de produtos e serviços e, por sua\nvez, valor.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 80,
+   "pagina": 19,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "De acordo com o framework COBIT 2019, a governança de TI é a\nresponsável por definir a direção estratégica e supervisionar a\ngestão, enquanto a gestão desempenha um papel fundamental\nna execução das atividades planejadas pela governança. As áreas\nde atuação da governança e gestão são conhecidas como\ndomínios.\nO domínio da governança abrange as atividades de",
+   "alternativas": {
+    "A": "planejar, fazer e agir.",
+    "B": "avaliar, dirigir e monitorar.",
+    "C": "monitorar, avaliar e analisar.",
+    "D": "elaborar, gerenciar e avaliar.",
+    "E": "construir, adquirir e implementar. Engenharia de Dados"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 81,
+   "pagina": 19,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Em sistemas de gerenciamento de bancos de dados, o Controle\nde Concorrência Multiversão (MVCC) é uma técnica utilizada para\ngerenciar transações concorrentes de maneira eficiente.\nA respeito do funcionamento do MVCC, assinale a afirmativa\ncorreta.",
+   "alternativas": {
+    "A": "Elimina a necessidade de mecanismos de controle de concorrência e integridade.",
+    "B": "Garante que uma transação possa modificar dados somente se nenhuma outra transação tiver lido esses dados.",
+    "C": "Requer que todas as transações sejam executadas sequencialmente para manter a consistência dos dados.",
+    "D": "Permite que existam múltiplas versões dos registros, possibilitando leituras consistentes sem bloquear escritas.",
+    "E": "Usa bloqueios de leitura em nível de registro, assegurando que apenas uma transação possa acessar um registro por vez. AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS"
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 82,
+   "pagina": 19,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Em um banco de dados SQL existe uma tabela chamada Vendas\ncom as colunas VendaID, VendedorID e ValorVenda.\nPara listar, sem duplicatas, o VendedorID de todos os\nvendedores que tenham realizado vendas superiores ao valor de\n10.000, devemos usar a seguinte consulta:",
+   "alternativas": {
+    "A": "SELECT VendedorID FROM Vendas WHERE ValorVenda > 10000;",
+    "B": "SELECT DISTINCT VendedorID FROM Vendas GROUP BY VendedorID HAVING ValorVenda > 10000;",
+    "C": "SELECT VendedorID FROM Vendas WHERE SUM(ValorVenda) > 10000;",
+    "D": "SELECT DISTINCT VendedorID FROM Vendas WHERE ValorVenda > 10000;",
+    "E": "SELECT VendedorID FROM Vendas WHERE MAX(ValorVenda) > 10000 GROUP BY VendedorID;"
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 83,
+   "pagina": 19,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Visando otimizar uma consulta em SQL, o desenvolvedor\nimplementa uma subconsulta com o objetivo de eliminar\nregistros redundantes existentes em uma tabela.\nConsequentemente, ele deverá empregar a cláusula",
+   "alternativas": {
+    "A": "INTERSECT.",
+    "B": "DISTINCT.",
+    "C": "UNION.",
+    "D": "VIEW.",
+    "E": "WITH."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 84,
+   "pagina": 19,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere a consulta SQL a seguir.\nSELECT id, nome, ST_AREA(geom) as area\nFROM tabelageo\nPara garantir a execução da consulta, o desenvolvedor deve",
+   "alternativas": {
+    "A": "criar um índice espacial.",
+    "B": "implementar a função ST_AREA.",
+    "C": "substituir a cláusula ST_AREA por AREA.",
+    "D": "substituir a cláusula ST_AREA por st_area.",
+    "E": "instalar a extensão espacial correspondente."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 85,
+   "pagina": 20,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Associe os dois conceitos a seguir, às suas respectivas\ncaracterísticas.\n1. OLAP\n2. Data Lake\n( ) Seu principal padrão de escrita é a importação em massa\n(ETL) ou fluxo de eventos.\n( ) Armazena principalmente dados brutos, passando ou não por\ntransformação.\n( ) É caracterizada pela agregação sobre um grande número de\nregistros, alimentando relatórios que ajudam a gestão de\numa empresa a tomar decisões mais informadas.\n( ) permite o armazenamento de grandes volumes de dados de\nqualquer tipo e tamanho, sendo uma alternativa aos Data\nWarehouses tradicionais.\nAssinale a opção que apresenta a associação correta, na ordem\napresentada.",
+   "alternativas": {
+    "A": "1 – 2 – 2 – 1.",
+    "B": "2 – 2 – 1 – 2.",
+    "C": "1 – 2 – 1 – 2.",
+    "D": "2 – 1 – 2 – 1.",
+    "E": "1 – 1 – 2 – 2."
+   },
+   "gabarito": null,
+   "anulada": true,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 86,
+   "pagina": 20,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Com a diversificação das aplicações que empregam conjuntos de\ndados classificados como Big Data, foram desenvolvidos\nframeworks, heurísticas e metodologias para armazenar, acessar\ne processá-los sem comprometer o desempenho dos sistemas\nenvolvidos. Duas soluções que se destacam nesse contexto são o\nApache Hadoop e o Apache Spark.\nA respeito dessas soluções, assinale a afirmativa correta.",
+   "alternativas": {
+    "A": "O GraphX é um componente do Hadoop permite visualizar e analisar dados com gráficos.",
+    "B": "O Apache Spark copia os dados para a RAM antes de processá-los em vez de acessar dados do armazenamento externo.",
+    "C": "O Yet Another Resource Negotiator (YARN) é um componente do Spark que aloca recursos para a execução de aplicações.",
+    "D": "O Apache Spark não tem bibliotecas de machine learning integradas, enquanto o Apache Spark dispõe da biblioteca de machine learning MLlib.",
+    "E": "O Apache Hadoop conta com uma tecnologia especial de processamento de dados chamada Conjunto de Dados Distribuídos Resiliente (RDD)."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 87,
+   "pagina": 20,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Certas aplicações, por sua natureza, demandam o envio e o\nrecebimento de volumes variados de dados de localização,\neventos e sensores para análises em tempo real e visibilidade de\ndiversos aspectos de suas atividades.\nEsse processamento pode ser em lotes ou por meio de\ntransmissão por streaming, conforme as características da\naplicação.\nAssinale a opção que apresenta uma característica inerente ao\nprocessamento de stream.",
+   "alternativas": {
+    "A": "Dados analíticos complexos.",
+    "B": "Latências em minutos para horas.",
+    "C": "Registros individuais ou microlotes compostos de alguns registros.",
+    "D": "Preferencial em caso de operações repetitivas, em ordem sequencial.",
+    "E": "Consultas ou processamento de todos ou da maioria dos dados no conjunto de dados. AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 88,
+   "pagina": 20,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um sistema de informações deve ser implementado com a\nfinalidade de compilar dados relacionados à opinião dos usuários\nsobre uma determinada instituição, considerando as publicações\nde conteúdos na Web.\nA técnica empregada para navegar automaticamente por páginas\nWeb e extrair informações relevantes para o contexto de\naplicação recebe o nome de",
+   "alternativas": {
+    "A": "Mineração de Dados.",
+    "B": "Aprendizado de Máquina.",
+    "C": "Raspagem de Dados em Redes.",
+    "D": "Interface de Programação de Aplicações.",
+    "E": "Descoberta de Conhecimento em Bases de Dados."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 89,
+   "pagina": 20,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um serviço Web foi desenvolvido com a finalidade de\ndisponibilizar dados oriundos de sensores de monitoramento de\natividade em uma repartição pública, por meio de requisições\nHTTP.\nA forma de comunicação com o serviço deve ser por meio de uma\nAPI REST, em detrimento de uma API SOAP, o que implica a\nimplementação do seguinte requisito:",
+   "alternativas": {
+    "A": "armazenar todas as respostas da API em cache.",
+    "B": "permitir apenas mensagens XML entre aplicações.",
+    "C": "configurar camada adicional de segurança para funcionar com HTTPS.",
+    "D": "considerar solicitações anteriores ao processar nova solicitação.",
+    "E": "registrar o escopo e a função dos serviços Web em arquivo WSDL."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 90,
+   "pagina": 20,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Com relação às técnicas de Detecção de Outliers, analise as\nafirmativas a seguir e assinale (V) para a verdadeira e (F) para a\nfalsa.\n( ) A Distância de Mahalanobis é uma técnica eficaz para\ndetectar outliers em dados multivariados, pois leva em\nconsideração a média e a covariância dos dados, permitindo\nidentificar pontos que são outliers em relação à distribuição\nconjunta das variáveis.\n( ) Modelos de Misturas Gaussianas (GMM) não devem ser\nutilizados para detectar outliers com distribuições não\nnormais, pois levam em consideração apenas distribuições\nGaussianas.\n( ) A Transformação Logarítmica é uma técnica comum e\neficiente para remover outliers de forma definitiva em\nconjuntos de dados simétricos e assimétricos.\nAs afirmativas são, respectivamente,",
+   "alternativas": {
+    "A": "V – V – V.",
+    "B": "V – V – F.",
+    "C": "V – F – F.",
+    "D": "F – F – F.",
+    "E": "F – V – V. Desenvolvimento de Sistemas"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 91,
+   "pagina": 21,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma das soluções mais interessantes utilizadas atualmente nos\nservidores é a construção de sistemas por meio de contêineres.\nContêineres são unidades leves e portáteis que empacotam uma\naplicação e suas dependências (bibliotecas, configurações etc.),\npermitindo que ela seja executada de forma consistente em\nqualquer ambiente.\nDiante desse contexto, assinale a opção que indica uma\ncaracterística específica de máquinas virtuais (VMs) em\ncomparação aos contêineres.",
+   "alternativas": {
+    "A": "Inicialização mais rápida das instâncias.",
+    "B": "Maior isolamento do sistema operacional.",
+    "C": "Uso mais eficiente dos recursos do sistema.",
+    "D": "Maior portabilidade entre diferentes ambientes.",
+    "E": "Compartilhamento do kernel do sistema operacional do host."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 92,
+   "pagina": 21,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "DevOps é uma abordagem cultural e prática que integra as\nequipes de desenvolvimento (Dev) e operações (Ops) para\nmelhorar a colaboração, automatizar processos e acelerar o ciclo\nde entrega de software.\nCom base nessa definição, assinale a opção que indica o princípio\nque está associado ao DevOps.",
+   "alternativas": {
+    "A": "Integração contínua e entrega contínua (CI/CD).",
+    "B": "Menor colaboração entre equipes para aumentar o foco individual.",
+    "C": "Utilização de infraestrutura física ao invés de ambientes em nuvem.",
+    "D": "Separação estrita entre as equipes de desenvolvimento e operações.",
+    "E": "Ciclos de lançamento de software mais longos e controlados."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 93,
+   "pagina": 21,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Acerca de tecnologias, frameworks e linguagens de programação\nvoltados para desenvolvimento de sistemas web/mobile, assinale\na afirmativa correta.",
+   "alternativas": {
+    "A": "O Bootstrap utiliza jQuery ao invés de Sass para gerar arquiteturas modulares e personalizáveis.",
+    "B": "O AJAX foi originalmente concebido com JSON, porém agora é mais utilizado com XML, uma vez que é mais leve e parte integrante do JavaScript.",
+    "C": "Mostrar ou ocultar partes de componentes específicos em vez de obter uma nova página no servidor é a principal característica do modelo Progressive Web App (PWA).",
+    "D": "Single Page Application (SPA) tem como maior objetivo oferecer uma experiência de uso semelhante à de um aplicativo nativo, mas acessível através de um navegador.",
+    "E": "TypeScript é uma linguagem de programação fortemente tipada, baseada em JavaScript, oferecendo melhor code completion e detecção de erros antes da execução do código. AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 94,
+   "pagina": 21,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Spring Boot é uma estrutura de software livre em Java, baseada\nem microsserviços e que simplifica o processo de configuração e\ninicialização para o uso de Spring em uma aplicação.\nDiante desse contexto, analise as afirmativas a seguir e assinale\n(V) para a verdadeira e (F) para a falsa.\n( ) Por padrão, o Spring Boot Starter para Redis utiliza Jedis.\n( ) Cada aplicativo Web Spring Boot inclui um servidor web\nembutido.\n( ) Anotações de classe @RestController do Spring em uma\naplicação Spring Boot renderizam uma resposta JSON por\npadrão, desde que Jackson2 esteja no classpath.\nAs afirmativas são, respectivamente,",
+   "alternativas": {
+    "A": "F – V – V.",
+    "B": "V – V – F.",
+    "C": "F – F – V.",
+    "D": "F – V – F.",
+    "E": "V – F – V."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 95,
+   "pagina": 21,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Sobre os conceitos e tecnologias relacionados à segurança, como\nOAuth, arquitetura Zero Trust e mTLS, analise as afirmativas a\nseguir.\nI. Ao contrário de uma Virtual Private Network (VPN), uma Zero\nTrust Network Access (ZTNA) é baseada em políticas definidas\nde controle de acesso, negando acesso por padrão e\nconcedendo acesso a usuários somente com autorização\nexplícita.\nII. O padrão OAuth define dois tipos de clientes em função da\ncapacidade de manter a confidencialidade de suas\ncredenciais: confidencial e público.\nIII. Comumente empregado em estruturas Zero Trust, o mTLS\nassegura que os entes de uma conexão de rede são\nrealmente quem afirmam ser, checando se ambos possuem a\nchave pública correta.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III. Engenharia de Software"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 96,
+   "pagina": 21,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Os níveis de maturidade do CMMI representam uma trilha para\nos esforços de melhoria de desempenho e processos de uma\norganização, com base em conjuntos predefinidos de áreas\npráticas.\nDiante desse contexto, assinale a opção que corresponde ao nível\nde maturidade com estas características: A estabilidade da\norganização proporciona uma plataforma para agilidade e\ninovação e a instituição está focada em melhoria contínua,\nrespondendo a oportunidades e mudanças.",
+   "alternativas": {
+    "A": "Nível 1 – Inicial.",
+    "B": "Nível 2 – Gerenciado.",
+    "C": "Nível 3 – Definido.",
+    "D": "Nível 4 - Gerenciado quantitativamente.",
+    "E": "Nível 5 – Otimização."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 97,
+   "pagina": 22,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Acerca da elicitação e validação de requisitos, ao utilizar a técnica\nde casos de uso, assinale a opção que indica a prática que pode\ncomprometer principalmente a rastreabilidade dos requisitos.",
+   "alternativas": {
+    "A": "A construção dos casos de uso baseados somente em entrevistas com os usuários chave.",
+    "B": "A ausência de detalhamento de cenários alternativos e exceções nos diagramas de casos de uso.",
+    "C": "A falta de revisão contínua dos casos de uso pelos desenvolvedores após cada iteração do projeto.",
+    "D": "A utilização de uma linguagem de modelagem que seja amplamente compreendida pelos usuários finais.",
+    "E": "A inclusão de detalhes técnicos no fluxograma de casos de uso, visando a implementação direta pelos desenvolvedores."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 98,
+   "pagina": 22,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "As fases possuem objetivos distintos e marcos importantes no\nprocesso unificado.\nSobre essas fases, analise as afirmativas a seguir.\nI. Na fase de elaboração, o objetivo é definir o escopo inicial do\nprojeto e identificar os principais requisitos de alto nível.\nII. A fase de transição é onde o sistema está pronto para ser\nimplantado e disponibilizado aos usuários finais.\nIII. Durante a fase de construção, o foco está em implementar as\nfuncionalidades e realizar a integração do sistema.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "III, apenas.",
+    "C": "I e II, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III. AUDITOR DE CONTROLE EXTERNO – SISTEMAS ENGENHARIA DE DADOS"
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 99,
+   "pagina": 22,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A Análise por Pontos de Função (APF) é uma técnica usada para\nmedir o tamanho funcional de um sistema de software. Um dos\nelementos utilizados na APF são os chamados deflatores, que são\nusados para",
+   "alternativas": {
+    "A": "avaliar o desempenho do sistema com base nas transações de entrada externa.",
+    "B": "ajustar o total de pontos de função com base nas características gerais do sistema.",
+    "C": "converter pontos de função em estimativas de esforço com base na complexidade das funções de dados.",
+    "D": "calcular a complexidade das funções transacionais com base no número de dados elementares referenciados.",
+    "E": "reduzir os pontos de função considerando a reutilização de código com base em registros lógicos referenciados."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 100,
+   "pagina": 22,
+   "disciplina": "TI - Sistemas, Engenharia de Dados e Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Em relação ao gerenciamento de processos de negócios, analise\nas afirmativas a seguir.\nI. A automação dos processos implica eliminação de gargalos e\nfluxos de trabalho ineficientes.\nII. Estabelecer indicadores de desempenho baseados nas metas\nde longo prazo da organização implica dificuldade para\notimizar os processos.\nIII. Para uma visão mais próxima da realidade operacional, a\nanálise de Pareto é mais indicada que brainstorming com\ncolaboradores.\nÉ correto o que se afirma em",
+   "alternativas": {
+    "A": "II, apenas.",
+    "B": "III, apenas.",
+    "C": "I e II, apenas.",
+    "D": "I e III, apenas.",
+    "E": "II e III, apenas. Realiz zação"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  }
+ ]
+}

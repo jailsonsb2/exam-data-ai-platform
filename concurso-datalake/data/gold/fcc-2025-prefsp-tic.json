@@ -1,0 +1,1710 @@
+{
+ "prova": "fcc-2025-prefsp-tic",
+ "banca": "FCC",
+ "ano": 2025,
+ "orgao": "Prefeitura de São Paulo",
+ "cargo": "Analista de Planej. e Desenv. Organizacional - TIC",
+ "tipo": "Tipo 1",
+ "pdf": "fcc-2025-prefeitura-de-sao-paulo-sp-analista-de-planejamento-e-desenvolvimento-organizacional-tecnologia-da-informacao-e-comunicacao-prova.pdf",
+ "questoes": [
+  {
+   "numero": 1,
+   "pagina": 2,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": "Atenção: Para responder às questões de números 1 a 3, basele-se no texto abaixo. Todos sabemos que a nossa época é profundamente bárbara, embora se trate de uma barbárie ligada ao máximo de civil zação. Penso que o movimento pelos direitos humanos se entronca aí, pois somos a primeira era da história em que teoricamente é possivel entrever uma solução para as grandes desarmonias que geram a injustiça contra a qual lutam os homens de boa vontade, à busca não mais do estado ideal sonhado pelos utopistas racionais que nos antecederam, mas do máximo viável de igualdade & justiça. Mas esta verificação desalentadora deve ser compensada por outra mais otimista: nós sabemos que hoje os meios materiais necessários para nos aproximarmos desse estágio melhor existem, e que muito do que era simples utopia se tornou possibilidade real. Quem acredita nos direitos humanos procura transformar a possibilidade teórica em realidade. Inversamente, um traço sinistro do nosso tempo é saber que é possivel a solução de tantos problemas e ainda assim não se empenhar nela. (CANDIDO, Antonio. O direito à literatura. Adaptado)",
+   "enunciado": "No texto, Antonio Candido destaca",
+   "alternativas": {
+    "A": "o surgimento do movimento pelos direitos humanos como resquício de retrocessos históricos, sugerindo que tal movimento sobrepuja a barbárie.",
+    "B": "o retrocesso histórico dos dias de hoje, sugerindo que o movimento pelos direitos humanos prescinde dos valores civili- zatórios de épocas passadas.",
+    "C": "a oposição entre barbárie e civilização, sugerindo que o movimento pelos direitos humanos, ao tentar promover uma igual- dade utópica, ignora essa dualidade.",
+    "D": "a coexistência paradoxal entre a barbárie e o ápice da civilização, sugerindo que o movimento pelos direitos humanos se insere nessa tensão.",
+    "E": "a negação da barbárie por parte dos que defendem os valores do progresso civilizatório, sugerindo que o movimento pelos direitos humanos ratifica esta mesma negação."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 2,
+   "pagina": 2,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": "Atenção: Para responder às questões de números 1 a 3, basele-se no texto abaixo. Todos sabemos que a nossa época é profundamente bárbara, embora se trate de uma barbárie ligada ao máximo de civil zação. Penso que o movimento pelos direitos humanos se entronca aí, pois somos a primeira era da história em que teoricamente é possivel entrever uma solução para as grandes desarmonias que geram a injustiça contra a qual lutam os homens de boa vontade, à busca não mais do estado ideal sonhado pelos utopistas racionais que nos antecederam, mas do máximo viável de igualdade & justiça. Mas esta verificação desalentadora deve ser compensada por outra mais otimista: nós sabemos que hoje os meios materiais necessários para nos aproximarmos desse estágio melhor existem, e que muito do que era simples utopia se tornou possibilidade real. Quem acredita nos direitos humanos procura transformar a possibilidade teórica em realidade. Inversamente, um traço sinistro do nosso tempo é saber que é possivel a solução de tantos problemas e ainda assim não se empenhar nela. (CANDIDO, Antonio. O direito à literatura. Adaptado)",
+   "enunciado": "Todos sabemos que a nossa época é profundamente bárbara, embora se trate de uma barbárie ligada ao máximo de civiliza-\nção.\nConsiderando as relações de sentido, sem que nenhuma outra alteração seja feita na frase, o termo sublinhado pode ser substi-\ntuído por:",
+   "alternativas": {
+    "A": "conquanto.",
+    "B": "conforme.",
+    "C": "portanto.",
+    "D": "porquanto.",
+    "E": "contudo."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 3,
+   "pagina": 2,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": "Atenção: Para responder às questões de números 1 a 3, basele-se no texto abaixo. Todos sabemos que a nossa época é profundamente bárbara, embora se trate de uma barbárie ligada ao máximo de civil zação. Penso que o movimento pelos direitos humanos se entronca aí, pois somos a primeira era da história em que teoricamente é possivel entrever uma solução para as grandes desarmonias que geram a injustiça contra a qual lutam os homens de boa vontade, à busca não mais do estado ideal sonhado pelos utopistas racionais que nos antecederam, mas do máximo viável de igualdade & justiça. Mas esta verificação desalentadora deve ser compensada por outra mais otimista: nós sabemos que hoje os meios materiais necessários para nos aproximarmos desse estágio melhor existem, e que muito do que era simples utopia se tornou possibilidade real. Quem acredita nos direitos humanos procura transformar a possibilidade teórica em realidade. Inversamente, um traço sinistro do nosso tempo é saber que é possivel a solução de tantos problemas e ainda assim não se empenhar nela. (CANDIDO, Antonio. O direito à literatura. Adaptado)",
+   "enunciado": "O autor estabelece um contraste entre as expressões possibilidade real &",
+   "alternativas": {
+    "A": "traço sinistro.",
+    "B": "grandes desarmonias.",
+    "C": "verificação desalentadora.",
+    "D": "meios materiais.",
+    "E": "simples utopia."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 4,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": "Atenção: Para responder às questões de números 4 a 6, leia o poema Tecendo a manhã de João Cabral de Melo Neto. Lim galo sozinho não tece uma manhã: ele precisará sempre de outros galos. De um que apanhe esse grito que ele eo lance a outro; de um outro galo que apanhe o grito que um galo antes eolance a outro; e de outros galos que com muitos outros galos se cruzem os fios de sol de seus gritos de galo, para que a manhã, desde uma teia tênue, se vá tecendo, entre todos os galos. E se encorpando em tela, entre todos, se erguendo tenda, onde entrem todos, se entretendendo para todos, no toldo (a manhã) que plana livre de armação. A manhã, toldo de um tecido tão aéreo que, tecido, se eleva por si luz balão. (MELO NETO, João Cabral de. À Educação pela Pedra)",
+   "enunciado": "Opoema",
+   "alternativas": {
+    "A": "critica a solidão advinda do excesso de conexões.",
+    "B": "encoraja a tentativa de controle do tempo.",
+    "C": "ressalta que a colaboração entre as pessoas é essencial.",
+    "D": "destaca que as relações humanas são frágeis.",
+    "E": "enaltece a intervenção humana nos fenômenos da natureza."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 5,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": "Atenção: Para responder às questões de números 4 a 6, leia o poema Tecendo a manhã de João Cabral de Melo Neto. Lim galo sozinho não tece uma manhã: ele precisará sempre de outros galos. De um que apanhe esse grito que ele eo lance a outro; de um outro galo que apanhe o grito que um galo antes eolance a outro; e de outros galos que com muitos outros galos se cruzem os fios de sol de seus gritos de galo, para que a manhã, desde uma teia tênue, se vá tecendo, entre todos os galos. E se encorpando em tela, entre todos, se erguendo tenda, onde entrem todos, se entretendendo para todos, no toldo (a manhã) que plana livre de armação. A manhã, toldo de um tecido tão aéreo que, tecido, se eleva por si luz balão. (MELO NETO, João Cabral de. À Educação pela Pedra)",
+   "enunciado": "que com muitos outros galos se cruzem\nO verbo flexionado nos mesmos tempo e modo que à destacado no trecho acima está também destacado em:",
+   "alternativas": {
+    "A": "ele precisará sempre de outros galos",
+    "B": "De um que apanhe esse grito",
+    "C": "Ese encorpando em tela",
+    "D": "Lim galo sozinho não tece uma manhã",
+    "E": "que, tecido, se eleva por si: luz balão"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 6,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": "Atenção: Para responder às questões de números 4 a 6, leia o poema Tecendo a manhã de João Cabral de Melo Neto. Lim galo sozinho não tece uma manhã: ele precisará sempre de outros galos. De um que apanhe esse grito que ele eo lance a outro; de um outro galo que apanhe o grito que um galo antes eolance a outro; e de outros galos que com muitos outros galos se cruzem os fios de sol de seus gritos de galo, para que a manhã, desde uma teia tênue, se vá tecendo, entre todos os galos. E se encorpando em tela, entre todos, se erguendo tenda, onde entrem todos, se entretendendo para todos, no toldo (a manhã) que plana livre de armação. A manhã, toldo de um tecido tão aéreo que, tecido, se eleva por si luz balão. (MELO NETO, João Cabral de. À Educação pela Pedra)",
+   "enunciado": "para que a manhã, desde uma teia tênue, / se vá tecendo, entre todos os galos.\nO elemento sublinhado expressa, no contexto do poema, ideia de\n(&] comparação.",
+   "alternativas": {
+    "B": "causa.",
+    "C": "oposição.",
+    "D": "condição.",
+    "E": "finalidade."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q06-0.png"
+   ]
+  },
+  {
+   "numero": 7,
+   "pagina": 4,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": "Atenção: Para responder às questões de números 7 a 10, baseie-se no texto abaixo. Todo escritor reage contra os mais velhos, mesmo que o não perceba, e ainda que os admire. E se os admira, mais feroz é a reação, em que se casam amor e impaciência, ternura e tédio pela obra cristalizada: ácida compensação da pena de admirar. Impossivel fazer compreender aos de vinte anos que não temos culpa de ser mais velhos, de possuir maior soma de visões, de lembrança, de riquezas imponderáveis: que desvendamos certos segredos porque nos foi dada oportunidade de viver já há mais tempo; que o tempo traz consigo certa sutileza, ainda aos menos dotados: e que a suposta derrota de envelhecer nos confere uma relativa superioridade (aliás, de ninguém invejada). (ANDRADE, Carlos Drummond de. Passelos na Ilha. 3ão Paulo: Companhia das Letras, 2020, p. 98)",
+   "enunciado": "Sobre a relação entre escritores mais jovens e mais velhos, o autor propõe que",
+   "alternativas": {
+    "A": "a admiração pelos mais velhos causa nos jovens uma reação paradoxal, em que se mesclam admiração e impaciência diante da obra consolidada.",
+    "B": "os escritores jovens rejeitam os mais velhos por inveja, mesmo que tentem de diversas formas disfarçar esse sentimento.",
+    "C": "os escritores mais velhos costumam dificultar o reconhecimento acadêmico dos jovens, o que justifica a reação de indignação contra eles.",
+    "D": "a impaciência dos jovens se deve à falta de originalidade dos escritores consagrados, cuja obra já se tornou obsoleta.",
+    "E": "a incompreensão entre gerações é inevitável, pois os mais velhos são incrédulos quanto ao dinamismo da produção literária vanguardista."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 8,
+   "pagina": 4,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": "Atenção: Para responder às questões de números 7 a 10, baseie-se no texto abaixo. Todo escritor reage contra os mais velhos, mesmo que o não perceba, e ainda que os admire. E se os admira, mais feroz é a reação, em que se casam amor e impaciência, ternura e tédio pela obra cristalizada: ácida compensação da pena de admirar. Impossivel fazer compreender aos de vinte anos que não temos culpa de ser mais velhos, de possuir maior soma de visões, de lembrança, de riquezas imponderáveis: que desvendamos certos segredos porque nos foi dada oportunidade de viver já há mais tempo; que o tempo traz consigo certa sutileza, ainda aos menos dotados: e que a suposta derrota de envelhecer nos confere uma relativa superioridade (aliás, de ninguém invejada). (ANDRADE, Carlos Drummond de. Passelos na Ilha. 3ão Paulo: Companhia das Letras, 2020, p. 98)",
+   "enunciado": "Parao autor,",
+   "alternativas": {
+    "A": "a juventude é marcada por uma abertura mais expressiva às diversas facetas da realidade.",
+    "B": "o passar dos anos é incapaz de apurar a sensibilidade dos desprovidos de talento.",
+    "C": "a ideia de que a maturidade esconde em si uma força é uma falácia.",
+    "D": "| o envelhecimento, mesmo visto como declínio, tem diversos aspectos positivos.",
+    "E": "a longa experiência de vida dos mais velhos acarreta adversidades, levando ao sentimento de derrota."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 9,
+   "pagina": 4,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": "Atenção: Para responder às questões de números 7 a 10, baseie-se no texto abaixo. Todo escritor reage contra os mais velhos, mesmo que o não perceba, e ainda que os admire. E se os admira, mais feroz é a reação, em que se casam amor e impaciência, ternura e tédio pela obra cristalizada: ácida compensação da pena de admirar. Impossivel fazer compreender aos de vinte anos que não temos culpa de ser mais velhos, de possuir maior soma de visões, de lembrança, de riquezas imponderáveis: que desvendamos certos segredos porque nos foi dada oportunidade de viver já há mais tempo; que o tempo traz consigo certa sutileza, ainda aos menos dotados: e que a suposta derrota de envelhecer nos confere uma relativa superioridade (aliás, de ninguém invejada). (ANDRADE, Carlos Drummond de. Passelos na Ilha. 3ão Paulo: Companhia das Letras, 2020, p. 98)",
+   "enunciado": "Considere os trechos abaixo.\nI. ácida compensação da pena de admirar",
+   "alternativas": {},
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q09-pagina.png"
+   ]
+  },
+  {
+   "numero": 10,
+   "pagina": 4,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "[questão não extraída do PDF — o número se perdeu no OCR; confira o recorte da questão anterior ou o PDF original]",
+   "alternativas": {},
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q10-0.png"
+   ]
+  },
+  {
+   "numero": 11,
+   "pagina": 4,
+   "disciplina": "Raciocínio Lógico-Matemático",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "relativa superioridade\nIII. mais feér a orezaçã o\nidentifica-se sentido denotalivo no(s) termo(s) sublinhado(s) APENAS em:",
+   "alternativas": {
+    "A": "... que o tempo traz consigo certa sutileza...",
+    "B": "Todo escritor reage contra os mais velhos...",
+    "C": "... maior soma de visões, de lembrança, de riquezas imponderáveis...",
+    "D": "... mesmo que o não perceba, e ainda que os admire.",
+    "E": "... nos foi dada oportunidade de viver já há mais tempo... Raciocínio Lógico Matemático e Estatística"
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 12,
+   "pagina": 5,
+   "disciplina": "Raciocínio Lógico-Matemático",
+   "assunto": null,
+   "texto_apoio": "Atenção: As questões de números 11 a 15 referem-se a Raciocínio Lógico-Matemático. 11. Todas as caixas armazenadas em dois depósitos, A e B, foram transferidas para o novo depósito central. À primeira etapa dessa tarefa foi levar as caixas até um caminhão, de maneira que cada caixa foi carregada por uma única pessoa e cada pessoa só carregava uma caixa por vez. Sabe-se ainda que o tempo para levar qualquer caixa, de qualquer depósito, por qualquer pessoa, até o caminhão era sempre o mesmo, cada pessoa sempre carregava um mesmo número de caixas por hora & o número de caixas do depósito B era Igual a três quartos do número de caixas do depósito A. Na primeira hora dessa tarefa, um grupo com n pessoas trabalhou no depósito A. Em seguida, durante uma hora, metade desse grupo trabalhou no depósito À e a outra metade no depósito B, de maneira que, ao fim dessa segunda hora de trabalho, todas as caixas do depósito A foram carregadas. Finalmente, cinco pessoas desse grupo trabalharam por mais quatro horas para carregar as caixas que ainda estavam no depósito B. O valor de n é (A) 12 (B) 18 (C) 24 (D) 32 (E) 36",
+   "enunciado": "Considere a sequência 1,1,2,1,2,3,1,2,3,4,1,2,3,4,5,1,2,3,4,5,6,...,1,2,3,...,25,1,2,3,...,26,1,2,3... O termo\n25 ocorre pela vigésima quinta vez na",
+   "alternativas": {
+    "A": "11762 posição.",
+    "B": "12012 posição.",
+    "C": "12262 posição.",
+    "D": "12512 posição.",
+    "E": "12782 posição."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 13,
+   "pagina": 5,
+   "disciplina": "Raciocínio Lógico-Matemático",
+   "assunto": null,
+   "texto_apoio": "Atenção: As questões de números 11 a 15 referem-se a Raciocínio Lógico-Matemático. 11. Todas as caixas armazenadas em dois depósitos, A e B, foram transferidas para o novo depósito central. À primeira etapa dessa tarefa foi levar as caixas até um caminhão, de maneira que cada caixa foi carregada por uma única pessoa e cada pessoa só carregava uma caixa por vez. Sabe-se ainda que o tempo para levar qualquer caixa, de qualquer depósito, por qualquer pessoa, até o caminhão era sempre o mesmo, cada pessoa sempre carregava um mesmo número de caixas por hora & o número de caixas do depósito B era Igual a três quartos do número de caixas do depósito A. Na primeira hora dessa tarefa, um grupo com n pessoas trabalhou no depósito A. Em seguida, durante uma hora, metade desse grupo trabalhou no depósito À e a outra metade no depósito B, de maneira que, ao fim dessa segunda hora de trabalho, todas as caixas do depósito A foram carregadas. Finalmente, cinco pessoas desse grupo trabalharam por mais quatro horas para carregar as caixas que ainda estavam no depósito B. O valor de n é (A) 12 (B) 18 (C) 24 (D) 32 (E) 36",
+   "enunciado": "Considere as cidades de Avaré, Bauru, Garça e Tatuí. Dessas cidades, Maria já visitou no minimo duas e no máximo três e ela\nfez as seguintes afirmações:\n“ Seeu visitei Tatuí, então não visitei Bauru.\n“Nunca visitei Avaré e nunca visitei Garça.\n\"Ou visitei Avaré ou não visitei Bauru.\n“ Visitei Garça se, e somente se, não visitei Tatuí.\nExatamente uma dessas quatro afirmações é falsa, logo, em relação às quatro cidades citadas, a altermaliva que contêm todas\nas cidades que Maria visitou é",
+   "alternativas": {
+    "A": "Avaré e Bauru.",
+    "B": "Bauru e Tatuí.",
+    "C": "Avaré, Bauru e Garça.",
+    "D": "Avaré, Garça e Tatuí.",
+    "E": "Bauru, Garça e Tatuí."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 14,
+   "pagina": 5,
+   "disciplina": "Raciocínio Lógico-Matemático",
+   "assunto": null,
+   "texto_apoio": "Atenção: As questões de números 11 a 15 referem-se a Raciocínio Lógico-Matemático. 11. Todas as caixas armazenadas em dois depósitos, A e B, foram transferidas para o novo depósito central. À primeira etapa dessa tarefa foi levar as caixas até um caminhão, de maneira que cada caixa foi carregada por uma única pessoa e cada pessoa só carregava uma caixa por vez. Sabe-se ainda que o tempo para levar qualquer caixa, de qualquer depósito, por qualquer pessoa, até o caminhão era sempre o mesmo, cada pessoa sempre carregava um mesmo número de caixas por hora & o número de caixas do depósito B era Igual a três quartos do número de caixas do depósito A. Na primeira hora dessa tarefa, um grupo com n pessoas trabalhou no depósito A. Em seguida, durante uma hora, metade desse grupo trabalhou no depósito À e a outra metade no depósito B, de maneira que, ao fim dessa segunda hora de trabalho, todas as caixas do depósito A foram carregadas. Finalmente, cinco pessoas desse grupo trabalharam por mais quatro horas para carregar as caixas que ainda estavam no depósito B. O valor de n é (A) 12 (B) 18 (C) 24 (D) 32 (E) 36",
+   "enunciado": "Se Zum não vai a lugar algum, então Zum não está selado. Se Zum vai a algum lugar, então Zum estã registrado ou Zum está\ncarimbado. Sempre que Zum está selado, Zum não está rotulado. Se Zum estã registrado, então Zum estã rotulado. Ontem,\nZum estava selado, portanto, ontem, Zum",
+   "alternativas": {
+    "A": "foi a algum lugar e estava carimbado.",
+    "B": "foi a algum lugar e estava registrado.",
+    "C": "não foi a lugar algum ou estava rotulado.",
+    "D": "não foi a lugar algum e estava selado.",
+    "E": "não foi a lugar algum ou estava registrado."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 15,
+   "pagina": 5,
+   "disciplina": "Raciocínio Lógico-Matemático",
+   "assunto": null,
+   "texto_apoio": "Atenção: As questões de números 11 a 15 referem-se a Raciocínio Lógico-Matemático. 11. Todas as caixas armazenadas em dois depósitos, A e B, foram transferidas para o novo depósito central. À primeira etapa dessa tarefa foi levar as caixas até um caminhão, de maneira que cada caixa foi carregada por uma única pessoa e cada pessoa só carregava uma caixa por vez. Sabe-se ainda que o tempo para levar qualquer caixa, de qualquer depósito, por qualquer pessoa, até o caminhão era sempre o mesmo, cada pessoa sempre carregava um mesmo número de caixas por hora & o número de caixas do depósito B era Igual a três quartos do número de caixas do depósito A. Na primeira hora dessa tarefa, um grupo com n pessoas trabalhou no depósito A. Em seguida, durante uma hora, metade desse grupo trabalhou no depósito À e a outra metade no depósito B, de maneira que, ao fim dessa segunda hora de trabalho, todas as caixas do depósito A foram carregadas. Finalmente, cinco pessoas desse grupo trabalharam por mais quatro horas para carregar as caixas que ainda estavam no depósito B. O valor de n é (A) 12 (B) 18 (C) 24 (D) 32 (E) 36",
+   "enunciado": "Basil, Dario e Gaspar são analistas e têm, cada um, um estagiário. Os nomes dos estagiários são Nilo, Ravi e Tadeu, não\nnecessariamente nessa ordem. Essas seis pessoas disputam ente si, regularmente, um antigo jogo de cartas. Cada jogo é\ndisputado por duas pessoas e sempre tem um vencedor. No mês de janeiro, eles disputaram 101 partidas, das quais Nilo venceu\n28. Dario venceu o mesmo número de partidas que o estagiário de Basil. Gaspar venceu um número de partidas igual à metade do\nnúmero de partidas que venceu o estagiário de Dario. Basil venceu uma partida a mais do que Ravi. O estagiário que mais venceu\nganhou 21 partidas a mais do que o estagiário que menos venceu. O analista que mais venceu ganhou & partidas a mais do que o\nestagiário que menos venceu. Os estagiários de Dario e Gaspar venceram um total de\n(8) 34 partidas.",
+   "alternativas": {
+    "B": "40 partidas.",
+    "C": "46 partidas.",
+    "D": "52 partidas.",
+    "E": "58 partidas."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q15-0.png"
+   ]
+  },
+  {
+   "numero": 16,
+   "pagina": 6,
+   "disciplina": "Estatística",
+   "assunto": null,
+   "texto_apoio": "Atenção: As questões de números 16 a 20 referem-se a Estatística.",
+   "enunciado": "Considere uma população formada pelos salários de todos os funcionários lotados em um setor de um órgão público. Com\nrelação às medidas de posição e de variabilidade, tem-se que:",
+   "alternativas": {
+    "A": "somando ou subtraindo uma constante a todos os elementos da população, a média e seu desvio padrão ficarão somados ou subtraidos da mesma constante.",
+    "B": "sendo concedido um aumento de 10% para todos os funcionários, então a nova variância será igual à variância anterior multiplicada por 1,10.",
+    "C": "a mediana pertence ao conjunto correspondente à população e poderá ser inferior ou superior à média.",
+    "D": "a moda, quando existe, sempre pertence ao conjunto correspondente à população que poderá ter mais de uma moda.",
+    "E": "sendo concedido um aumento de 5% para todos os funcionários, então o novo coeficiente de variação, definido como o re- sultado da divisão do desvio padrão pela média, ficará aumentado em 5%."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 17,
+   "pagina": 6,
+   "disciplina": "Estatística",
+   "assunto": null,
+   "texto_apoio": "Atenção: As questões de números 16 a 20 referem-se a Estatística.",
+   "enunciado": "Em uma sala de uma repartição pública trabalham somente pessoas formadas nas áreas de Economia, Administração e Ciên-\ncias Contábeis perfazendo um total de vinte e cinco pessoas. Somente duas pessoas são formadas nas três áreas, cihco são\nformadas em Economia e Ciências Contábeis, três são formadas em Administração e Ciências Contábeis e seis são formadas\nem Administração e Economia. Escolhendo aleatoriamente uma pessoa desta sala, a probabilidade de ela ser formada em uma\ne somente uma das áreas é igual a",
+   "alternativas": {
+    "A": "35",
+    "B": "23",
+    "C": "215",
+    "D": "34",
+    "E": "112"
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 18,
+   "pagina": 6,
+   "disciplina": "Estatística",
+   "assunto": null,
+   "texto_apoio": "Atenção: As questões de números 16 a 20 referem-se a Estatística.",
+   "enunciado": "De um conjunto de analistas formado por seis homens e quatro mulheres, deverá ser formada uma comissão de três pessoas,\nescolhidas aleatoriamente, para realizar uma determinada tarefa. A probabilidade de esta comissão conter pelo menos duas mu-\nlheres é igual a",
+   "alternativas": {
+    "A": "30",
+    "B": "23",
+    "C": "113",
+    "D": "did",
+    "E": "112"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 19,
+   "pagina": 6,
+   "disciplina": "Estatística",
+   "assunto": null,
+   "texto_apoio": "Atenção: As questões de números 16 a 20 referem-se a Estatística.",
+   "enunciado": "A população formada pelos salários, em salários minimos (SM), dos empregados de uma prefeitura é normalmente distribuída\ncom uma variância populacional igual a 2,25 (SMF. Extraindo uma amostra aleatória desta população, com reposição, de\ntamanho 100, encontrou-se uma média amostral igual a 4,8 SM. Utilizando as informações da curva normal padrão (Z) que as\nprobabilidades P(Z= 1,64)= 0,95 e P(Z = 1,96) = 0,975, então o intervalo de confiança de 95% para a média populacional, com\nbase na amostra, é igual a",
+   "alternativas": {
+    "A": "[4,554 5,046]",
+    "B": "[4,359,5,241]",
+    "C": "[4,604; 4,956]",
+    "D": "[4,636 ; 4,964]",
+    "E": "[4,506 ; 5,094]"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 20,
+   "pagina": 6,
+   "disciplina": "Estatística",
+   "assunto": null,
+   "texto_apoio": "Atenção: As questões de números 16 a 20 referem-se a Estatística.",
+   "enunciado": "A partir de 10 pares de observações (X, Y,) com i= 1,2, 3... 10, escolhidos aleatoriamente, referentes a duas variáveis Xe Y,\nforam obtidas as respectivas variâncias amostrais 5; = 25 e S$ = 36. Se a covariância de X e Y apresenta um valor igual a 24,\nentão o respectivo coeficiente de correlação é igual a",
+   "alternativas": {
+    "A": "0,60",
+    "B": "0,80 (C| 0,75",
+    "D": "0,40",
+    "E": "0,64 Legislação atinente à TIC"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q20-0.png",
+    "img/fcc-2025-prefsp-tic/q20-1.png"
+   ]
+  },
+  {
+   "numero": 21,
+   "pagina": 7,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Em uma análise recente sobre a governança de TIC na prefeitura de São Paulo, especialistas destacaram que o alinhamento\nentre planejamento estratégico e ações setoriais é um dos maiores desafios na gestão pública. Este alinhamento é considerado\nessencial para evitar redundâncias, otimizar recursos e atender às demandas crescentes de serviços públicos baseados em\ntecnologia. Com base no Decreto nº 57.653/2017, o instrumento de governança responsável por definir metas e objetivos estra-\ntégicos alinhados ao Programa de Metas do municipio é o Plano\n(8) Diretor Geral de Tecnologia da Informação e Comunicação (PDGTIC).",
+   "alternativas": {
+    "B": "Diretor Setorial de Tecnologia da Informação e Comunicação (PDSTIC). (EC) Estratégico de Tecnologia da Informação e Comunicação (PETIC).",
+    "D": "Anual de Tecnologia da Informação & Comunicação (PATIC).",
+    "E": "Operacional de Tecnologia da Informação e Comunicação (POTIC)."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q21-0.png"
+   ]
+  },
+  {
+   "numero": 22,
+   "pagina": 7,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um usuário publicou criticas em uma rede social sobre um serviço de delivery de uma certa empresa, relatando problemas recor-\nrentes. À empresa afetada solicitou ao provedor da aplicação da rede social a remoção do conteúdo, alegando danos à sua re-\nputação. Com base no Marco Civil da Internet (Lei né 12.965/2014), 0 provedor",
+   "alternativas": {
+    "A": "deve remover imediatamente qualquer conteúdo que gere reclamações de empresas, para evitar danos reputacionais.",
+    "B": "precisa remover as críticas da rede social somente após emissão de ordem judicial específica.",
+    "C": "precisa remover conteúdos considerados ofensivos, desde que a empresa prejudicada solicite por escrito.",
+    "D": "tem total liberdade para decidir quais conteúdos serão removidos, independentemente de ordem judicial ou notificação.",
+    "E": "deve consultar o PROCON antes de remover o conteúdo, quando este envolve opiniões sobre serviços ou produtos."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 23,
+   "pagina": 7,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Em uma invesligação policial, foi identificado que um programador desenvolveu e vendeu ferramentas para exploração de dispo-\nsilivos informáticos, destinadas à violação de mecanismos de segurança. Essas ferramentas foram utilizadas por terceiros para\na obtenção de informações sigilosas, mas não houve prejuízo econômico. De acordo com a Lei nê 12. 737/2012 (Lei Carolina\nDieckmann), esse programador responde por\n(8) Invasão de dispositivo informático, com pena de reclusão de 6 meses a 2 anos.",
+   "alternativas": {
+    "B": "produção de programas para permilir invasões, com pena de detenção de 3 meses a 1 ano, e multa.",
+    "C": "venda de programas para permitir invasões, com pena de detenção de 6 meses a 1 ano, e multa.",
+    "D": "invasão de dispositivo informático, com pena de detenção de 3 meses a 1 ano, aumentada de um sexto a um terço, e multa.",
+    "E": "produção e venda de programas para permilir invasões, com pena de detenção de 6 meses a 2 anos, e multa."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q23-0.png"
+   ]
+  },
+  {
+   "numero": 24,
+   "pagina": 7,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma startup de tecnologia sediada em São Paulo desenvolveu um aplicativo de aluguel de bicicletas. O aplicativo coleta dados pes-\nsoais como localização em tempo real, histórico de viagens e dados bancários dos usuários. Recentemente, um cliente solicitou\nque seus dados fossem eliminados após desinstalar o aplicativo, mas a empresa negou o pedido, alegando que os dados eram\nnecessários para fins estatísticos e de melhoria dos serviços. De acordo com a LGPD, ao negar o pedido de eliminação dos da-\ndos, foi violado pela empresa o direto do titular",
+   "alternativas": {
+    "A": "à portabilidade dos dados sob os quais o titular pode solicitar qualquer tipo de ação, inclusive a exclusão.",
+    "B": "à anonimização, ao bloqueio ou à eliminação de dados desnecessários para a finalidade informada ou tratados em desconformidade com a lei.",
+    "C": "à informação sobre o compartilhamento de dados com terceiros e à soberania sobre seus dados pessoais.",
+    "D": "de acessar e remover ele mesmo os dados armazenados de uma maneira segura, simplificada e a qualquer momento que desejar fazê-lo.",
+    "E": "de ser informado sobre as bases legais para 0 tratamento dos dados e sobre sua utilização."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 25,
+   "pagina": 7,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Em 2020, uma prefeitura lançou uma iniciativa para disponibilizar conteúdos educacionais abertos em sua plataforma de ensino,\nincentivando o uso de recursos compartilhados e a colaboração entre educadores. Uma educadora deseja compartilhar um ma-\nterial didático sob uma licença Creative Commons que permita a reprodução e modificação do conteúdo, desde que atribuam o\ndevido crédito ao autor original, mas que impeça o uso comercial. À licença Creative Commons adequada para essa finalidade é\nall",
+   "alternativas": {
+    "A": "BY.",
+    "B": "BY-SA",
+    "C": "BY-NC.",
+    "D": "BY-ND.",
+    "E": "BY-NC-ND."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 26,
+   "pagina": 8,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma prefeitura de uma metrópole, com mais de 10 milhões de habitantes, implantou uma nova política de transparência, disponibili\nzando informações sobre projetos de revitalização urbana em uma página oficial da internet Contudo, moradores da região infor-\nmaram que as informações não estavam atualizadas e que não era possível realizar buscas detalhadas no portal. Diante disso, um\ncidadão apresentou uma reclamação formal. Com base na Lei de Acesso à Informação (Lei nº 12.527/2011), a Administração Pú-\nblica",
+   "alternativas": {
+    "A": "não precisa atualizar as informações, desde que estas sejam disponibilizadas em outros meios de comunicação, como bo- letins informativos e SMS.",
+    "B": "deve garantir a atualização das informações e a acessibilidade do portal, incluindo ferramentas de busca.",
+    "C": "não precisa incluir ferramentas de busca nos portais, desde que a informação seja divulgada de forma alternativa nos aten- dimentos presenciais ou por telefone.",
+    "D": "estã dispensada de alualizar informações relacionadas a projetos de revitalização, pois são de interesse específico, não coletivo.",
+    "E": "| deve divulgar as informações tanto por atendimento telefônico quanto em formato impresso, para consulta em bibliotecas públicas, como altemativas ao portal."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 27,
+   "pagina": 8,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma prefeitura lançou um programa chamado “Cidade Inteligente”, que incluiu a instalação de sensores loT em postes para mo-\nnitoramento da qualidade do ar. No entanto, a prefeitura enfrentou dificuldades para regulamentar a interoperabilidade entre dife-\nrentes fabricantes de sensores e a troca de dados entre instituições públicas e privadas. Nesse caso, a diretriz regulatória mais\nrelevante para garantir a interoperabilidade e segurança de sistemas loT no Brasil é a",
+   "alternativas": {
+    "A": "implementação de normas específicas da ANPD que determinam a priorização de redes privativas padronizadas para dis- positivos loT.",
+    "B": "exigência de que todos os sensores loT sejam desenvolvidos exclusivamente por empresas brasileiras para evitar falhas de interoperabilidade.",
+    "C": "restrição da coleta de dados loT apenas por instituições públicas que sejam participantes do Programa Brasileiro de Nor- mas e Padrões, para evitar conflitos de regulamentação técnica.",
+    "D": "obrigatoriedade de utilização de protocolos de comunicação abertos e padronizados, com base no Regulamento de Quali- dade dos Serviços de Telecomunicações da Anatel.",
+    "E": "| substituição de todos os dispositivos loT estrangeiros por nacionais certificados pelo Inmetro."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 28,
+   "pagina": 8,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma pesquisa recente realizada em uma cidade mostrou que 25% dos habitantes enfrentavam dificuldades para acessar a intemet\nde forma estável e com qualidade. Um dos fatores apontados foi a falta de infraestrutura adequada em regiões periféricas. À go-\nvemança da internet desempenha um papel essencial para garantir que todos os cidadãos tenham acesso à conectividade de\nqualidade. Nesse contexto, destaca-se o papel de entidades como ICANN, IETF e IGF, bem como a importância do princípio da\nneutralidade de rede. Dentre estas entidades, considerando sua contribuição para garantir a conectividade global de qualidade,\no ICANN",
+   "alternativas": {
+    "A": "É responsável por criar padrões técnicos para o funcionamento da internet, como os protocolos de rede.",
+    "B": "regulamenta diretamente a infraestrutura física da internet, como cabos submarinos e data centers.",
+    "C": "define políticas regulatórias para provedores de acesso à internel, assegurando a neutralidade de rede.",
+    "D": "promove debates e discussões sobre a inclusão digital em fóruns abertos, como o IGF.",
+    "E": "gerencia os recursos crílicos da internet, como nomes de domínio e endereços IP, garantindo sua distribuição global."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 29,
+   "pagina": 8,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma cidade enfrenta desafios constantes para melhorar sua mobilidade urbana. Recentemente, soluções baseadas em Inteli-\ngência Artificial (IA), como sistemas predilivos para controle de tráfego e algoritmos de roteamento inteligente para transporte\npúblico, começaram a ser implementadas. No entanto, essas tecnologias também levantam questões éticas e legais, como a pri-\nvacidade dos dados dos cidadãos, a responsabilidade por decisões automatizadas e o impacto no mercado de trabalho. Ao im-\nplementar sistemas de IA para otimizar a mobilidade urbana, o principal desafio ético e legal que deve ser priorizado para ga-\nrantir um equilibrio entre inovação tecnológica e direitos dos cidadãos é",
+   "alternativas": {
+    "A": "garantir que as decisões automatizadas sejam explicáveis e auditáveis.",
+    "B": "restringir o uso de IA apenas a aplicações que não envolvam dados pessoais.",
+    "C": "priorizar a redução de custos operacionais em detrimento de preocupações éticas.",
+    "D": "| implementar sanções financeiras severas a todas as empresas que coletam dados dos usuários.",
+    "E": "centralizar o controle dos algoritmos em uma única autoridade municipal."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 30,
+   "pagina": 9,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Com a chegada do 56 em uma cidade, diversas aplicações tecnológicas têm ganhado espaço. Do gerenciamento de trânsito em\ntempo real ao monitoramento remoto de pacientes em hospitais, a alta velocidade e a baixa latência do 56 prometem\ntransformar setores críticos. Entretanto, o avanço da conectividade enfrenta barreiras regulatórias, como a expansão de\ninfraestruturas e os desafios da proteção de dados nas redes de alta capacidade. Nesse contexto, com relação aos impactos na\nconectividade e às implicações regulatórias na cidade, o 5G",
+   "alternativas": {
+    "A": "permite maior largura de banda e baixa latência, mas sua implementação está limitada ao uso em áreas industriais, devido à falta de regulação para uso residencial.",
+    "B": "suporta aplicações como cidades inteligentes e saúde conectada, mas a expansão dessa tecnologia é limitada pela neces- sidade de instalação de mais antenas e regulamentações locais.",
+    "E": "depende exclusivamente de frequências licenciadas, inviabilizando seu uso em redes privadas empresariais. Gestão Pública Contemporânea",
+    "D": "suporta um número menor de dispositivos conectados simultaneamente, tornando sua aplicação impraticável em áreas densamente povoadas, como em grandes cidades."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q30-0.png"
+   ]
+  },
+  {
+   "numero": 31,
+   "pagina": 9,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Os estudos sobre motivação no ambiente de trabalho desdobram-se em diferentes abordagens e teorias, entre as quais a co-\nnhecida Pirâmide de Maslow, consistente em uma representação gráfica que\n(&] apresenta um escalonamento dos diferentes agrupamentos dos colaboradores da organização, situando-se na base da pi-\nrâmide os que desempenham atividades operacionais e no seu topo a alta direção, sendo que cada uma dessas camadas\nresponde a diferentes estímulos motivacionais.",
+   "alternativas": {
+    "B": "aponta uma hierarquização entre os fatores que induzem à motivação, de modo que apenas quando satisfeita uma neces- sidade mais básica é que o Indivíduo busca a salisfação das seguintes, siluando-se no ápice da pirâmide as necessidades de autorrealização.",
+    "C": "apresenta uma categorização entre os fatores motivacionais que, via de regra, impactam o desempenho do grupo em uma organização, situando-se na base os fatores coletivos, como clima e cultura, & nó topo os estritamente individuais, como estima e reconhecimento.",
+    "D": "traduz o resultado do diagnóstico do clima organizacional, de modo a classificar os diferentes gradientes da motivação nos segmentos da organização, situando-se na base os grupos ou áreas onde a molivação é baixa e no topo aqueles que podem ser considerados os paradigmas em termos de motivação.",
+    "E": "Indica a precedência de determinados fatores motivacionais em relação a outros, siluando-se em sua base os falores de maior impacto psicológico, como segurança e integração ao grupo, e no ápice da pirâmide as recompensas financeiras, normalmente atreladas ao atingimento de metas."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q31-0.png"
+   ]
+  },
+  {
+   "numero": 32,
+   "pagina": 9,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere que determinada empresa pública municipal tenha contratado uma consultoria especializada para realizar diagnóstico\norganizacional e apresentar propostas para fortalecer a liderança nas equipes. A consultoria propôs medidas baseadas no estilo\nde liderança predicado pelo modelo situacional proposto pelos estudos de Fiedler, o que significa",
+   "alternativas": {
+    "A": "o ranqueamento dos avaliados segundo os desempenhos individuais, que é a principal medida desse método, gerou um sentimento de injustiça e ressentimento no bojo do grupo, ou seja, um efeito adverso da avaliação.",
+    "B": "as dinâmicas individuais e de grupo comumente aplicadas nesse tipo de metodologia ensejaram desconforto e desconfian- ça dos avaliados, criando uma externalidade negativa do processo avaliatório.",
+    "C": "o registro dos comportamentos extremos, tanto positivos como negativos, o que constitui 0 cerne desse metodo, foi feito com base apenas na avaliação de situações e comportamentos mais recentes do avaliado.",
+    "D": "a autoavaliação feita pelos colaboradores, que constitui pressuposto e baliza para essa metodologia, padece de viês de curto prazo, ou seja, está claramente Impactada pelas metas vigentes.",
+    "E": "o critério de temporalidade (prontidão) foi superestimado na aplicação desse método, sendo que a correta aplicação da metodologia deveria ter sido baseada na ponderação dos elementos: prontidão e eficácia da atuação dos avaliados em situações crílicas."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q32-pagina.png"
+   ]
+  },
+  {
+   "numero": 33,
+   "pagina": 10,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "[questão não extraída do PDF — o número se perdeu no OCR; confira o recorte da questão anterior ou o PDF original]",
+   "alternativas": {},
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q33-0.png"
+   ]
+  },
+  {
+   "numero": 34,
+   "pagina": 10,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "De acordo com a disciplina estabelecida pela Constituição Federal relativamente ao controle interno no âmbito do Poder Exe-\ncultivo, bem como do controle externo realizado com o apoio dos Tribunais de Contas, tem-se que:",
+   "alternativas": {
+    "A": "deve ser elaborado ainda na etapa de planejamento, prévia à licitação e à aquisição propriamente dita, contemplando, entre outros elementos obrigatórios, as justificativas para 0 parcelamento ou não da contratação.",
+    "B": "constitui documento essencial a ser apresentado pelos licitantes na fase de habilitação, contemplando a descrição da solu- ção como um todo, inclusive das exigências relacionadas à manutenção e à assistência técnica, quando for o caso.",
+    "C": "& exigível como substituto ao Termo de Referência da futura contratação, devendo atestar a compatibilidade técnica da solução de TI pretendida, bem assim a sua eficácia e economicidade.",
+    "D": "é exigivel apenas se a contratação não estiver prevista no plano de contratações anual publicado pelo Município, devendo indicar o seu alinhamento com as linhas gerais de planejamento da Administração.",
+    "E": "somente será exigivel para contratos que, cumulativamente, ultrapassem o prazo de vigência de dois anos e o valor global anual de R$ 10 milhões, bem como na hipótese de contratação com dispensa ou inexigibilidade de licitação."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q34-pagina.png"
+   ]
+  },
+  {
+   "numero": 35,
+   "pagina": 10,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "[questão não extraída do PDF — o número se perdeu no OCR; confira o recorte da questão anterior ou o PDF original]",
+   "alternativas": {},
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q35-0.png"
+   ]
+  },
+  {
+   "numero": 36,
+   "pagina": 10,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "De acordo com o que dispõe a Constituição Federal e a Lei de Responsabilidade Fiscal, o Anexo de Metas Fiscais constitui ele-\nmento",
+   "alternativas": {
+    "A": "que compõe a Lei Orçamentária Anual (LOA), contemplando metas anuais, em valores correntes e constantes, relativas a receitas, despesas, resultados nominal & primário, para o exercício a que se referirem e para o exercício seguinte.",
+    "B": "integrante da Lei de Diretrizes Orçamentárias (LDO) e que contempla, entre outros aspectos, a evolução do patrimônio liquido nos últimos três exercícios, destacando a origem e a aplicação dos recursos obtidos com a alienação de ativos.",
+    "C": "essencial ao Plano Plurianual (PPA), devendo contemplar, entre outros aspectos, a estimativa da margem de expansão das despesas obrigatórias de caráter continuado e os resultados esperados das empresas controladas pelo ente.",
+    "D": "que, juntamente com o Anexo de Riscos Fiscais, compõem o conjunto de informações necessárias para a fixação do montante da Reserva de Contingência, que é acionada quando as metas de superávit ou redução de déficit não são atingidas.",
+    "E": "integrante do decreto de execução orçamentária, a ser editado até o final do primeiro bimestre do exercicio, fixando as diretrizes para conlingenciamento em caso de frustração das receitas previstas na Lei Orçamentária Anual (LOA)."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 37,
+   "pagina": 10,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Os conceitos mais contemporâneos de gestão de pessoas, de acordo com o modelo de gestão estratégica de pessoas, predi-\ncam a segregação entre autoridade de linha e função de staff, o que denota uma evolução histórica da área de RH no sentido de",
+   "alternativas": {
+    "A": "especialização da área de RH, retirando da mesma tudo aquilo que possa ser considerada mera função de staff, as quais devem ser desempenhadas por colaboradores da própria organização ou, preferencialmente, terceirizadas.",
+    "B": "fortalecimento e centralização do papel da área de RH, que passa a ser responsável não apenas por aspectos buro- cráticos, como também pela própria gestão dos recursos humanos na organização, exercendo a autoridade linha.",
+    "C": "atribuição de maior responsabilidade aos gerentes de projeto, que passam a atuar também no monitoramento da política de gestão de pessoal da organização, sendo considerados staff (suporte) do órgão de RH em tal aspecto.",
+    "D": "consolidação como área autônoma da organização, concentrando todas as competências e meios necessários para realizar ambas as funções, desde que cometidas a diferentes equipes e submetidas a rígidos critérios de compliance.",
+    "E": "descentralização, com a atribuição da responsabilidade linear e direta aos gestores pela condução de seus subordinados, cabendo à área de RH o enfoque estratégico, Incluindo politicas e assessoria na gestão de pessoas."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 38,
+   "pagina": 11,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere que o Municipio pretenda conceder benefício tributário de caráter não geral, restrito a segmento específico de deter-\nminado setor de serviços, o qual teria sido mais fortemente impactado por recentes chuvas e inundações. De acordo com o\ntratamento sob a ótica do impacto orçamentário-financeiro da medida, na forma prevista na Constituição Federal e na Lei de\nResponsabilidade Fiscal,",
+   "alternativas": {
+    "A": "o beneficio somente produzirá efeitos a partir do exercício seguinte ao da lei instituidora, devendo o montante da renún- cia ser adicionado à margem de crescimento das despesas de caráter continuado prevista na Lei de Diretrizes Orça- mentárias (LDO).",
+    "B": "caso tenha sido autorizado por lei específica, a qual estabeleça as medidas de compensação, que podem consistir em aumento de receita ou redução de despesas, o beneficio tributário poderá entrar em vigor no mesmo exercício da lei autorizativa.",
+    "C": "não serão necessárias medidas de compensação na hipótese em que a renúncia de receitas ensejada pelo benefício tenha sido considerada na estimativa de receita da lei orçamentária e não afete as metas de resultados fiscais previstas no anexo próprio da lei de diretrizes orçamentárias.",
+    "D": "embora não sujeita ao princípio da anualidade, a medida deve observar a noventena, somente produzindo efeitos após decorridos noventa dias da edição da lei ou decreto instituidor, condicionada à demonstração da neutralidade de seus impactos nas estimativas de arrecadação para o exercício em curso.",
+    "E": "independentemente da previsão do benefício no anexo de metas fiscais, o benefício somente poderá entrar em vigor a partir da efetiva adoção das medidas de compensação de renúncia de receita, vedado o aumento de carga tributária para tal finalidade."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 39,
+   "pagina": 11,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Suponha que o Município de São Paulo pretenda substituir à modalidade de prestação de determinado serviço público à popu-\nlação, atualmente prestado sob a forma de permissão, passando a adotar a forma de concessão. De acordo com o regime\njurídico dessas duas modalidades de prestação indireta de serviços públicos, ao fazer tal modificação, o Município deverá ter em\nmente que",
+   "alternativas": {
+    "A": "transparência e accountability representam as duas faces da governança pública, sendo a primeira a sua dimensão exter- na, com mecanismos de participação popular, e a segunda a dimensão interna, consistente na incorporação das de- mandas sociais.",
+    "B": "exige-se que a transparência seja ativa, ou seja, que todos os atos administrativos sejam publicados em diário oficial « em midia digital, não podendo ser conferido sigilo sobre informações de qualquer natureza relativas à atuação administrativa.",
+    "C": "as boas prálicas de governança correspondem a conceito que se aplica às empresas estatais, enquanto na Administração direta as mesmas finalidades são atingiveis com a dimensão governabilidade.",
+    "D": "a dimensão denominada accountability diz respeito à exigência de se prestar contas à sociedade da atuação administrativa e dos resultados obtidos (responsividade), não se restringindo a mero controle formal ou de legalidade.",
+    "E": "enquanto a governança responde à dimensão política da aluação administrativa, ou seja, às condições para a adoção de politicas públicas, a dimensão de accountability diz respeito ao controle da legalidade dessas políticas. PROVA OBJETIVA DE CONHECIMENTOS ESPECÍFICOS Gestão de TIC"
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q39-0.png",
+    "img/fcc-2025-prefsp-tic/q39-1.png"
+   ]
+  },
+  {
+   "numero": 40,
+   "pagina": 12,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "[questão não extraída do PDF — o número se perdeu no OCR; confira o recorte da questão anterior ou o PDF original]",
+   "alternativas": {},
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q40-0.png",
+    "img/fcc-2025-prefsp-tic/q40-1.png"
+   ]
+  },
+  {
+   "numero": 41,
+   "pagina": 12,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "À equipe de Analistas de uma Prefeitura Municipal implementou um novo sistema de gerenciamento eletrônico de documentos\npara melhorar a eficiência dos processos internos e a transparência no atendimento ao cidadão. Após a implementação, foi iden-\ntificado que várias unidades administrativas utilizavam padrões diferentes para nomear e arquivar os documentos, dificultando o\nacesso às informações e ao controle centralizado. Com base no COBIT 20185, a ação alinhada aos princípios de governança e\ngestão para resolver o problema identificado é",
+   "alternativas": {
+    "A": "realizar treinamentos sobre a operação do sistema com todos os servidores, destacando os benefícios do novo sistema para aumentar a adesão.",
+    "B": "atualizar os contratos com os fornecedores do sistema para incluir cláusulas de suporte técnico mais rigorosas.",
+    "C": "estabelecer e implementar políticas e procedimentos padronizados para a classificação, nomeação e arquivamento de do- cumentos, garantindo alinhamento com os objetivos organizacionais.",
+    "D": "delegar a cada unidade administrativa a responsabilidade de definir seus próprios padrões de arquivamento, respeitando as especificidades locais.",
+    "E": "contratar consultores externos para realizar auditorias periódicas do uso do sistema em cada unidade administrativa."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 42,
+   "pagina": 12,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma Prefeitura Municipal está avaliando cinco projetos de modernização digital, mas tem para isso um orçamento restrito. A\nmelhor opção dessa Prefeitura é decidr pela implementação do projeto com as seguintes caracteristicas (maior eficiência relati-\nva ROL e TCO)",
+   "alternativas": {
+    "A": "monitorar & revisar o desempenho do serviço em relação aos SLAs acordados, manter um catálogo de serviços atualizado, incluindo as definições de SLAs, e estabelecer SLAs claros, mensuráveis e alinhados às necessidades de negócio.",
+    "B": "a virtualização de servidores no data center municipal é mais vantajosa do que a nuvem pública, pois garante maior flexi- bilidade para atender a demandas de escalabilidade dinâmica e adaptação rápida aos picos de uso. Além disso, os ser- vidores estando no data center da Prefeitura podem facilitar o acesso a recursos de computação em diferentes regiões do Brasil e do mundo, melhorando a latência e a disponibilidade para usuários em trânsito.",
+    "C": "o modelo SaaS é o ideal, pois permite que a Prefeitura configure soluções sob medida para seus processos internos e ge- rencie diretamente as funcionalidades e os dados de uma vasta gama de aplicações. Para utilizar os aplicativos Saas, basta que os usuários façam o download e instalem os softwares em seus dispositivos locais, sem precisar utilizar plugins.",
+    "D": "| o modelo laaS é apropriado, pois utiliza virtualização para fornecer recursos escaláveis, como servidores, redes e armaze- namento. À Prefeitura pode implantar suas plataformas e aplicações nas máquinas virtuais do provedor, que oferece tecno- logias e capacidades comparáveis às de um data center físico, mantendo o controle sobre as mesmas.",
+    "E": "os data centers virtuais em nuvem, do modelo PaaS, constituem opção confiável e econômica, pois para organizações em setores altamente regulamentados, como é o caso da Prefeitura, manter um data center em nuvem facilita a conformidade com requisitos específicos de segurança e privacidade de dados."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q42-pagina.png"
+   ]
+  },
+  {
+   "numero": 43,
+   "pagina": 13,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "[questão não extraída do PDF — o número se perdeu no OCR; confira o recorte da questão anterior ou o PDF original]",
+   "alternativas": {},
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q43-0.png"
+   ]
+  },
+  {
+   "numero": 44,
+   "pagina": 13,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "[questão não extraída do PDF — o número se perdeu no OCR; confira o recorte da questão anterior ou o PDF original]",
+   "alternativas": {},
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q44-pagina.png"
+   ]
+  },
+  {
+   "numero": 45,
+   "pagina": 13,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A Prefeitura de São Paulo está revisando sua Infraestrutura de TIC para garantir maior continuidade, eficiência e resiliência nos\nserviços essenciais. Em um debate técnico relativo ao tema, um dos Analistas, com propriedade, afirmou que a",
+   "alternativas": {
+    "A": "implementação de redundância reduz falhas ao criar sistemas alternativos prontos para operar, sem impacto relevante nos custos operacionais ou na complexidade de gerenciamento. À melhor abordagem é a Redundância 3N, que oferece o mais alto nível de disponibilidade, pois combina os recursos de redundância N e 20.",
+    "B": "escalabilidade horizontal (scale-out), que adiciona novos servidores para dividir a carga de trabalho, é uma solução eficlen- te para lidar com crescimentos imprevisíveis na demanda. Diferentemente da escalabilidade vertical, que aumenta 05 recursos de um único servidor, a horizontal melhora a resiliência, pois distribui o impacto de falhas em múltiplas unida- des.",
+    "C": "alta disponibilidade depende exclusivamente de redundância física e do failover automático. Estes mecanismos dispensam o monitoramento continuo, pois as falhas são automaticamente miltigadas pelos sistemas redundantes e ainda eliminam o downtime recorrente.",
+    "D": "resiliência é um conceito que se refere ao backup e à recuperação de dados, concentrando-se na criação de cópias de dados e na sua restauração em caso de perda, crucial para a continuidade dos negócios. À resiliência pode ser obtida por meio de tecnologias como Resilient Array of Independent Disks (RAID).",
+    "E": "instalação de múltiplos data centers em diferentes regiões garante, de forma automática, alta disponibilidade e resiliência, independentemente da configuração de failover, pois implementa a replicação de dados e oferece altas taxas de latência às aplicações em uso."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 46,
+   "pagina": 13,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A Prefeitura de São Paulo, hipoteticamente, estã conduzindo um projeto para modernizar sua infraestrutura de TIC, adotando\nSDN [Software Defined Network) e NFV [Network Function Virtualization). O objetivo é aumentar a eficiência operacional e oferecer\nserviços mais ágeis e escaláveis aos cidadãos. Para a implementação, a equipe técnica enumerou cinco cenários e estes foram\nanalisados. O cenário e a análise cometa estão apresentados em:",
+   "alternativas": {
+    "A": "Cenário 1: Adotar a topologia Open SDN, pois esta tem um plano de controle centralizado e usa o OpenFlow como API na direção Southbound do tráfego de switches físicos ou virtuais para o controlador SDN. Análise: A decisão de usar Open SDN com smitches habilitados para OpenFlow está tecnicamente incorreta, pois es- ta não usa as redes físicas diretamente para fazer o envio dos pacotes, mas cria uma rede virtual sobre o hardware da estrutura existente, chamada Underlay.",
+    "B": "Cenário 2: Não adotar SDN via API para integrar os disposilivos legados da rede, pois esta arquitetura gera dificuldades em integrar equipamentos que não suportam SNMP, limitando a interoperabilidade com outros métodos, como REST API. Análise: À decisão está tecnicamente bem fundamentada. Além disso, a arquitetura SDN via API requer o uso de switches habilitados para OpenFlow e não funciona bem com os swifches tradicionais existentes na Prefei- tura.",
+    "C": "Cenário 3: Implantar a NFVI, que & composta por pontos de presença (NFVI-PoPs), nos quais VNFs são implementadas e executadas como uma VM ou container em um servidor. Conectar recursos físicos e virtuais por meio de servers e hypervisors, criando uma camada de virtualização gerenciada por VIMs [Virtualized Infrastructure Managers) e orquestrada pelo NFV Orchestrator, viabilizando um ambiente NFV-based para a Prefeitura. Análise: A implantação de NFVI e o uso de VNFs para encadeamento de serviços melhora o provisionamento automa- tizado e a centralização da gestão, alinhando-se às melhores práticas de implantação de uma NFYV, sendo uma opção viável.",
+    "D": "Cenário 4: Para a implantação de uma solução NFW, criar um NFVO (Network Functions Virtualization Orchestrator) para orquestrar os recursos dos VIMs e criar um VNFM [Virtual Network Function Master), para cuidar do ciclo de vi- da da VNF master. Retirar 05 recursos físicos do escopo de gerenciamento dos VIMs, passando o geren- ciamento do hardware para o IMANO (Infrastucture Management and Orchestration), durante a criação da NFVI. Análise: A implantação da NFY iniciando pela criação de NFVO e VNFM, utilizando o IMANO para gerenciamento dos recursos de infraestrutura implantados na NFVI, é uma solução técnica robusta e viável para as necessidades da Prefeitura.",
+    "E": "Cenário 5: Para configurar a comunicação entre as camadas da SDN, ajustar a API Northbound para conectar diretamente a camada de infraestrutura à camada de controle e ajustar a API Southbound para ligar as camadas das aplicações ao controlador, de forma a viabilizar o monitoramento dos recursos & aumentar a segurança da rede da Prefeitura. Análise: A configuração das APIs Northbound e Southhound está tecnicamente correta, pois a Northbound conecta a infraestrutura diretamente ao controle, enquanto a Southbound conecta o plano de controle aos aplicativos de monitoramento e segurança em uma solução SDN."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 47,
+   "pagina": 14,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Observe as seguintes informações veiculadas pela CNN em 18/09/2023:\nTrês anos de LGPD: mais de 600 casos já foram registrados na Agência Nacional de Proteção de Dados.\nOs incidentes mais comuns envolveram o sequestro de dados, exploração de vulnerabilidades, acesso não autorizado a siste-\nmas de informações e roubo de credenciais.\nI. Sequestro de dados (ramsonware): com transferência de informações (40 comunicados) sem transferência de\ninformações (34 comunicados).\nII. Exploração de vulnerabilidade em sistemas de informação: 24 comunicados.\nIII. Acesso não autorizado a sistemas de informação: 19 comunicados.\nIv. Roubo de credenciais: 9 comunicados.\nDiante dos desafios requeridos para a proteção de dados, se um Analista pertencente ao quadro de servidores de uma Prefei-\ntura Municipal fosse tomar medidas corretas de compliance LGPD, uma delas seria",
+   "alternativas": {
+    "A": "definir os elementos de dados como qualquer informação estritamente relacionada às pessoas jurídicas identificadas ou não para evitar os riscos relacionados aos itens III e IV.",
+    "B": "nomear um Data Protection Officer (DPO) responsável por supervisionar a conformidade com a LGPD, gerenciar solicita- ções de titulares de dados e atuar como ponto de contato com a Agência Nacional de Proteção de Dados (ANPD).",
+    "C": "especificar as bases legais que legitimam o tratamento de dados pessoais, como a identificação do bitular (riscos relacio- nados aos itens 1 e II), cumprimento de obrigação legal com a LGPD e exoneração de servidores públicos envolvidos, conforme estabelece a ANPD.",
+    "D": "nomear um Gerador de Dados e Registros (GDR), gestor responsável pelas informações legais passíveis de serem repas- sadas a terceiros não autorizados nacionais ou internacionais conforme artigo 4º da LGPD.",
+    "E": "responsabilizar os servidores públicos que se enquadrarem nas irregularidades previstas nos artigos 6º da LGPD e defini- das em detalhes no parágrafo 4º desse mesmo artigo, observadas as recomendações especificas da ANPD."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 48,
+   "pagina": 14,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere a notícia a seguir:\nEm maio de 20717, o Serviço Nacional de Saúde (NHS) do Reino Unido foi severamente afetado pelo ransomware WannalCry. O\nataque criptografou dados e exigiu resgates para liberar os sistemas, causando a interrupção de serviços em mais de um terço\ndos hospitais do NHS. Milhares de consultas e cirurgias foram canceladas, resultando em custos financeiros significativos.\nComo integrante da equipe de analistas da área de saúde de uma Prefeitura Municipal, ao analisar o caso acima descrito, con-\nsiderando a aplicação da 150 223401 e visando a segurança dos dados do órgão, conclui-se que o impacto do ataque poderia ter\nsido minimizado ou até evitado se o órgão livesse",
+   "alternativas": {
+    "A": "realizado auditorias regulares de conformidade legal para garantir o cumprimento das normas de atualização de dados.",
+    "B": "investido fortemente em modernização de sistemas de TI, principalmente quanto à automação e agilização de processos.",
+    "C": "mantido estabelecidos acordos com terceiros para fornecer serviços de recuperação de dados.",
+    "D": "realizado treinamento continuo com a equipe de TI sobre as atualizações mais recentes dos ransomwares.",
+    "E": "criado um plano de resposta a incidentes com foco em recuperação de sistemas críticos e garantido a execução de backups regulares."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 49,
+   "pagina": 14,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Para defender uma Prefeitura contra ataques cibeméticos, uma Analista decidiu executar ações aplicando o princípio de “nunca\nconfiar, sempre verificar”, visando proteger os dados sensíveis dos cidadãos e garantir a continuidade dos serviços públicos, me-\ndiante a implementação",
+   "alternativas": {
+    "A": "da autenticação multifator (MFA) para todos os funcionários.",
+    "B": "da divisão da rede em segmentos menores para limitar o movimento lateral.",
+    "C": "da Zero Trust Architecture (2TA), estabelecendo um sistema de monitoramento continuo para detectar alividades suspeitas.",
+    "D": "de um sistema de gerenciamento de identidade e acesso (IAM).",
+    "E": "de sessões de treinamento para todos os funcionários sobre as melhores práticas de segurança cibernética."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 50,
+   "pagina": 14,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma Prefeitura Municipal estã desenvolvendo uma solução de Big Data para gerenciar dados de mobilidade, saúde pública e\nplanejamento urbano. O objetivo é processar grandes volumes de dados provenientes de diversas fontes, como sensores de\ntráfego, prontuários eletrônicos e imagens. Optando por integrar as tecnologias Hadoop e Spark, a equipe técnica decidiu",
+   "alternativas": {
+    "A": "utilizar o HDFS do Hadoop para armazenamento distribuído dos grandes volumes de dados e o Spark Core para processar os dados em memória, integrando o Spark Streaming para transmissões em tempo real.",
+    "B": "adotar o Hadoop Common para processamento em memária e o Spark Streaming para armazenamento distribuido, otimi- zando a integração entre os componentes.",
+    "C": "configurar o YARN do Hadoop como um sistema de armazenamento nativo para o Spark, utilizando o Spark SOL para pro- cessar 05 dados em tempo real.",
+    "D": "utilizar à MapReduce do Hadoop para processamento em lotes e o GraphX do Spark como sistema de arquivos para da- dos distribuídos, garantindo escalabilidade.",
+    "E": "implementar o Mlib do Spark para armazenamento distribuído e o MapReduce do Hadoop para processamento em tempo real, aproveitando a capacidade paralela das tecnologias."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 51,
+   "pagina": 15,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A Prefeitura de São Paulo estã, hipoteticamente, avaliando a implementação de blockchain para aprimorar a segurança e a rastrea-\nbilidade dos dados gerados por sistemas de monitoramento urbano, incluindo imagens de câmeras, registros de acesso e rela-\ntórios automatizados. Ao estudar a tecnologia, uma Analista afirmou, com propriedade, que o blockchain",
+   "alternativas": {
+    "A": "deve ser configurado para armazenar dados em um único servidor dedicado, o que melhora o desempenho de leitura e re- gistro e garante maior escalabilidade na gestão de dados sensíveis. Além disso, a supervisão de autoridades certificadas para validar e manter 05 dados reduz a vulnerabilidade a ataques de hackers e falhas de segurança, fator crucial para 05 serviços prestados pela Prefeitura.",
+    "B": "registra cada transação, formada por etherbits, em um bloco, incluindo detalhes de quem enviou, quem recebeu e o volu- me transferido. |5s0 O torna muito adequado para armazenar grandes volumes de dados brutos da Prefeitura, como vídeos de monitoramento em alta resolução.",
+    "C": "consegue realizar cálculos preditivos de tráfego de uma grande cidade como São Paulo, utilizando algoritmos de machine leaming nativos embutidos na cadeia de blocos. Esses algoritmos, distribuídos por máquinas denominadas nós, verificam se a transação é válida antes de adicioná-la à cadeia de blocos e esta ao ledger.",
+    "D": "tem sua segurança baseada fortemente na criptografia, uma vez que 6 consenso descentralizado tem impacto menor na proteção contra fraudes ou manipulações de dados. Diferentes mecanismos de criptografia avançada, como Proof of Work (Po) e Proof of Stake (PoS), garantem que as chaves públicas e privadas permaneçam seguras e que as transações sejam validadas de forma justa.",
+    "E": "pode ser usado para registrar metadados de monitoramento, garantindo a imutabilidade e a rastreabilidade das informa- ções. Como cada transação é registrada em um ledger compartilhado e verificável, a Prefeitura e as autoridades podem rastrear o histórico dos dados, garantindo a prestação de contas e a conformidade com as políticas de segurança e priva- cidade. Os dados brutos podem ser armazenados em sistemas complementares, como o HDFS."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 52,
+   "pagina": 15,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A Prefeitura de São Paulo está hipoteticamente desenvolvendo um sistema integrado de segurança urbana, chamado Segu-\nrança 380º, que conecta câmeras de vigilância, sensores de tráfego e dispositivos loT em áreas públicas. O objetivo é monitorar em\ntempo real eventos crílicos, como congestionamentos, atos de vandalismo e emergências médicas. Esse sistema manipula da-\ndos sensíveis, como informações de placas de veiculos, padrões de movimento de pedestres e eventos registrados por câme-\nras. Para proteger o sistema contra ataques cibeméticos, a equipe técnica decidiu implementar uma arquitetura Zero Trust (ZTA)\ncom práticas DevSecDps. Para viabilizar o sistema Segurança 360º, o consenso foi optar por",
+   "alternativas": {
+    "A": "armazenar dados de sensores loT e câmeras em servidores centralizados, para facilitar a administração e garantir controle total de acesso, e utilizar Virtual Private Networks (VPNs) para controlar o acesso às redes e aos aplicativos.",
+    "B": "| um modelo de segurança baseado na proteção de perímetro de rede, que estabelece alguns macroperimetros em tomo de ativos protegidos, usa mecanismos de segurança como 2FA e possibilita o acesso a aplicativos e serviços com base em autorização por voz do usuário.",
+    "C": "priorizar o uso de firewalls de perimetro robustos e reduzir 0 foco em autenticação e controle granular para acelerar o tráfe- go entre dispositivos. Desta forma, os invasores ficam impedidos de comprometer as credenciais do usuário e obter acesso aos sistemas locais por trás do firewall.",
+    "D": "cancelar serviços que usam modelos de implantação hibridos ou multi-nuvem, dispositivos não gerenciados ou aplicativos de SaaS. Em todos esses casos, há recursos que estão fora do controle direto, inviabilizando soluções ZTA, uma vez que podem comprometer as políticas e práticas de segurança.",
+    "E": "| implementar soluções que segmentam a rede para restringir o movimento lateral e conter os infiltradores, como ZTNA e Cloud Security Access Broker (CASB). Incluir MFA para todos 05 acessos, automação no pipeline CIHCD com scanners de vulnerabilidade e realizar monitoramento contínuo utilizando ferramentas SIEM."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 53,
+   "pagina": 15,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A prefeitura de um grande município estã aumentando o uso de Inteligência Artificial (14), Machine Learning (ML) e Internet das\nCoisas (loT) para modemizar a gestão urbana. Essas tecnologias são utilizadas na automação de processos administrativos,\nmonitoramento de tráfego, alocação de recursos e otimização de serviços públicos. Uma equipe de analistas promoveu um\ndebate para discutir 05 desafios élicos e técnicos associados a essas tecnologias e concluiu que:",
+   "alternativas": {
+    "A": "a utilização de algoritmos de IA na gestão urbana elimina vieses e erros humanos, garantindo decisões mais objetivas & imparciais.",
+    "B": "aloT melhora a eficiência dos serviços públicos e, por ser baseada em sensores automatizados, reduz significativamente os riscos de segurança cibernética ou invasões de privacidade. (EC) modelos de ML tornam-se progressivamente autônomos e, uma vez treinados, não precisam ser revisados, pois suas previsões e decisões se aprimoram automalicamente, o que contribui para uma gestão pública realmente eficiente.",
+    "D": "a aplicação de IA na gestão pública pode reproduzir padrões discriminatórios presentes nos dados históricos usados para treinamento, tornando necessário um monitoramento contínuo para evitar viés algorítmico.",
+    "E": "| como os algoritmos são treinados com grandes volumes de dados históricos estruturados e não estruturados, os sistemas baseados em ML garantem neutralidade e imparcialidade nas políticas públicas."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q53-0.png"
+   ]
+  },
+  {
+   "numero": 54,
+   "pagina": 16,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A prefeitura de uma metrópole implementou um sistema de análise de dados para monitorar a concessão de subsídios e bene-\nficios sociais. No entanto, o sistema começou a detectar um aumento de solicitações fraudulentas, Incluindo a inserção de dados\nfalsos para se qualificar a benefícios indevidos. À equipe de analistas responsável identificou uma oportunidade de utilizar as TICs\nem favor da sociedade, diante da Nagrante violação das queslões éticas. Assim, optou-se por usar uma abordagem de\nmineração de dados para identificar padrões de fraude nos dados, considerando que muitas fraudes envolvem pequenas\nmanipulações dificeis de identificar. A opção escolhida foi",
+   "alternativas": {
+    "A": "aplicar algoritmos de clusterização, como o KNN [K-Nearest Neighbours), nos dados históricos de solicitações para iden- tificar padrões de comportamento de grupos distintos de beneficiários, agrupando os fraudadores em clusters especificos.",
+    "B": "utilizar regras de associação negativas para encontrar combinações frequentes de caracteristicas em solicitações fraudu- lentas, permitindo que o sistema aplique regras automáticas para marcar possíveis fraudes.",
+    "C": "implementar classificação supervisionada usando o algoritmo DBSCAN, que permite rotular cada solicitação como fraudu- lenta ou não, com base em exemplos passados de fraudes já detectadas.",
+    "D": "adotar métodos de séries temporais utilizando a Média Móvel Simplificada (MMS), que dá maior peso aos dados mais re- centes, para observar a evolução das solicitações ao longo do tempo e detectar picos ou comportamentos atípicos que possam indicar fraudes sazonais ou concentradas em certos periodos.",
+    "E": "aplicar a técnica de análise de anomalias para detectar padrões de comportamento discrepantes e encontrar fraudes que não seguem padrões bem definidos, utilizando métodos como isolamento de floresta (Isolation forest) para encontrar outligrs sutis."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 55,
+   "pagina": 16,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere as iniciativas de Estratégia de Transformação Digital da Prefeitura de São Paulo, apresentadas no quadro a seguir:\nResponsável Iniciativa\nio\nGas at PR RR Dep GT CEE LE SE DS\nplataforma Participe+, melhorando sua usabilidade,\npara ser o principal canal de participação social online,\naproximando o cidadão da formulação e\nimplementação das políticas públicas da Cidade\n1.2. Unificar 05 benefícios pecuniários aos cidadãos, em\nespe DR [ET RE\n1.3. Digitalizar todos os serviços passíveis de\ndigitalização\n1.4. Estabelecer padrão mínimo de qualidade para os\nserviços públicos municipais digitais\n(Disponível em: https:digovernodigital.prefaitura.sp.gov.br!)\nAlgumas dessas iniciativas, atualmente em execução, necessitaram fortemente de práticas de Gestão de Mudanças Organiza-\ncionais para sua implementação, visando à adequação dos processos. Entre as práticas recomendadas para a gestão de mu-\ndanças registra-se a",
+   "alternativas": {
+    "A": "imposição da Administração da Casa Civil que orientou a utilização irrevogável do uso de novas ferramentas e processos pelos servidores, determinados por sua equipe de TIC.",
+    "B": "terceirização de todos os serviços de desenvolvimento das novas plataformas digitais e treinamento de todos os servidores municipais, como medida única, junto a empresas de notória especialização no mercado nacional.",
+    "C": "criação de um Comitê de Gestão de Mudanças em parceria público-privada para realização de auditorias em todos os sistemas legados, visando à desalivação imediata daqueles sistemas julgados incompatíveis com as novas propostas de TIC.",
+    "D": "implantação de um programa abrangente envolvendo: o treinamento para todos os servidores, a criação um Comitê de Gestão de Mudanças e o estabelecimento de metas claras e mensuráveis para o projeto.",
+    "E": "realização de mudanças radicais nos processos administrativos, desobrigando o engajamento dos servidores, visando ace- lerar a transformação digital. Gestão de Projetos"
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q55-0.png"
+   ]
+  },
+  {
+   "numero": 56,
+   "pagina": 16,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Durante a execução de um amplo programa de modernização administrativa, uma Prefeitura identificou problemas como falta de\npriorização dos projetos, alocação inadequada de recursos, sobrecarga da equipe de TI e atrasos significativos em alguns proje-\ntos críticos. Para resolver esses problemas, essa Prefeitura decidiu implementar práticas robustas de Gestão de Portfólio, Pro-\ngramas e Projetos baseados nas melhores práticas de gestão Iinternacionalmente aceitas. Nesse caso, a iniciativa mais ade-\nquada é",
+   "alternativas": {
+    "A": "reduzir o escopo de todos os projetos em execução para garantir que todos sejam concluídos dentro do prazo, mesmo que com menos funcionalidades.",
+    "B": "estabelecer um escritório de gerenciamento de projetos para supervisionar o portfólio, priorizar os projetos com maior alinhamento estratégico e monitorar o progresso de cada um.",
+    "C": "priorizar os projetos com maior visibilidade política, mesmo que isso signifique atrasar outros projetos importantes.",
+    "D": "aumentar o orçamento de todos os projetos para garantir a sua conclusão dentro do prazo previsto.",
+    "E": "centralizar todas as decisões sobre os projetos em um único gestor, agilizando assim o processo decisório."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 57,
+   "pagina": 17,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Dea acordo com o PMBOK 72 edição, na seção relativa ao domínio de desempenho da medição, tem-se que: as linhas de base\nmais comuns são custo & cronograma. Projetos que rastrelam um escopo ou linha de base técnica podem usar informações nas\nmedidas de entrega. A maioria das medidas do cronograma rastreia o desempenho real em relação ao desempenho planejado\nem termos de, dentre outras medidas, a Variação de prazos (VPR). Uma VPR simples é determinada observando-se o\ndesempenho no caminho crítico; quando usada com Gerenciamento do Valor Agregado, é a diferença entre o valor agregado e o\nvalor planejado.\nConsidere que a Prefeitura de São Paulo esteja implementando um projeto de modernização da iluminação pública, substituindo\nlâmpadas tradicionais por luminárias de LED mais eficientes. O projeto foi planejado para ser concluído em 5 meses com um\ncusto total de R$ 500.000,00. Para acompanhar o progresso, a equipe de gestão de projetos utiliza a técnica de Gerenciamento\nde Valor Agregado (EVM), recomendada pelo PMBOK 72 edição. No final do terceiro mês, os seguintes dados foram coletados:\n* Valor Planejado (VP): R$ 300.000,00 (valor que deveria ter sido gasto com base no cronograma planejado).\n“ Valor Agregado (VA): R$ 250.000,00 (valor do trabalho realmente concluído até agora).\n“ Custo Real (CR): R$ 280.000,00 (quanto foi efetivamente gasto até agora).\nDessa forma, a Variação de Prazos (VPR) no projeto tem o valor de",
+   "alternativas": {
+    "A": "Rã 50.000, indicando que o trabalho está dentro do prazo planejado.",
+    "B": "revitalização de infraestrutura viária, incluindo a construção de pontes e viadutos, com etapas claramente definidas e ne- cessidade de alta previsibilidade, ele indicou o Lean, uma vez que o Architecture Quner pode garantir que as decisões arquitetônicas suportem os objetivos do negócio e sejam sustentáveis ao longo das etapas de construção.",
+    "C": "Rã 30.000, indicando que o trabalho está adiantado em relação ao planejado.",
+    "D": "digitalização do atendimento de saúde, combinando a modemização de equipamentos hospitalares (com cronogramas fixos) e a criação de um portal interativo para os cidadãos, que requer ajustes frequentes com base no feedback dos usuários, ele indicou a metodologia hibrida Agile-Waterfall, que permite combinar a estrutura de fases do Waterfall para equi- pamentos com a flexibilidade do Agile para o portal.",
+    "E": "| implantação de painéis inteligentes de monitoramento urbano em tempo real, que exigem desenvolvimento rápido e alta interação entre equipes mulltidisciplinares, ele indicou a metodologia Disciplined Agile Deploy (DAD), que permite reduzir desperdícios, fornece alta adaptabilidade no desenvolvimento e utiliza a métrica cycle time, que mede o tempo total desde o início até a entrega de uma tarefa, ajudando a identificar gargalos no projeto."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q57-pagina.png"
+   ]
+  },
+  {
+   "numero": 58,
+   "pagina": 17,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "[questão não extraída do PDF — o número se perdeu no OCR; confira o recorte da questão anterior ou o PDF original]",
+   "alternativas": {},
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q58-0.png"
+   ]
+  },
+  {
+   "numero": 59,
+   "pagina": 17,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Para uma eficiente gestão de pessoas, o conhecimento das necessidades humanas conforme estabelecidas por Maslow (stapas da\nhierarquia das necessidades) & fundamental para estimular o bom relacionamento entre os participantes da equipe dos projetos,\no que pode ser um diferencial entre sucesso e fracasso. Após a construção do esquema da Pirâmide, Maslow identificou outras\nduas necessidades do individuo que se considera autorrealizado e as classificou como necessidades cognitivas. Importantes de\nserem reconhecidas nas pessoas das equipes, são elas:",
+   "alternativas": {
+    "A": "reconhecimento do pacto entre o possível e o realizável, e satisfação no relacionamento com 05 colegas de equipe.",
+    "B": "conhecer e compreender os valores e as limitações dos colegas de equipe; e necessidade de salisfação ética.",
+    "C": "saber respeitar as limitações de hierarcas superiores, e salisfação no relacionamento com os colegas de equipe.",
+    "D": "necessidade de satisfação pessoal, e satisfação no relacionamento com os colegas de equipe.",
+    "E": "| conhecer e compreender o mundo à sua volta, e necessidade de salisfação estética."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 60,
+   "pagina": 18,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma Prefeitura estã em processo de negociação salarial com seus servidores e deseja manter os custos baixos, enquanto os\nfuncionários buscam um aumento salarial. Aqui, a teoria dos jogos pode ser aplicada para entender as estratégias de ambas as\npartes e encontrar um equilibrio:\nJogadores:\n“ Prefeitura\n“ Servidores\nEstratégias:\n“Prefeitura: Oferecer um aumento salarial pequeno, médio ou grande.\n“ Servidores: Aceitar a oferta, negociar por um aumento maior ou ameaçar greve.\nFayorf\n“Prefeitura: Maximizar resultados mantendo os custos salariais baixos.\n* Servidores: Maximizar o salário e beneficios.\nMatriz de Payoff.\nAceitar | Negociar | Ameaçar Greve\nPequeno Aumento | (2,1) (1,2) (0, 3)\nMédio Aumento (3, 2) (2, 3) (1.4)\nGrande Aumento (4,3) (3, 4) (2,5)\nAnálise:\n“ Sea Prefeitura oferece um pequeno aumento e os servidores aceitam, a Prefeitura tem um papoff de 2 e os servidores de 1.\n“ Se os servidores negociam, a Prefeitura pode optar por um aumento médio para evitar a ameaça de greve, resultando em um\npayoff de 2 para a prefeitura e 3 para os servidores.\n“ A ameaça de greve geralmente força a prefeitura a oferecer um aumento mailor, resultando em um payoff mais alto para os\nservidores.\nNo caso acima, um possivel equilibrio de Nash será\n(&) a Prefeitura oferecer um aumento baixo e os servidores não aceitarem ou não negociarem, resultando em um payoff de\n(1,2jou (2,1).",
+   "alternativas": {
+    "B": "a Prefeitura oferecer um aumento médio e os servidores aceitarem ou negociarem, resultando em um payoff de (3, 2) ou (2,3).",
+    "C": "os servidores entrarem em greve forçando a Prefeitura a oferecer um alto aumento dos salários para não interromper os serviços, resultando em um payoff de (3, 4) ou (4, 3).",
+    "D": "a Prefeitura ameaçar a demissão de todos os servidores não estáveis, criando assim uma situação favorável de nego- ciação, e os servidores aceitarem um aumento baixo, resultando em um payoff de (3, 4) ou (4, 3).",
+    "E": "os servidores entrarem em greve forçando a Prefeitura a oferecer minimamente um aumento médio dos salários para não interromper os serviços, resultando em um payoff de (1, 2) ou (2,1)."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q60-0.png"
+   ]
+  },
+  {
+   "numero": 61,
+   "pagina": 18,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere que a Prefeitura de São Paulo esteja avaliando os riscos associados à construção de um novo viaduto. Os custos\npodem variar devido às incertezas no preço dos materiais. Para modelar essas incertezas, utilizou-se a simulação de Monte Carlo\ncom as seguintes premissas:\n“Custo estimado inicial: R$ 10 milhões.\n“ Distribuição triangular do aumento de custo dos materiais:\no Minimo: 5% do custo inicial.\no Provável: 10% do custo inicial.\no Máximo: 20% do custo inicial.\nApós 10.000 iterações da simulação de Monte Carlo, a análise de risco resultou nas seguintes probabilidades:\n“ 60% de probabilidade de o custo total ser menor ou igual a R$ 11,8 milhões.\n“ 30% de probabilidade de o custo total estar entre R$ 11,8 milhões e R$ 12,2 milhões.\n“10% de probabilidade de o custo total exceder R$ 12,2 milhões.\nOs resultados da simulação indicam que",
+   "alternativas": {
+    "A": "hã uma probabilidade de 90% de que o custo total do projeto não ultrapasse R$ 12,2 milhões, indicando viabilidade finan- ceira com boa margem de segurança.",
+    "B": "o custo máximo previsto é de R$ 12,2 milhões, garantindo que os riscos são controlados e o custo da obra não vai ultra- passar esse valor.",
+    "C": "a probabilidade de os custos ultrapassarem R$ 12,2 milhões é insignificante, próxima de zero, indicando que a simulação subestimou os riscos de custo do projeto.",
+    "D": "o custo total de R$ 11,8 milhões é garantido pela simulação como o valor que será alcançado e deve ser usado como base de orçamento.",
+    "E": "o custo inicial de R$ 10 milhões & suficiente para cobrir os riscos identificados sem necessidade de ajustes."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 62,
+   "pagina": 19,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A Prefeitura de determinado município estã desenvolvendo um projeto de modernização do transporte público com a introdução\nde veiculos elétricos. Durante à planejamento, foram identificados os seguintes riscos:\nI. Atrasos na entrega dos veículos devido à alta demanda global por semicondutores.\nII. Dificuldade em instalar uma infraestrutura adequada de carregamento das baterias.\nIII. Custos elevados de manutenção imprevistos nos primeiros 2 anos.\nConsiderando as estratégias de resposta a riscos, a abordagem mais eficaz para lidar com os riscos identificados e assegurar o\nsucesso do projeto é",
+   "alternativas": {
+    "A": "transferir o risco de atrasos na entrega para fornecedores, incluindo cláusulas contratuais de penalidade em caso de des- cumprimento de prazos, investir na compra de veículos adicionais para formar uma frota reserva e garantir que os custos de manutenção sejam assumidos por um contrato de longo prazo.",
+    "B": "contratar um formecedor único de veículos elétricos para consolidar as entregas, simplificar o processo logístico e aceitar o risco de custos elevados de manutenção, alocando um fundo de contingência para cobrir essas despesas.",
+    "E": "mitigar os riscos de infraestrutura implementando carregadores rápidos em locais estratégicos e repassar os custos exce- dentes diretamente aos usuários por meio de aumento nas tarifas de transporte público.",
+    "D": "evitar o risco de atrasos, postergando o Início do projeto até que o mercado de semicondutores esteja estabilizado."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q62-0.png"
+   ]
+  },
+  {
+   "numero": 63,
+   "pagina": 19,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A Prefeitura de uma metrópole está avaliando dois projetos de mobilidade urbana e decidiu usar a Análise de Árvore de Decisão\npara identificar o projeto mais viável, considerando os riscos e retornos esperados. O valor esperado (VE) é calculado somando-\nse os produtos das probabilidades pelos resultados financeiros dos cenários favorável e desfavorável.\nProjeto A:\n\" Cenário favorável: Probabilidade de 70%, lucro de R$ 8 milhões.\n“ Cenário desfavorável: Probabilidade de 30%, prejuízo de =R$ 3 milhões.\nProjeto B:\n“ Cenário favorável: Probabilidade de 60%, lucro de R$ 10 milhões.\n* Cenário desfavorável: Probabilidade de 40%, prejuizo de - R$ 4 milhões.\nCom base nesses dados, o Projeto",
+   "alternativas": {
+    "A": "A deve ser priorizado, pois tem um VE de R$ 5,6 milhões.",
+    "B": "EB deve ser priorizado, pois tem um VE de R$ 6 milhões.",
+    "E": "EB deve ser priorizado, pois apresenta menor risco financeiro, mesmo com um VE menor.",
+    "D": "Beo Projeto A possuem uma média de VE igual a R$ 4,55 milhões, portanto, qualquer um pode ser escolhido."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q63-0.png"
+   ]
+  },
+  {
+   "numero": 64,
+   "pagina": 19,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A prefeitura de um Municipio, com objetivo de reduzir as reclamações dos municipes e melhorar a coleta de lixo, resolveu apli-\ncar os dados, ferramentas e métricas componentes dos ciclos Define, Measure, Analyze, Improve and Control (DMAIC) do Six\nSigma.\nDados:\nI. Tempo médio de coleta, número de reclamações, eficiência das rotas.\nII. Implementação: teste de novas rotas & processo.\nIII. Identificação de causas: mapas de processos e Ishikawa.\nI, Ile III são elementos que correspondem, respectivamente, aos contextos dos ciclos estabelecidos no DMAIC:",
+   "alternativas": {
+    "A": "Measure, improve e Analyze.",
+    "B": "Measure, Controle improve.",
+    "C": "Define, Measure e Analpze.",
+    "D": "Improve, Analyze e Control.",
+    "E": "Analyze, Measure e Define."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 65,
+   "pagina": 20,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere a seguinte notícia veiculada em 06 de abril de 2021 sobre serviços de emissão de alvarás de construção de uma\nPrefeitura Municipal do estado de São Paulo:\nA demora da Prefeitura para liberar alvarás tem travado a construção civil. A Associação de Engenheiros e Arquitetos de Cidade\nX denuncia que, apesar do prazo estabelecido por lei ser de trinta dias, o processo tem levado de três a seis meses. Para O\npresidente da entidade, Fulano de Tal, a morosidade emperra o início das obras e desestimula investimentos no setor imobi-\nliário.\nUm Analista que tivesse por objetivo a diminuição dessa morosidade nos trâmites dos processos do órgão indicaria a imple-\nmentação da metodologia Kaizen, uma vez que essa metodologia preconiza",
+   "alternativas": {
+    "A": "contratar uma empresa de notória especialização para reestruturar todo o processo de emissão de alvarás.",
+    "B": "aumentar 6 número de funcionários administrativos responsáveis pela análise dos processos e de servidores operacibnais para agilizar 05 trâmites internos.",
+    "C": "adotar um software especializado para automatização de todas as etapas do processo.",
+    "D": "estabelecer metas de redução de tempo de espera para emissão do alvará e envolver os funcionários na busca de soluções.",
+    "E": "centralizar todas as decisões sobre alterações no processo no nível hierárquico máximo do órgão, facilitando & agilizando a tomada de decisões. Boas Práticas e Padrões em TIC"
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 66,
+   "pagina": 20,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma prefeitura estã desenvolvendo um sistema integrado de gestão pública que centraliza diversas funções administrativas. Pa-\nra garantir a consistência dos logs de sistema, foi decidido implementar o padrão Singleton para a classe de gerenciamento de\nlogs. Um dos desenvolvedores sugeriu a seguinte implementação em Java:\npublic class LogManager (\nprivate static LogManager instance;\nprivate LogManager(| ) (|\npublic static LogManager getInstance( ) |\n1£ (instance == null)\ninstance = new LogManage(r);\n]\nreturn instance;\n]\n]\nEm condições ideais, para garantir que apenas um thread possa executar o método g=tInstance por vez, evitando a criação\nde múltiplas instâncias em um ambiente multithread, e considerando que o desempenho não é a principal prioridade, é adequado",
+   "alternativas": {
+    "A": "adicionar o modificador synehronized ao método getinstance para torná-lo lhread-safe.",
+    "B": "declarar o atributo instance como flexible para garantir a consistência em ambientes multithread.",
+    "C": "implementar a inicialização precoce (lazy inftialization), instanciando instance imediatamente após a declaração.",
+    "D": "redefinir o construtor como público, garantindo assim que apenas uma instância seja criada a partir de chamadas externas.",
+    "E": "adicionar um bloco try-catch ao método gelinstance para lidar com a exceção MultithreadException."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 67,
+   "pagina": 20,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma prefeitura estã desenvolvendo um sistema para integrar um módulo de pagamentos legados, cujo formato de dados é\nincompatível com o novo subsistema de cobrança online. E necessário permitir que o novo subsistema utilize o módulo antigo\nsem modificá-lo diretamente. Nesse contexto, o padrão estrutural Gang of Four (GOF) que resolve de forma ideal o problema de\nintegração entre interfaces incompatíveis é o",
+   "alternativas": {
+    "A": "Adapter, pois converte a interface de uma classe para outra interface esperada pelos clientes, tornando possivel a comu- nicação entre sistemas legados e novos.",
+    "B": "Bridge, pois separa a abstração da implementação, permitindo que sistemas legados e novos se comuniquem de forma integrada.",
+    "C": "Composite, pois organiza objetos em estruturas hierárquicas, tratando composições e objetos individuals de forma inte- grada, permitindo a comunicação entre sistemas legados e novos.",
+    "D": "Facade, pois fornece uma interface unificada e simplificada para um conjunto complexo de subsistemas, tornando mais simples a comunicação entre sistemas legados e novos.",
+    "E": "Flyweight, pois compartilha estado intrinseco para reduzir o consumo de memória quando há múltiplas instâncias seme- lhantes interagindo entre sistemas ou subsistemas."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 68,
+   "pagina": 20,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A equipe de TI de uma prefeitura estã implementando uma arquitetura orientada a eventos (svent-driven) para um sistema de\nnotificação em tempo real. Nesse contexto, a prática fundamental de arquiteturas event-driven relacionada a como às compo-\nnentes devem se comunicar e processar os eventos, garantindo maior resiliência e escalabilidade, é",
+   "alternativas": {
+    "A": "estabelecer comunicação sincrona entre produtores e consumidores para garantir a entrega imediata de eventos.",
+    "B": "utilizar uma fila intermediária (message broker) para desacoplar produtores & consumidores.",
+    "C": "configurar consumidores para processar eventos duplicados exatamente uma vez, sem suporte a idempoltência.",
+    "D": "garantir que apenas um consumidor possa receber e processar cada evento, para evitar inconsistências nos dados.",
+    "E": "adotar a entrega de eventos no modo “fire-and-forget” sem qualquer mecanismo de confirmação ou retry."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 69,
+   "pagina": 21,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma equipe de desenvolvimento de uma prefeitura estã projetando um sistema de gerenciamento de dados para atender às\ndemandas de diferentes departamentos, utilizando o Spring Boot como framework principal. Para que o Hibernate seja correta-\nmente integrado ao projeto Spring Boot, deve-se",
+   "alternativas": {
+    "A": "configurar manualmente o mapeamento ORM diretamente no arquivo application.properties, desalivando o uso de arquivos de mapeamento XML.",
+    "B": "utilizar a anotação GEntity para definir as classes de modelo e configurar a dependência de Hibemate no arquivo pom.=zml OU build.gradle, deixando o Spring Boot gerenciar automaticamente o Hibemate.",
+    "C": "criar manualmente um arquivo hibernate. cfg.xml para configurar o Hibemale, sem a necessidade de qualquer inte- gração com o Spring Boot.",
+    "D": "configurar o Hibernate diretamente no código Java principal do projeto, criando um SessionFactory manualmente.",
+    "E": "utilizar exclusivamente arquivos . properties para configurar as entidades, sem necessidade de anotação como GEntity nas classes de modelo."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 70,
+   "pagina": 21,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A equipe de desenvolvimento de uma prefeitura está refatorando um sistema legado de atendimento ao público e precisa utilizar\no padrão Factory Method para criar diferentes tipos de objetos relacionados a solicitações (como solicitações de manutenção, ser-\nviços ou emergências). A prática de implementação que reflete adequadamente o padrão Factory Method com foco em exten-\nsibilidade e encapsulamento é",
+   "alternativas": {
+    "A": "criar um método estático para instanciar objetos de solicitações com base em parâmetros fornecidos.",
+    "B": "delegar a criação de objetos para um método de inicialização dentro da própria classe principal.",
+    "C": "criar uma classe base que contenha a lógica para determinar o lipo de solicitação e retornar a instância apropriada.",
+    "D": "centralizar a criação de objetos em uma única classe utilitária que contém métodos estáticos para cada lipo de solicitação.",
+    "E": "utilizar classes abstratas ou interfaces para definir o método de criação e implementá-lo nas subclasses especificas."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 71,
+   "pagina": 21,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma equipe de desenvolvimento de software de uma prefeitura está criando um sistema para gestão de solicitações de serviços\nurbanos. Durante a análise inicial, foi definido que o código deve seguir o Single Responsibility Principle (SRP) do SOLID. A\nestratégia que a equipe pode adotar, que está de acordo com o SRP, é",
+   "alternativas": {
+    "A": "criar uma única classe SolicitacaoService que gerencie as solicitações, grave no banco de dados e envie notificações aos responsáveis.",
+    "B": "Implementar todas as funcionalidades do sistema de solicitações em um único método estático, a fim de facilitar a manu- tenção e melhorar a performance da aplicação.",
+    "C": "adicionar métodos na classe SolicitacaoService para gerenciar o banco de dados e enviar notificações, evitando a criação de classes adicionais que podem impactar na performance da aplicação.",
+    "D": "dividir o código em três classes: SolicitacaoBervice para gerenciar as solicilações, Notificacaoservice para envio de notificações e Persistenciaservice para gerenciar interações com o banco de dados.",
+    "E": "criar uma classe GestaoUnificada que centralize todos os serviços relacionados às solicitações em um único local, para maior controle."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 72,
+   "pagina": 21,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Durante a manutenção do sistema de licitações de uma prefeitura, a equipe de TI identificou que diversas partes do código se\ntornaram dificeis de modificar devido à alta interdependência entre os módulos. Um dos analistas propõe a aplicação de prin-\nciplos de design que favoreçam a evolução do código e a aplicação do DRY. O problema identificado pode ser resolvido ade-\nquadamente refatorando o código para encapsular as funcionalidades comuns em classes abstratas, aplicando o padrão",
+   "alternativas": {
+    "A": "Adapter.",
+    "B": "Template Method.",
+    "C": "Command.",
+    "D": "Facade.",
+    "E": "Memento."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 73,
+   "pagina": 21,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A equipe de TI de uma prefeitura estã desenvolvendo uma aplicação para integração com diversos serviços externos, utilizando\narquiteturas serverless em um ambiente de nuvem. Para implementar a lógica que orquestra à comunicação entre serviços, a\nequipe considera adotar um design pattem adequado à abordagem serverless. Com base nas tendências emergentes, o design\npattern mais indicado para lidar com a orquestração e controle de fluxos em arquiteturas serverless é o\n(8) Observer.",
+   "alternativas": {
+    "B": "Circuit Breaker.",
+    "C": "Saga.",
+    "D": "Proxy",
+    "E": "Strategy"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q73-0.png"
+   ]
+  },
+  {
+   "numero": 74,
+   "pagina": 22,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma prefeitura estã modernizando sua arquitetura de TI para implementar projetos baseados em Machine Learning (ML). Foi\ndecidido que as soluções utilizarão uma arquitetura de microsserviços para melhor escalabilidade e manutenção. Para a\nimplementação flexível e eficiente de microsserviços para modelos de ML, considerando padrões de design e tecnologias\nmodernas,",
+   "alternativas": {
+    "A": "MapReduce, que processa dados de forma distribuida, sendo ideal para o processamento em batch de grandes volumes de dados em tempo real.",
+    "B": "framework Spark SOL, que é usado para configurar bancos de dados relacionais em tempo real, olimizando o arma- zenamento dos dados do trânsito.",
+    "C": "módulo spark MLlib, que é utilizado para a coleta & processamento de dados de sensores em tempo real.",
+    "D": "Hadoop Distributed File System (HDFS), que permite o processamento em tempo real de dados em fluxo, utilizando clusters locais para garantir baixa latência.",
+    "E": "múdulo Spark Streaming, que permite o processamento em tempo real de dados em fluxo, utilizando micro-batches para garantir baixa latência."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q74-pagina.png"
+   ]
+  },
+  {
+   "numero": 75,
+   "pagina": 22,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "[questão não extraída do PDF — o número se perdeu no OCR; confira o recorte da questão anterior ou o PDF original]",
+   "alternativas": {},
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q75-0.png"
+   ]
+  },
+  {
+   "numero": 76,
+   "pagina": 22,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A equipe de TI de uma prefeitura está desenvolvendo um painel para monitoramento de indicadores de serviços públicos, como\nsaúde, educação e segurança. O objetivo é disponibilizar um dashboard que integre múltiplas fontes de dados, permita atuali-\nzações em tempo real e possibilite a criação de alertas para situações criticas. Como a equipe optou pelo uso da ferramenta\nGrafana, a configuração que atende aos requisitos de atualização em tempo real e criação de alertas é",
+   "alternativas": {
+    "A": "o coeficiente de variação indica que os dados possuem altissima variabilidade em relação à média.",
+    "B": "a mediana maior que a média indica uma distribuição assimétrica negativa (cauda longa à esquerda).",
+    "C": "o desvio padrão sozinho é suficiente para interpretar de forma completa a dispersão dos dados em relação à média.",
+    "D": "o coeficiente de variação sugere que a variabilidade dos dados é baixa em relação à média.",
+    "E": "a diferença entre a média e a mediana é irrelevante na análise exploratória de dados."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q76-pagina.png"
+   ]
+  },
+  {
+   "numero": 77,
+   "pagina": 22,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "[questão não extraída do PDF — o número se perdeu no OCR; confira o recorte da questão anterior ou o PDF original]",
+   "alternativas": {},
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q77-0.png"
+   ]
+  },
+  {
+   "numero": 78,
+   "pagina": 22,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Durante a implementação de um sistema de atendimento ão cidadão em nuvem, a equipe de TI da prefeitura observou picos de\ndemanda em horários de expediente. Para garantir que os custos sejam otimizados e o desempenho não seja impactado du-\nrante esses picos, deve-se",
+   "alternativas": {
+    "A": "configurar auto-escalabilidade no cluster Kubernetes para ajustar automaticamente o número de pods em resposta à carga.",
+    "B": "configurar a escalabilidade manual do cluster para economizar custos, ajustando os pods apenas no início e no final do expediente.",
+    "C": "definir alertas de custo no painel da nuvem para reduzir automaticamente os recursos quando o orçamento for excedido.",
+    "D": "implementar instâncias reservadas em nuvem para atender a picos de demanda, mesmo que o custo seja mais alto.",
+    "E": "utilizar pipelines CCD para ajustar os recursos computacionais automaticamente provendo escalabilidade vertical."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 79,
+   "pagina": 23,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A equipe de TI de uma prefeitura estã desenvolvendo um sistema de gestão urbana utilizando microsserviços e deseja imple-\nmentar pipelines CI'CD para automatizar o processo de integração e entrega contínua. Para garantir uma pipeline funcional que\nminimize erros e facilite a implantação, deve-se",
+   "alternativas": {
+    "A": "realizar a migração utilizando shell! scripts customizados para transferir 05 dados periodicamente via MSFTP.",
+    "B": "implementar um midolewmare genérico, como CireleCl, sem utilizar serviços nativos do Azure para evitar impacto na performance.",
+    "C": "configurar o Azure Data Factory para realizar a migração e sincronização continua entre o ambiente on-premises e o Azure.",
+    "D": "adotar a ferramenta Apache NiFi para gerenciar exclusivamente a transferência de dados, sem integração com o Azure.",
+    "E": "configurar o Apache Talend como ferramenta principal de migração, sem utilizar suporte nativo do Azure para evitar conflitos."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q79-pagina.png"
+   ]
+  },
+  {
+   "numero": 80,
+   "pagina": 23,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "[questão não extraída do PDF — o número se perdeu no OCR; confira o recorte da questão anterior ou o PDF original]",
+   "alternativas": {},
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q80-0.png"
+   ]
+  },
+  {
+   "numero": 81,
+   "pagina": 23,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A Prefeitura de São Paulo hipoteticamente precisa implementar um sistema automatizado para gerenciar e monitorar fluxos de\ntrabalho complexos relacionados à coleta e análise de dados urbanos. Para isso, a equipe técnica deve selecionar a ferramenta\nmais adequada capaz de atender aos seguintes requisitos:\n\" Suporte a fluxos de trabalho dinâmicos.\n“ Facilidade de integração com serviços em nuvem.\n“Monitoramento centralizado com tratamento de falhas em tempo real.\nApós análise, a equipe optou por utilizar o",
+   "alternativas": {
+    "A": "Apache Airflow, pois oferece uma builhin query language, além de suporte nativo a fluxos dinâmicos por meio de sua integração direta com APIs REST.",
+    "B": "Prefect, pois ele utiliza uma lista de todos os DAGs [(Directed Acyelic Graphs) com icones, informando seu status e mos- trando claramente a conexão entre os diferentes nós, o que facilita o monitoramento de tarefas e se integra diretamente aos serviços em nuvem.",
+    "C": "Apache Airfow e o Prefect simultaneamente, aproveitando a primeira para fluxos estáticos e o Prefect para fluxos dinã- micos, otimizando a orquestração geral.",
+    "D": "Apache Airflow, que oferece uma abordagem de API Python, permitindo que 05 desenvolvedores testem localmente enquanto lidam com a orquestração na nuvem, sendo ideal para processamento de dados em tempo real que exige baixa latência.",
+    "E": "Prefect, pois é baseado em Cloud-Native Workflows e oferece gerenciamento de fluxos dinâmicos, permitindo que workiiows sejam executados quando necessário, já que suporta time-based schedules e event-driven triggers. 82, Considere as caracteristicas técnicas das ferramentas Flink e Spark Streaming, submetidas ao consumo de um mesmo stream of data do Kalka, em condições ideais. I. Processa dados em true real-time, lidando com cada evento assim que ele chega. II. O modo de micro-batch introduz um pequeno delay (latência) entre a ingestão e o processamento dos dados devido à coleta em lote. III. Mostra um fluxo mais continuo de resultados, especialmente se nenhum mindowing ou batching estiver envolvido. Iv. Mais adequado para pipelines de ETL e análises de logs, nos quais a latência dos micro-baiches é aceitável. v. O modelo de processamento de fluxo real garante semântica exacil-once para o processamento de eventos, o que é essencial para aplicações críticas. As características estão corretamente atribuídas às ferramentas em: Flink Spark A II& IV I,IIIeV B I, III & IV I118&V c 116V I, IIeI I V D I,IILev 116 Iv E Ie Iv II, Illev"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q81-pagina.png"
+   ]
+  },
+  {
+   "numero": 82,
+   "pagina": 24,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "[questão não extraída do PDF — o número se perdeu no OCR; confira o recorte da questão anterior ou o PDF original]",
+   "alternativas": {},
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q82-0.png"
+   ]
+  },
+  {
+   "numero": 83,
+   "pagina": 24,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A equipe de Analistas de uma Prefeitura foi requisitada para providenciar e facilitar consultas aos processos municipais que se\nencontram registrados na tabela Processos em um Banco de Dados Relacional, com a seguinte estrutura:\nn id (INT): Identificador único do processo\nE numero processo (VARCHAR): Número do processo\n8 descricao (VARCHAR): Descrição do processo\nE data inicio (DATE): Data de início do processo\n“ status (VARCHAR): Status atual do processo (ex: 'Em andamento, 'Concluído', Pendente)\nn responsável (VARCHAR): Nome do responsável pelo processo\nA consulta SOL correta que retorna todos os processos que estão 'Em andamento' e foram iniciados no ano de 2023, ordenados\npela data de início em ordem crescente, é",
+   "alternativas": {
+    "A": "SELECT* FROM processos WHERE descricao = 'Em andamento' AND YEAR | da ta inicio) = 2023 ORDER Br numero proces so ASC:",
+    "B": "SELECT* FROM processos WHERE status = 'Em andamento AND YEAR | data inicio) = 2023 ORDER Br data inicio ASC;",
+    "C": "SELECT * FROM processos WHERE status = 'Em andamento” AND YEAR (data inicio) = 2023 ORDER BY responsavel ASC;",
+    "D": "SELECT * FROM processos WHERE processo = Em andamento! AND data inicio = 2024 ORDER Br data inicio ASC;",
+    "E": "SELECT * FROM processos WHERE status = 'Em andamento AND data inicio = 2023 ORDER BY descricao ASC,"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 84,
+   "pagina": 24,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A Secretaria Municipal de Mobilidade e Trânsito de uma Prefeitura solicitou um estudo para determinar a melhor rota entre dois\nbairros (A e B) considerando diversos fatores, tais como distância, tempo estimado de viagem, condições da estrada e custo do\ncombustivel. Os dados estão nas duas tabelas seguintes de um Banco de Dados Relacional Oracle:\n\" Bairros: Contém informações sobre cada bairro, Incluindo um ID único, nome e coordenadas geográficas.\nn Rotas: Contém informações sobre as rotas existentes entre os bairros, como ID da rota, bairro de origem, bairro de\ndestino, distância, tempo estimado, condição da estrada e custo estimado.\nEm uma consulta utilizando INNER JOIN, a expressão SOL correta para encontrar a rota mais eficiente entre dois bairros espe-\ncíficos, com base nos critérios definidos pelo órgão, é",
+   "alternativas": {
+    "A": "SELECT r.id rota, r.distancia, r.tempo estimado FROM ROTAS r INNER JOIN BaTRROS b ON E.bairro origem a É id bairro WHERE 5. nome = 'Bairo A AND r .bairro destino= 'Bairro B' ORDER BY c.distancia ASC, r. tempo es timado ASC;",
+    "B": "SELECT INNER JOIN =. id rota, r.distancia, r.tempo estimado FROM rotas r WHERE bairro origem = Bairro Aº AND bairro destino = Bairro B'ORDER BY « distancia ASC;",
+    "C": "SELECT «r.ia rota, r.distancia, r.tempo estimado FROM roTAS + INNER JOIN BaIeROS b ON r.bairro origem = b.id bairro WHERE b. nome = Bairro A,",
+    "D": "SELECT * FROM ROTAS WHERE bairro origem = 'Baimo A AND bairro destino ='Baimo B' AND MIN (r distancia) INNER JOIN ROTAS AND BAIRROS;",
+    "E": "SELECT r.ia cota, MIN(r.distancia) FROMRBOTAS « ria JOIN BAIRROS b ON r.bairro origem = b.id bairro WHERE b . nome = 'Bairro A' GROUP BY -.i rota;"
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 85,
+   "pagina": 24,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A Prefeitura de uma metrópole está implementando um sistema integrado de gestão urbana que centraliza dados de transporte,\nsaúde e segurança pública. Para garantir a segurança dos dados sensíveis, após avaliar várias medidas, a equipe optou por",
+   "alternativas": {
+    "A": "adotar uma abordagem híbrida com criptografia simétrica RSA com cifras de fluxo e criptografia assimétrica RC4 com fato- ração primária, autenticação baseada em reconhecimento biométrico e lbgs distribuídos para auditoria em tempo real com segregação seletiva de dados sensíveis.",
+    "B": "configurar criptografia simétrica com rotatividade de chaves automáticas para todos os dados, autenticação baseada em tokens de API no formato Java Web Token (JWT) (OAuth 2.2) e controles de acesso centralizados em um único órgão administrativo.",
+    "C": "implementar criptografia AES-256 para grandes volumes de dados em repouso e TLS para dados em trânsito, autentica- ção MFA baseada em hardware e controle de acesso granular utilizando RBAC, com revisões periódicas de privilégios.",
+    "D": "proteger os dados em trânsito com criptografia simétrica CEC — Criptografia de Curva Elíptica, aplicar autenticação básica com senha e backup de logs e concentrar esforços na miligação de falhas humanas por meio de treinamentos regulares.",
+    "E": "utilizar criptografia assimétrica AES em cifras de fluxo, que criptografa dados em blocos de tamanho fixo, para todo o tráfe- go intemo do sistema, autenticação via certificados digitais e políticas de acesso dinâmicas baseadas em machine learning para ajustar permissões automaticamente."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 86,
+   "pagina": 25,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Para atender aos requisitos de um departamento municipal de produtos agricolas sobre a movimentação temporal entre locais\ndos produtos estocados, uma Analista criou & populou as seguintes tabelas Fato e Dimensões usando o modelo snowilake:\nTabela Fato:\nCREATE TABLE FatoEstoque (\nid INT PRIMARY KEY,\nata DATE,\nlocal idiNT,\nproduto idiINT,\nvolume INT\nk\nTabelas Dimensões:\nCREATE TABLE DimLocal (\nlocal id INT PRIMARY KEY,\nnome local VARCHAR(100),\nendereco VARCHAR(255)\nk\nCREATE TABLE DimEroduto (\nproduto id INT PRIMARY KEY,\nnome produto VARCHAR(100),\ncategoria VARCHAR(100)\nk\nCREATE TABLE DimbData(\ndata DATE PRIMARY KEY,\nano INT,\nmes INT,\ndia INT\nk:\nA seguir, ela escreveu corretamente a seguinte consulta SOL, que somou os produtos estocados em cada local para os anos de\n2023 e 2024 e ordenou os resultados do local mais movimentado para o menos movimentado:",
+   "alternativas": {
+    "A": "SELECT 1 «nome local, SUM (£.volume) AS total volume FROM FatoEstoque É JOIN DimLocal 1 ON £ «local id = 1. local id JOIN Dimbata d ON f.data = d.data WHERE a. ano IN (2023, 2024) GROUP BY L.nome local ORDER BY total volume DESC;",
+    "B": "SELECT 1 «nome local, SUM (£.volume) AS total volume FROM FatoEstoque É JOIN DimLocal 1 LIKE £. local id = 1. local id JOIN Dimbata d LIKE f.data = d.data WHERE 4d. ano SUM (2023, 2024) GROUP BY 1 .nome local ORDER BY total volume DESC; (EC) SELECTI «nome local, ON volume) AS total volume FROM FatoEstoque É JOIN DimLocal 1 ON £ «local id = 1.local id JOIN Dimbata d ON f.data = d.data WHERE ad. ano MAX(2023, 2024) GROUP BY 1 .nome local ORDER BY total volume DESC;",
+    "D": "SELECT 1 «nome local, FOR (£. volume) AS total volume FROM FatoEstoque É JOIN DimLocal 1 WITH £. local id = 1. local id JOIN Dimbata dWITH£.data = d.data WHERE a. ano IN (2023, 2024) GROUP BY 1.nome local ORDER BY cota 1 volume DESC.",
+    "E": "SELECTI «nome local, SUM (£. volume) AT total volume FROM FatoEstoque £ JOIM DimLocal 1IN£.local id = 1.local id JOIN DimDbata diNf.data = d.data WHERE a. ano SUM(2023, 2024) GROUP BY 1.nome local ORDER BY cota 1 volume DESC."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q86-0.png"
+   ]
+  },
+  {
+   "numero": 87,
+   "pagina": 26,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Suponha que a Prefeitura de São Paulo deseje implementar um sistema de análise de dados para prever demandas de transpor-\nte público e identificar padrões de deslocamento em diferentes horários e regiões. Os dados disponiveis incluem registros histó-\nricos de viagens, horários de pico, informações demográficas e localizações geográficas. Para prever o aumento na demanda\nem horários específicos e identificar agrupamentos de regiões com padrões semelhantes de uso, deve-se",
+   "alternativas": {
+    "A": "utilizar um modelo de Regressão Logistica para prever as demandas de transporte público e Redes Neurais Convolu- clonais (CNN) para identificar padrões de deslocamento em horários de pico.",
+    "B": "aplicar Regressão Linear para prever a demanda futura com base em variáveis como horário e histórico de viagens e utilizar o algoritmo não supervisionado K-Means para identificar agrupamentos de regiões com padrões similares de uso.",
+    "C": "treinar um modelo não supervisionado de Support Vector Machine (SVM) para prever a demanda em horários específicos e Redes Neurais Recorrentes (RNN) para identificar padrões de deslocamento ao longo do tempo.",
+    "D": "usar Árvores de Decisão para prever demandas futuras é treinar um modelo supervisionado de clusterização hierárquica para identificar padrões de deslocamento em horários específicos, através de dendogramas.",
+    "E": "| aplicar Regressão Logistica para prever a demanda futura com base em histórico de viagens e utilizar o método ARIMA (Autoregressive Integrated Moving Average) para identificar agrupamentos de regiões para segmentação de dados geográ- ficos."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 88,
+   "pagina": 26,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma equipe de ciência de dados de uma prefeitura está utilizando um modelo de classificação binária para prever a aprovação\nde projetos de mobilidade urbana. O desempenho do modelo é avaliado com base em algumas métricas. Considere o seguinte\ncódigo em Python, que foi executado para calcular as métricas a partir dos rótulos verdadeiros e previstos.\nfrom sklearn.metrics import precision score, recall score, fl score\n& Rátula verdadeiros dos dados (1 = positivo, OD = negativo)\ntrue labels = [1, 0, 1,1, 0,12, 0, 0, 1, 0]\n& Fredições do modelo (1 = positivo, OD = negativo)\npredicted labels = [1, 0, 1, 0, 0,1,1, 0,1, 0]\n& Calculando as métricas\nprecision = precision score(true labels, predicted labels)\nrecall = recall score(true labels, predicted labels)\nÉl = fl score(true labels, predicted labels)\n& Exibindo os resultados\nprint (f\"Precisão: (precision:.2£|\")\nprint (£f\"Recall: (recall: .2£f)\")\nprint (£f\"Fl-Score: (fl:.2£)\")\nCom os dados fornecidos, o código gerou os seguintes resultados: Precisão: 0,80, Recall: 0,80, Fi-Score: 0,80.\nCom base nessas métricas, o modelo",
+   "alternativas": {
+    "A": "apresenta alta precisão, mas o recall é insuficiente, indicando que ele detecta a maioria dos casos positivos, mas também faz muitas classificações incorretas.",
+    "B": "apresenta um bom equilíbrio entre precisão e recall, indicando que ele identifica bem os casos positivos e evita erros ao classificar dados negativos.",
+    "C": "apresenta baixa precisão e recall, indicando que ele frequentemente erra tanto ao prever positivos quanto ao evitar falsos negativos.",
+    "D": "& ótimo para cenários em que precisão não é lão importante quanto recall, como em problemas de emergência pública, pois Fi-seore é alto.",
+    "E": "| tem precisão aceitável, mas o baixo Fi-score sugere um desempenho desequilibrado, com recall bem superior à precisão."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q88-0.png"
+   ]
+  },
+  {
+   "numero": 89,
+   "pagina": 26,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Com respeito à renegociação de valores do IPTU ocorrida na esfera municipal de uma grande cidade, a técnica de machine\nlearning mais adequada para detectar uma possível fraude aplicada por cidadãos &:",
+   "alternativas": {
+    "A": "Análise de cluster: Agrupar as transações em clusters e Identificar aqueles com caracteristicas atípicas.",
+    "B": "Regressão linear: Modelar a relação entre as variáveis para prever o valor de uma transação potencialmente fraudulenta e identificar desvios.",
+    "C": "Análise de componentes principais (PCA): Reduzir a dimensionalidade dos dados para visualizar padrões e anomalias ca- racterísticas de fraudes.",
+    "D": "Redes neurais artificiais: Construir um modelo capaz de aprender padrões complexos nas transações e identificar aquelas com alto risco de fraude.",
+    "E": "Análise de sentimento: Aplicar Regard Review on ML (R2ML) nos textos dos processos impetrados por cidadãos suposta- mente envolvidos em fraudes do IPTU, para identificar possíveis características sentimentais indicativas de fraudulência."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 90,
+   "pagina": 26,
+   "disciplina": "Tecnologia da Informação e Comunicação",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Para verificar ocorrências importantes em documentos processuais de municipes, tais como possíveis informações com petições\ne arrazoados incoerentes nos processos, a equipe de Analistas de uma Prefeitura aplicou a técnica de text mining utilizando,\nadequadamente, os métodos de\n(ã] Tokenização e Análise de Imagens.",
+   "alternativas": {
+    "B": "Word-recognize e Análise de Sentimentos. (0) - Word-Recognize e Verifying Skills.",
+    "D": "Redes Nominais e Tokenização.",
+    "E": "Topic Modeling « Análise de Sentimentos."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fcc-2025-prefsp-tic/q90-0.png"
+   ]
+  }
+ ]
+}

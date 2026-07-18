@@ -1,0 +1,1469 @@
+[p1c0] EMP
+[p1c0] ANALISTA DE GESTÃO CO
+[p1c0] SUA PROVA
+[p1c0] • Além deste caderno contendo 80 (oitenta) questões
+[p1c0] objetivas, você receberá do fiscal de prova o cartão
+[p1c0] de respostas;
+[p1c0] • As questões objetivas têm 5 (cinco) opções de
+[p1c0] resposta (A, B, C, D e E) e somente uma delas está
+[p1c0] correta.
+[p1c0] •
+[p1c0] TEMPO
+[p1c0] • Você dispõe de 5 (cinco) horas para a realização da
+[p1c0] prova, já incluído o tempo para a marcação do cartão
+[p1c0] de respostas;
+[p1c0] • 3 (três) horas após o início da prova, é possível
+[p1c0] retirar-se da sala, sem levar o caderno de questões;
+[p1c0] • A partir dos 30 (trinta) minutos anteriores ao
+[p1c0] término da prova é possível retirar-se da sala
+[p1c0] levando o caderno de questões.
+[p1c0] NÃO SERÁ PERMITIDO
+[p1c0] • Qualquer tipo de comunicação entre os candidatos
+[p1c0] durante a aplicação da prova;
+[p1c0] • Anotar informações relativas às respostas em
+[p1c0] qualquer outro meio que não seja o caderno de
+[p1c0] questões;
+[p1c0] • Levantar da cadeira sem autorização do fiscal de
+[p1c0] sala;
+[p1c0] • Usar o sanitário ao término da prova, após deixar a
+[p1c0] sala.
+[p1c1] PRESA DE PESQUISA ENERGÉTICA
+[p1c1] P O – (T )
+[p1c1] ROVA BJETIVA ARDE
+[p1c1] ORPORATIVA – TECNOLOGIA DA INFORMAÇÃO
+[p1c1] C D
+[p1c1] IÊNCIA DE ADOS
+[p1c1] NÍVEL SUPERIOR TIPO 1 – BRANCA
+[p1c1] INFORMAÇÕES GERAIS
+[p1c1] • Verifique se seu caderno de questões está completo,
+[p1c1] sem repetição de questões ou falhas. Caso contrário,
+[p1c1] notifique imediatamente o fiscal da sala, para que sejam
+[p1c1] tomadas as devidas providências;
+[p1c1] • Confira seus dados pessoais, especialmente nome,
+[p1c1] número de inscrição e documento de identidade e leia
+[p1c1] atentamente as instruções para preencher o cartão de
+[p1c1] respostas;
+[p1c1] • Para o preenchimento do cartão de respostas, use
+[p1c1] somente caneta esferográfica, fabricada em material
+[p1c1] transparente, com tinta preta ou azul;
+[p1c1] • Assine seu nome apenas no(s) espaço(s) reservado(s) no
+[p1c1] cartão de respostas;
+[p1c1] • Confira seu cargo, cor e tipo do caderno de questões.
+[p1c1] Caso tenha recebido caderno de cargo ou cor ou tipo
+[p1c1] diferente do impresso em seu cartão de respostas, o
+[p1c1] fiscal deve ser obrigatoriamente informado para o
+[p1c1] devido registro na ata da sala;
+[p1c1] • Reserve tempo suficiente para o preenchimento do seu
+[p1c1] cartão de respostas. O preenchimento é de sua
+[p1c1] responsabilidade e não será permitida a troca do cartão
+[p1c1] de respostas em caso de erro cometido pelo candidato;
+[p1c1] • Para fins de avaliação, serão levadas em consideração
+[p1c1] apenas as marcações realizadas no cartão de respostas;
+[p1c1] • A FGV coletará as impressões digitais dos candidatos na
+[p1c1] lista de presença;
+[p1c1] • Os candidatos serão submetidos ao sistema de detecção
+[p1c1] de metais quando do ingresso e da saída de sanitários
+[p1c1] durante a realização das provas.
+[p1c1] • Boa sorte!
+[p2c0] Conhecimentos Básicos
+[p2c0] Língua Portuguesa
+[p2c0] 1
+[p2c0] Sobre a charge acima, assinale a afirmativa incorreta.
+[p2c0] (A) Identificamos os personagens como prisioneiros também pelo
+[p2c0] uniforme que usam.
+[p2c0] (B) Outro motivo de identificarmos os personagens como
+[p2c0] prisioneiros é a presença de uma janela com grades.
+[p2c0] (C) Os temas explorados nos quadros mostram as semelhanças
+[p2c0] entre os prisioneiros.
+[p2c0] (D) As posições dos prisioneiros mostram, respectivamente, da
+[p2c0] esquerda para a direita, inquietação e tranquilidade.
+[p2c0] (E) Os defeitos nas paredes caracterizam o local onde estão os
+[p2c0] prisioneiros como pobre e descuidado.
+[p2c0] 2
+[p2c0] Assinale a opção que indica a frase em que o vocábulo lá mostra
+[p2c0] antecedente expresso.
+[p2c0] (A) Se eu pudesse ir para o céu com um partido, eu lá não iria de
+[p2c0] modo algum.
+[p2c0] (B) Os mecânicos me conhecem e quando apareço por lá fazem
+[p2c0] uma festa.
+[p2c0] (C) Meus colegas ainda me acompanharam por lá durante um
+[p2c0] tempo.
+[p2c0] (D) Os livros estão custando muito caro e por isso eu não vou mais
+[p2c0] lá.
+[p2c0] (E) Todos querem a medalha de ouro, mas quando chegam lá,
+[p2c0] ficam nervosos e choram.
+[p2c0] 3
+[p2c0] As opções a seguir apresentam frases nas quais o pronome pessoal
+[p2c0] oblíquo sublinhado está corretamente empregado,
+[p2c0] à exceção de uma. Assinale-a.
+[p2c0] (A) Quando não se pode derrotar, torne-se sócio.
+[p2c0] (B) Qual é o melhor governo? O que nos ensina a governar a nós
+[p2c0] mesmos.
+[p2c0] (C) A espada está erguida e não posso embainhá-la sem a vitória
+[p2c0] ou sem honra.
+[p2c0] (D) Entre mortos e feridos salvaram-se todos.
+[p2c0] (E) Não se acaba com a corrupção, se combate.
+[p2c0] ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI
+[p2c1] 4
+[p2c1] Assinale a opção que mostra a frase em que a comparação
+[p2c1] realizada não é explicada.
+[p2c1] (A) Leis são como salsichas: é melhor não ver como são feitas.
+[p2c1] (B) Todo mundo no governo é como uma porção de formigas
+[p2c1] sobre um tronco que flutua em um rio. Cada um pensa que
+[p2c1] está dirigindo o tronco.
+[p2c1] (C) Política é como fotografia. Se você se mexer, não sai.
+[p2c1] (D) Os reis com seus ministros são como maridos enganados com
+[p2c1] suas mulheres.
+[p2c1] (E) A saída do estádio era como um enterro: todos de cabeça baixa
+[p2c1] e alguns choravam.
+[p2c1] 5
+[p2c1] Assinale a opção que apresenta a frase em que o pronome
+[p2c1] sublinhado refere-se a um termo anterior.
+[p2c1] (A) O tempo das armas não é o das leis.
+[p2c1] (B) O grande triunfo do adversário é fazer-nos crer o que diz de
+[p2c1] nós.
+[p2c1] (C) Eles não estão certos sobre o que pensam sobre a guerra.
+[p2c1] (D) Eles agiram conforme o que manda o manual.
+[p2c1] (E) Ele não faz o que lhe mandam.
+[p2c1] 6
+[p2c1] Assinale a opção que apresenta a frase em que a locução adverbial
+[p2c1] sublinhada foi substituída, adequadamente, por um advérbio de
+[p2c1] mesmo significado.
+[p2c1] (A) Agia todos os dias da mesma forma. / frequentemente.
+[p2c1] (B) À força de conceder direito a todos, a democracia é o regime
+[p2c1] que mata com mais segurança. / securitariamente.
+[p2c1] (C) Dos poderosos nada se consegue que não seja cobrado em
+[p2c1] dobro. / dualmente.
+[p2c1] (D) Não se faz política sem vítimas. / impunemente.
+[p2c1] (E) Praticava os crimes da mesma forma. / igualitariamente.
+[p2c1] 7
+[p2c1] Assinale a opção que apresenta a frase em que o termo sublinhado
+[p2c1] mostra um erro ortográfico.
+[p2c1] (A) O mais delicioso dos privilégios é gastar o dinheiro dos outros.
+[p2c1] (B) As seções de cinema ocorriam sucessivamente e as pessoas
+[p2c1] podiam ver um filme várias vezes.
+[p2c1] (C) Nesse ínterim ocorreu o terremoto em Lisboa.
+[p2c1] (D) Os bêbedos incomodam os passantes no bairro.
+[p2c1] (E) A escrita egípcia mostrava variados hieroglifos.
+[p2c1] 8
+[p2c1] Assinale a opção que indica a frase em que a substituição de um
+[p2c1] infinitivo pelo substantivo correspondente foi feita de forma
+[p2c1] inadequada.
+[p2c1] (A) Governar é escolher entre desvantagens. / a escolha
+[p2c1] (B) A política é a arte de trair interesses reais e legítimos. / da
+[p2c1] traição de
+[p2c1] (C) A paz faz crescerem as coisas pequenas; a guerra destrói as
+[p2c1] grandes. / o crescimento das
+[p2c1] (D) Quem nasceu para obedecer, obedecerá mesmo no trono. / a
+[p2c1] obediência
+[p2c1] (E) Quando não é necessário tomar uma decisão, não é necessário
+[p2c1] tomar uma decisão. / a retomada de
+[p2c1] IA DE DADOS – TARDE TIPO BRANCA – PÁGINA 2
+[p3c0] 9
+[p3c0] Em todas as frases a seguir, que foram retiradas do romance
+[p3c0] O Cortiço, foi empregado o vocábulo coisa em lugar de outro de
+[p3c0] significado mais específico.
+[p3c0] Assinale a opção que apresenta a frase em que a substituição por
+[p3c0] um outro vocábulo mais específico foi feita de forma inadequada.
+[p3c0] (A) A política é uma coisa séria demais para ser deixada nas mãos
+[p3c0] dos políticos. / atividade
+[p3c0] (B) Entre a padaria e o corredor havia coisa de vinte metros. / uma
+[p3c0] distância
+[p3c0] (C) ...desde então principiou a sonhar com um baronato, fazendo
+[p3c0] disso o objeto querido da sua existência, muito satisfeito no
+[p3c0] íntimo por ter afinal descoberto uma coisa em que podia
+[p3c0] empregar dinheiro. / um objetivo.
+[p3c0] (D) Era lavadeiro e vivia sempre entre as mulheres, com quem já
+[p3c0] estava tão familiarizado que elas o tratavam como a uma
+[p3c0] pessoa do mesmo sexo; em presença dele falavam de coisas
+[p3c0] que não exporiam em presença de outro homem. / assuntos.
+[p3c0] (E) Aquela amigação com a Rita Baiana era uma coisa muito
+[p3c0] complicada e vinha de longe; vinha do tempo em que ela ainda
+[p3c0] estava chegadinha de fresco da Bahia, em companhia da mãe,
+[p3c0] uma cafuza dura, capaz de arrancar as tripas ao Manduca da
+[p3c0] Praia. / relação.
+[p3c0] 10
+[p3c0] As frases a seguir mostram a presença do advérbio não e todas
+[p3c0] elas foram reescritas de modo a eliminá-lo.
+[p3c0] Assinale a opção em que a mudança mudou o sentido original da
+[p3c0] frase.
+[p3c0] (A) A política não tem entranhas. / carece de.
+[p3c0] (B) No Brasil, costumamos chamar de “picareta” aqueles que
+[p3c0] conseguem fazer do seu jeito o que não conseguimos fazer do
+[p3c0] nosso. / fracassamos em.
+[p3c0] (C) O político deve buscar sempre a aprovação, porém não o
+[p3c0] aplauso. / jamais.
+[p3c0] (D) Um conservador é um homem com duas excelentes pernas
+[p3c0] que, contudo, não aprendeu a andar para a frente /
+[p3c0] desaprendeu.
+[p3c0] (E) Não tem poder quem acha que politicamente não tem poder /
+[p3c0] é impotente.
+[p3c0] ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI
+[p3c1] Língua Inglesa
+[p3c1] Read Text I and answer the six questions that follow it:
+[p3c1] Text I
+[p3c1] Office Culture
+[p3c1] Companies are clawing to bring back pre-pandemic perks and that 'family'
+[p3c1] feeling – but employees want something more tangible.
+[p3c1] Many employers are calling employees back into offices, trying
+[p3c1] to restore the workplace of pre-pandemic days. Along with filling
+[p3c1] seats, they're also looking to bring back another relic: office
+[p3c1] culture.
+[p3c1] Pre-2020, office culture was synonymous with the 'cool' office:
+[p3c1] think places to lounge, stocked pantries and in-office happy hours
+[p3c1] that went all out; or luxe retreats and team-building exercises
+[p3c1] meant to foster the feeling of 'family'. In past years, these perks
+[p3c1] drew many workers to the office – in some cases, entire companies
+[p3c1] defined themselves by their office cultures.
+[p3c1] The world of work looks and feels entirely different than just a
+[p3c1] few years ago – yet many companies are still intent on recreating
+[p3c1] the office cultures workers left behind as they abandoned their
+[p3c1] desks in 2020. While these companies are making some gestures
+[p3c1] to adapt – for instance, redesigning spaces to accommodate new
+[p3c1] preferences and hybrid-work habits – many are still set on bringing
+[p3c1] back what lured in workers before the pandemic.
+[p3c1] Yet swaths of employees simply aren't interested in going
+[p3c1] backward. Instead of trust-falls and cold brew on tap, employees
+[p3c1] are demanding flexible work, equitable pay and a focus on
+[p3c1] humanity in the workplace that transcends the perks they sought
+[p3c1] years earlier.
+[p3c1] Workers' shifting priorities are a natural consequence of the
+[p3c1] Covid-19 pandemic, says Georgina Fraser, head of human capital
+[p3c1] for global commercial real-estate firm CBRE. "The pandemic gave
+[p3c1] us autonomy in a way that we haven't had previously," she says.
+[p3c1] "It gave us the opportunity to choose how we structured our
+[p3c1] working days."
+[p3c1] And now that workers have experienced that level of work-life
+[p3c1] balance, they won't settle for less. Fraser adds: "Post-pandemic,
+[p3c1] we saw a resurgence of people being very vocal about what they
+[p3c1] wanted and needed, not just from office culture, but from the
+[p3c1] wider world."
+[p3c1] Now, she says, workers aren't shy about "wanting to be seen
+[p3c1] as a whole human – and that filters down to their physical location,
+[p3c1] how [employers] manage them, what support they receive and
+[p3c1] how [employers] integrate technologies between home and office
+[p3c1] in order to support them".
+[p3c1] One major factor in this changing attitude is that many
+[p3c1] employees feel office culture simply isn't applicable in a remote-
+[p3c1] and hybrid-first world, where the physical office can feel
+[p3c1] superfluous. Now that the workplace doesn't serve as the culture
+[p3c1] hub it once did, "companies have really struggled to redefine the
+[p3c1] role of the office", says Lewis Beck, CBRE's head of workplace for
+[p3c1] Europe. Office culture that was once meant to get employees
+[p3c1] excited doesn't have the same pull when workplaces are only one-
+[p3c1] third full.
+[p3c1] Adapted from: https://www.bbc.com/worklife/article/20240229-office-culture-is-
+[p3c1] dead
+[p3c1] IA DE DADOS – TARDE TIPO BRANCA – PÁGINA 3
+[p4c0] 11
+[p4c0] Analyse the statements below based on Text I.
+[p4c0] I. Before the Covid-19 pandemic, office culture was understood
+[p4c0] as a concept requiring state-of-the-art technological skills from
+[p4c0] workers.
+[p4c0] II. In the past, employees loathed going to fancy resorts.
+[p4c0] III. Post pandemic workers have priorities other than office perks.
+[p4c0] Choose the correct answer:
+[p4c0] (A) Only I is correct.
+[p4c0] (B) Only II is correct.
+[p4c0] (C) Only III is correct.
+[p4c0] (D) Both I and II are correct.
+[p4c0] (E) Both II and III are correct.
+[p4c0] 12
+[p4c0] The extract Companies are clawing (in the subtitle) suggests that
+[p4c0] the effort expended by the companies is
+[p4c0] (A) forbearing.
+[p4c0] (B) thwarted.
+[p4c0] (C) sleazy.
+[p4c0] (D) fierce.
+[p4c0] (E) mild.
+[p4c0] 13
+[p4c0] If stocked pantries (2nd paragraph) are available in the office,
+[p4c0] peckish employees will have a place where they can grab a(n)
+[p4c0] (A) quick bite.
+[p4c0] (B) new broom.
+[p4c0] (C) spare computer.
+[p4c0] (D) shredding machine.
+[p4c0] (E) embossed envelope.
+[p4c0] 14
+[p4c0] The extract what lured in workers (3rd paragraph) implies that
+[p4c0] workers were
+[p4c0] (A) embellished.
+[p4c0] (B) embittered.
+[p4c0] (C) enfeebled.
+[p4c0] (D) endured.
+[p4c0] (E) enticed.
+[p4c0] 15
+[p4c0] Trust-falls (4th paragraph) are group activities aimed at
+[p4c0] (A) backlashing.
+[p4c0] (B) bickering.
+[p4c0] (C) bouncing.
+[p4c0] (D) boasting.
+[p4c0] (E) bonding.
+[p4c0] 16
+[p4c0] When it is argued that workers aren't shy (7th paragraph), the
+[p4c0] author means they are
+[p4c0] (A) shamefaced.
+[p4c0] (B) forthright.
+[p4c0] (C) diffident.
+[p4c0] (D) bashful.
+[p4c0] (E) coy.
+[p4c0] ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI
+[p4c1] Read Text II and answer the four questions that follow it:
+[p4c1] Text II
+[p4c1] A river in flux
+[p4c1] MANAUS, BRAZIL—Jochen Schöngart darts back and forth
+[p4c1] along an escarpment just above the Amazon River, a short water
+[p4c1] taxi ride from downtown Manaus, Brazil. It’s still early this October
+[p4c1] morning in 2023, but it’s already hot and his face is beaded with
+[p4c1] sweat. “Look, there’s a piece of ceramic!” he says, nodding to a
+[p4c1] worn shard lodged between boulders, likely a relic of an earlier
+[p4c1] civilization. It’s not the only one.
+[p4c1] Schöngart, a forest scientist at the National Institute of
+[p4c1] Amazon Research (INPA), stoops and stares at the bedrock at his
+[p4c1] feet. Well below the river’s normal level for this time of year, the
+[p4c1] rock bears a gallery of life-size faces, perhaps carved during a
+[p4c1] megadrought 1000 years ago. Now, they have been exposed again
+[p4c1] by a new drought, the worst in the region’s modern history.
+[p4c1] In the previous 4 months, only a few millimeters of rain have
+[p4c1] fallen in this city of 2 million at the confluence of the Negro and
+[p4c1] Amazon rivers. Normally it gets close to a half a meter during the
+[p4c1] same period. The Amazon sank steadily beginning in June, as it
+[p4c1] does most years during the dry season. But by mid-October, the
+[p4c1] port’s river gauge reached the lowest level observed since the
+[p4c1] record began in 1902. Freighters coming up from the Atlantic
+[p4c1] Ocean—the city’s primary supply line—were blocked by shoals.
+[p4c1] Factories furloughed workers.
+[p4c1] Making matters worse, the drought coincided with a series of
+[p4c1] week-long heat waves. In September and October, withering
+[p4c1] conditions persisted across the Amazon, and temperatures here
+[p4c1] peaked at 39°C, 6°C above normal. Desiccated jungle set ablaze by
+[p4c1] farmers enveloped the city in choking smoke. Then, in the season’s
+[p4c1] most freakish episode, a sandstorm blotted out the Sun.
+[p4c1] Drought and heat are only half of the story of the changes
+[p4c1] unfolding in the heart of the world’s largest rainforest. Schöngart
+[p4c1] and collaborators’ research on the river here has shown that for
+[p4c1] decades, while dry-season low water has been plummeting, rainy-
+[p4c1] season high water has been rising. The city has experienced
+[p4c1] frequent major flooding in recent years because of heavy rains
+[p4c1] across much of the Amazon Basin, forcing the officials to erect
+[p4c1] temporary wooden walkways above streets of the historic
+[p4c1] waterfront.
+[p4c1] Schöngart and other researchers expect such changes to
+[p4c1] intensify as global climate warms. The current drought provided a
+[p4c1] grim preview, killing river dolphins and fish, and threatening
+[p4c1] livelihoods for communities along the river. If the combination of
+[p4c1] higher highs and lower lows becomes the new norm, the
+[p4c1] ramifications could extend throughout the Amazon Basin and even
+[p4c1] beyond, threatening the very existence of the forest—which
+[p4c1] harbors much of the planet’s biodiversity, has a far-reaching
+[p4c1] influence over regional and global climate, and sustains millions of
+[p4c1] people.
+[p4c1] “We are undergoing massive changes in the hydrological
+[p4c1] cycle” of the Amazon Basin, Schöngart says. The question now, he
+[p4c1] says, is whether its ecosystems and people can adapt.
+[p4c1] Adapted from: https://www.science.org/content/article/amazon-river-may-altered-
+[p4c1] forever-climate-change
+[p4c1] IA DE DADOS – TARDE TIPO BRANCA – PÁGINA 4
+[p5c0] 17
+[p5c0] Based on the text, mark the statements below as true (T) or false
+[p5c0] (F).
+[p5c0] ( ) To find the piece of ceramic, the scientist had to dig into the
+[p5c0] hot soil.
+[p5c0] ( ) Due to the drought, factories found themselves having to hire
+[p5c0] workers to unblock the long and narrow ridges.
+[p5c0] ( ) Thus far, the control over climate change has not been
+[p5c0] considered a given.
+[p5c0] The statements are, respectively,
+[p5c0] (A) T – F – T.
+[p5c0] (B) T – T – F.
+[p5c0] (C) F – F – T.
+[p5c0] (D) F – T – F.
+[p5c0] (E) F – T – T.
+[p5c0] 18
+[p5c0] In the opening sentence, the forest scientist is described as moving
+[p5c0] (A) swiftly.
+[p5c0] (B) clumsily.
+[p5c0] (C) haltingly.
+[p5c0] (D) stealthily.
+[p5c0] (E) cautiously.
+[p5c0] 19
+[p5c0] Due to global warming, experts believe the changes described will
+[p5c0] tend to
+[p5c0] (A) drop.
+[p5c0] (B) abate.
+[p5c0] (C) vanish.
+[p5c0] (D) plunge.
+[p5c0] (E) heighten.
+[p5c0] 20
+[p5c0] The situation described in the 5th paragraph is:
+[p5c0] (A) gory.
+[p5c0] (B) taxing.
+[p5c0] (C) exciting.
+[p5c0] (D) thrilling.
+[p5c0] (E) desirable.
+[p5c0] Noções de Administração Pública
+[p5c0] 21
+[p5c0] Leia o fragmento a seguir.
+[p5c0] A entidade dotada de personalidade jurídica de direito privado,
+[p5c0] sem fins lucrativos, criada em virtude de autorização legislativa
+[p5c0] para o desenvolvimento de atividades que não exijam execução
+[p5c0] por órgãos ou entidades de direito público, com autonomia
+[p5c0] administrativa, patrimônio próprio gerido pelos respectivos órgãos
+[p5c0] de direção e funcionamento custeado por recursos da União e de
+[p5c0] outras fontes.
+[p5c0] O fragmento apresenta as características de uma
+[p5c0] (A) autarquia.
+[p5c0] (B) fundação pública.
+[p5c0] (C) empresa pública.
+[p5c0] (D) sociedade de economia mista.
+[p5c0] (E) entidade paraestatal.
+[p5c0] ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI
+[p5c1] 22
+[p5c1] Administração Pública Indireta é o conjunto de entidades que
+[p5c1] possuem personalidade jurídica própria, criadas pelo Estado para
+[p5c1] desempenhar atividades administrativas descentralizadas. Essas
+[p5c1] entidades são responsáveis por executar serviços públicos
+[p5c1] específicos ou de interesse público, complementando as funções
+[p5c1] da administração pública direta.
+[p5c1] Assinale a opção que apresenta características de uma empresa
+[p5c1] pública.
+[p5c1] (A) Pessoa jurídica de direito privado com capital inteiramente
+[p5c1] público e organização sob qualquer das formas admitidas em
+[p5c1] direito.
+[p5c1] (B) Pessoa jurídica de direito privado em que há conjugação de
+[p5c1] capital público e privado, participação do Poder Público na
+[p5c1] gestão e organização sob forma de sociedade anônima.
+[p5c1] (C) Provê serviços entre dois ou mais entes federativos para
+[p5c1] atender ao interesse coletivo e proporcionar benefícios
+[p5c1] públicos.
+[p5c1] (D) Pessoa jurídica de direito público que executa atividades
+[p5c1] típicas do Estado.
+[p5c1] (E) Presta serviços e desenvolve ações conjuntas que visem ao
+[p5c1] interesse coletivo e a benefícios públicos.
+[p5c1] 23
+[p5c1] A Constituição Federal de 1988 inovou ao fazer expressa menção
+[p5c1] a alguns princípios a que se submete a Administração Pública
+[p5c1] Direta e Indireta, a saber, os princípios da legalidade, da
+[p5c1] impessoalidade, da moralidade administrativa, da publicidade e da
+[p5c1] eficiência.
+[p5c1] Assinale a opção que indica o princípio que se impõe a todo agente
+[p5c1] público de realizar suas atribuições com presteza, perfeição e
+[p5c1] rendimento funcional.
+[p5c1] (A) Legalidade.
+[p5c1] (B) Impessoalidade.
+[p5c1] (C) Moralidade.
+[p5c1] (D) Publicidade.
+[p5c1] (E) Eficiência.
+[p5c1] 24
+[p5c1] O orçamento público no Brasil é um instrumento fundamental
+[p5c1] para o planejamento e a administração dos recursos financeiros do
+[p5c1] Estado, visando atender às necessidades da sociedade e fomentar
+[p5c1] o desenvolvimento econômico e social do país.
+[p5c1] Com relação ao orçamento público, analise as afirmativas a seguir.
+[p5c1] I. A elaboração de propostas orçamentárias envolve a
+[p5c1] consolidação, pelo Poder Executivo, do Projeto de Lei
+[p5c1] Orçamentária Anual (PLOA), abrangendo as propostas
+[p5c1] orçamentárias dos demais Poderes, seguida do envio ao Poder
+[p5c1] Legislativo para apreciação.
+[p5c1] II. O PLOA, uma iniciativa do Presidente da República, estima as
+[p5c1] receitas e fixa as despesas para o exercício financeiro seguinte,
+[p5c1] com estrutura e nível de detalhamento definidos pela Lei de
+[p5c1] Diretrizes Orçamentárias (LDO) do exercício.
+[p5c1] III. A Lei Orçamentária Anual (LOA) suprime os orçamentos fiscal,
+[p5c1] da seguridade social e de investimento das estatais.
+[p5c1] Está correto o que se afirma em
+[p5c1] (A) I, apenas.
+[p5c1] (B) I e II, apenas.
+[p5c1] (C) I e III, apenas.
+[p5c1] (D) II e III, apenas.
+[p5c1] (E) I, II e III.
+[p5c1] IA DE DADOS – TARDE TIPO BRANCA – PÁGINA 5
+[p6c0] 25
+[p6c0] O orçamento público tem como principal objetivo assegurar o
+[p6c0] controle das finanças públicas, promovendo transparência e
+[p6c0] prestação de contas à população e aos órgãos de controle, além
+[p6c0] de garantir a alocação eficiente dos recursos para áreas
+[p6c0] prioritárias, como saúde, educação e segurança.
+[p6c0] Com relação às noções básicas de orçamento público e finanças,
+[p6c0] analise os itens a seguir:
+[p6c0] I. Analogamente aos orçamentos empresariais, no orçamento
+[p6c0] público o montante da receita limita o valor da despesa.
+[p6c0] II. O papel ativo das finanças públicas deve ir além do
+[p6c0] enfrentamento de crises econômicas acentuadas, abrangendo
+[p6c0] também a busca pelo pleno emprego, o aumento dos
+[p6c0] investimentos e a promoção de uma distribuição de renda
+[p6c0] mais equitativa.
+[p6c0] III. O conteúdo dos orçamentos das entidades governamentais
+[p6c0] resulta de inúmeras decisões e escolhas feitas em diversas
+[p6c0] etapas do processo de gestão.
+[p6c0] Está correto o que se afirma em
+[p6c0] (A) I, apenas.
+[p6c0] (B) I e II, apenas.
+[p6c0] (C) I e III, apenas.
+[p6c0] (D) II e III, apenas.
+[p6c0] (E) I, II e III.
+[p6c0] 26
+[p6c0] Processo administrativo é o conjunto de funções desempenhadas
+[p6c0] pelos administradores em diferentes níveis e áreas da organização,
+[p6c0] com o objetivo de alcançar metas pré-definidas.
+[p6c0] Colocar em marcha aquilo que foi planejado e organizado é
+[p6c0] atribuição da função
+[p6c0] (A) planejamento.
+[p6c0] (B) organização.
+[p6c0] (C) direção.
+[p6c0] (D) controle.
+[p6c0] (E) avaliação.
+[p6c0] 27
+[p6c0] As noções básicas de licitações e contratos nas empresas estatais
+[p6c0] envolvem a compreensão dos procedimentos legais e
+[p6c0] administrativos que regem a aquisição de bens e serviços por essas
+[p6c0] entidades.
+[p6c0] Assinale a opção que se refere à formação e extinção de parcerias
+[p6c0] e associações, à aquisição e alienação de participação em
+[p6c0] sociedades e às operações no mercado de capitais, conforme a
+[p6c0] regulação do órgão competente.
+[p6c0] (A) Inviabilidade de competição.
+[p6c0] (B) Observação da política de integridade.
+[p6c0] (C) Matriz de riscos.
+[p6c0] (D) Contratação semi-integrada.
+[p6c0] (E) Oportunidade de negócio.
+[p6c0] ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI
+[p6c1] 28
+[p6c1] As empresas estatais, ao realizarem licitações, devem seguir a Lei
+[p6c1] nº 13.303/2016, que estabelece normas para esses processos e
+[p6c1] contratos. Os contratos resultantes devem ser rigorosamente
+[p6c1] geridos para garantir o cumprimento das cláusulas, incluindo a
+[p6c1] fiscalização dos serviços e a aplicação de penalidades em casos de
+[p6c1] inadimplência.
+[p6c1] Assinale a opção que apresenta a situação na qual as empresas
+[p6c1] públicas são dispensadas da precedência de licitação.
+[p6c1] (A) A escolha do parceiro se deve às suas características
+[p6c1] particulares, vinculada a oportunidades de negócio
+[p6c1] específicas, justificando a inviabilidade de um procedimento
+[p6c1] competitivo.
+[p6c1] (B) A celebração de contratos com terceiros destinados à
+[p6c1] prestação de serviços de engenharia, abrangendo serviços
+[p6c1] como planejamento, projeto, construção, manutenção e
+[p6c1] consultoria técnica.
+[p6c1] (C) A execução direta de serviços de publicidade que envolva a
+[p6c1] criação, produção e veiculação de campanhas publicitárias
+[p6c1] realizadas internamente na própria entidade.
+[p6c1] (D) A alienação de bens e ativos do patrimônio, bem como a
+[p6c1] execução de obras que serão incorporadas a esse patrimônio
+[p6c1] para garantir a eficiência nas operações.
+[p6c1] (E) A aquisição e a locação de bens que contribuam para a
+[p6c1] maximização de recursos, otimização de operações e o alcance
+[p6c1] das metas organizacionais.
+[p6c1] Valor Público Gerado pela EPE
+[p6c1] 29
+[p6c1] Em relação às atribuições da Empresa de Pesquisa Energética –
+[p6c1] EPE, assinale a afirmativa incorreta.
+[p6c1] (A) Realizar estudos e projeções da matriz energética brasileira.
+[p6c1] (B) Elaborar e publicar o balanço energético nacional.
+[p6c1] (C) Identificar e quantificar os potenciais de recursos energéticos.
+[p6c1] (D) Realizar estudos para a determinação dos aproveitamentos
+[p6c1] ótimos dos potenciais hidráulicos.
+[p6c1] (E) Desenvolver estudos para incrementar a utilização de carvão
+[p6c1] mineral e vegetal nacional.
+[p6c1] 30
+[p6c1] O Decreto nº 5.184, de 16 de agosto de 2005, criou a Empresa de
+[p6c1] Pesquisa Energética - EPE, aprovou seu Estatuto Social e deu
+[p6c1] outras providências.
+[p6c1] Segundo o Anexo I desse Decreto, foram transferidas, para a
+[p6c1] constituição do patrimônio inicial da EPE, as ações das empresas
+[p6c1] de telecomunicações de titularidade da União listadas a seguir, à
+[p6c1] exceção de uma. Assinale-a.
+[p6c1] (A) Brasil Telecom Participações.
+[p6c1] (B) Brasil Telecom.
+[p6c1] (C) TIM Sul.
+[p6c1] (D) Claro Norte.
+[p6c1] (E) Telemar.
+[p6c1] IA DE DADOS – TARDE TIPO BRANCA – PÁGINA 6
+[p7c0] 31
+[p7c0] Com base no planejamento estratégico da Empresa de Pesquisa
+[p7c0] Energética – EPE (ciclo 2024-2028), relacione os atributos que
+[p7c0] definem a identidade empresarial da EPE, listados a seguir, às suas
+[p7c0] respectivas características.
+[p7c0] ( ) Negócio
+[p7c0] ( ) Missão
+[p7c0] ( ) Visão
+[p7c0] ( ) Valores Organizacionais
+[p7c0] 1. Realizar estudos e pesquisas de alta qualidade visando
+[p7c0] subsidiar o Planejamento, o Desenvolvimento e a Política
+[p7c0] Energética Nacional.
+[p7c0] 2. Ser uma organização proativa, inovadora e reconhecida por
+[p7c0] sua excelência técnica em estudos e pesquisas no Setor
+[p7c0] Energético.
+[p7c0] 3. Realização de estudos e pesquisas para subsidiar a formulação,
+[p7c0] implementação e avaliação da Política e do Planejamento
+[p7c0] Energético Brasileiro.
+[p7c0] 4. Os norteadores das ações dos empregados e dirigentes da
+[p7c0] empresa inclui: comprometimento e inovação, dentre outros.
+[p7c0] Assinale a opção que apresenta a relação correta, segundo a
+[p7c0] ordem apresentada.
+[p7c0] (A) 1 – 2 – 3 – 4.
+[p7c0] (B) 2 – 3 – 4 – 1.
+[p7c0] (C) 3 – 1 – 2 – 4.
+[p7c0] (D) 3 – 2 – 1 – 4.
+[p7c0] (E) 4 – 1 – 2 – 3.
+[p7c0] 32
+[p7c0] Em relação ao tópico valor público da EPE, avalie as afirmativas a
+[p7c0] seguir e assinale (V) para a verdadeira e (F) para a falsa.
+[p7c0] ( ) Em consonância com a visão integrada do setor energético
+[p7c0] brasileiro, o valor público gerado ao acionista pelas atividades
+[p7c0] desenvolvidas pela EPE está organizado em quatro eixos
+[p7c0] principais: formulação, implementação, avaliação e redução.
+[p7c0] ( ) A participação da EPE na formulação de políticas de energia se
+[p7c0] dá por meio da realização de estudos técnicos imparciais e não
+[p7c0] capturados por interesses econômicos ou comerciais, que
+[p7c0] auxiliam o Ministério de Minas e Energia (MME) na tomada de
+[p7c0] decisão, provendo evidências e fundamentos.
+[p7c0] ( ) A EPE desenvolve diversos estudos e análises que identificam
+[p7c0] o impacto das decisões e políticas passadas e vigentes
+[p7c0] adotadas para o setor energético, contribuindo para o ciclo
+[p7c0] PDCA (Plan, Do, Check, Act) da Política Energética Nacional.
+[p7c0] As afirmativas são, respectivamente,
+[p7c0] (A) V – V – V.
+[p7c0] (B) V – V – F.
+[p7c0] (C) V – F – V.
+[p7c0] (D) F – F – V.
+[p7c0] (E) F – F – F.
+[p7c0] ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI
+[p7c1] 33
+[p7c1] Assinale a opção que apresenta uma característica do Estatuto
+[p7c1] Social da EPE, aprovado em 30 de abril de 2024.
+[p7c1] (A) O prazo de duração da Companhia passa a ser de 30 anos, a
+[p7c1] partir da data da publicação do Estatuto.
+[p7c1] (B) O capital social da Companhia poderá ser alterado nas
+[p7c1] hipóteses previstas em lei, vedada a capitalização direta do
+[p7c1] lucro sem trâmite pela conta de reservas.
+[p7c1] (C) A Companhia tem sede, foro e escritório central em
+[p7c1] Brasília/DF, podendo criar filiais, agências, escritórios,
+[p7c1] representações ou quaisquer outros estabelecimentos no País.
+[p7c1] (D) O objeto social da empresa inclui prestar serviços na área de
+[p7c1] estudos e pesquisas destinadas a subsidiar o planejamento do
+[p7c1] setor energético, tais como energia elétrica, petróleo e gás
+[p7c1] natural, carvão mineral e vegetal, fontes energéticas
+[p7c1] renováveis e não renováveis.
+[p7c1] (E) A Companhia não poderá ter suas atividades orientadas pela
+[p7c1] União, visto que o objeto social da empresa inclui o interesse
+[p7c1] público que justificou a sua criação.
+[p7c1] 34
+[p7c1] As opções a seguir listam órgãos estatutários que compõem a
+[p7c1] estrutura administrativa da EPE, à exceção de um. Assinale-o.
+[p7c1] (A) Conselho de Administração.
+[p7c1] (B) Diretoria Executiva.
+[p7c1] (C) Conselho Fiscal.
+[p7c1] (D) Conselho Consultivo (Concepe).
+[p7c1] (E) Comitê de Ética.
+[p7c1] 35
+[p7c1] A EPE possui ferramentas interativas sobre consumo e oferta de
+[p7c1] energia, mapeamento de projetos de energia, entre outras.
+[p7c1] Avalie se essas ferramentas incluem:
+[p7c1] I. Balanço Energético Nacional.
+[p7c1] II. Dashboard Biometano-RJ.
+[p7c1] III. Inova-e.
+[p7c1] Está correto o que se apresenta em
+[p7c1] (A) I, apenas.
+[p7c1] (B) I e II, apenas.
+[p7c1] (C) I e III, apenas.
+[p7c1] (D) II e III, apenas.
+[p7c1] (E) I, II e III.
+[p7c1] IA DE DADOS – TARDE TIPO BRANCA – PÁGINA 7
+[p8c0] Conhecimentos Específicos
+[p8c0] 36
+[p8c0] Há uma família de modelos de IA generativa que tem dois modelos
+[p8c0] treinados em conjunto: o gerador e o discriminador.
+[p8c0] O gerador tenta criar dados falsos que sejam indistinguíveis dos
+[p8c0] dados reais, enquanto que o discriminador tenta distinguir entre
+[p8c0] dados reais e falsos. O treinamento é um jogo min-max, em que o
+[p8c0] gerador melhora suas habilidades para enganar o discriminador, e
+[p8c0] o discriminador melhora suas habilidades para detectar dados
+[p8c0] falsos.
+[p8c0] Assinale a opção que apresenta as características do modelo de IA
+[p8c0] generativa descritas no texto.
+[p8c0] (A) Generative Adversarial Networks.
+[p8c0] (B) Variational Autoencoders.
+[p8c0] (C) Energy-Based Models.
+[p8c0] (D) Autoregressive Models.
+[p8c0] (E) Normalizing Flow Models.
+[p8c0] 37
+[p8c0] O Decreto nº 6.021/2007 criou a Comissão Interministerial de
+[p8c0] Governança Corporativa e de Administração de Participações
+[p8c0] Societárias da União - CGPAR, e deu outras providências.
+[p8c0] Em relação à Resolução CGPAR nº 29/2022, analise os itens a
+[p8c0] seguir.
+[p8c0] I. Estabelece orientações para todas as empresas estatais para a
+[p8c0] contratação de bens e serviços de tecnologia da informação
+[p8c0] (TI).
+[p8c0] II. Recomenda dentro de sua abrangência que sejam adquiridos
+[p8c0] a quantidade de licenças e programas de computador e de
+[p8c0] serviços agregados estritamente compatível com a
+[p8c0] necessidade.
+[p8c0] III. Recomenda que, dentro de sua abrangência, que nos casos em
+[p8c0] que quando houver risco de dependência em relação a uma
+[p8c0] determinada solução tecnológica, sejam elaborados estudos
+[p8c0] técnicos preliminares à contratação para entre outros, avaliar
+[p8c0] o grau de dependência e avaliar a relação custo-benefício da
+[p8c0] solução a ser contratada. de manter a solução.
+[p8c0] Está correto o que se afirma em
+[p8c0] (A) I, apenas.
+[p8c0] (B) I e II, apenas.
+[p8c0] (C) I e III apenas.
+[p8c0] (D) II e III apenas.
+[p8c0] (E) I, II e III.
+[p8c0] ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI
+[p8c1] 38
+[p8c1] Microsoft 365 é um conjunto de serviços de assinatura oferecido
+[p8c1] pela Microsoft que inclui uma gama de produtos e serviços
+[p8c1] voltados para a produtividade, a colaboração e a segurança.
+[p8c1] Correlacione as ferramentas, aplicativos ou produtos do Microsoft
+[p8c1] 365 listados a seguir, às suas respectivas funcionalidades ou
+[p8c1] descrições.
+[p8c1] 1. Microsoft Planner
+[p8c1] 2. Microsoft SharePoint
+[p8c1] 3. Microsoft to Do
+[p8c1] 4. Microsoft Sway
+[p8c1] ( ) É utilizado para criar sites, de forma fácil, nos quais é possível
+[p8c1] compartilhar, de forma segura, dados, notícias, aplicativos e
+[p8c1] informações com membros de sua equipe, dentro e fora da
+[p8c1] organização. Esses dados podem ser acessados por qualquer
+[p8c1] dispositivo com um navegador web.
+[p8c1] ( ) É utilizada para a criação e o compartilhamento de relatórios
+[p8c1] interativos, de histórias pessoais e de apresentações,
+[p8c1] permitindo a integração de texto, imagens e outros conteúdos
+[p8c1] de multimídia de forma moderna, interativa e atraente.
+[p8c1] ( ) É uma ferramenta intuitiva e colaborativa de gerenciamento
+[p8c1] de tarefas que permite que as pessoas planejem, gerenciem e
+[p8c1] concluam iniciativas baseadas em tarefas, atribuídas por meio
+[p8c1] de um painel do tipo Kanban.
+[p8c1] ( ) É projetada para ajudar o usuário a organizar e priorizar suas
+[p8c1] atividades diárias por meio de listas de tarefas.
+[p8c1] Assinale a opção que indica a relação correta, segundo a ordem
+[p8c1] apresentada.
+[p8c1] (A) 1 – 4 – 2 – 3.
+[p8c1] (B) 4 – 2 – 3 – 1.
+[p8c1] (C) 2 – 1 – 3 – 4.
+[p8c1] (D) 4 – 3 – 1 – 2.
+[p8c1] (E) 2 – 4 – 1 – 3.
+[p8c1] 39
+[p8c1] O Excel é um programa de desenvolvimento de planilhas digitais
+[p8c1] criado pela Microsoft na década de 1980.
+[p8c1] Devido ao renome da marca, a longa trajetória do software e as
+[p8c1] suas excelentes funcionalidades, atualmente, o Excel é um dos
+[p8c1] aplicativos mais utilizados por empresas no mundo.
+[p8c1] Assinale a opção que apresenta a funcionalidade do Excel que
+[p8c1] permite automatizar tarefas repetitivas.
+[p8c1] (A) Tabela Dinâmica.
+[p8c1] (B) Power Query.
+[p8c1] (C) Colaboração em tempo real.
+[p8c1] (D) Macro.
+[p8c1] (E) Validação de Dados.
+[p8c1] 40
+[p8c1] Com relação ao diagrama de entidade relacionamento no contexto
+[p8c1] da engenharia de software, analise as afirmativas a seguir.
+[p8c1] I. O diagrama é utilizado em projetos de desenvolvimento de
+[p8c1] software que não utilizam banco de dados.
+[p8c1] II. Os relacionamentos entre entidades podem ser do tipo 1:1,
+[p8c1] 1:n ou n:n.
+[p8c1] III. No diagrama, elipses representam atributos.
+[p8c1] Está correto o que se afirma em
+[p8c1] (A) I, apenas.
+[p8c1] (B) I e II, apenas.
+[p8c1] (C) I e III, apenas.
+[p8c1] (D) II e III, apenas.
+[p8c1] (E) I, II e III.
+[p8c1] IA DE DADOS – TARDE TIPO BRANCA – PÁGINA 8
+[p9c0] 41
+[p9c0] Considere a relação a seguir.
+[p9c0] PRODUCAO (Cod_país, Fonte_energética, Ano,
+[p9c0] Capacidade_instalada, Fator_eficiência, Produção_anual)
+[p9c0] Essa relação apresenta a capacidade instalada, o fator de eficiência
+[p9c0] e a produção anual de uma determinada fonte energética por um
+[p9c0] determinado país (Cod_país) em um determinado ano.
+[p9c0] A capacidade instalada, o fator de eficiência e a produção
+[p9c0] anual dependem do país, da fonte energética e do ano
+[p9c0] considerado. Considere ainda que {Cod_país, Fonte_energética,
+[p9c0] Ano} é a chave primária, e que a relação apresenta ainda a
+[p9c0] dependência funcional Capacidade_instalada, Fator_eficiência ->
+[p9c0] Produção_anual.
+[p9c0] Sobre o processo de normalização e as formas normais, assinale a
+[p9c0] afirmativa correta.
+[p9c0] (A) A relação está na 2FN.
+[p9c0] (B) Há dependências parciais na relação apresentada.
+[p9c0] (C) A relação está na 3FN.
+[p9c0] (D) Não há dependência transitiva na relação apresentada.
+[p9c0] (E) A relação está na 4FN.
+[p9c0] 42
+[p9c0] Leia o fragmento a seguir.
+[p9c0] Estas propriedades são fundamentais para a estruturação e a
+[p9c0] modelagem de dados em bancos de dados, permitindo modelar
+[p9c0] interações significativas entre diferentes entidades.
+[p9c0] Esse conceito refere-se a
+[p9c0] (A) atributo.
+[p9c0] (B) chave.
+[p9c0] (C) relacionamento.
+[p9c0] (D) entidade fraca.
+[p9c0] (E) polimorfismo.
+[p9c0] 43
+[p9c0] Com o objetivo de atender às necessidades específicas de
+[p9c0] processamento, acesso e análise de informações, diferentes
+[p9c0] tecnologias podem ser empregadas para o armazenamento de
+[p9c0] dados.
+[p9c0] Nesse contexto, é correto afirmar que Data Warehouses
+[p9c0] (A) são ideais para armazenar grandes volumes de dados
+[p9c0] estruturados e não estruturados.
+[p9c0] (B) separam os dados em zonas, de acordo com o nível de
+[p9c0] processamento, do mais bruto ao mais refinado.
+[p9c0] (C) empregam o método ELT (Extract, Load, Transform) no
+[p9c0] processo ingestão de dados.
+[p9c0] (D) são ineficazes para a realização de consultas complexas em
+[p9c0] grandes volumes de dados estruturados.
+[p9c0] (E) são otimizados para a geração de relatórios de dados
+[p9c0] estruturados, provenientes de diversas fontes.
+[p9c0] ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI
+[p9c1] 44
+[p9c1] Fluxo, feedback e aprendizado contínuo, as Três Maneiras, são
+[p9c1] princípios básicos a partir dos quais são derivados todos os
+[p9c1] comportamentos e padrões observados no universo DevOps.
+[p9c1] Isso posto, assinale a opção que apresenta duas práticas da
+[p9c1] maneira fluxo.
+[p9c1] (A) Empregar telemetria para antecipar problemas e automatizar
+[p9c1] releases de baixo risco.
+[p9c1] (B) Integrar desenvolvimento guiado por hipóteses e injetar
+[p9c1] aprendizado no trabalho diário.
+[p9c1] (C) Investir na criação de aprendizado organizacional e
+[p9c1] implementar testes automatizados, rápidos e confiáveis.
+[p9c1] (D) Integrar testes A/B ao trabalho diário e converter descobertas
+[p9c1] locais em melhorias globais.
+[p9c1] (E) Criar a base do pipeline de implementação e praticar
+[p9c1] integração contínua.
+[p9c1] 45
+[p9c1] A respeito dos conceitos de DevOps, analise as afirmativas a seguir
+[p9c1] e assinale (V) para a verdadeira e (F) para a falsa.
+[p9c1] ( ) Uma das práticas da Integração Contínua é estimular que a
+[p9c1] equipe de desenvolvimento agregue código em um repositório
+[p9c1] compartilhado várias vezes ao dia.
+[p9c1] ( ) Executar casos de teste automatizados e compilar o código-
+[p9c1] fonte são tarefas de ferramentas de automação de build, como
+[p9c1] Cucumber, Travis CI e Zabbix.
+[p9c1] ( ) Configuration Management é eficiente quando nem todas as
+[p9c1] instalações e modificações são aplicadas novamente aos
+[p9c1] servidores, atualizando apenas o comportamento alterado.
+[p9c1] As afirmativas são, respectivamente,
+[p9c1] (A) V – V – F.
+[p9c1] (B) V – F – V.
+[p9c1] (C) F – V – V.
+[p9c1] (D) V – F – F.
+[p9c1] (E) F – F – V.
+[p9c1] 46
+[p9c1] Uma plataforma de desenvolvimento fornece recursos como
+[p9c1] servidores, bancos de dados e ambientes de desenvolvimento
+[p9c1] integrados (IDEs) necessários para criar, testar e implantar uma
+[p9c1] aplicação web.
+[p9c1] Assinale a opção que apresenta o modelo de serviço de
+[p9c1] computação em nuvem no qual essa plataforma se enquadra.
+[p9c1] (A) SaaS.
+[p9c1] (B) DaaS.
+[p9c1] (C) IaaS.
+[p9c1] (D) PaaS.
+[p9c1] (E) AiaaS.
+[p9c1] IA DE DADOS – TARDE TIPO BRANCA – PÁGINA 9
+[p10c0] 47
+[p10c0] Considerando os conceitos de gerenciamento de projetos, analise
+[p10c0] as afirmativas a seguir.
+[p10c0] I. A linha de base do escopo, composta pela especificação do
+[p10c0] escopo do projeto, pela EAP e pelo dicionário da EAP, é
+[p10c0] considerada a referência para o monitoramento e o controle
+[p10c0] do projeto.
+[p10c0] II. O pacote de trabalho é considerado o nível mais baixo de uma
+[p10c0] EAP e não pode ser decomposto em atividades.
+[p10c0] III. Não há diferença entre escopo do produto e o escopo do
+[p10c0] projeto, haja vista que os dois se referem aos objetivos do
+[p10c0] projeto.
+[p10c0] Está correto o que se afirma em
+[p10c0] (A) I, apenas.
+[p10c0] (B) II, apenas.
+[p10c0] (C) III, apenas.
+[p10c0] (D) I e II, apenas.
+[p10c0] (E) II e III, apenas.
+[p10c0] 48
+[p10c0] Considerando o ciclo de vida de um projeto, analise as afirmativas
+[p10c0] a seguir.
+[p10c0] I. No ciclo de vida preditivo, o esforço de planejamento ocorre
+[p10c0] nas fases intermediárias do projeto. É a abordagem mais
+[p10c0] tradicional e se trata de processos sequenciais.
+[p10c0] II. No ciclo de vida iterativo é permitido, de tempos em tempos,
+[p10c0] algum tipo de retorno por parte das principais partes
+[p10c0] interessadas engajadas no projeto. A equipe do projeto recebe
+[p10c0] feedbacks sobre os trabalhos ainda não finalizados, com o
+[p10c0] objetivo de melhorar o que está sendo produzido.
+[p10c0] III. O ciclo de vida ágil é formado pela junção dos ciclos de vida
+[p10c0] preditivo e incremental. As atividades são planejadas somente
+[p10c0] no início do projeto e as versões incompletas são entregues,
+[p10c0] de tempos em tempos, para que sejam avaliadas pelo cliente.
+[p10c0] Está correto o que se afirma em
+[p10c0] (A) I, apenas.
+[p10c0] (B) II, apenas.
+[p10c0] (C) III, apenas.
+[p10c0] (D) I e II, apenas.
+[p10c0] (E) II e III, apenas.
+[p10c0] 49
+[p10c0] Considerando a Estrutura Analítica do Projeto (EAP), analise as
+[p10c0] afirmativas a seguir.
+[p10c0] I. Para confeccionar a EAP é necessário considerar somente as
+[p10c0] entregas mais importantes, isto é, as entregas que podem
+[p10c0] comprometer as folgas livres do projeto.
+[p10c0] II. Cada nível descendente da EAP representa uma definição
+[p10c0] gradualmente menos detalhada do trabalho do projeto.
+[p10c0] III. A EAP não demonstra as sequências de trabalho de seus itens,
+[p10c0] isto é, não mostra a sequência em que os itens devem ser
+[p10c0] executados.
+[p10c0] Está correto o que se afirma em
+[p10c0] (A) I, apenas.
+[p10c0] (B) II, apenas.
+[p10c0] (C) III, apenas.
+[p10c0] (D) I e II, apenas.
+[p10c0] (E) II e III, apenas.
+[p10c0] ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI
+[p10c1] 50
+[p10c1] Considerando o cronograma de um projeto, analise as afirmativas
+[p10c1] a seguir.
+[p10c1] I. O caminho crítico é a sequência de atividades de um diagrama
+[p10c1] de rede que não permite atrasos. Ou seja, se uma atividade
+[p10c1] desse caminho atrasar, o projeto também atrasará.
+[p10c1] II. Com a determinação de datas de início e término mais cedo e
+[p10c1] de início e término mais tarde de cada atividade,
+[p10c1] desconsiderando qualquer tipo de limitação de outros
+[p10c1] recursos envolvidos, é possível identificar o caminho crítico de
+[p10c1] um projeto.
+[p10c1] III. A folga livre significa quanto tempo uma atividade pode
+[p10c1] atrasar sem que haja impacto no término do projeto.
+[p10c1] Está correto o que se afirma em
+[p10c1] (A) I, apenas.
+[p10c1] (B) II, apenas.
+[p10c1] (C) III, apenas.
+[p10c1] (D) I e II, apenas.
+[p10c1] (E) II e III, apenas.
+[p10c1] 51
+[p10c1] Considerando as técnicas e as ferramentas da gerência de um
+[p10c1] projeto, analise as afirmativas a seguir.
+[p10c1] I. As técnicas de coleta de dados, tais como listas de verificação,
+[p10c1] grupos de discussão, entrevistas e brainstorming, são
+[p10c1] utilizadas para obter dados de forma mais eficiente.
+[p10c1] II. Análise de dados, opinião especializada, representação de
+[p10c1] dados e mapa mental não são exemplos de ferramentas e
+[p10c1] técnicas da gerência de um projeto.
+[p10c1] III. Como técnica e ferramenta de um projeto é possível encontrar
+[p10c1] as estimativas análoga, paramétrica, única, de três pontos e a
+[p10c1] bottom-up, por exemplo.
+[p10c1] Está correto o que se afirma em:
+[p10c1] (A) I, apenas.
+[p10c1] (B) II, apenas.
+[p10c1] (C) III, apenas.
+[p10c1] (D) I e II, apenas.
+[p10c1] (E) I e III, apenas.
+[p10c1] 52
+[p10c1] Uma empresa decidiu utilizar o Power BI para poder gerenciar
+[p10c1] melhor os seus dados. Dessa forma, contratou um especialista
+[p10c1] para criar um dashboard com o objetivo de melhorar a visualização
+[p10c1] de seus negócios.
+[p10c1] Sobre as a construção de dashboards, assinale a afirmativa correta.
+[p10c1] (A) Pode ter uma ou mais páginas.
+[p10c1] (B) Está disponível no Power BI Desktop.
+[p10c1] (C) Não se pode definir alertas.
+[p10c1] (D) Não se pode assinar um dashboard.
+[p10c1] (E) Permitem realizar consultas de linguagem natural (P e R).
+[p10c1] 53
+[p10c1] Um analista da área de tecnologia da informação recebeu um
+[p10c1] conjunto de dados sobre o consumo de energia elétrica de
+[p10c1] indústrias no formato de distribuição de frequência.
+[p10c1] Assinale a opção que indica o tipo de gráfico mais adequado para
+[p10c1] representar essa distribuição de frequência.
+[p10c1] (A) Gráfico de Dispersão.
+[p10c1] (B) Gráfico de Séries Temporais.
+[p10c1] (C) Gráfico de Barras.
+[p10c1] (D) Histograma.
+[p10c1] (E) Boxplot.
+[p10c1] IA DE DADOS – TARDE TIPO BRANCA – PÁGINA 10
+[p11c0] 54
+[p11c0] Um analista da área de ciência de dados construiu um histograma
+[p11c0] levando em consideração uma determinada base de dados. Para
+[p11c0] incluir uma curva nesse histograma foi utilizado a função
+[p11c0] as.timeSeries.
+[p11c0] Essa função pertence à biblioteca
+[p11c0] (A) Graphics.
+[p11c0] (B) grDevices.
+[p11c0] (C) fBasics.
+[p11c0] (D) ggplot2.
+[p11c0] (E) Base.
+[p11c0] 55
+[p11c0] Na Ciência de Dados é muito comum a utilização da linguagem
+[p11c0] Python e do R para visualização de dados.
+[p11c0] Sobre as diferenças entre essas duas ferramentas, analise as
+[p11c0] afirmativas a seguir.
+[p11c0] I. Python possui um padrão mais bem definido, permitindo que
+[p11c0] diferentes tipos de funcionalidades sejam escritos da mesma
+[p11c0] forma, enquanto no R, a mesma funcionalidade pode ser
+[p11c0] escrita de diversas formas diferentes.
+[p11c0] II. Python é principalmente usada quando a análise de dados
+[p11c0] precisa ser integrada com aplicativos web ou se o código
+[p11c0] estatístico precisa ser integrado em um servidor em ambiente
+[p11c0] de produção, que vai servir muitos usuários, enquanto o R é
+[p11c0] principalmente usado quando as atividades de análise de
+[p11c0] dados requerem computação standalone (em um único
+[p11c0] computador) ou análise em servidores individuais.
+[p11c0] III. Tanto o Python quanto o R foram criados inicialmente para
+[p11c0] análise de dados.
+[p11c0] Está correto o que se afirma em
+[p11c0] (A) I, apenas.
+[p11c0] (B) I e II, apenas.
+[p11c0] (C) I e III, apenas.
+[p11c0] (D) II e III, apenas.
+[p11c0] (E) I, II e III.
+[p11c0] 56
+[p11c0] O pacote dplyr do R é um dos mais usados para manipulação de
+[p11c0] dados.
+[p11c0] Assinale a opção que indica o conjunto de funções auxiliares desse
+[p11c0] pacote que são muito úteis para a seleção de colunas.
+[p11c0] (A) starts_with() e arrange().
+[p11c0] (B) starts_with() e contains().
+[p11c0] (C) contains() e mutate().
+[p11c0] (D) ends_with() e arrange().
+[p11c0] (E) ends_with() e mutate().
+[p11c0] ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI
+[p11c1] 57
+[p11c1] As técnicas de aprendizado supervisionado estão baseadas na
+[p11c1] determinação de modelos capazes de otimizar o mapeamento
+[p11c1] entre entradas e saídas de um conjunto de dados. Por vezes, o
+[p11c1] processo de treinamento pode gerar modelos muito complexos
+[p11c1] que “aprendem” o ruído existente nos conjuntos de dados,
+[p11c1] caracterizando o fenômeno de sobreajuste ou overfitting.
+[p11c1] Um método que pode ajudar a mitigar a ocorrência do overfitting
+[p11c1] consiste em
+[p11c1] I. dividir o conjunto de dados em k partes;
+[p11c1] II. utilizar uma das partes para teste e as outras k-1 para
+[p11c1] treinamento;
+[p11c1] III. repetir o processo para cada uma das k partes do conjunto de
+[p11c1] dados; e
+[p11c1] IV. avaliar a média das métricas de performance para o modelo.
+[p11c1] O método acima é chamado de
+[p11c1] (A) k vizinhos mais próximos (k nearest neighbors ou k-NN).
+[p11c1] (B) retropropagação (backpropagation).
+[p11c1] (C) validação cruzada (cross-validation).
+[p11c1] (D) regularização Lasso (Lasso regularization).
+[p11c1] (E) comitê de modelos (model ensembling).
+[p11c1] 58
+[p11c1] O algoritmo conhecido por Naïve Bayes, apesar de ter limitações
+[p11c1] devido às suas premissas de simplificação, é bastante utilizado e
+[p11c1] costuma apresentar boa performance para a classificação de
+[p11c1] instâncias de dados.
+[p11c1] Considere o conjunto de dados a seguir, que apresenta, de forma
+[p11c1] simplificada, as características de uma amostra de 1600 animais de
+[p11c1] estimação.
+[p11c1] Pelos Comportamento
+[p11c1] Animal Pequenos Totais
+[p11c1] longos agitado
+[p11c1] Cães 560 480 320 800
+[p11c1] Gatos 480 120 180 600
+[p11c1] Outros 140 20 60 200
+[p11c1] Sejam dois novos animais de estimação identificados por A e B, tais
+[p11c1] que:
+[p11c1] • A é pequeno, com pelos curtos e de comportamento agitado;
+[p11c1] • B é grande, com pelos longos e de comportamento agitado.
+[p11c1] Aplicando o algoritmo Naïve Bayes, assinale a opção que
+[p11c1] apresenta as classes mais prováveis dos animais A e B,
+[p11c1] respectivamente.
+[p11c1] (A) Cão, Outro.
+[p11c1] (B) Gato, Cão.
+[p11c1] (C) Cão, Cão.
+[p11c1] (D) Gato, Outro.
+[p11c1] (E) Outro, Gato.
+[p11c1] IA DE DADOS – TARDE TIPO BRANCA – PÁGINA 11
+[p12c0] 59
+[p12c0] A análise de componentes principais (Principal Component
+[p12c0] Analysis - PCA) é uma técnica consagrada para a redução de
+[p12c0] dimensionalidade e para a identificação de padrões estruturais
+[p12c0] lineares em conjuntos de dados.
+[p12c0] Com relação à análise de componentes principais, analise as
+[p12c0] afirmativas a seguir e assinale (V) para a verdadeiras e (F) para a
+[p12c0] falsa.
+[p12c0] ( ) Baseia-se na identificação dos autovetores da matriz de
+[p12c0] covariâncias dos dados, permitindo ao analista determinar
+[p12c0] direções de maiores variações nas instâncias de dados.
+[p12c0] ( ) Permite a seleção e a eliminação das dimensões referentes às
+[p12c0] direções de maiores variações nas instâncias de dados, que por
+[p12c0] sua vez contribuem com poucas informações úteis para a
+[p12c0] análise do conjunto de dados.
+[p12c0] ( ) É utilizada em compressão de dados, pois permite a
+[p12c0] representação dos dados em menos dimensões que são
+[p12c0] facilmente interpretáveis pelo analista, sem grandes perdas de
+[p12c0] informações.
+[p12c0] As afirmativas são, respectivamente.
+[p12c0] (A) V – V – V.
+[p12c0] (B) F – V – V.
+[p12c0] (C) V – F – V.
+[p12c0] (D) V – V – F.
+[p12c0] (E) V – F – F.
+[p12c0] 60
+[p12c0] Algoritmos de agrupamento são fundamentais para a área de
+[p12c0] aprendizado de máquina não supervisionado. Em geral, esses
+[p12c0] algoritmos determinam clusters de instâncias de dados que
+[p12c0] possuem algum traço de similaridade entre si.
+[p12c0] Relacione os métodos de agrupamento hierárquico e o K-means às
+[p12c0] suas principais características.
+[p12c0] 1. Agrupamento Hierárquico
+[p12c0] 2. K-means
+[p12c0] ( ) Seus resultados são altamente sensíveis ao número de clusters
+[p12c0] que deve ser pré-definido pelo usuário do algoritmo.
+[p12c0] ( ) Baseia-se em abordagens top-down ou bottom-up, isto é, com
+[p12c0] a divisão ou com a união sucessiva de clusters.
+[p12c0] ( ) Seus resultados costumam ser graficamente visualizados por
+[p12c0] dendrogramas, que podem ser seccionados de acordo com o
+[p12c0] número de clusters determinado pelo usuário do algoritmo.
+[p12c0] ( ) Avalia distâncias entre as instâncias de dados e os centroides
+[p12c0] dos clusters e atualiza a posição dos centroides dos clusters
+[p12c0] sucessivamente, até a convergência.
+[p12c0] Assinale a opção que indica a relação correta, na ordem
+[p12c0] apresentada.
+[p12c0] (A) 2 – 1 – 2 – 1.
+[p12c0] (B) 2 – 2 – 2 – 1.
+[p12c0] (C) 2 – 1 – 2 – 2.
+[p12c0] (D) 2 – 1 – 1 – 2.
+[p12c0] (E) 1 – 1 – 2 – 2.
+[p12c0] ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI
+[p12c1] 61
+[p12c1] Um pesquisador desenvolveu um estudo longitudinal para analisar
+[p12c1] o consumo de energia elétrica mensal de empresas do setor
+[p12c1] energético de determinada região, ao longo dos últimos 40 anos.
+[p12c1] Analisando a base de dados coletada, o pesquisador verificou que
+[p12c1] a base tinha vários dados faltantes e que necessitava utilizar
+[p12c1] alguma técnica de imputação de dados.
+[p12c1] Assinale a opção que apresenta a técnica mais apropriada para o
+[p12c1] estudo do pesquisador.
+[p12c1] (A) A substituição por um valor de tendência central.
+[p12c1] (B) A predição por meio de um modelo de regressão linear
+[p12c1] simples.
+[p12c1] (C) O algoritmo EM.
+[p12c1] (D) O último valor observado.
+[p12c1] (E) O método de Monte Carlo.
+[p12c1] 62
+[p12c1] Um modelo de regressão múltipla foi utilizado para estudar o
+[p12c1] consumo do gás natural em função de vários fatores levantados
+[p12c1] por especialistas. Nesse modelo adotado foi realizado uma análise
+[p12c1] de resíduos e verificou-se a presença de outliers.
+[p12c1] Para verificar se um outlier é influente ou não, o método mais
+[p12c1] apropriado seria
+[p12c1] (A) Distância de Cook.
+[p12c1] (B) Distância de Mahalanobis.
+[p12c1] (C) Teste de Grubbs.
+[p12c1] (D) Vizinho mais próximo.
+[p12c1] (E) Boxplot.
+[p12c1] 63
+[p12c1] O treinamento em redes neurais artificiais é, essencialmente, um
+[p12c1] problema de otimização, em que se busca minimizar o erro entre
+[p12c1] as predições do modelo neural e os valores alvo preexistentes no
+[p12c1] conjunto de dados de treinamento.
+[p12c1] Com respeito aos métodos relacionados à otimização de
+[p12c1] parâmetros em redes neurais artificiais, analise as afirmativas a
+[p12c1] seguir.
+[p12c1] I. No algoritmo backpropagation, a aplicação da regra da cadeia
+[p12c1] é fundamental para o cálculo dos gradientes dos erros com
+[p12c1] respeito aos pesos (parâmetros) da rede neural artificial.
+[p12c1] II. O método do gradiente (também chamado de método do
+[p12c1] máximo declive ou Gradient Descent – GD) escolhe
+[p12c1] aleatoriamente um pequeno número de instâncias de dados
+[p12c1] de treinamento a cada passo, aumentando a velocidade inicial
+[p12c1] de minimização das métricas de erro.
+[p12c1] III. As técnicas de regularização L1 (Lasso) e L2 (Ridge) podem ser
+[p12c1] utilizadas para mitigar problemas relacionados a inicialização
+[p12c1] indevida de pesos (parâmetros) em redes neurais.
+[p12c1] Está correto o que se afirma em
+[p12c1] (A) I, apenas.
+[p12c1] (B) II, apenas.
+[p12c1] (C) I e III, apenas.
+[p12c1] (D) II e III, apenas.
+[p12c1] (E) I, II e III.
+[p12c1] IA DE DADOS – TARDE TIPO BRANCA – PÁGINA 12
+[p13c0] NSCE007-00_29
+[p13c0] O pacote neuralnet, da linguagem R, é uma ferramenta útil para a
+[p13c0] definição e para o treinamento de redes neurais, disponibilizando
+[p13c0] ao usuário uma interface relativamente simples.
+[p13c0] Uma das limitações do pacote neuralnet é não oferecer ao usuário
+[p13c0] muitas opções pré-definidas de funções de ativação. Caso o
+[p13c0] usuário deseje utilizar uma função de ativação diferente das únicas
+[p13c0] duas já pré-definidas no pacote, é preciso definí-la e atribuí-la por
+[p13c0] meio do argumento act.fct.
+[p13c0] Ao invocar o método neuralnet para o treinamento de uma
+[p13c0] rede neural, caso o argumento act.fct não seja explicitamente
+[p13c0] determinado na chamada do método, a função de ativação padrão
+[p13c0] utilizada nos neurônios da rede será
+[p13c0] (A) Tangente Hiperbólica (tanh).
+[p13c0] (B) Logística (também chamada de sigmoide).
+[p13c0] (C) Unidade Linear Retificada (Rectified Linear Unit - ReLU).
+[p13c0] (D) Softplus.
+[p13c0] (E) Softmax.
+[p13c0] 65
+[p13c0] Sistemas de Informações Geográficas (SIG) são recursos valiosos
+[p13c0] para instituições cujos negócios demandam a tomada de decisões
+[p13c0] baseadas na geolocalização de objetos e fenômenos. Entre as
+[p13c0] funcionalidades inerentes aos SIG, algumas destinam-se à
+[p13c0] manipulação e à análise de dados geográficos, tantos matriciais
+[p13c0] quanto vetoriais.
+[p13c0] Assinale a opção que apresenta funcionalidade de manipulação e
+[p13c0] de análise de dados matriciais, exclusivamente.
+[p13c0] (A) Cálculo de declividade.
+[p13c0] (B) Classificação MaxVer.
+[p13c0] (C) Interpolação.
+[p13c0] (D) Junção Espacial.
+[p13c0] (E) Tesselação.
+[p13c0] 66
+[p13c0] Os Sistemas Globais de Navegação por Satélite permitem a
+[p13c0] definição das coordenadas de suas antenas, conforme o respectivo
+[p13c0] sistema de coordenadas de referência.
+[p13c0] Assinale a opção que apresenta a relação correta entre sistemas
+[p13c0] de navegação por satélite e os respectivos sistemas de
+[p13c0] coordenadas.
+[p13c0] (A) Compass e WGS-84
+[p13c0] (B) GLONASS e WGS-84
+[p13c0] (C) GPS e GRS-80
+[p13c0] (D) GPS e WGS-84
+[p13c0] (E) GPS e SIRGAS 2000
+[p13c0] 67
+[p13c0] O problema básico das projeções cartográficas é a representação
+[p13c0] de uma superfície curva em um plano. Nesse sentido, foram
+[p13c0] elaborados diversos modelos matemáticos baseados em
+[p13c0] superfícies geométricas que minimizam as distorções decorrentes
+[p13c0] de tais projeções e, em alguns casos, preservam a verdadeira
+[p13c0] grandeza de ângulos, distâncias e áreas.
+[p13c0] Nesse contexto, assinale a opção que apresenta, respectivamente,
+[p13c0] a superfície de referência e a grandeza preservada na projeção
+[p13c0] empregada no sistema de coordenadas UTM.
+[p13c0] (A) Cilindro e Ângulo.
+[p13c0] (B) Cilindro e Distância.
+[p13c0] (C) Cone e Área.
+[p13c0] (D) Cone e Ângulo.
+[p13c0] (E) Plano e Distância.
+[p13c0] ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI
+[p13c1] 68
+[p13c1] Considerando a teoria de Limite, calcule:
+[p13c1] 2𝑛 + 3
+[p13c1] lim
+[p13c1] 𝑛→∞ (2𝑛2 − 6)0,5
+[p13c1] 1
+[p13c1] (A)
+[p13c1] 20,5
+[p13c1] (B) 2.
+[p13c1] (C) 20,5.
+[p13c1] (D) 0,5.
+[p13c1] (E) Zero.
+[p13c1] 69
+[p13c1] Analise a expressão a seguir:
+[p13c1] ∫ 𝑥2(3 + 2𝑥3)7𝑑𝑥
+[p13c1] O valor da seguinte expressão é
+[p13c1] 1
+[p13c1] (A) (3 + 2𝑥3)8 + 𝐶, em que C é uma constante real.
+[p13c1] 54
+[p13c1] 1
+[p13c1] (B) (3 + 2𝑥3)8 + 𝐶, em que C é uma constante real.
+[p13c1] 48
+[p13c1] 1
+[p13c1] (C) (3 + 2𝑥3)8 + 𝐶, em que C é uma constante real.
+[p13c1] 8
+[p13c1] 1
+[p13c1] (D) (3 + 2𝑥3)9 + 𝐶, em que C é uma constante real.
+[p13c1] 48
+[p13c1] 1
+[p13c1] (E) (3 + 2𝑥3)9 + 𝐶, em que C é uma constante real.
+[p13c1] 54
+[p13c1] 70
+[p13c1] Calcule o valor da derivada de ordem n da expressão a seguir,
+[p13c1] 𝑓(𝑥) = 𝑒−𝑥 + 𝑥𝑒𝑥
+[p13c1] considerando n um número natural par.
+[p13c1] (A) 𝑒−𝑥 + (𝑥 + 𝑛)𝑒𝑥.
+[p13c1] (B) 𝑒−𝑥 + (𝑥 + 𝑛2)𝑒𝑥.
+[p13c1] (C) 𝑒−𝑥 + (𝑥 + 2𝑛)𝑒𝑥.
+[p13c1] (D) 𝑒−𝑥 + (𝑥𝑛 + 𝑛)𝑒𝑥.
+[p13c1] (E) 𝑒−𝑛𝑥 + (𝑥 + 𝑛)𝑒𝑥.
+[p13c1] IA DE DADOS – TARDE TIPO BRANCA – PÁGINA 13
+[p14c0] 71
+[p14c0] Vetores e matrizes são estruturas algébricas fundamentais em
+[p14c0] ciência de dados.
+[p14c0] Considere os vetores tridimensionais com representação em
+[p14c0] 2 −1
+[p14c0] coluna dados por 𝑢 = [ 4 ] e 𝑣 = [−3], bem como a matriz 𝐴 =
+[p14c0] −2 1
+[p14c0] 3 2 1
+[p14c0] [ 1 0 2].
+[p14c0] −1 2 1
+[p14c0] Considere ainda que 𝑢⊤𝑣 representa o produto escalar entre 𝑢 e
+[p14c0] 𝑣 e que 𝑢 × 𝑣 representa o produto vetorial entre 𝑢 e 𝑣.
+[p14c0] −128
+[p14c0] Entre as opções a seguir, assinale a que resulta no vetor [ −96 ] .
+[p14c0] 0
+[p14c0] (A) 𝐴 𝑣⊤𝑢 𝐴⊤(𝑣 × 𝑢).
+[p14c0] (B) 𝑢⊤𝑣 (𝑢 × 𝑣)⊤𝐴.
+[p14c0] (C) 𝐴 𝑢⊤𝑣 𝐴 (𝑢 × 𝑣).
+[p14c0] (D) 𝐴 𝑢⊤𝑣 (𝑢 × 𝑣).
+[p14c0] (E) 𝐴 (𝑣 × 𝑢) 𝑢⊤𝑣.
+[p14c0] 72
+[p14c0] Mapeamentos e transformações lineares são frequentemente
+[p14c0] utilizados em técnicas de aprendizado de máquina relacionadas à
+[p14c0] redução de dimensionalidade ou à normalização.
+[p14c0] Considerando o mapeamento linear 𝐹:ℝ2 → ℝ2, para o qual
+[p14c0] 𝐹(2,1) = (√2 , 3√2 ) e 𝐹(1,−1) = (√2,0), analise os itens a
+[p14c0] 2 2
+[p14c0] seguir.
+[p14c0] I. 𝐹 pode ser escrito na forma 𝐹(𝑣) = 𝐴𝑣, sendo 𝑣 um vetor
+[p14c0] √2
+[p14c0] √2
+[p14c0] coluna bidimensional e 𝐴 = [ 2 ].
+[p14c0] 3√2
+[p14c0] 0
+[p14c0] 2
+[p14c0] II. O mapeamento inverso 𝐹−1 pode ser escrito na forma
+[p14c0] 𝐹−1(𝑣) = 𝐵𝑣, sendo 𝑣 um vetor coluna bidimensional e 𝐵 =
+[p14c0] √2 √2
+[p14c0] [ 2 2 ].
+[p14c0] −√2 √2
+[p14c0] 2 2
+[p14c0] III. 𝐹(𝐹(𝐹(𝐹(𝑥, 𝑦)))) = (𝑥, 𝑦).
+[p14c0] Está correto o que se afirma em
+[p14c0] (A) I, apenas.
+[p14c0] (B) II, apenas.
+[p14c0] (C) III, apenas.
+[p14c0] (D) I e III, apenas.
+[p14c0] (E) II e III, apenas.
+[p14c0] ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI
+[p14c1] 73
+[p14c1] As métricas de distância em aprendizado de máquina estão
+[p14c1] relacionadas às normas de vetores que costumam representar
+[p14c1] instâncias de dados. Duas normas comuns em ciência de dados são
+[p14c1] as normas L1 e L2.
+[p14c1] 3 4
+[p14c1] Sejam a matriz 𝐴 = [ ] e um vetor 𝑣, bidimensional, cujos
+[p14c1] 4 3
+[p14c1] elementos são os autovalores de A.
+[p14c1] As normas L1 e L2 de 𝑣 são, respectivamente, dadas por
+[p14c1] (A) 7 e 8.
+[p14c1] (B) 7 e 25.
+[p14c1] (C) 7 e 50.
+[p14c1] (D) 8 e 5√2.
+[p14c1] (E) 8 e 50.
+[p14c1] 74
+[p14c1] A decomposição em valores singulares (Singular Value
+[p14c1] Decomposition - SVD) de uma matriz é uma fatoração importante
+[p14c1] por ser aplicável em diversos algoritmos de inteligência artificial.
+[p14c1] Considere o trecho de código em linguagem R a seguir.
+[p14c1] 1. A <- matrix(c(1,2,1,2), ncol=2, nrow=2)
+[p14c1] 2. svd_result <- svd(A)
+[p14c1] 3. V <-svd_result$v
+[p14c1] 4. M <- V %*% t(V)
+[p14c1] 5. cat(M[1,1], "--", M[2,2])
+[p14c1] Assinale a opção que indica a saída esperada para a execução do
+[p14c1] trecho de código.
+[p14c1] (A) 10 -- 2.4652e-32
+[p14c1] (B) 0.7071068 -- 0.7071068
+[p14c1] (C) -0.4472136 -- 0.4472136
+[p14c1] (D) 3.162278e+00 -- 1.570092e-16
+[p14c1] (E) 1 -- 1
+[p14c1] 75
+[p14c1] Com relação aos conceitos básicos de análise exploratória de
+[p14c1] dados, analise as afirmativas a seguir.
+[p14c1] I. O coeficiente de curtose é uma medida adimensional que
+[p14c1] depende da diferença entre os percentis de ordem 90 e 10.
+[p14c1] II. Quando o coeficiente de correlação entre duas variáveis
+[p14c1] aleatórias é nulo, isso implica que as mesmas são
+[p14c1] independentes.
+[p14c1] III. Um conjunto de dados cujo desvio padrão é maior do que o de
+[p14c1] outro conjunto possui maior dispersão.
+[p14c1] Está correto o que se afirma em
+[p14c1] (A) I, apenas.
+[p14c1] (B) I e II, apenas.
+[p14c1] (C) I e III, apenas.
+[p14c1] (D) II e III, apenas.
+[p14c1] (E) I, II e III.
+[p14c1] IA DE DADOS – TARDE TIPO BRANCA – PÁGINA 14
+[p15c0] 76
+[p15c0] Seja o conjunto de dados abaixo cuja média aritmética é 30:
+[p15c0] {21, 42, 29, 15, 27, 36, 25, 45}
+[p15c0] Considerando o exposto, analise os itens a seguir.
+[p15c0] I. A amplitude dos dados é igual àI, II média.
+[p15c0] II. A mediana é 28.
+[p15c0] III. A moda é 45.
+[p15c0] Está correto o que se afirma em
+[p15c0] (A) I, apenas.
+[p15c0] (B) I e II, apenas.
+[p15c0] (C) I e III, apenas.
+[p15c0] (D) II e III, apenas.
+[p15c0] (E) I, II e III.
+[p15c0] 77
+[p15c0] Seja 𝑋 a variável aleatória que representa o número de ocorrências
+[p15c0] de um certo evento A em 𝑡 unidades de tempo.
+[p15c0] A distribuição de probabilidade de 𝑋 segue a distribuição de
+[p15c0] Poisson, isto é, a probabilidade de {𝑋 = 𝑥} é dada por:
+[p15c0] 𝑒−𝜆𝑡(𝜆𝑡)𝑥/𝑥!,
+[p15c0] em que 𝜆 é a taxa de ocorrência por unidade de tempo.
+[p15c0] Considerando o exposto, o valor esperado do tempo entre duas
+[p15c0] ocorrências consecutivas do evento A, é
+[p15c0] (A) 𝑡.
+[p15c0] (B) 𝜆𝑡.
+[p15c0] (C) 𝑡/𝜆.
+[p15c0] (D) 1/𝜆.
+[p15c0] (E) 2/𝜆.
+[p15c0] 78
+[p15c0] Seja 𝑋 uma variável aleatória, cujo valor esperado é desconhecido
+[p15c0] e a variância é igual a 123 𝑢2, onde 𝑢 é a unidade de medida.
+[p15c0] Sejam 𝑋 e 𝑆2, a média e a variância amostrais de 𝑋,
+[p15c0] respectivamente. Com o objetivo de estimar o valor esperado de
+[p15c0] 𝑋, foi coletada uma amostra aleatória de tamanho 300, cuja média
+[p15c0] e variância são, respectivamente, 34 𝑢 e 52 𝑢2.
+[p15c0] Considerando o exposto, de acordo com os conceitos da inferência
+[p15c0] estatística, analise os itens a seguir.
+[p15c0] I. O valor esperado de 𝑋 não depende do tamanho da amostra.
+[p15c0] II. A estimativa do valor esperado de 𝑋 é 34 𝑢.
+[p15c0] III. A variância de 𝑋 é 52 𝑢2.
+[p15c0] Está correto o que se afirma em
+[p15c0] (A) I, apenas.
+[p15c0] (B) II, apenas.
+[p15c0] (C) III, apenas.
+[p15c0] (D) I e II, apenas.
+[p15c0] (E) II e III, apenas.
+[p15c0] ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI
+[p15c1] 79
+[p15c1] Um símbolo binário, digamos 0 ou 1, é transmitido incorretamente
+[p15c1] por meio de um canal de comunicação com ruído, com
+[p15c1] probabilidade 0,10 e 0,05, respectivamente.
+[p15c1] Supondo que a probabilidade do canal transmitir um 0 é 0,4,
+[p15c1] assinale a opção que indica a probabilidade de um símbolo
+[p15c1] escolhido aleatoriamente ser recebido corretamente.
+[p15c1] (A) 0,950.
+[p15c1] (B) 0,945.
+[p15c1] (C) 0,930.
+[p15c1] (D) 0,925.
+[p15c1] (E) 0,900.
+[p15c1] 80
+[p15c1] Um fabricante de certo equipamento diz que o tempo médio de
+[p15c1] sobrevida de seu produto é de 720 dias. Para verificar se a
+[p15c1] afirmação do fabricante estava correta, foi realizado um teste de
+[p15c1] hipótese.
+[p15c1] Para tanto, foi selecionado uma amostra de 25 equipamentos, em
+[p15c1] que se observou que o tempo médio e o desvio padrão dessa
+[p15c1] amostra foi de, aproximadamente, 700 dias e 20 dias
+[p15c1] respectivamente.
+[p15c1] Levando em consideração a potência do teste, assinale a opção
+[p15c1] que apresenta a hipótese alternativa mais adequada para a
+[p15c1] realização do teste.
+[p15c1] (A) H : µ < 720.
+[p15c1] A
+[p15c1] (B) H : µ ≠ 720.
+[p15c1] A
+[p15c1] (C) H : µ > 720.
+[p15c1] A
+[p15c1] (D) H : µ < 700.
+[p15c1] A
+[p15c1] (E) H : µ ≠ 700.
+[p15c1] A
+[p15c1] IA DE DADOS – TARDE TIPO BRANCA – PÁGINA 15
+[p16c0] Realiz
+[p16c1] zação

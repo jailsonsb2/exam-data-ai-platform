@@ -1,0 +1,1259 @@
+[p1c0] EMPRE
+[p1c0] SUA PROVA
+[p1c0] • Além deste caderno contendo 70 (setenta)
+[p1c0] questões objetivas, você receberá do fiscal de prova
+[p1c0] o cartão de respostas;
+[p1c0] • As questões objetivas têm 5 (cinco) opções de
+[p1c0] resposta (A, B, C, D e E) e somente uma delas está
+[p1c0] correta.
+[p1c0] •
+[p1c0] TEMPO
+[p1c0] • Você dispõe de 4 (quatro) horas para a realização da
+[p1c0] prova, já incluído o tempo para a marcação do cartão
+[p1c0] de respostas;
+[p1c0] • 2 (duas) horas após o início da prova, é possível
+[p1c0] retirar-se da sala, sem levar o caderno de questões;
+[p1c0] • A partir dos 30 (trinta) minutos anteriores ao
+[p1c0] término da prova é possível retirar-se da sala
+[p1c0] levando o caderno de questões.
+[p1c0] NÃO SERÁ PERMITIDO
+[p1c0] • Qualquer tipo de comunicação entre os candidatos
+[p1c0] durante a aplicação da prova;
+[p1c0] • Anotar informações relativas às respostas em
+[p1c0] qualquer outro meio que não seja o caderno de
+[p1c0] questões;
+[p1c0] • Levantar da cadeira sem autorização do fiscal de
+[p1c0] sala;
+[p1c0] • Usar o sanitário ao término da prova, após deixar a
+[p1c0] sala.
+[p1c1] ESA DE TECNOLOGIA E INFORMAÇÕES DA
+[p1c1] PREVIDÊNCIA - DATAPREV
+[p1c1] T
+[p1c1] ARDE
+[p1c1] ATI - INTELIGÊNCIA DA INFORMAÇÃO
+[p1c1] NÍVEL SUPERIOR TIPO 1 – BRANCA
+[p1c1] INFORMAÇÕES GERAIS
+[p1c1] • Verifique se seu caderno de questões está completo,
+[p1c1] sem repetição de questões ou falhas. Caso contrário,
+[p1c1] notifique imediatamente o fiscal da sala, para que sejam
+[p1c1] tomadas as devidas providências;
+[p1c1] • Confira seus dados pessoais, especialmente nome,
+[p1c1] número de inscrição e documento de identidade e leia
+[p1c1] atentamente as instruções para preencher o cartão de
+[p1c1] respostas;
+[p1c1] • Para o preenchimento do cartão de respostas, use
+[p1c1] somente caneta esferográfica, fabricada em material
+[p1c1] transparente, com tinta preta ou azul;
+[p1c1] • Assine seu nome apenas no(s) espaço(s) reservado(s) no
+[p1c1] cartão de respostas;
+[p1c1] • Confira seu cargo, cor e tipo do caderno de questões.
+[p1c1] Caso tenha recebido caderno de cargo ou cor ou tipo
+[p1c1] diferente do impresso em seu cartão de respostas, o
+[p1c1] fiscal deve ser obrigatoriamente informado para o
+[p1c1] devido registro na ata da sala;
+[p1c1] • Reserve tempo suficiente para o preenchimento do seu
+[p1c1] cartão de respostas. O preenchimento é de sua
+[p1c1] responsabilidade e não será permitida a troca do cartão
+[p1c1] de respostas em caso de erro cometido pelo candidato;
+[p1c1] • Para fins de avaliação, serão levadas em consideração
+[p1c1] apenas as marcações realizadas no cartão de respostas;
+[p1c1] • A FGV coletará as impressões digitais dos candidatos na
+[p1c1] lista de presença;
+[p1c1] • Os candidatos serão submetidos ao sistema de detecção
+[p1c1] de metais quando do ingresso e da saída de sanitários
+[p1c1] durante a realização das provas.
+[p1c1] • Boa sorte!
+[p3c0] Conhecimentos Gerais
+[p3c0] Língua Portuguesa
+[p3c0] 1
+[p3c0] É preciso estar atento e forte.
+[p3c0] Sobre a estrutura sintática da frase em destaque, assinale a opção
+[p3c0] incorreta.
+[p3c0] (A) Existe uma oração subordinada que exerce função de sujeito
+[p3c0] em relação à oração principal.
+[p3c0] (B) Nota-se uma oração subordinada substantiva, em que a
+[p3c0] segunda oração exerce função própria de um substantivo em
+[p3c0] relação à oração principal.
+[p3c0] (C) Observa-se uma oração subordinada reduzida de infinitivo.
+[p3c0] (D) Verifica-se a possibilidade de desenvolver a segunda oração
+[p3c0] em “que se esteja atento e forte”.
+[p3c0] (E) Há uma oração subordinada que delimita a informação
+[p3c0] presente na oração principal.
+[p3c0] 2
+[p3c0] Assinale a opção em que o elemento destacado não funciona
+[p3c0] como adjunto adnominal.
+[p3c0] (A) Não admira que, fora de si, e andando rápido, desse um
+[p3c0] encontrão em certo homem que ia devagar.
+[p3c0] (B) Catete adiante, lembrou-se que a casa de Sofia era na Praia do
+[p3c0] Flamengo.
+[p3c0] (C) Após alguns instantes rápidos, abanou a cabeça
+[p3c0] voluntariamente.
+[p3c0] (D) Este apertou-lhe a mão satisfeitíssimo; ia ver-se livre de um
+[p3c0] sócio.
+[p3c0] (E) Mas diga-me uma coisa, essa proposta traz algum motivo
+[p3c0] oculto?
+[p3c0] 3
+[p3c0] Leia o fragmento a seguir, de Fernando Pessoa:
+[p3c0] O poeta é um fingidor
+[p3c0] Finge tão completamente
+[p3c0] Que chega a fingir que é dor
+[p3c0] A dor que deveras sente.
+[p3c0] Assinale a opção correta sobre a interpretação dos versos em
+[p3c0] destaque.
+[p3c0] (A) Existe uma visão negativa do fazer poético, já que o poeta é
+[p3c0] descrito como “fingidor”.
+[p3c0] (B) O jogo de palavras em fingidor - fingir dor - contribui para
+[p3c0] caracterizar o poeta como sujeito insubmisso ao sentimento.
+[p3c0] (C) O fingimento é matéria de poesia, é a ferramenta da criação
+[p3c0] literária.
+[p3c0] (D) O exercício de fazer poesia torna o poeta imune à dor.
+[p3c0] (E) Há uma perspectiva irônica que se sustenta, sobretudo, em
+[p3c0] fingir a dor que, de fato, sente-se.
+[p3c0] 4
+[p3c0] A felicidade é tão oposta à vida, que estando nela, a gente esquece
+[p3c0] que vive.
+[p3c0] Assinale a opção correta sobre o sentido da frase em destaque.
+[p3c0] (A) É impossível ser feliz e viver.
+[p3c0] (B) Viver pressupõe felicidade.
+[p3c0] (C) Há uma relação paradoxal entre felicidade e vida.
+[p3c0] (D) É preciso esquecer da felicidade para obtê-la.
+[p3c0] (E) Descreve-se o caráter efêmero da felicidade.
+[p3c0] ATI - Inteligência da Informação – TARDE
+[p3c1] 5
+[p3c1] Assinale a opção que apresenta corretamente a regência dos
+[p3c1] verbos.
+[p3c1] (A) Não faz sentido obedecer a leis absurdas.
+[p3c1] (B) Admito que me simpatizei muito com a nova professora de
+[p3c1] Literatura.
+[p3c1] (C) Nossos vizinhos se mudaram e residem agora à rua das
+[p3c1] Laranjeiras.
+[p3c1] (D) Possuía uma dívida com o açougueiro, paguei-o assim que
+[p3c1] pude.
+[p3c1] (E) Vovó sempre lembra do aniversário de todos os seus netos.
+[p3c1] 6
+[p3c1] Assinale a opção que relaciona de modo incorreto o adjetivo à
+[p3c1] locução adjetiva destacada.
+[p3c1] (A) Pessoas que não se contentavam com o que tinham -
+[p3c1] descontentes.
+[p3c1] (B) Uma ferida que não se apagava - indelével.
+[p3c1] (C) Havia algo em sua imagem que não se podia distinguir -
+[p3c1] indistinguível.
+[p3c1] (D) Tinha a característica de alguém que não se irrita com
+[p3c1] facilidade – irascível.
+[p3c1] (E) Água e álcool são elementos que não se misturam - imiscíveis.
+[p3c1] 7
+[p3c1] Assinale a opção em que a vírgula se justifica pelo mesmo motivo
+[p3c1] do que em “se as duas tribos dividirem em paz as batatas do
+[p3c1] campo, não chegam a nutrir-se suficientemente e morrem de
+[p3c1] inanição”.
+[p3c1] (A) Acrescia que, em verdade, o doente parecia estar melhorando.
+[p3c1] (B) Verdade é, disse ainda Rubião para defender o enfermo,
+[p3c1] verdade é que o cachorro merece a estima do dono.
+[p3c1] (C) Quando este acudiu, já ele mudara outra vez de ideia.
+[p3c1] (D) Espreitara uma deixa, e sai-lhe do testamento a massa toda
+[p3c1] dos bens.
+[p3c1] (E) No dia seguinte, Maria Benedita declarou à prima que estava
+[p3c1] pronta a aprender piano e francês.
+[p3c1] 8
+[p3c1] O uso excessivo de telas faz mal à saúde da mente e do corpo e os
+[p3c1] efeitos podem ser ainda mais danosos nas duas primeiras décadas
+[p3c1] de vida:
+[p3c1] - Como tudo, o problema está no excesso e na falta de controle
+[p3c1] adequado, afirma o psicólogo Thiago Viola, do Instituto do Cérebro
+[p3c1] do Rio Grande do Sul.
+[p3c1] bbc.com (adaptado)
+[p3c1] Sobre o uso do discurso direto, é incorreto afirmar que este
+[p3c1] procedimento
+[p3c1] (A) cria o efeito de realidade, já que a fala busca reproduzir o
+[p3c1] momento da enunciação.
+[p3c1] (B) atribui o sentido de verdade, tendo em vista que prevalece o
+[p3c1] teor de preservação do discurso citado.
+[p3c1] (C) delimita a fronteira entre o discurso do narrador e o discurso
+[p3c1] citado por meio de aspas, travessão e verbos de elocução.
+[p3c1] (D) demarca a soberania do narrador, pois ele interpreta a fala
+[p3c1] citada, absorvida no fio de seu discurso.
+[p3c1] (E) precisa transpor as palavras do discurso citado, tal qual foram
+[p3c1] enunciadas originalmente.
+[p3c1] TIPO BRANCA – PÁGINA 3
+[p4c0] 9
+[p4c0] Assinale a opção que indica corretamente a noção semântica
+[p4c0] expressa pelo elemento destacado em: “A moça recostara-se em
+[p4c0] uma cadeira de balanço no claro de uma janela, de modo que seu
+[p4c0] gracioso vulto imergia-se na plena luz”.
+[p4c0] (A) Consequência.
+[p4c0] (B) Causa.
+[p4c0] (C) Finalidade.
+[p4c0] (D) Tempo.
+[p4c0] (E) Proporcionalidade.
+[p4c0] 10
+[p4c0] Assinale a opção em que o verbo destacado indica estado.
+[p4c0] (A) Ele virou-lhe as costas e tornou lentamente por onde viera.
+[p4c0] (B) Piedade ficou à janela.
+[p4c0] (C) Os curiosos permaneciam defronte de sua porta.
+[p4c0] (D) Coitada! Devia viver bem aborrecida da sorte.
+[p4c0] (E) Fazes mal em andar por aí com este sol.
+[p4c0] 11
+[p4c0] Assinale a opção correta em relação à concordância nominal.
+[p4c0] (A) A candidata parece meia confusa.
+[p4c0] (B) É proibido a entrada de visitantes nessa área.
+[p4c0] (C) A diretora achou um e outro funcionário cumpridor.
+[p4c0] (D) A entrada para o teatro, atualmente, está muito caro.
+[p4c0] (E) As certidões estão anexas ao processo.
+[p4c0] 12
+[p4c0] Quando oiei a terra ardendo
+[p4c0] Qual fogueira de São João
+[p4c0] Eu preguntei a Deus do céu, uai
+[p4c0] Por que tamanha judiação?
+[p4c0] Nos versos de Luiz Gonzaga, o eu poético narra, em primeira
+[p4c0] pessoa, suas impressões sobre um determinado assunto.
+[p4c0] Para isso, ele utiliza construções linguísticas próprias, constatadas
+[p4c0] pelo uso
+[p4c0] (A) de uma norma linguística regional, a fim de caracterizar a
+[p4c0] cultura e o modo de vida do interior.
+[p4c0] (B) do termo comparativo “qual”, que estabelece uma analogia
+[p4c0] entre terra e fogueira.
+[p4c0] (C) de modalidade oral, que apresenta poucos recursos
+[p4c0] comunicativos, se comparada à modalidade escrita.
+[p4c0] (D) do substantivo judiação, que reitera a tristeza do poeta nos
+[p4c0] trechos em destaque.
+[p4c0] (E) de uma norma linguística desprestigiada, que serve para
+[p4c0] apontar a desigualdade social.
+[p4c0] Língua Inglesa
+[p4c0] Use the following TEXT to answer the next six questions.
+[p4c0] Technology Consultant Fast Track: How to Get Your Dream Job in
+[p4c0] IT Consulting (IT Consulting Career Guide).
+[p4c0] (English Edition) eBook Kindle only.
+[p4c0] Jumpstart your IT job search and land your dream job while your
+[p4c0] peers are still "freshening up" their resumes!
+[p4c0] Proven techniques to land your dream job as a high-paid IT
+[p4c0] consultant—you don’t want to miss these, if you are serious
+[p4c0] about a career in IT!
+[p4c0] Answers to IT consulting career questions most people fail to ask;
+[p4c0] actionable advice and real-life stories from seasoned IT
+[p4c0] consultants!
+[p4c0] ATI - Inteligência da Informação – TARDE
+[p4c1] As a fresh graduate looking for your first job, if you just do what
+[p4c1] almost everybody else is doing…you will land a hellhole job with
+[p4c1] lousy pay, long hours, nasty coworkers, and exclusively clients
+[p4c1] from hell (because you thought it was your only option to go
+[p4c1] forward in your career). If you are serious and can apply simple
+[p4c1] instructions, this book can help you become a high-paid IT
+[p4c1] consultant in your dream job by the end of the month!
+[p4c1] If you already have your first or second job in the field of IT, or even
+[p4c1] have 20 years of work experience, this book will tell you what a
+[p4c1] great option a career in IT consulting can be. With this book, you
+[p4c1] can find out why your current job is not satisfying your career
+[p4c1] aspirations and turn your career around for the better!
+[p4c1] Containing lessons from a PhD with 12 years of experience and
+[p4c1] 15,000 billable hours from Accenture and Coala, this is the book
+[p4c1] movers and shakers in the IT industry are talking about.
+[p4c1] Recommended by university professors, last-year students, as well
+[p4c1] as seasoned consultants. Even my mom says you have to read this
+[p4c1] book, or you have to answer to her!
+[p4c1] By reading this book, you will learn:
+[p4c1] What your college professor didn't tell you about the consulting
+[p4c1] business.
+[p4c1] The Pro’s and Con’s of a career in technology consulting.
+[p4c1] What other options do you have besides working for one of the
+[p4c1] global consulting giants such as Accenture, Capgemini, Deloitte,
+[p4c1] Ernst & Young (EY), KPMG, or PricewaterhouseCoopers (PwC).
+[p4c1] The must-have characteristics to succeed in IT consulting (if you
+[p4c1] don't have these, you are doomed to FAIL!).
+[p4c1] How to find your money-making niche in IT consulting.
+[p4c1] How to get the best results with the least possible effort in your
+[p4c1] job search.
+[p4c1] Best ways to prepare for the job interview in 30 minutes or less.
+[p4c1] What questions to ask in the interview to avoid nasty surprises
+[p4c1] when you are selected.
+[p4c1] Hear what others are saying:
+[p4c1] ★★★★★ “The book gives a strong and realistic description of IT
+[p4c1] consultancy. Thus, every IT student should read the book before
+[p4c1] they graduate as it will increase their probability of landing a
+[p4c1] dream job.” Samuli Pekkola, Professor, PhD, in Information
+[p4c1] Systems Sciences, Tampere University
+[p4c1] ★★★★★ “The book gives insight into technology consulting and
+[p4c1] provides great tips for job search. I believe it will be very valuable
+[p4c1] when I start looking for a position in IT. The section on how to
+[p4c1] stand out as a candidate for a job was an eyeopener.” Saku Sikiö,
+[p4c1] Information Systems Student, University of Jyväskylä
+[p4c1] ★★★★★ “This is the book I would have needed on the verge of
+[p4c1] graduation!” Teijo Kelander, MSc, Quality Consultant and Agile
+[p4c1] Coach
+[p4c1] ★★★★★ “If you are serious about IT consultancy as a profession,
+[p4c1] this book is a must-read! As a recruiter, I would prefer that
+[p4c1] applicants would better understand what this is all about.” Petteri
+[p4c1] Laamanen, MSc, CEO & Founder, Coala
+[p4c1] ★★★★★ “This book gave me valuable insights into the IT
+[p4c1] consultant’s working life, making it easier to consider the pros and
+[p4c1] cons in relation to my own values and goals.” Janita Kingelin, MSc,
+[p4c1] Marketing Manager, SoulCore
+[p4c1] ★ If you want great results in your technology consultant job
+[p4c1] search, get this book right now!
+[p4c1] https://www.amazon.com.br/Technology-Consultant-Fast-Track-Consulting-
+[p4c1] ebook/dp/B0918JB48D
+[p4c1] TIPO BRANCA – PÁGINA 4
+[p5c0] 13
+[p5c0] Consider the following affirmatives:
+[p5c0] 1. The TEXT can just be found online.
+[p5c0] 2. The tips on this text are only for fresh graduates.
+[p5c0] 3. It is a printed book.
+[p5c0] 4. Professors, last-year students and consultants who are skilled
+[p5c0] at guiding business recommend the book.
+[p5c0] According to the TEXT,
+[p5c0] (A) only 2 and 4 are false.
+[p5c0] (B) only 1 and 4 are true.
+[p5c0] (C) only 1, 3 and 4 are true.
+[p5c0] (D) only 1, 2 and 4 are false.
+[p5c0] (E) only 3 and 4 are true.
+[p5c0] 14
+[p5c0] What information is in TEXT?
+[p5c0] (A) Tips on an in-person appraisal to be a successful IT consultant.
+[p5c0] (B) A review on a guide to foster the possibility of being successful
+[p5c0] in finding your Dream Job in IT Consulting, despite your
+[p5c0] experience.
+[p5c0] (C) Challenge only beginners to read a guide well written and
+[p5c0] recommended by professors in the IT scenario.
+[p5c0] (D) The reasons one should buy the guide to be a successful IT
+[p5c0] consultant abroad.
+[p5c0] (E) It is a well explained guide to enhance people’s desire to find
+[p5c0] a dream internship despite their social status.
+[p5c0] 15
+[p5c0] In the excerpt in TEXT “Recommended by university professors,
+[p5c0] last-year students, as well as seasoned consultants. Even my mom
+[p5c0] says you have to read this book, or you have to answer to her!”
+[p5c0] The pronoun her refers to
+[p5c0] (A) consultants.
+[p5c0] (B) book.
+[p5c0] (C) students.
+[p5c0] (D) professors.
+[p5c0] (E) mom.
+[p5c0] 16
+[p5c0] In the sentence taken from TEXT “The book gives a strong and
+[p5c0] realistic description of IT consultancy. Thus, every IT student
+[p5c0] should read the book before they graduate as it will increase their
+[p5c0] probability of landing a dream job.”
+[p5c0] The underlined linker introduces
+[p5c0] (A) a condition.
+[p5c0] (B) an example.
+[p5c0] (C) an effect.
+[p5c0] (D) an order.
+[p5c0] (E) a reason.
+[p5c0] ATI - Inteligência da Informação – TARDE
+[p5c1] 17
+[p5c1] “With this book, you can find out why your current job is not
+[p5c1] satisfying your career aspirations and turn your career around for
+[p5c1] the better!”
+[p5c1] The discourse marker and used in TEXT is similar in meaning to
+[p5c1] (A) hence.
+[p5c1] (B) whereas.
+[p5c1] (C) unless.
+[p5c1] (D) moreover.
+[p5c1] (E) meanwhile.
+[p5c1] 18
+[p5c1] By the end of TEXT six people assessed the guide. One of them said
+[p5c1] that he should have had the opportunity to study on the guide on
+[p5c1] the brick of graduating.
+[p5c1] Choose the person who said that.
+[p5c1] (A) Saku Sikiö
+[p5c1] (B) Petteri Laamanen
+[p5c1] (C) Samuli Pekkola
+[p5c1] (D) Janita Kingelin
+[p5c1] (E) Teijo Kelander
+[p5c1] Use the following TEXT to answer the next two questions.
+[p5c1] It's not often we write about printers here on the Giz, but Brother's
+[p5c1] new MPrint MW-260 gets honorable mention for being the world's
+[p5c1] thinnest printer. It can print up to 20 pages per minute from any
+[p5c1] PC, Pocket PC, or Windows Mobile handheld. Best of all, it also
+[p5c1] prints over Bluetooth (in addition to your standard USB). No word
+[p5c1] on pricing or availability, but this is a 1-pound printer we wouldn't
+[p5c1] mind adding to our travel bag. It’s worth buying!
+[p5c1] Louis Ramirez
+[p5c1] http://www.gizmodo.com/
+[p5c1] 19
+[p5c1] The pronoun “it” in “It can print up to 20 pages per minute from
+[p5c1] any PC, Pocket PC, or Windows Mobile handheld”, taken from
+[p5c1] TEXT, refers to
+[p5c1] (A) Computer.
+[p5c1] (B) Pocket PC.
+[p5c1] (C) Window Mobile handheld.
+[p5c1] (D) MPrint MW-260.
+[p5c1] (E) Bluetooth.
+[p5c1] 20
+[p5c1] In the sentence “No word on pricing or availability, but this is a 1-
+[p5c1] pound printer we wouldn't mind adding to our travel bag”.
+[p5c1] The expression “... a 1-pound printer” taken from TEXT is referring
+[p5c1] to
+[p5c1] (A) The weight of the printer.
+[p5c1] (B) The price of the printer.
+[p5c1] (C) The printer serial number.
+[p5c1] (D) The printer stock availability.
+[p5c1] (E) The printer sale.
+[p5c1] TIPO BRANCA – PÁGINA 5
+[p6c0] Use the following TEXT to answer the next four questions.
+[p6c0] Research-Article
+[p6c0] How to be a successful app developer: lessons from the
+[p6c0] simulation of an app ecosystem
+[p6c0] Soo Ling Lim, Peter J. Bentley
+[p6c0] Abstract
+[p6c0] App developers are constantly competing against each other to
+[p6c0] win more downloads for their apps. With hundreds of thousands
+[p6c0] of apps in these online stores, what strategy should a developer
+[p6c0] use to be successful? Should they innovate, make many similar
+[p6c0] apps, optimize their own apps or just copy the apps of others?
+[p6c0] Looking more deeply, how does a complex app ecosystem perform
+[p6c0] when developers choose to use different strategies? This paper
+[p6c0] investigates these questions using AppEco, the first Artificial Life
+[p6c0] model of mobile application ecosystems. In AppEco, developer
+[p6c0] agents build and upload apps to the app store; user agents browse
+[p6c0] the store and download the apps. A distinguishing feature of
+[p6c0] AppEco is the explicit modelling of apps as artefacts. In this work
+[p6c0] we use AppEco to simulate Apple's iOS app ecosystem and
+[p6c0] investigate common developer strategies, evaluating them in
+[p6c0] terms of downloads received, app diversity, and adoption rate.
+[p6c0] https://dl.acm.org/doi/10.1145/2384697.2384698
+[p6c0] 21
+[p6c0] According to TEXT it can be said that
+[p6c0] (A) This essay is concerned not only about apps but also about
+[p6c0] successful web developers.
+[p6c0] (B) The Text is an academic piece of writing.
+[p6c0] (C) Artificial Intelligence has created app store.
+[p6c0] (D) App developers are addicted to AppEco.
+[p6c0] (E) AppEco is a website known around the world by foreigners.
+[p6c0] 22
+[p6c0] In the excerpt “In this work we use AppEco to simulate Apple's iOS
+[p6c0] app ecosystem and investigate common developer strategies,
+[p6c0] evaluating them in terms of downloads received, app diversity,
+[p6c0] and adoption rate.
+[p6c0] Choose the correct option according to TEXT.
+[p6c0] (A) The word rate means a measure and it’s a discourse marker.
+[p6c0] (B) The word rate means to quantify and it’s an adjective.
+[p6c0] (C) The word rate means to quantify and it’s a subject.
+[p6c0] (D) The word rate means to charge and it’s a verb.
+[p6c0] (E) The word rate means a measure and it’s a noun.
+[p6c0] 23
+[p6c0] In the sentences, “With hundreds of thousands of apps in these
+[p6c0] online stores, what strategy should a developer use to be
+[p6c0] successful? Should they innovate, make many similar apps,
+[p6c0] optimize their own apps or just copy the apps of others?”.
+[p6c0] The modal “should”, used in TEXT, expresses the idea of:
+[p6c0] (A) Absence of obligation
+[p6c0] (B) Suggestion
+[p6c0] (C) Offer
+[p6c0] (D) Possibility
+[p6c0] (E) Obligation
+[p6c0] ATI - Inteligência da Informação – TARDE
+[p6c1] 24
+[p6c1] The word “browse” in “user agents browse the store and
+[p6c1] download the apps.”, taken from TEXT, is a verb.
+[p6c1] The same word can also be used as a noun in sentence:
+[p6c1] (A) I stopped in several bookstores to ___.
+[p6c1] (B) I usually ___ the internet for a couple of hours each evening.
+[p6c1] (C) The brochure is well worth a ___.
+[p6c1] (D) There are plenty of biographies for him to ___ over.
+[p6c1] (E) I always ___ in an up-market antique shop.
+[p6c1] Raciocínio Lógico Matemático
+[p6c1] 25
+[p6c1] Arnaldo e Bernaldo associaram-se em um determinado negócio.
+[p6c1] Arnaldo entrou com R$ 12.000,00 e Bernaldo com R$ 13.000,00.
+[p6c1] Se perderem R$ 50.000,00, caberá a Arnaldo o prejuízo de
+[p6c1] (A) R$ 18.000,00
+[p6c1] (B) R$ 20.000,00
+[p6c1] (C) R$ 24.000,00
+[p6c1] (D) R$ 26.000,00
+[p6c1] (E) R$ 28.000,00
+[p6c1] 26
+[p6c1] Uma determinada escola adota o sistema de pesos por bimestre
+[p6c1] para o cálculo da média anual. O primeiro bimestre tem peso 1, o
+[p6c1] segundo, 2, o terceiro, 3, e o quarto, 4. Assim, para calcular a
+[p6c1] média anual, um estudante deve efetuar a soma de cada uma de
+[p6c1] suas notas bimestrais multiplicadas pelos seus respectivos pesos e
+[p6c1] dividir por 10. Para ser aprovado, um aluno precisa ter média
+[p6c1] anual, no mínimo, igual a 7,0.
+[p6c1] Arnaldo tirou notas 4,0; 6,0; 8,0; 8,0 nos 4 bimestres, não
+[p6c1] necessariamente nessa ordem. Para que Arnaldo seja aprovado, a
+[p6c1] sua menor nota deve ter sido tirada no
+[p6c1] (A) 1º bimestre, necessariamente.
+[p6c1] (B) 1º ou 2º bimestres, necessariamente.
+[p6c1] (C) 2º bimestre, necessariamente.
+[p6c1] (D) 3º bimestre, necessariamente.
+[p6c1] (E) 3º ou 4º bimestre, necessariamente.
+[p6c1] 27
+[p6c1] Dois sistemas monitoram a variação de temperatura dos
+[p6c1] servidores em um data center. Um sistema registra variações
+[p6c1] positivas (aquecimento) e o outro registra variações negativas
+[p6c1] (resfriamento). Certo dia, a soma dessas variações foi de 1 grau
+[p6c1] Celsius, indicando que o ambiente se manteve praticamente
+[p6c1] estável. No entanto, a soma dos quadrados dessas variações foi de
+[p6c1] 313, o que revela uma diferença significativa entre o maior valor
+[p6c1] positivo e o menor valor negativo registrados.
+[p6c1] A diferença entre esses valores é
+[p6c1] (A) 20.
+[p6c1] (B) 25.
+[p6c1] (C) 30.
+[p6c1] (D) 35.
+[p6c1] (E) 40.
+[p6c1] TIPO BRANCA – PÁGINA 6
+[p7c0] 28
+[p7c0] A proposição logicamente equivalente à proposição “Se Cesar é fã
+[p7c0] de futebol então ele assiste a muitos jogos” é
+[p7c0] (A) Cesar é fã de futebol e assiste a muitos jogos.
+[p7c0] (B) Cesar gosta de futebol porque assiste a muitos jogos.
+[p7c0] (C) Cesar gosta de assistir jogos por ser fã de futebol.
+[p7c0] (D) Se Cesar não assiste a muitos jogos então ele não é fã de
+[p7c0] futebol.
+[p7c0] (E) Se Cesar não é fã de futebol então ele não assiste a muitos
+[p7c0] jogos.
+[p7c0] 29
+[p7c0] Numa certa região há alguns vilarejos de maneira que cada dupla
+[p7c0] de vilarejos possui uma única estrada que os conecta. Observe o
+[p7c0] exemplo para cinco vilarejos em que cada casinha representa um
+[p7c0] vilarejo e cada segmento de reta representa uma estrada.
+[p7c0] Considere que nessa região há inicialmente x vilarejos e que 2
+[p7c0] novos vilarejos estejam se desenvolvendo. Por essa razão, 17
+[p7c0] novas estradas estão sendo construídas.
+[p7c0] Nessas condições, o número x vale
+[p7c0] (A) 6.
+[p7c0] (B) 7.
+[p7c0] (C) 8.
+[p7c0] (D) 9.
+[p7c0] (E) 10.
+[p7c0] 30
+[p7c0] O preço de venda de certo item de consumo sofreu dois aumentos
+[p7c0] mensais consecutivos, sendo o primeiro de 30% e o segundo de
+[p7c0] 10%.
+[p7c0] Sobre a taxa média de aumento mensal nesse período, é correto
+[p7c0] afirmar que
+[p7c0] (A) é maior que 19% e menor que 20%.
+[p7c0] (B) é igual a 20%.
+[p7c0] (C) é maior que 20% e menor que 21%.
+[p7c0] (D) é igual a 21,5%.
+[p7c0] (E) é igual a 43%.
+[p7c0] ATI - Inteligência da Informação – TARDE
+[p7c1] Atualidades
+[p7c1] 31
+[p7c1] Na reunião de cúpula do G2 que ocorre no Brasil, país que exerce
+[p7c1] a presidência rotativa até o fim de novembro, o tema principal dos
+[p7c1] debates é a construção de um Mundo Justo e um Planeta
+[p7c1] Sustentável. O governo brasileiro deseja colocar o combate às
+[p7c1] desigualdades no centro das discussões entre os países membros.
+[p7c1] Sobre o Grupo apresentado no texto, julgue as afirmativas:
+[p7c1] I. Consiste num dos maiores blocos econômicos do planeta,
+[p7c1] sendo seu principal objetivo o livre comércio, sendo superado
+[p7c1] apenas pela União Europeia.
+[p7c1] II. Representa um fórum internacional de cooperação
+[p7c1] econômica, que possibilita entre outras coisas, debates sobre
+[p7c1] temas financeiros, fome, meio ambiente e desigualdades.
+[p7c1] III. Congrega um bloco supranacional com objetivo de alinhar
+[p7c1] políticas macroeconômicas, éticas e militares, perante a
+[p7c1] comunidade internacional.
+[p7c1] Está correto o que se afirma em
+[p7c1] (A) I, apenas.
+[p7c1] (B) II, apenas.
+[p7c1] (C) I e II, apenas.
+[p7c1] (D) I e III, apenas.
+[p7c1] (E) I, II e III.
+[p7c1] 32
+[p7c1] A adoção de tecnologias digitais muitas vezes é vista como
+[p7c1] resposta para dilemas ambientais. O avanço da internet, por
+[p7c1] exemplo, permitiu a diminuição do uso de papel, que foi
+[p7c1] substituído por bytes. Entretanto, os data centers ao redor do
+[p7c1] mundo consomem aproximadamente 2% de toda eletricidade do
+[p7c1] planeta, emitindo por exemplo, quantidades similares de carbono,
+[p7c1] comparadas as da indústria aérea.
+[p7c1] Sobre os aspectos apresentados no texto, julgue os itens a seguir:
+[p7c1] ( ) As tecnologias digitais não são apenas fonte de soluções para
+[p7c1] problemas ligados ao meio ambiente, mas também consistem
+[p7c1] em fontes de impactos negativos.
+[p7c1] ( ) O texto defende que todos os avanços tecnológicos
+[p7c1] representam invariavelmente benefícios para o meio
+[p7c1] ambiente.
+[p7c1] ( ) Os data centers representam cerca de metade do consumo de
+[p7c1] energia dos ecossistemas digitais, termo cunhado para definir
+[p7c1] a relação entre infraestrutura digital, ferramentas e seres
+[p7c1] humanos.
+[p7c1] As afirmativas são, respectivamente,
+[p7c1] (A) V – F – V.
+[p7c1] (B) F – V – V.
+[p7c1] (C) V – V – F.
+[p7c1] (D) F – F – V.
+[p7c1] (E) V – V – V.
+[p7c1] TIPO BRANCA – PÁGINA 7
+[p8c0] 33
+[p8c0] A Constituição Federal é o documento jurídico-político que limita
+[p8c0] o poder estatal e o regulamenta. O art. 225 da Carta Magna
+[p8c0] confere a todos o direito ao meio ambiente equilibrado, impondo
+[p8c0] ao Poder Público e à coletividade preservá-lo, estabelecendo uma
+[p8c0] série de diretrizes aptas a assegurar a disposição.
+[p8c0] Sobre o tema abordado no texto, julgue os itens a seguir:
+[p8c0] I. É flagrante violação da Constituição, com a distribuição injusta
+[p8c0] da poluição, submetendo de forma desigual, em razão da raça,
+[p8c0] determinadas populações a precárias condições de vida.
+[p8c0] II. Um projeto de desenvolvimento sustentável deve ser baseado
+[p8c0] em inovações tecnológicas, mantendo a lógica de consumo do
+[p8c0] atual modelo econômico, proporcionando justiça social para
+[p8c0] todos.
+[p8c0] III. O conceito de racismo ambiental está ligado aos danos
+[p8c0] ambientais e sua imposição recorrente em comunidades
+[p8c0] habitadas principalmente por populações negras e pobres.
+[p8c0] Está correto o que se afirma em
+[p8c0] (A) I, apenas.
+[p8c0] (B) III, apenas.
+[p8c0] (C) II e III, apenas.
+[p8c0] (D) I e III, apenas.
+[p8c0] (E) I, II e III.
+[p8c0] 34
+[p8c0] A Secretaria Nacional do Consumidor notificou uma grande rede
+[p8c0] de Farmácias para prestar esclarecimentos a respeito de práticas
+[p8c0] de tratamento indevido de dados pessoais de seus consumidores.
+[p8c0] O fato ocorreu por denúncia publicada em um grande portal de
+[p8c0] comunicação, que expôs a coleta inadequada de informações e
+[p8c0] sua comercialização.
+[p8c0] Sobre a denúncia, os dados podem ter o seguinte destino:
+[p8c0] I. Realização de publicidade direcionada a determinados perfis
+[p8c0] de consumidores, considerando a faixa etária, o sexo e perfis
+[p8c0] de saúde.
+[p8c0] II. Execução de publicidade para empresas do grupo econômico
+[p8c0] e para terceiros, gerando lucro indevido sem autorização ou
+[p8c0] conhecimento dos clientes.
+[p8c0] III. Pesquisas da indústria farmacêutica para produção de
+[p8c0] remédios mais baratos, democratizando o acesso a
+[p8c0] tratamentos de saúde através do programa Farmácia Popular.
+[p8c0] Está correto o que se afirma em
+[p8c0] (A) I, apenas.
+[p8c0] (B) III, apenas.
+[p8c0] (C) I e II, apenas.
+[p8c0] (D) I e III, apenas.
+[p8c0] (E) I, II e III.
+[p8c0] ATI - Inteligência da Informação – TARDE
+[p8c1] 35
+[p8c1] O município do Rio de Janeiro vai aplicar o conceito de cidade-
+[p8c1] esponja para diminuir os efeitos das enchentes. Esse modelo é
+[p8c1] usado em várias cidades do mundo para evitar tragédias
+[p8c1] ambientais, constituindo o ponto central de uma lei municipal,
+[p8c1] sancionada parcialmente em julho de 2024.
+[p8c1] A nova legislação adotará mecanismos sustentáveis com intuito
+[p8c1] de:
+[p8c1] ( ) Reduzir a sobrecarga dos sistemas tradicionais de drenagem
+[p8c1] possibilitando a aproximação de autossuficiência hídrica.
+[p8c1] ( ) Direcionar as águas pluviais que causam transtornos, para o
+[p8c1] reabastecimento de redes subterrâneas.
+[p8c1] ( ) Diminuir a presença da infraestrutura cinza na canalização de
+[p8c1] rios, com a construção de jardins de chuva, melhorando a
+[p8c1] impermeabilização de grandes áreas.
+[p8c1] As afirmativas são, respectivamente,
+[p8c1] (A) V – F – V.
+[p8c1] (B) F – V – V.
+[p8c1] (C) V – V – V.
+[p8c1] (D) F – F – V.
+[p8c1] (E) V – V – F.
+[p8c1] Legislação Acerca de Segurança da
+[p8c1] Informação e Proteção de Dados
+[p8c1] 36
+[p8c1] A Lei nº 12.527, de 18 de novembro de 2011, dispõe sobre as
+[p8c1] restrições de acesso à informação. Nesses termos, a lei traz
+[p8c1] diversos temas que permeiam a classificação da informação.
+[p8c1] Sobre esse assunto, é correto afirmar que
+[p8c1] (A) as informações podem ser classificadas como ultrassigilosas,
+[p8c1] sigilosas ou reservadas, sendo certo que a decisão respectiva é
+[p8c1] discricionária, porquanto a lei não prevê balizas.
+[p8c1] (B) a decisão de classificação de uma informação é pública e de
+[p8c1] acesso a qualquer interessado, independentemente de
+[p8c1] demonstração de interesse, embora classificada a informação.
+[p8c1] (C) findo o prazo de classificação ou ocorrido o evento
+[p8c1] constituidor do termo final, para que o acesso se torne público
+[p8c1] são necessários procedimento próprio e decisão específica.
+[p8c1] (D) a informação que verse sobre conduta que implique violação
+[p8c1] dos direitos humanos praticada por agentes públicos ou a
+[p8c1] mando de autoridades públicas não pode ser objeto de
+[p8c1] restrição de acesso.
+[p8c1] (E) a lei permite a desclassificação, mas não a redução de prazo de
+[p8c1] informação classificada, devendo a reavaliação ser feita pela
+[p8c1] autoridade classificadora ou outra superior, mediante
+[p8c1] provocação ou de ofício.
+[p8c1] TIPO BRANCA – PÁGINA 8
+[p9c0] 37
+[p9c0] Um hacker, por ter conseguido subtrair previamente a senha de
+[p9c0] acesso, invadiu o tablet do vice-Presidente da Câmara dos
+[p9c0] Deputados e, sem este saber, adulterou informações importantes
+[p9c0] relativas ao funcionamento da Casa Parlamentar, trazendo grande
+[p9c0] prejuízo político. Identificada a pessoa, o aludido congressista
+[p9c0] ajuizou queixa-crime. Ao final do processo penal, o hacker foi
+[p9c0] condenado com aumento de pena de um terço, por conta do
+[p9c0] sujeito passivo do delito.
+[p9c0] Quanto à situação descrita, é correto afirmar que
+[p9c0] (A) a deflagração da ação penal está incorreta, porquanto deveria
+[p9c0] ter sido iniciada pelo Ministério Público.
+[p9c0] (B) na fixação da pena, deveria ter havido um aumento de metade
+[p9c0] da pena, já que da invasão resultou prejuízo político.
+[p9c0] (C) o crime de invasão de dispositivo informático possui como
+[p9c0] elementar a exigência de o tablet estar conectado à rede de
+[p9c0] computadores.
+[p9c0] (D) o aumento da pena deveria ter sido de dois terços da pena, por
+[p9c0] conta do ilícito penal ter sido praticado contra o vice-
+[p9c0] Presidente da Câmara dos Deputados.
+[p9c0] (E) para configuração do delito trazido pelo art. 2º, da Lei nº
+[p9c0] 12.737, de 30 de novembro de 2012 (art. 154-A, do Código
+[p9c0] Penal), é preciso a efetiva adulteração das informações.
+[p9c0] 38
+[p9c0] A Lei nº 12.965, de 23 de abril de 2014, estabelece princípios,
+[p9c0] garantias, direitos e deveres para o uso da Internet no Brasil. Ao
+[p9c0] tratar da proteção aos registros, aos dados pessoais e às
+[p9c0] comunicações privadas, tal diploma legal positiva sanções
+[p9c0] específicas para o descumprimento do que prescreve.
+[p9c0] A respeito disso, é correto afirmar que
+[p9c0] (A) as sanções só podem ser aplicadas isoladamente, exceto
+[p9c0] quando o caso reclamar a mais grave que, então, poderá ser
+[p9c0] cumulada com outras.
+[p9c0] (B) a previsão de advertência contempla duas faces: uma
+[p9c0] repressiva e outra corretiva, na medida em que se indica prazo
+[p9c0] para adoção de medidas de regularização.
+[p9c0] (C) a censura deve ser imposta à pessoa natural, proprietária do
+[p9c0] provedor, quando este burlar a proibição de coleta de dados
+[p9c0] pessoais anteriormente aplicada.
+[p9c0] (D) na previsão de multa, o quanto é fixado em 10% (dez por
+[p9c0] cento) do faturamento do grupo econômico no Brasil, extraído
+[p9c0] da média dos últimos três exercícios, excluídos os tributos.
+[p9c0] (E) a Lei nº 12.965, de 23 de abril de 2014, possui um vácuo
+[p9c0] legislativo com relação a empresas estrangeiras, porque não
+[p9c0] traz regramento sancionatório para suas condutas
+[p9c0] infringentes.
+[p9c0] ATI - Inteligência da Informação – TARDE
+[p9c1] 39
+[p9c1] As sanções administrativas estão positivadas na Lei nº 13.709, de
+[p9c1] 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais -
+[p9c1] LGPD), em capítulo intitulado de fiscalização.
+[p9c1] Com relação ao quadro legal sancionatório mencionado, é correto
+[p9c1] afirmar que
+[p9c1] (A) é possível a aplicação de sanções sem a formalização de
+[p9c1] processo administrativo correspondente, em caso no qual se
+[p9c1] constate que o agente de tratamento de dados é violador
+[p9c1] contumaz da citada lei.
+[p9c1] (B) a lei contempla expressamente diversos parâmetros e critérios
+[p9c1] a serem considerados na aplicação da sanção, como, por
+[p9c1] exemplo, a gravidade da infração, a boa fé e o fato de o infrator
+[p9c1] ter nacionalidade estrangeira.
+[p9c1] (C) eventual aplicação da sanção de multa simples a órgão público
+[p9c1] deverá considerar a arrecadação tributária do ente federativo
+[p9c1] a que pertença e o orçamento afetado para o desenvolvimento
+[p9c1] de suas atividades.
+[p9c1] (D) o produto da arrecadação das multas aplicadas pela
+[p9c1] Autoridade Nacional de Proteção de Dados, inscritas ou não
+[p9c1] em dívida ativa, será destinado diretamente às pessoas
+[p9c1] naturais cujo direito à proteção de dados foi violado.
+[p9c1] (E) em caso de vazamento individual, a lei contempla a
+[p9c1] possibilidade de conciliação direta entre controlador e titular,
+[p9c1] estando aquele, na hipótese de inexistência de acordo, sujeito
+[p9c1] à aplicação das penalidades previstas no capítulo mencionado.
+[p9c1] 40
+[p9c1] A Lei nº 13.709, de 14 de agosto de 2018, trouxe ao ordenamento
+[p9c1] jurídico duas figuras jurídicas importantes no sistema de proteção
+[p9c1] de dados pessoais.
+[p9c1] Sobre o desenho legal da Autoridade Nacional de Proteção de
+[p9c1] Dados e o Conselho Nacional de Proteção de Dados Pessoais e da
+[p9c1] Privacidade, é correto afirmar que
+[p9c1] (A) atualmente, Conselho Nacional de Proteção de Dados Pessoais
+[p9c1] e da Privacidade possui natureza de empresa pública federal e
+[p9c1] a Autoridade Nacional de Proteção de Dados é órgão da
+[p9c1] administração pública federal.
+[p9c1] (B) o Conselho Diretor é composto de representantes, titulares e
+[p9c1] suplentes, da Câmara dos Deputados, do Comitê Gestor da
+[p9c1] Internet do Brasil, do Senado Federal, do Conselho Nacional de
+[p9c1] Justiça e do Conselho Nacional do Ministério Público.
+[p9c1] (C) o Conselho Nacional de Proteção de Dados Pessoais e da
+[p9c1] Privacidade possui atribuição de sugerir ações a serem
+[p9c1] realizadas pela Autoridade Nacional de Proteção de Dados e
+[p9c1] disseminar o conhecimento sobre a proteção de dados
+[p9c1] pessoais e da privacidade à população.
+[p9c1] (D) os membros do Conselho Nacional de Proteção de Dados
+[p9c1] Pessoais e da Privacidade somente perderão seus cargos em
+[p9c1] virtude de renúncia, condenação judicial transitada em julgado
+[p9c1] ou pena de demissão decorrente de processo administrativo
+[p9c1] disciplinar.
+[p9c1] (E) a Autoridade Nacional de Proteção de Dados é uma das
+[p9c1] integrantes do Conselho Nacional de Proteção de Dados
+[p9c1] Pessoais e da Privacidade, figurando como conselheira
+[p9c1] presidente, na hipótese de nomeação pelo Presidente da
+[p9c1] República.
+[p9c1] TIPO BRANCA – PÁGINA 9
+[p10c0] Conhecimentos Específicos
+[p10c0] 41
+[p10c0] 1 1
+[p10c0] Sendo n um número natural, definimos a soma 𝑆 = + +
+[p10c0] 1⋅2 2⋅3
+[p10c0] 1 1
+[p10c0] + ⋯ + .
+[p10c0] 3⋅4 𝑛⋅(𝑛+1)
+[p10c0] 𝑎 𝑎
+[p10c0] Se lim 𝑆 = , com a e b naturais e irredutível, então o valor de
+[p10c0] 𝑛→∞ 𝑏 𝑏
+[p10c0] 𝑎 + 𝑏 será
+[p10c0] (A) 2.
+[p10c0] (B) 3.
+[p10c0] (C) 4.
+[p10c0] (D) 5.
+[p10c0] (E) 7.
+[p10c0] 42
+[p10c0] Uma chapa de alumínio de formato circular é exposta a uma fonte
+[p10c0] de calor e sofre dilatação, de modo que seu raio cresce com
+[p10c0] velocidade constante de 0,01cm/s.
+[p10c0] No instante em que o raio do disco atinge 2cm, a velocidade com
+[p10c0] que sua área cresce, em cm2/s, é
+[p10c0] (A) 0,01π
+[p10c0] (B) 0,02π
+[p10c0] (C) 0,04π
+[p10c0] (D) 0,08π
+[p10c0] (E) 0,1π
+[p10c0] 43
+[p10c0] Uma comissão é composta por analistas de diferentes áreas, sendo
+[p10c0] cinco em inteligência da informação, cinco em contabilidade, cinco
+[p10c0] em gestão econômico-financeira e cinco em engenharia. Dois
+[p10c0] analistas serão sorteados nessa comissão para ocupar as posições
+[p10c0] de presidente e vice-presidente.
+[p10c0] A probabilidade de os analistas sorteados pertencerem à mesma
+[p10c0] área é
+[p10c0] (A) 1/20
+[p10c0] (B) 4/19
+[p10c0] (C) 1/5
+[p10c0] (D) 1/4
+[p10c0] (E) 3/4
+[p10c0] 44
+[p10c0] Considere o triângulo com vértices nos pontos A
+[p10c0] ATI - Inteligência da Informação – TARDE
+[p10c0] 
+[p10c0] 1 ,
+[p10c0] 3
+[p10c0] 2
+[p10c0] ,
+[p10c0] 1
+[p10c0] 2
+[p10c0] 
+[p10c0] ,
+[p10c0] B
+[p10c0] 
+[p10c0] 1 ,
+[p10c0] 1
+[p10c0] 2
+[p10c0] , −
+[p10c0] 1
+[p10c0] 2
+[p10c0] 
+[p10c0] e C ( 1 , 1 , − 1 ) .
+[p10c0] Sobre esse triângulo, é correto afirmar que
+[p10c0] (A) é retângulo em A.
+[p10c0] (B) é retângulo em B.
+[p10c0] (C) é retângulo em C.
+[p10c0] (D) todos os ângulos são agudos.
+[p10c0] (E) todos os ângulos são obtusos.
+[p10c0] 45
+[p10c0] Considere a transformação linear 𝑇: ℝ3 → ℝ2 tal que 𝑇(−1,0,0) =
+[p10c0] (2,0), 𝑇(0,2,0) = (2,1) e 𝑇(0,0, −1) = (0, −1). Sendo
+[p10c0] 𝑇(𝑥,𝑦, 𝑧) = (𝑎𝑥 + 𝑏𝑦 + 𝑐𝑧 ,𝑑𝑥 + 𝑒𝑦 + 𝑓𝑧) a expressão dessa
+[p10c0] transformação linear, o valor de 𝑎 + 𝑏 + 𝑐 + 𝑑 + 𝑒 + 𝑓 é
+[p10c0] (A) 0.
+[p10c0] (B) 1.
+[p10c0] (C) 2.
+[p10c0] (D) 3.
+[p10c0] (E) 4.
+[p10c1] 46
+[p10c1] Uma urna contém 3 bolas vermelhas e 4 bolas azuis indistinguíveis,
+[p10c1] exceto pela cor. Três bolas serão retiradas dessa urna,
+[p10c1] sucessivamente e sem reposição.
+[p10c1] Seja X a variável aleatória que representa a quantidade de bolas
+[p10c1] azuis retiradas da urna.
+[p10c1] O valor esperado de X é
+[p10c1] (A) 2,7
+[p10c1] (B) 2,1
+[p10c1] (C) 1,7
+[p10c1] (D) 1,3
+[p10c1] (E) 0,9
+[p10c1] 47
+[p10c1] 1−cos(2𝑥)
+[p10c1] O limite lim é igual a
+[p10c1] 𝑥→0 𝑥2
+[p10c1] 1
+[p10c1] (A)
+[p10c1] 4
+[p10c1] 1
+[p10c1] (B)
+[p10c1] 2
+[p10c1] (C) 1
+[p10c1] (D) 2
+[p10c1] (E) 4
+[p10c1] 48
+[p10c1] De um ponto A, situado numa das margens de um rio, de 100
+[p10c1] metros de largura, deseja-se levar energia elétrica ao ponto C
+[p10c1] situado na outra margem do rio, conforme ilustrado na figura a
+[p10c1] seguir:
+[p10c1] O fio a ser utilizado na água custa R$ 5,00 o metro, e o que será
+[p10c1] utilizado fora, R$ 3,00 o metro.
+[p10c1] O menor gasto possível para ser feita essa ligação com os fios é
+[p10c1] igual a
+[p10c1] (A) R$ 2.950,00
+[p10c1] (B) R$ 3.175,00
+[p10c1] (C) R$ 3.400,00
+[p10c1] (D) R$ 3.625,00
+[p10c1] (E) R$ 3.850,00
+[p10c1] 49
+[p10c1] 5 𝑥2+2
+[p10c1] O valor numérico de ∫ 𝑑𝑥 é igual a
+[p10c1] 3 𝑥2−3𝑥+2
+[p10c1] (A) 2 + 6ln 3 − 3ln 2
+[p10c1] (B) 2 + 3ln 3 − 3ln 2
+[p10c1] (C) 3 + 6ln 3 − 3ln 2
+[p10c1] (D) 2 + 6ln 3 − 6ln 2
+[p10c1] (E) 2 + 6ln 3 − 3ln 4
+[p10c1] TIPO BRANCA – PÁGINA 10
+[p11c0] 50
+[p11c0] Considere os pontos 𝐴(1;2;3), 𝐵(4;5;6), 𝐶(7;2;1) e 𝐷(2;4;8),
+[p11c0] vértices de um tetraedro.
+[p11c0] O volume deste tetraedro é igual a
+[p11c0] (A) 24.
+[p11c0] (B) 16.
+[p11c0] (C) 12.
+[p11c0] (D) 8.
+[p11c0] (E) 4.
+[p11c0] 51
+[p11c0] Seja X uma variável aleatória discreta com a seguinte distribuição
+[p11c0] de probabilidade:
+[p11c0] A variância de X é igual a
+[p11c0] (A) 5,9
+[p11c0] (B) 0,61
+[p11c0] (C) 2,3
+[p11c0] (D) 5,29
+[p11c0] (E) 0,66
+[p11c0] 52
+[p11c0] A companhia aérea Flying to the Moon sabe que o peso das
+[p11c0] bagagens despachadas por passageiro é uma variável aleatória
+[p11c0] com média μ=20 kg e desvio padrão σ=5 kg. Em um voo com
+[p11c0] capacidade máxima de 100 passageiros, todos os assentos estão
+[p11c0] ocupados.
+[p11c0] Observações:
+[p11c0] • Considere que a distribuição da soma pode ser aproximada por
+[p11c0] uma distribuição normal;
+[p11c0] • Nomeando de Z a variável padronizada (escore-z), utilize a
+[p11c0] tabela a seguir, se julgar necessário.
+[p11c0] A probabilidade de que o peso total das bagagens neste voo
+[p11c0] exceda 2100 kg, e assim, ultrapasse o limite de segurança
+[p11c0] estabelecido, é igual a
+[p11c0] (A) 97,72%
+[p11c0] (B) 50%
+[p11c0] (C) 0,9772%
+[p11c0] (D) 2,28%
+[p11c0] (E) 4,55%
+[p11c0] ATI - Inteligência da Informação – TARDE
+[p11c1] 53
+[p11c1] Considere o seguinte conjunto de transações em uma loja de
+[p11c1] varejo:
+[p11c1] A partir desse conjunto de transações, produz-se a regra de
+[p11c1] associação R: Leite → Pão
+[p11c1] Nesse contexto, é correto afirmar que a métrica de R que possui
+[p11c1] valor igual a 50% é
+[p11c1] (A) a confiança.
+[p11c1] (B) o F1 score.
+[p11c1] (C) a precisão.
+[p11c1] (D) o recall.
+[p11c1] (E) o suporte.
+[p11c1] 54
+[p11c1] Algoritmos de agrupamento podem ser classificados em diferentes
+[p11c1] categorias. Um algoritmo de agrupamento amplamente utilizado
+[p11c1] em aprendizado de máquina e mineração de dados é conhecido
+[p11c1] como K-Means.
+[p11c1] O K-Means, em sua versão original, é classificado como um tipo de
+[p11c1] algoritmo
+[p11c1] (A) baseado em grade.
+[p11c1] (B) baseado em grafo.
+[p11c1] (C) hierárquico.
+[p11c1] (D) partitivo.
+[p11c1] (E) por densidade.
+[p11c1] 55
+[p11c1] O algoritmo de redução de dimensionalidade conhecido como
+[p11c1] Análise de Componentes Principais (PCA – Principal Component
+[p11c1] Analysis) possui características importantes.
+[p11c1] Dada a escolha de um número k de componentes principais e um
+[p11c1] conjunto de dados X com cinco variáveis A, B, C, D e E, o PCA
+[p11c1] (A) adiciona a média de cada observação para cada dimensão de
+[p11c1] X, normalizando-a depois pelo desvio-padrão.
+[p11c1] (B) constrói a matriz de confusão a partir de X, multiplicando-a
+[p11c1] pelos autovalores de seus vetores originais.
+[p11c1] (C) escolhe k autovetores aleatórios do conjunto original de
+[p11c1] dados.
+[p11c1] (D) preserva as distâncias geodésicas entre os pontos do espaço
+[p11c1] original dos dados por redução não linear.
+[p11c1] (E) retorna k combinações lineares dos atributos do conjunto
+[p11c1] {A,B,C,D,E}.
+[p11c1] TIPO BRANCA – PÁGINA 11
+[p12c0] 56
+[p12c0] Considere o seguinte cenário: Uma empresa de telecomunicações
+[p12c0] está analisando os dados de uso de seus clientes, como frequência
+[p12c0] de chamadas, uso de dados móveis e envio de mensagens. Ela quer
+[p12c0] identificar grupos de clientes com comportamentos semelhantes
+[p12c0] para oferecer promoções personalizadas.
+[p12c0] Em uma escolha por uma solução de aprendizado de máquina, o
+[p12c0] cientista de dados deve observar que, se o aprendizado for
+[p12c0] (A) híbrido, congregará as características dos modelos
+[p12c0] supervisionado e não supervisionado, em um modelo
+[p12c0] ensemble.
+[p12c0] (B) não supervisionado oferecerá opções como os algoritmos back
+[p12c0] propagation, K-means e C4.5.
+[p12c0] (C) não supervisionado demandará uma fase de pós-
+[p12c0] processamento que envolve visualização e análise do modelo.
+[p12c0] (D) supervisionado considerará a abstração de um modelo de
+[p12c0] conhecimento da forma (entrada, saída desejada).
+[p12c0] (E) supervisionado, os algoritmos partirão dos dados, buscando
+[p12c0] relacionamento entre eles.
+[p12c0] 57
+[p12c0] Seja o código em R a seguir:
+[p12c0] Analisando o código apresentado, sem a necessidade de executá-
+[p12c0] lo, é correto deduzir que
+[p12c0] (A) a categoria "Móveis" apresentou a menor quantidade de
+[p12c0] unidades vendidas.
+[p12c0] (B) a estrutura do data frame inviabiliza o uso da função cor().
+[p12c0] (C) a função aggregate() revela que a categoria "Eletrônicos" tem
+[p12c0] o maior total de unidades vendidas.
+[p12c0] (D) existe uma correlação forte e negativa entre unidades
+[p12c0] vendidas e receita.
+[p12c0] (E) o coeficiente de correlação entre unidades vendidas e receita
+[p12c0] mostrará um valor positivo.
+[p12c0] ATI - Inteligência da Informação – TARDE
+[p12c1] 58
+[p12c1] Um conjunto de dados foi particionado em dois subconjuntos,
+[p12c1] sendo um de treinamento e outro de testagem, ambos utilizados
+[p12c1] exclusivamente para serem usados em seus objetivos originais
+[p12c1] (dados de treino para treinamento, e de teste para testagem).
+[p12c1] Em relação ao ajuste e validação de modelos em aprendizado de
+[p12c1] máquina, um modelo sofre overfitting quando
+[p12c1] (A) apresenta bom desempenho nos dados de treinamento, mas
+[p12c1] tem baixo desempenho nos dados de teste.
+[p12c1] (B) é simples demais para capturar os padrões subjacentes nos
+[p12c1] dados.
+[p12c1] (C) minimiza o erro nos dados de treinamento e os de teste,
+[p12c1] aumentando a correlação entre esses dois conjuntos.
+[p12c1] (D) oferece uma matriz de confusão para um classificador
+[p12c1] detalhando seu desempenho.
+[p12c1] (E) relaciona-se aos altos viés e variância do conjunto de dados.
+[p12c1] 59
+[p12c1] A validação cruzada é uma importante técnica em aprendizado de
+[p12c1] máquina, usada para obter uma estimativa mais robusta do erro
+[p12c1] de generalização. Dessa forma, ela contribui para a construção de
+[p12c1] modelos mais confiáveis, permitindo uma avaliação mais precisa
+[p12c1] de sua capacidade preditiva em diferentes cenários.
+[p12c1] Uma das características da validação cruzada com k conjuntos é
+[p12c1] que esse método
+[p12c1] (A) considera, na sua versão estratificada, a proporção de
+[p12c1] exemplos de cada classe quando da geração de subconjuntos
+[p12c1] mutuamente exclusivos.
+[p12c1] (B) divide aleatoriamente registros em treinamento e teste em
+[p12c1] proporções p e (1-p), respectivamente.
+[p12c1] (C) gera conjuntos cuja interseção é não vazia, utilizados a cada
+[p12c1] iteração como conjunto de treino e teste.
+[p12c1] (D) penaliza os conjuntos de treino com k sorteios aleatórios, de
+[p12c1] modo a torná-lo equilibrado frente ao conjunto de teste.
+[p12c1] (E) produz o conjunto de treinamento a partir de N sorteios
+[p12c1] aleatórios com reposição a partir dos dados originais.
+[p12c1] 60
+[p12c1] Support Vector Machines (SVMs) é um método de aprendizado de
+[p12c1] máquina que pode ser aplicado em áreas como reconhecimento
+[p12c1] de padrões, bioinformática e detecção de fraudes, devido à sua
+[p12c1] capacidade de lidar com dados complexos.
+[p12c1] Nesse contexto, identificamos que o método SVM
+[p12c1] (A) adequa-se a problemas de agrupamento de dados
+[p12c1] multidimensionais.
+[p12c1] (B) apoia-se no princípio do “kernel trick”, que mapeia
+[p12c1] explicitamente dados não lineares em outros dados lineares.
+[p12c1] (C) define margem como sendo a maior saturação de erro (bias)
+[p12c1] suportada pelo algoritmo na geração de hiperplanos
+[p12c1] concorrentes.
+[p12c1] (D) inviabiliza o uso de abordagens para SVMs lineares com
+[p12c1] margens rígida e suave para utilização em SVMs não lineares
+[p12c1] em dados linearmente inseparáveis.
+[p12c1] (E) usa um mapeamento não linear para transformar os dados de
+[p12c1] treino originais em um espaço de dimensão superior.
+[p12c1] TIPO BRANCA – PÁGINA 12
+[p13c0] 61
+[p13c0] Os modelos de dados desempenham um papel fundamental no
+[p13c0] processo de ETL (Extração, Transformação e Carga), pois são
+[p13c0] responsáveis por estruturar e organizar as informações de maneira
+[p13c0] eficiente e consistente. Eles garantem que os dados extraídos de
+[p13c0] diferentes fontes sejam integrados corretamente, facilitando a
+[p13c0] transformação e preparação para a análise posterior.
+[p13c0] No contexto de modelos de dados em ETL, existe o conceito de
+[p13c0] tabela de fatos sem fato (factless fact), que se caracteriza por
+[p13c0] (A) anotar falhas em transações intermediárias.
+[p13c0] (B) apresentar ausência de medidas.
+[p13c0] (C) registrar somente medidas que anulam os registros originais
+[p13c0] de dados.
+[p13c0] (D) representar um intervalo de tempo regularmente repetido.
+[p13c0] (E) revelar medições instantâneas em um ponto específico no
+[p13c0] tempo e espaço.
+[p13c0] 62
+[p13c0] Seja o conjunto de dados X apresentado a seguir, em que os
+[p13c0] atributos “P” e “Q” são preditores, e o atributo “Classe” é o
+[p13c0] atributo-alvo:
+[p13c0] Queremos classificar uma nova amostra x=(5.0, 5.0) utilizando o
+[p13c0] algoritmo clássico dos k vizinhos mais próximos (k-NN), utilizando
+[p13c0] a distância euclidiana para a determinação de vizinhanças.
+[p13c0] Com base nesse algoritmo, e considerando os valores aproximados
+[p13c0] de √2 ≈ 1,414 e √3 ≈ 2,236, o k-NN retorna como categoria de
+[p13c0] x
+[p13c0] (A) a classe A para k=2, pois, como houve empate, a escolha
+[p13c0] aleatória tende para o início de X.
+[p13c0] (B) a classe B para k=1, pois a distância para o ponto (4.0, 5.0) é a
+[p13c0] menor de todas.
+[p13c0] (C) a classe C para k=1, já que a distância para o ponto (1.0, 1.0)
+[p13c0] foi eleita por votação.
+[p13c0] (D) a classe D para k=3, pela aplicação do critério da distância
+[p13c0] ponderada nas três classes empatada.
+[p13c0] (E) a nenhuma classe, já que o algoritmo k-NN não opera em
+[p13c0] conjuntos com dados categóricos.
+[p13c0] ATI - Inteligência da Informação – TARDE
+[p13c1] 63
+[p13c1] Considere o código Python abaixo, que utiliza as bibliotecas
+[p13c1] Pandas e Matplotlib:
+[p13c1] Com base no código fornecido, assinale a opção que descreve
+[p13c1] corretamente a sua função.
+[p13c1] (A) Cria um DataFrame, plota um gráfico de barras verticais com
+[p13c1] os dados das colunas 'A' e 'B', e exibe o gráfico gerado.
+[p13c1] (B) Cria um DataFrame, plota um gráfico de dispersão com os
+[p13c1] dados das colunas 'A' e 'B', e exibe o gráfico gerado.
+[p13c1] (C) Cria uma série de tempo e plota um gráfico de linha com os
+[p13c1] valores da série 'A'.
+[p13c1] (D) Cria um DataFrame, plota um gráfico de barras verticais
+[p13c1] empilhadas com os dados das colunas 'A' e 'B', e exibe o gráfico
+[p13c1] gerado.
+[p13c1] (E) Utiliza o Streamlit para criar uma interface gráfica que exibe
+[p13c1] um gráfico com os dados das colunas 'A' e 'B'.
+[p13c1] 64
+[p13c1] Considere o seguinte código que tenta criar e treinar uma rede
+[p13c1] neural simples com TensorFlow e Keras. Observe o erro que pode
+[p13c1] ocorrer ao tentar executá-lo (desconsidere questões de
+[p13c1] indentação do Pythone):
+[p13c1] Com base no código, assinale a opção que indica o erro que levaria
+[p13c1] a uma falha na execução.
+[p13c1] (A) O modelo não pode ser compilado porque não possui uma
+[p13c1] função de métrica definida no método compile.
+[p13c1] (B) O código falhará, pois x_train e y_train não foram definidos ou
+[p13c1] carregados.
+[p13c1] (C) O método Dense precisa especificar a função de ativação
+[p13c1] sigmoid na última camada.
+[p13c1] (D) O código apresenta erro na função de perda, que deveria ser
+[p13c1] definida como categorical_crossentropy.
+[p13c1] (E) A função Sequential deveria ter os parâmetros explicitamente
+[p13c1] definidos como layers=[].
+[p13c1] TIPO BRANCA – PÁGINA 13
+[p14c0] 65
+[p14c0] Considere o seguinte código em R:
+[p14c0] É correto afirmar que
+[p14c0] (A) carrega a biblioteca "ggplot2", carrega o dataset "mpg" e cria
+[p14c0] um gráfico de barras mostrando a relação entre as variáveis
+[p14c0] displ e hwy.
+[p14c0] (B) carrega a biblioteca "ggplot2", carrega o dataset "mpg" e cria
+[p14c0] um gráfico de pontos mostrando a relação entre as variáveis
+[p14c0] displ e hwy.
+[p14c0] (C) cria um histograma da variável displ usando o dataset "mpg".
+[p14c0] (D) carrega a biblioteca "dplyr", carrega o dataset "mpg" e cria um
+[p14c0] gráfico de pontos mostrando a relação entre as variáveis displ
+[p14c0] e hwy.
+[p14c0] (E) carrega a biblioteca "ggplot2", carrega o dataset "mpg", mas o
+[p14c0] código contém um erro, então não gera nenhum gráfico.
+[p14c0] 66
+[p14c0] O Apache Hadoop é uma plataforma amplamente utilizada no
+[p14c0] processamento de grandes volumes de dados. Ele se destaca por
+[p14c0] sua arquitetura distribuída e capacidade de lidar com grandes
+[p14c0] conjuntos de dados de forma eficiente.
+[p14c0] Com base nas capacidades e funcionalidades do Hadoop, assinale
+[p14c0] a opção que = descreve corretamente seu funcionamento e
+[p14c0] aplicação prática.
+[p14c0] (A) O Hadoop é uma plataforma de banco de dados relacional, que
+[p14c0] utiliza o SQL para gerenciar grandes volumes de dados de
+[p14c0] maneira centralizada.
+[p14c0] (B) O Hadoop possui uma arquitetura distribuída, composta
+[p14c0] principalmente pelo HDFS (Hadoop Distributed File System) e
+[p14c0] o MapReduce, permitindo o processamento de grandes
+[p14c0] volumes de dados de maneira escalável e paralela.
+[p14c0] (C) O principal componente do Hadoop é o NoSQL, que possibilita
+[p14c0] o armazenamento de dados não estruturados em um único
+[p14c0] servidor, sem a necessidade de distribuição.
+[p14c0] (D) O Hadoop foi projetado para pequenas empresas que
+[p14c0] possuem volumes reduzidos de dados e não requerem
+[p14c0] processamento paralelo, destacando-se por sua simplicidade
+[p14c0] de uso.
+[p14c0] (E) O Hadoop se limita ao armazenamento de dados em clusters
+[p14c0] locais, não sendo compatível com ambientes de computação
+[p14c0] em nuvem ou distribuídos globalmente.
+[p14c0] ATI - Inteligência da Informação – TARDE
+[p14c1] 67
+[p14c1] O Apache Spark é uma ferramenta amplamente utilizada para
+[p14c1] processamento de grandes volumes de dados.
+[p14c1] Assinale a opção que o descreve corretamente, assim como suas
+[p14c1] capacidades e suas funcionalidades.
+[p14c1] (A) O Apache Spark é um sistema de armazenamento distribuído
+[p14c1] de arquivos que gerencia grandes volumes de dados por meio
+[p14c1] de replicação e fragmentação, com foco na segurança e no
+[p14c1] versionamento dos arquivos.
+[p14c1] (B) O Apache Spark é um framework de computação distribuída
+[p14c1] que permite o processamento rápido de grandes volumes de
+[p14c1] dados, suportando operações em tempo real e por lote, além
+[p14c1] de fornecer bibliotecas para machine learning e gráficos.
+[p14c1] (C) O Apache Spark é uma plataforma de análise de dados
+[p14c1] especializada em bancos de dados relacionais, permitindo
+[p14c1] consultas SQL em tempo real e fornecendo ferramentas de
+[p14c1] visualização integradas.
+[p14c1] (D) O Apache Spark é um sistema de gerenciamento de filas que
+[p14c1] prioriza a execução de tarefas paralelas em ambientes
+[p14c1] distribuídos, garantindo que as tarefas sejam executadas de
+[p14c1] acordo com a capacidade da infraestrutura.
+[p14c1] (E) O Apache Spark é um sistema de controle de versões
+[p14c1] distribuído que facilita o gerenciamento colaborativo de
+[p14c1] projetos de dados e código, permitindo a reversão de
+[p14c1] alterações e o controle detalhado de permissões.
+[p14c1] 68
+[p14c1] Um dos conceitos associados a coleções de objetos de dados e/ou
+[p14c1] arquivos de sistemas de bancos de dados NoSQL é o de sharding.
+[p14c1] Nesse contexto, uma das características de sharding refere-se
+[p14c1] (A) ao armazenamento de múltiplos itens com timestamps.
+[p14c1] (B) à conciliação de gravação em operações conflitantes.
+[p14c1] (C) a não exigência de um esquema prévio de dados.
+[p14c1] (D) a oferta de uma linguagem de consulta menos poderosa.
+[p14c1] (E) ao particionamento horizontal dos dados entre nós do
+[p14c1] sistema.
+[p14c1] 69
+[p14c1] No âmbito de normalização de bancos de dados relacionais, há o
+[p14c1] conceito de dependência com a seguinte especificação: “para o
+[p14c1] esquema de uma relação R, uma restrição que demanda que cada
+[p14c1] estado r de R apresente uma decomposição de junção não aditiva
+[p14c1] e não trivial para cada decomposição R de R, em que o valor de i
+[p14c1] i
+[p14c1] varie entre 1 e n, sendo n o número de decomposições de R”.
+[p14c1] Esse conceito de dependência, considerando um valor de n maior
+[p14c1] que dois (n>2), integra a definição da
+[p14c1] (A) 2ª forma normal (2FN).
+[p14c1] (B) 3ª forma normal (3FN).
+[p14c1] (C) 4ª forma normal (4FN).
+[p14c1] (D) 5ª forma normal (5FN).
+[p14c1] (E) forma normal Boyce-Codd (FNBC).
+[p14c1] TIPO BRANCA – PÁGINA 14
+[p15c0] 70
+[p15c0] Em um sistema de banco de dados relacional, o script de
+[p15c0] comandos SQL a seguir especificado foi submetido à execução:
+[p15c0] A análise do script permite-nos afirmar que a sua execução
+[p15c0] produzirá um resultado.
+[p15c0] Assinale a opção que indica esse resultado.
+[p15c0] (A) A criação de uma nova coluna “atr4” ao final da execução do
+[p15c0] script, com as duas tuplas do estado da tabela contendo o valor
+[p15c0] zero como conteúdo desse novo atributo criado.
+[p15c0] (B) A criação de uma nova restrição de integridade “atr4” ao final
+[p15c0] da execução do script, que demanda que valores não nulos
+[p15c0] sejam inicialmente preenchidos com o valor zero.
+[p15c0] (C) O comando ALTER TABLE apresentará erro, pois a
+[p15c0] especificação da linguagem SQL não permite um novo atributo
+[p15c0] em uma tabela com especificação de não nulo.
+[p15c0] (D) O comando INSERT não será executado, já que a segunda tupla
+[p15c0] especificada contém valor nulo no atributo atr3, que necessita
+[p15c0] ser maior que zero.
+[p15c0] (E) Um erro sintático de construção do comando ALTER TABLE,
+[p15c0] pela ausência da especificação da palavra reservada COLUMN
+[p15c0] após a palavra reservada ADD.
+[p15c0] ATI - Inteligência da Informação – TARDE
+[p15c1] TIPO BRANCA – PÁGINA 15
+[p16c0] Realiz
+[p16c1] zação

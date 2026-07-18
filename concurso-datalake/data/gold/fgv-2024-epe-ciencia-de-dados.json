@@ -1,0 +1,1549 @@
+{
+ "prova": "fgv-2024-epe-ciencia-de-dados",
+ "banca": "FGV",
+ "ano": 2024,
+ "orgao": "EPE",
+ "cargo": "Analista de Gestão Corporativa - TI - Ciência de Dados",
+ "tipo": "TIPO 1",
+ "pdf": "fgv-2024-epe-analista-de-gestao-corporativa-tecnologia-da-informacao-ciencia-de-dados-prova.pdf",
+ "questoes": [
+  {
+   "numero": 1,
+   "pagina": 2,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Sobre a charge acima, assinale a afirmativa incorreta.",
+   "alternativas": {
+    "A": "Identificamos os personagens como prisioneiros também pelo uniforme que usam.",
+    "B": "Outro motivo de identificarmos os personagens como prisioneiros é a presença de uma janela com grades.",
+    "C": "Os temas explorados nos quadros mostram as semelhanças entre os prisioneiros.",
+    "D": "As posições dos prisioneiros mostram, respectivamente, da esquerda para a direita, inquietação e tranquilidade.",
+    "E": "Os defeitos nas paredes caracterizam o local onde estão os prisioneiros como pobre e descuidado."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 2,
+   "pagina": 2,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Assinale a opção que indica a frase em que o vocábulo lá mostra\nantecedente expresso.",
+   "alternativas": {
+    "A": "Se eu pudesse ir para o céu com um partido, eu lá não iria de modo algum.",
+    "B": "Os mecânicos me conhecem e quando apareço por lá fazem uma festa.",
+    "C": "Meus colegas ainda me acompanharam por lá durante um tempo.",
+    "D": "Os livros estão custando muito caro e por isso eu não vou mais lá.",
+    "E": "Todos querem a medalha de ouro, mas quando chegam lá, ficam nervosos e choram."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 3,
+   "pagina": 2,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "As opções a seguir apresentam frases nas quais o pronome pessoal\noblíquo sublinhado está corretamente empregado,\nà exceção de uma. Assinale-a.",
+   "alternativas": {
+    "A": "Quando não se pode derrotar, torne-se sócio.",
+    "B": "Qual é o melhor governo? O que nos ensina a governar a nós mesmos.",
+    "C": "A espada está erguida e não posso embainhá-la sem a vitória ou sem honra.",
+    "D": "Entre mortos e feridos salvaram-se todos.",
+    "E": "Não se acaba com a corrupção, se combate. ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI"
+   },
+   "gabarito": null,
+   "anulada": true,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 4,
+   "pagina": 2,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Assinale a opção que mostra a frase em que a comparação\nrealizada não é explicada.",
+   "alternativas": {
+    "A": "Leis são como salsichas: é melhor não ver como são feitas.",
+    "B": "Todo mundo no governo é como uma porção de formigas sobre um tronco que flutua em um rio. Cada um pensa que está dirigindo o tronco.",
+    "C": "Política é como fotografia. Se você se mexer, não sai.",
+    "D": "Os reis com seus ministros são como maridos enganados com suas mulheres.",
+    "E": "A saída do estádio era como um enterro: todos de cabeça baixa e alguns choravam."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 5,
+   "pagina": 2,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Assinale a opção que apresenta a frase em que o pronome\nsublinhado refere-se a um termo anterior.",
+   "alternativas": {
+    "A": "O tempo das armas não é o das leis.",
+    "B": "O grande triunfo do adversário é fazer-nos crer o que diz de nós.",
+    "C": "Eles não estão certos sobre o que pensam sobre a guerra.",
+    "D": "Eles agiram conforme o que manda o manual.",
+    "E": "Ele não faz o que lhe mandam."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 6,
+   "pagina": 2,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Assinale a opção que apresenta a frase em que a locução adverbial\nsublinhada foi substituída, adequadamente, por um advérbio de\nmesmo significado.",
+   "alternativas": {
+    "A": "Agia todos os dias da mesma forma. / frequentemente.",
+    "B": "À força de conceder direito a todos, a democracia é o regime que mata com mais segurança. / securitariamente.",
+    "C": "Dos poderosos nada se consegue que não seja cobrado em dobro. / dualmente.",
+    "D": "Não se faz política sem vítimas. / impunemente.",
+    "E": "Praticava os crimes da mesma forma. / igualitariamente."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 7,
+   "pagina": 2,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Assinale a opção que apresenta a frase em que o termo sublinhado\nmostra um erro ortográfico.",
+   "alternativas": {
+    "A": "O mais delicioso dos privilégios é gastar o dinheiro dos outros.",
+    "B": "As seções de cinema ocorriam sucessivamente e as pessoas podiam ver um filme várias vezes.",
+    "C": "Nesse ínterim ocorreu o terremoto em Lisboa.",
+    "D": "Os bêbedos incomodam os passantes no bairro.",
+    "E": "A escrita egípcia mostrava variados hieroglifos."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 8,
+   "pagina": 2,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Assinale a opção que indica a frase em que a substituição de um\ninfinitivo pelo substantivo correspondente foi feita de forma\ninadequada.",
+   "alternativas": {
+    "A": "Governar é escolher entre desvantagens. / a escolha",
+    "B": "A política é a arte de trair interesses reais e legítimos. / da traição de",
+    "C": "A paz faz crescerem as coisas pequenas; a guerra destrói as grandes. / o crescimento das",
+    "D": "Quem nasceu para obedecer, obedecerá mesmo no trono. / a obediência",
+    "E": "Quando não é necessário tomar uma decisão, não é necessário tomar uma decisão. / a retomada de"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 9,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Em todas as frases a seguir, que foram retiradas do romance\nO Cortiço, foi empregado o vocábulo coisa em lugar de outro de\nsignificado mais específico.\nAssinale a opção que apresenta a frase em que a substituição por\num outro vocábulo mais específico foi feita de forma inadequada.",
+   "alternativas": {
+    "A": "A política é uma coisa séria demais para ser deixada nas mãos dos políticos. / atividade",
+    "B": "Entre a padaria e o corredor havia coisa de vinte metros. / uma distância",
+    "C": "...desde então principiou a sonhar com um baronato, fazendo disso o objeto querido da sua existência, muito satisfeito no íntimo por ter afinal descoberto uma coisa em que podia empregar dinheiro. / um objetivo.",
+    "D": "Era lavadeiro e vivia sempre entre as mulheres, com quem já estava tão familiarizado que elas o tratavam como a uma pessoa do mesmo sexo; em presença dele falavam de coisas que não exporiam em presença de outro homem. / assuntos.",
+    "E": "Aquela amigação com a Rita Baiana era uma coisa muito complicada e vinha de longe; vinha do tempo em que ela ainda estava chegadinha de fresco da Bahia, em companhia da mãe, uma cafuza dura, capaz de arrancar as tripas ao Manduca da Praia. / relação."
+   },
+   "gabarito": null,
+   "anulada": true,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 10,
+   "pagina": 3,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "As frases a seguir mostram a presença do advérbio não e todas\nelas foram reescritas de modo a eliminá-lo.\nAssinale a opção em que a mudança mudou o sentido original da\nfrase.",
+   "alternativas": {
+    "A": "A política não tem entranhas. / carece de.",
+    "B": "No Brasil, costumamos chamar de “picareta” aqueles que conseguem fazer do seu jeito o que não conseguimos fazer do nosso. / fracassamos em.",
+    "C": "O político deve buscar sempre a aprovação, porém não o aplauso. / jamais.",
+    "D": "Um conservador é um homem com duas excelentes pernas que, contudo, não aprendeu a andar para a frente / desaprendeu.",
+    "E": "Não tem poder quem acha que politicamente não tem poder / é impotente. ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI Read Text I and answer the six questions that follow it: Text I Office Culture Companies are clawing to bring back pre-pandemic perks and that 'family' feeling – but employees want something more tangible. Many employers are calling employees back into offices, trying to restore the workplace of pre-pandemic days. Along with filling seats, they're also looking to bring back another relic: office culture. Pre-2020, office culture was synonymous with the 'cool' office: think places to lounge, stocked pantries and in-office happy hours that went all out; or luxe retreats and team-building exercises meant to foster the feeling of 'family'. In past years, these perks drew many workers to the office – in some cases, entire companies defined themselves by their office cultures. The world of work looks and feels entirely different than just a few years ago – yet many companies are still intent on recreating the office cultures workers left behind as they abandoned their desks in 2020. While these companies are making some gestures to adapt – for instance, redesigning spaces to accommodate new preferences and hybrid-work habits – many are still set on bringing back what lured in workers before the pandemic. Yet swaths of employees simply aren't interested in going backward. Instead of trust-falls and cold brew on tap, employees are demanding flexible work, equitable pay and a focus on humanity in the workplace that transcends the perks they sought years earlier. Workers' shifting priorities are a natural consequence of the Covid-19 pandemic, says Georgina Fraser, head of human capital for global commercial real-estate firm CBRE. \"The pandemic gave us autonomy in a way that we haven't had previously,\" she says. \"It gave us the opportunity to choose how we structured our working days.\" And now that workers have experienced that level of work-life balance, they won't settle for less. Fraser adds: \"Post-pandemic, we saw a resurgence of people being very vocal about what they wanted and needed, not just from office culture, but from the wider world.\" Now, she says, workers aren't shy about \"wanting to be seen as a whole human – and that filters down to their physical location, how [employers] manage them, what support they receive and how [employers] integrate technologies between home and office in order to support them\". One major factor in this changing attitude is that many employees feel office culture simply isn't applicable in a remote- and hybrid-first world, where the physical office can feel superfluous. Now that the workplace doesn't serve as the culture hub it once did, \"companies have really struggled to redefine the role of the office\", says Lewis Beck, CBRE's head of workplace for Europe. Office culture that was once meant to get employees excited doesn't have the same pull when workplaces are only one- third full. Adapted from: https://www.bbc.com/worklife/article/20240229-office-culture-is- dead"
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 11,
+   "pagina": 4,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Analyse the statements below based on Text I.\nI. Before the Covid-19 pandemic, office culture was understood\nas a concept requiring state-of-the-art technological skills from\nworkers.\nII. In the past, employees loathed going to fancy resorts.\nIII. Post pandemic workers have priorities other than office perks.\nChoose the correct answer:",
+   "alternativas": {
+    "A": "Only I is correct.",
+    "B": "Only II is correct.",
+    "C": "Only III is correct.",
+    "D": "Both I and II are correct.",
+    "E": "Both II and III are correct."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 12,
+   "pagina": 4,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "The extract Companies are clawing (in the subtitle) suggests that\nthe effort expended by the companies is",
+   "alternativas": {
+    "A": "forbearing.",
+    "B": "thwarted.",
+    "C": "sleazy.",
+    "D": "fierce.",
+    "E": "mild."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 13,
+   "pagina": 4,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "If stocked pantries (2nd paragraph) are available in the office,\npeckish employees will have a place where they can grab a(n)",
+   "alternativas": {
+    "A": "quick bite.",
+    "B": "new broom.",
+    "C": "spare computer.",
+    "D": "shredding machine.",
+    "E": "embossed envelope."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 14,
+   "pagina": 4,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "The extract what lured in workers (3rd paragraph) implies that\nworkers were",
+   "alternativas": {
+    "A": "embellished.",
+    "B": "embittered.",
+    "C": "enfeebled.",
+    "D": "endured.",
+    "E": "enticed."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 15,
+   "pagina": 4,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Trust-falls (4th paragraph) are group activities aimed at",
+   "alternativas": {
+    "A": "backlashing.",
+    "B": "bickering.",
+    "C": "bouncing.",
+    "D": "boasting.",
+    "E": "bonding."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 16,
+   "pagina": 4,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "When it is argued that workers aren't shy (7th paragraph), the\nauthor means they are",
+   "alternativas": {
+    "A": "shamefaced.",
+    "B": "forthright.",
+    "C": "diffident.",
+    "D": "bashful.",
+    "E": "coy. ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI Read Text II and answer the four questions that follow it: Text II A river in flux MANAUS, BRAZIL—Jochen Schöngart darts back and forth along an escarpment just above the Amazon River, a short water taxi ride from downtown Manaus, Brazil. It’s still early this October morning in 2023, but it’s already hot and his face is beaded with sweat. “Look, there’s a piece of ceramic!” he says, nodding to a worn shard lodged between boulders, likely a relic of an earlier civilization. It’s not the only one. Schöngart, a forest scientist at the National Institute of Amazon Research (INPA), stoops and stares at the bedrock at his feet. Well below the river’s normal level for this time of year, the rock bears a gallery of life-size faces, perhaps carved during a megadrought 1000 years ago. Now, they have been exposed again by a new drought, the worst in the region’s modern history. In the previous 4 months, only a few millimeters of rain have fallen in this city of 2 million at the confluence of the Negro and Amazon rivers. Normally it gets close to a half a meter during the same period. The Amazon sank steadily beginning in June, as it does most years during the dry season. But by mid-October, the port’s river gauge reached the lowest level observed since the record began in 1902. Freighters coming up from the Atlantic Ocean—the city’s primary supply line—were blocked by shoals. Factories furloughed workers. Making matters worse, the drought coincided with a series of week-long heat waves. In September and October, withering conditions persisted across the Amazon, and temperatures here peaked at 39°C, 6°C above normal. Desiccated jungle set ablaze by farmers enveloped the city in choking smoke. Then, in the season’s most freakish episode, a sandstorm blotted out the Sun. Drought and heat are only half of the story of the changes unfolding in the heart of the world’s largest rainforest. Schöngart and collaborators’ research on the river here has shown that for decades, while dry-season low water has been plummeting, rainy- season high water has been rising. The city has experienced frequent major flooding in recent years because of heavy rains across much of the Amazon Basin, forcing the officials to erect temporary wooden walkways above streets of the historic waterfront. Schöngart and other researchers expect such changes to intensify as global climate warms. The current drought provided a grim preview, killing river dolphins and fish, and threatening livelihoods for communities along the river. If the combination of higher highs and lower lows becomes the new norm, the ramifications could extend throughout the Amazon Basin and even beyond, threatening the very existence of the forest—which harbors much of the planet’s biodiversity, has a far-reaching influence over regional and global climate, and sustains millions of people. “We are undergoing massive changes in the hydrological cycle” of the Amazon Basin, Schöngart says. The question now, he says, is whether its ecosystems and people can adapt. Adapted from: https://www.science.org/content/article/amazon-river-may-altered- forever-climate-change"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 17,
+   "pagina": 5,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Based on the text, mark the statements below as true (T) or false\n(F).\n( ) To find the piece of ceramic, the scientist had to dig into the\nhot soil.\n( ) Due to the drought, factories found themselves having to hire\nworkers to unblock the long and narrow ridges.\n( ) Thus far, the control over climate change has not been\nconsidered a given.\nThe statements are, respectively,",
+   "alternativas": {
+    "A": "T – F – T.",
+    "B": "T – T – F.",
+    "C": "F – F – T.",
+    "D": "F – T – F.",
+    "E": "F – T – T."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 18,
+   "pagina": 5,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "In the opening sentence, the forest scientist is described as moving",
+   "alternativas": {
+    "A": "swiftly.",
+    "B": "clumsily.",
+    "C": "haltingly.",
+    "D": "stealthily.",
+    "E": "cautiously."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 19,
+   "pagina": 5,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Due to global warming, experts believe the changes described will\ntend to",
+   "alternativas": {
+    "A": "drop.",
+    "B": "abate.",
+    "C": "vanish.",
+    "D": "plunge.",
+    "E": "heighten."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 20,
+   "pagina": 5,
+   "disciplina": "Língua Inglesa",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "The situation described in the 5th paragraph is:",
+   "alternativas": {
+    "A": "gory.",
+    "B": "taxing.",
+    "C": "exciting.",
+    "D": "thrilling.",
+    "E": "desirable."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 21,
+   "pagina": 5,
+   "disciplina": "Noções de Administração Pública",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Leia o fragmento a seguir.\nA entidade dotada de personalidade jurídica de direito privado,\nsem fins lucrativos, criada em virtude de autorização legislativa\npara o desenvolvimento de atividades que não exijam execução\npor órgãos ou entidades de direito público, com autonomia\nadministrativa, patrimônio próprio gerido pelos respectivos órgãos\nde direção e funcionamento custeado por recursos da União e de\noutras fontes.\nO fragmento apresenta as características de uma",
+   "alternativas": {
+    "A": "autarquia.",
+    "B": "fundação pública.",
+    "C": "empresa pública.",
+    "D": "sociedade de economia mista.",
+    "E": "entidade paraestatal. ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 22,
+   "pagina": 5,
+   "disciplina": "Noções de Administração Pública",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Administração Pública Indireta é o conjunto de entidades que\npossuem personalidade jurídica própria, criadas pelo Estado para\ndesempenhar atividades administrativas descentralizadas. Essas\nentidades são responsáveis por executar serviços públicos\nespecíficos ou de interesse público, complementando as funções\nda administração pública direta.\nAssinale a opção que apresenta características de uma empresa\npública.",
+   "alternativas": {
+    "A": "Pessoa jurídica de direito privado com capital inteiramente público e organização sob qualquer das formas admitidas em direito.",
+    "B": "Pessoa jurídica de direito privado em que há conjugação de capital público e privado, participação do Poder Público na gestão e organização sob forma de sociedade anônima.",
+    "C": "Provê serviços entre dois ou mais entes federativos para atender ao interesse coletivo e proporcionar benefícios públicos.",
+    "D": "Pessoa jurídica de direito público que executa atividades típicas do Estado.",
+    "E": "Presta serviços e desenvolve ações conjuntas que visem ao interesse coletivo e a benefícios públicos."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 23,
+   "pagina": 5,
+   "disciplina": "Noções de Administração Pública",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A Constituição Federal de 1988 inovou ao fazer expressa menção\na alguns princípios a que se submete a Administração Pública\nDireta e Indireta, a saber, os princípios da legalidade, da\nimpessoalidade, da moralidade administrativa, da publicidade e da\neficiência.\nAssinale a opção que indica o princípio que se impõe a todo agente\npúblico de realizar suas atribuições com presteza, perfeição e\nrendimento funcional.",
+   "alternativas": {
+    "A": "Legalidade.",
+    "B": "Impessoalidade.",
+    "C": "Moralidade.",
+    "D": "Publicidade.",
+    "E": "Eficiência."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 24,
+   "pagina": 5,
+   "disciplina": "Noções de Administração Pública",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O orçamento público no Brasil é um instrumento fundamental\npara o planejamento e a administração dos recursos financeiros do\nEstado, visando atender às necessidades da sociedade e fomentar\no desenvolvimento econômico e social do país.\nCom relação ao orçamento público, analise as afirmativas a seguir.\nI. A elaboração de propostas orçamentárias envolve a\nconsolidação, pelo Poder Executivo, do Projeto de Lei\nOrçamentária Anual (PLOA), abrangendo as propostas\norçamentárias dos demais Poderes, seguida do envio ao Poder\nLegislativo para apreciação.\nII. O PLOA, uma iniciativa do Presidente da República, estima as\nreceitas e fixa as despesas para o exercício financeiro seguinte,\ncom estrutura e nível de detalhamento definidos pela Lei de\nDiretrizes Orçamentárias (LDO) do exercício.\nIII. A Lei Orçamentária Anual (LOA) suprime os orçamentos fiscal,\nda seguridade social e de investimento das estatais.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 25,
+   "pagina": 6,
+   "disciplina": "Noções de Administração Pública",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O orçamento público tem como principal objetivo assegurar o\ncontrole das finanças públicas, promovendo transparência e\nprestação de contas à população e aos órgãos de controle, além\nde garantir a alocação eficiente dos recursos para áreas\nprioritárias, como saúde, educação e segurança.\nCom relação às noções básicas de orçamento público e finanças,\nanalise os itens a seguir:\nI. Analogamente aos orçamentos empresariais, no orçamento\npúblico o montante da receita limita o valor da despesa.\nII. O papel ativo das finanças públicas deve ir além do\nenfrentamento de crises econômicas acentuadas, abrangendo\ntambém a busca pelo pleno emprego, o aumento dos\ninvestimentos e a promoção de uma distribuição de renda\nmais equitativa.\nIII. O conteúdo dos orçamentos das entidades governamentais\nresulta de inúmeras decisões e escolhas feitas em diversas\netapas do processo de gestão.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 26,
+   "pagina": 6,
+   "disciplina": "Noções de Administração Pública",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Processo administrativo é o conjunto de funções desempenhadas\npelos administradores em diferentes níveis e áreas da organização,\ncom o objetivo de alcançar metas pré-definidas.\nColocar em marcha aquilo que foi planejado e organizado é\natribuição da função",
+   "alternativas": {
+    "A": "planejamento.",
+    "B": "organização.",
+    "C": "direção.",
+    "D": "controle.",
+    "E": "avaliação."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 27,
+   "pagina": 6,
+   "disciplina": "Noções de Administração Pública",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "As noções básicas de licitações e contratos nas empresas estatais\nenvolvem a compreensão dos procedimentos legais e\nadministrativos que regem a aquisição de bens e serviços por essas\nentidades.\nAssinale a opção que se refere à formação e extinção de parcerias\ne associações, à aquisição e alienação de participação em\nsociedades e às operações no mercado de capitais, conforme a\nregulação do órgão competente.",
+   "alternativas": {
+    "A": "Inviabilidade de competição.",
+    "B": "Observação da política de integridade.",
+    "C": "Matriz de riscos.",
+    "D": "Contratação semi-integrada.",
+    "E": "Oportunidade de negócio. ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 28,
+   "pagina": 6,
+   "disciplina": "Noções de Administração Pública",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "As empresas estatais, ao realizarem licitações, devem seguir a Lei\nnº 13.303/2016, que estabelece normas para esses processos e\ncontratos. Os contratos resultantes devem ser rigorosamente\ngeridos para garantir o cumprimento das cláusulas, incluindo a\nfiscalização dos serviços e a aplicação de penalidades em casos de\ninadimplência.\nAssinale a opção que apresenta a situação na qual as empresas\npúblicas são dispensadas da precedência de licitação.",
+   "alternativas": {
+    "A": "A escolha do parceiro se deve às suas características particulares, vinculada a oportunidades de negócio específicas, justificando a inviabilidade de um procedimento competitivo.",
+    "B": "A celebração de contratos com terceiros destinados à prestação de serviços de engenharia, abrangendo serviços como planejamento, projeto, construção, manutenção e consultoria técnica.",
+    "C": "A execução direta de serviços de publicidade que envolva a criação, produção e veiculação de campanhas publicitárias realizadas internamente na própria entidade.",
+    "D": "A alienação de bens e ativos do patrimônio, bem como a execução de obras que serão incorporadas a esse patrimônio para garantir a eficiência nas operações.",
+    "E": "A aquisição e a locação de bens que contribuam para a maximização de recursos, otimização de operações e o alcance das metas organizacionais. Valor Público Gerado pela EPE"
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 29,
+   "pagina": 6,
+   "disciplina": "Noções de Administração Pública",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Em relação às atribuições da Empresa de Pesquisa Energética –\nEPE, assinale a afirmativa incorreta.",
+   "alternativas": {
+    "A": "Realizar estudos e projeções da matriz energética brasileira.",
+    "B": "Elaborar e publicar o balanço energético nacional.",
+    "C": "Identificar e quantificar os potenciais de recursos energéticos.",
+    "D": "Realizar estudos para a determinação dos aproveitamentos ótimos dos potenciais hidráulicos.",
+    "E": "Desenvolver estudos para incrementar a utilização de carvão mineral e vegetal nacional."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 30,
+   "pagina": 6,
+   "disciplina": "Noções de Administração Pública",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O Decreto nº 5.184, de 16 de agosto de 2005, criou a Empresa de\nPesquisa Energética - EPE, aprovou seu Estatuto Social e deu\noutras providências.\nSegundo o Anexo I desse Decreto, foram transferidas, para a\nconstituição do patrimônio inicial da EPE, as ações das empresas\nde telecomunicações de titularidade da União listadas a seguir, à\nexceção de uma. Assinale-a.",
+   "alternativas": {
+    "A": "Brasil Telecom Participações.",
+    "B": "Brasil Telecom.",
+    "C": "TIM Sul.",
+    "D": "Claro Norte.",
+    "E": "Telemar."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 31,
+   "pagina": 7,
+   "disciplina": "Noções de Administração Pública",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Com base no planejamento estratégico da Empresa de Pesquisa\nEnergética – EPE (ciclo 2024-2028), relacione os atributos que\ndefinem a identidade empresarial da EPE, listados a seguir, às suas\nrespectivas características.\n( ) Negócio\n( ) Missão\n( ) Visão\n( ) Valores Organizacionais\n1. Realizar estudos e pesquisas de alta qualidade visando\nsubsidiar o Planejamento, o Desenvolvimento e a Política\nEnergética Nacional.\n2. Ser uma organização proativa, inovadora e reconhecida por\nsua excelência técnica em estudos e pesquisas no Setor\nEnergético.\n3. Realização de estudos e pesquisas para subsidiar a formulação,\nimplementação e avaliação da Política e do Planejamento\nEnergético Brasileiro.\n4. Os norteadores das ações dos empregados e dirigentes da\nempresa inclui: comprometimento e inovação, dentre outros.\nAssinale a opção que apresenta a relação correta, segundo a\nordem apresentada.",
+   "alternativas": {
+    "A": "1 – 2 – 3 – 4.",
+    "B": "2 – 3 – 4 – 1.",
+    "C": "3 – 1 – 2 – 4.",
+    "D": "3 – 2 – 1 – 4.",
+    "E": "4 – 1 – 2 – 3."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 32,
+   "pagina": 7,
+   "disciplina": "Noções de Administração Pública",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Em relação ao tópico valor público da EPE, avalie as afirmativas a\nseguir e assinale (V) para a verdadeira e (F) para a falsa.\n( ) Em consonância com a visão integrada do setor energético\nbrasileiro, o valor público gerado ao acionista pelas atividades\ndesenvolvidas pela EPE está organizado em quatro eixos\nprincipais: formulação, implementação, avaliação e redução.\n( ) A participação da EPE na formulação de políticas de energia se\ndá por meio da realização de estudos técnicos imparciais e não\ncapturados por interesses econômicos ou comerciais, que\nauxiliam o Ministério de Minas e Energia (MME) na tomada de\ndecisão, provendo evidências e fundamentos.\n( ) A EPE desenvolve diversos estudos e análises que identificam\no impacto das decisões e políticas passadas e vigentes\nadotadas para o setor energético, contribuindo para o ciclo\nPDCA (Plan, Do, Check, Act) da Política Energética Nacional.\nAs afirmativas são, respectivamente,",
+   "alternativas": {
+    "A": "V – V – V.",
+    "B": "V – V – F.",
+    "C": "V – F – V.",
+    "D": "F – F – V.",
+    "E": "F – F – F. ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI"
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 33,
+   "pagina": 7,
+   "disciplina": "Noções de Administração Pública",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Assinale a opção que apresenta uma característica do Estatuto\nSocial da EPE, aprovado em 30 de abril de 2024.",
+   "alternativas": {
+    "A": "O prazo de duração da Companhia passa a ser de 30 anos, a partir da data da publicação do Estatuto.",
+    "B": "O capital social da Companhia poderá ser alterado nas hipóteses previstas em lei, vedada a capitalização direta do lucro sem trâmite pela conta de reservas.",
+    "C": "A Companhia tem sede, foro e escritório central em Brasília/DF, podendo criar filiais, agências, escritórios, representações ou quaisquer outros estabelecimentos no País.",
+    "D": "O objeto social da empresa inclui prestar serviços na área de estudos e pesquisas destinadas a subsidiar o planejamento do setor energético, tais como energia elétrica, petróleo e gás natural, carvão mineral e vegetal, fontes energéticas renováveis e não renováveis.",
+    "E": "A Companhia não poderá ter suas atividades orientadas pela União, visto que o objeto social da empresa inclui o interesse público que justificou a sua criação."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 34,
+   "pagina": 7,
+   "disciplina": "Noções de Administração Pública",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "As opções a seguir listam órgãos estatutários que compõem a\nestrutura administrativa da EPE, à exceção de um. Assinale-o.",
+   "alternativas": {
+    "A": "Conselho de Administração.",
+    "B": "Diretoria Executiva.",
+    "C": "Conselho Fiscal.",
+    "D": "Conselho Consultivo (Concepe).",
+    "E": "Comitê de Ética."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 35,
+   "pagina": 7,
+   "disciplina": "Noções de Administração Pública",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A EPE possui ferramentas interativas sobre consumo e oferta de\nenergia, mapeamento de projetos de energia, entre outras.\nAvalie se essas ferramentas incluem:\nI. Balanço Energético Nacional.\nII. Dashboard Biometano-RJ.\nIII. Inova-e.\nEstá correto o que se apresenta em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 36,
+   "pagina": 8,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Há uma família de modelos de IA generativa que tem dois modelos\ntreinados em conjunto: o gerador e o discriminador.\nO gerador tenta criar dados falsos que sejam indistinguíveis dos\ndados reais, enquanto que o discriminador tenta distinguir entre\ndados reais e falsos. O treinamento é um jogo min-max, em que o\ngerador melhora suas habilidades para enganar o discriminador, e\no discriminador melhora suas habilidades para detectar dados\nfalsos.\nAssinale a opção que apresenta as características do modelo de IA\ngenerativa descritas no texto.",
+   "alternativas": {
+    "A": "Generative Adversarial Networks.",
+    "B": "Variational Autoencoders.",
+    "C": "Energy-Based Models.",
+    "D": "Autoregressive Models.",
+    "E": "Normalizing Flow Models."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 37,
+   "pagina": 8,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O Decreto nº 6.021/2007 criou a Comissão Interministerial de\nGovernança Corporativa e de Administração de Participações\nSocietárias da União - CGPAR, e deu outras providências.\nEm relação à Resolução CGPAR nº 29/2022, analise os itens a\nseguir.\nI. Estabelece orientações para todas as empresas estatais para a\ncontratação de bens e serviços de tecnologia da informação\n(TI).\nII. Recomenda dentro de sua abrangência que sejam adquiridos\na quantidade de licenças e programas de computador e de\nserviços agregados estritamente compatível com a\nnecessidade.\nIII. Recomenda que, dentro de sua abrangência, que nos casos em\nque quando houver risco de dependência em relação a uma\ndeterminada solução tecnológica, sejam elaborados estudos\ntécnicos preliminares à contratação para entre outros, avaliar\no grau de dependência e avaliar a relação custo-benefício da\nsolução a ser contratada. de manter a solução.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II, apenas.",
+    "C": "I e III apenas.",
+    "D": "II e III apenas.",
+    "E": "I, II e III. ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI"
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 38,
+   "pagina": 8,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Microsoft 365 é um conjunto de serviços de assinatura oferecido\npela Microsoft que inclui uma gama de produtos e serviços\nvoltados para a produtividade, a colaboração e a segurança.\nCorrelacione as ferramentas, aplicativos ou produtos do Microsoft\n365 listados a seguir, às suas respectivas funcionalidades ou\ndescrições.\n1. Microsoft Planner\n2. Microsoft SharePoint\n3. Microsoft to Do\n4. Microsoft Sway\n( ) É utilizado para criar sites, de forma fácil, nos quais é possível\ncompartilhar, de forma segura, dados, notícias, aplicativos e\ninformações com membros de sua equipe, dentro e fora da\norganização. Esses dados podem ser acessados por qualquer\ndispositivo com um navegador web.\n( ) É utilizada para a criação e o compartilhamento de relatórios\ninterativos, de histórias pessoais e de apresentações,\npermitindo a integração de texto, imagens e outros conteúdos\nde multimídia de forma moderna, interativa e atraente.\n( ) É uma ferramenta intuitiva e colaborativa de gerenciamento\nde tarefas que permite que as pessoas planejem, gerenciem e\nconcluam iniciativas baseadas em tarefas, atribuídas por meio\nde um painel do tipo Kanban.\n( ) É projetada para ajudar o usuário a organizar e priorizar suas\natividades diárias por meio de listas de tarefas.\nAssinale a opção que indica a relação correta, segundo a ordem\napresentada.",
+   "alternativas": {
+    "A": "1 – 4 – 2 – 3.",
+    "B": "4 – 2 – 3 – 1.",
+    "C": "2 – 1 – 3 – 4.",
+    "D": "4 – 3 – 1 – 2.",
+    "E": "2 – 4 – 1 – 3."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 39,
+   "pagina": 8,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O Excel é um programa de desenvolvimento de planilhas digitais\ncriado pela Microsoft na década de 1980.\nDevido ao renome da marca, a longa trajetória do software e as\nsuas excelentes funcionalidades, atualmente, o Excel é um dos\naplicativos mais utilizados por empresas no mundo.\nAssinale a opção que apresenta a funcionalidade do Excel que\npermite automatizar tarefas repetitivas.",
+   "alternativas": {
+    "A": "Tabela Dinâmica.",
+    "B": "Power Query.",
+    "C": "Colaboração em tempo real.",
+    "D": "Macro.",
+    "E": "Validação de Dados."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 40,
+   "pagina": 8,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Com relação ao diagrama de entidade relacionamento no contexto\nda engenharia de software, analise as afirmativas a seguir.\nI. O diagrama é utilizado em projetos de desenvolvimento de\nsoftware que não utilizam banco de dados.\nII. Os relacionamentos entre entidades podem ser do tipo 1:1,\n1:n ou n:n.\nIII. No diagrama, elipses representam atributos.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 41,
+   "pagina": 9,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considere a relação a seguir.\nPRODUCAO (Cod_país, Fonte_energética, Ano,\nCapacidade_instalada, Fator_eficiência, Produção_anual)\nEssa relação apresenta a capacidade instalada, o fator de eficiência\ne a produção anual de uma determinada fonte energética por um\ndeterminado país (Cod_país) em um determinado ano.\nA capacidade instalada, o fator de eficiência e a produção\nanual dependem do país, da fonte energética e do ano\nconsiderado. Considere ainda que {Cod_país, Fonte_energética,\nAno} é a chave primária, e que a relação apresenta ainda a\ndependência funcional Capacidade_instalada, Fator_eficiência ->\nProdução_anual.\nSobre o processo de normalização e as formas normais, assinale a\nafirmativa correta.",
+   "alternativas": {
+    "A": "A relação está na 2FN.",
+    "B": "Há dependências parciais na relação apresentada.",
+    "C": "A relação está na 3FN.",
+    "D": "Não há dependência transitiva na relação apresentada.",
+    "E": "A relação está na 4FN."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 42,
+   "pagina": 9,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Leia o fragmento a seguir.\nEstas propriedades são fundamentais para a estruturação e a\nmodelagem de dados em bancos de dados, permitindo modelar\ninterações significativas entre diferentes entidades.\nEsse conceito refere-se a",
+   "alternativas": {
+    "A": "atributo.",
+    "B": "chave.",
+    "C": "relacionamento.",
+    "D": "entidade fraca.",
+    "E": "polimorfismo."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 43,
+   "pagina": 9,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Com o objetivo de atender às necessidades específicas de\nprocessamento, acesso e análise de informações, diferentes\ntecnologias podem ser empregadas para o armazenamento de\ndados.\nNesse contexto, é correto afirmar que Data Warehouses",
+   "alternativas": {
+    "A": "são ideais para armazenar grandes volumes de dados estruturados e não estruturados.",
+    "B": "separam os dados em zonas, de acordo com o nível de processamento, do mais bruto ao mais refinado.",
+    "C": "empregam o método ELT (Extract, Load, Transform) no processo ingestão de dados.",
+    "D": "são ineficazes para a realização de consultas complexas em grandes volumes de dados estruturados.",
+    "E": "são otimizados para a geração de relatórios de dados estruturados, provenientes de diversas fontes. ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 44,
+   "pagina": 9,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Fluxo, feedback e aprendizado contínuo, as Três Maneiras, são\nprincípios básicos a partir dos quais são derivados todos os\ncomportamentos e padrões observados no universo DevOps.\nIsso posto, assinale a opção que apresenta duas práticas da\nmaneira fluxo.",
+   "alternativas": {
+    "A": "Empregar telemetria para antecipar problemas e automatizar releases de baixo risco.",
+    "B": "Integrar desenvolvimento guiado por hipóteses e injetar aprendizado no trabalho diário.",
+    "C": "Investir na criação de aprendizado organizacional e implementar testes automatizados, rápidos e confiáveis.",
+    "D": "Integrar testes A/B ao trabalho diário e converter descobertas locais em melhorias globais.",
+    "E": "Criar a base do pipeline de implementação e praticar integração contínua."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 45,
+   "pagina": 9,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A respeito dos conceitos de DevOps, analise as afirmativas a seguir\ne assinale (V) para a verdadeira e (F) para a falsa.\n( ) Uma das práticas da Integração Contínua é estimular que a\nequipe de desenvolvimento agregue código em um repositório\ncompartilhado várias vezes ao dia.\n( ) Executar casos de teste automatizados e compilar o código-\nfonte são tarefas de ferramentas de automação de build, como\nCucumber, Travis CI e Zabbix.\n( ) Configuration Management é eficiente quando nem todas as\ninstalações e modificações são aplicadas novamente aos\nservidores, atualizando apenas o comportamento alterado.\nAs afirmativas são, respectivamente,",
+   "alternativas": {
+    "A": "V – V – F.",
+    "B": "V – F – V.",
+    "C": "F – V – V.",
+    "D": "V – F – F.",
+    "E": "F – F – V."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 46,
+   "pagina": 9,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma plataforma de desenvolvimento fornece recursos como\nservidores, bancos de dados e ambientes de desenvolvimento\nintegrados (IDEs) necessários para criar, testar e implantar uma\naplicação web.\nAssinale a opção que apresenta o modelo de serviço de\ncomputação em nuvem no qual essa plataforma se enquadra.",
+   "alternativas": {
+    "A": "SaaS.",
+    "B": "DaaS.",
+    "C": "IaaS.",
+    "D": "PaaS.",
+    "E": "AiaaS."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 47,
+   "pagina": 10,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considerando os conceitos de gerenciamento de projetos, analise\nas afirmativas a seguir.\nI. A linha de base do escopo, composta pela especificação do\nescopo do projeto, pela EAP e pelo dicionário da EAP, é\nconsiderada a referência para o monitoramento e o controle\ndo projeto.\nII. O pacote de trabalho é considerado o nível mais baixo de uma\nEAP e não pode ser decomposto em atividades.\nIII. Não há diferença entre escopo do produto e o escopo do\nprojeto, haja vista que os dois se referem aos objetivos do\nprojeto.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "III, apenas.",
+    "D": "I e II, apenas.",
+    "E": "II e III, apenas."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 48,
+   "pagina": 10,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considerando o ciclo de vida de um projeto, analise as afirmativas\na seguir.\nI. No ciclo de vida preditivo, o esforço de planejamento ocorre\nnas fases intermediárias do projeto. É a abordagem mais\ntradicional e se trata de processos sequenciais.\nII. No ciclo de vida iterativo é permitido, de tempos em tempos,\nalgum tipo de retorno por parte das principais partes\ninteressadas engajadas no projeto. A equipe do projeto recebe\nfeedbacks sobre os trabalhos ainda não finalizados, com o\nobjetivo de melhorar o que está sendo produzido.\nIII. O ciclo de vida ágil é formado pela junção dos ciclos de vida\npreditivo e incremental. As atividades são planejadas somente\nno início do projeto e as versões incompletas são entregues,\nde tempos em tempos, para que sejam avaliadas pelo cliente.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "III, apenas.",
+    "D": "I e II, apenas.",
+    "E": "II e III, apenas."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 49,
+   "pagina": 10,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considerando a Estrutura Analítica do Projeto (EAP), analise as\nafirmativas a seguir.\nI. Para confeccionar a EAP é necessário considerar somente as\nentregas mais importantes, isto é, as entregas que podem\ncomprometer as folgas livres do projeto.\nII. Cada nível descendente da EAP representa uma definição\ngradualmente menos detalhada do trabalho do projeto.\nIII. A EAP não demonstra as sequências de trabalho de seus itens,\nisto é, não mostra a sequência em que os itens devem ser\nexecutados.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "III, apenas.",
+    "D": "I e II, apenas.",
+    "E": "II e III, apenas. ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 50,
+   "pagina": 10,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considerando o cronograma de um projeto, analise as afirmativas\na seguir.\nI. O caminho crítico é a sequência de atividades de um diagrama\nde rede que não permite atrasos. Ou seja, se uma atividade\ndesse caminho atrasar, o projeto também atrasará.\nII. Com a determinação de datas de início e término mais cedo e\nde início e término mais tarde de cada atividade,\ndesconsiderando qualquer tipo de limitação de outros\nrecursos envolvidos, é possível identificar o caminho crítico de\num projeto.\nIII. A folga livre significa quanto tempo uma atividade pode\natrasar sem que haja impacto no término do projeto.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "III, apenas.",
+    "D": "I e II, apenas.",
+    "E": "II e III, apenas."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 51,
+   "pagina": 10,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considerando as técnicas e as ferramentas da gerência de um\nprojeto, analise as afirmativas a seguir.\nI. As técnicas de coleta de dados, tais como listas de verificação,\ngrupos de discussão, entrevistas e brainstorming, são\nutilizadas para obter dados de forma mais eficiente.\nII. Análise de dados, opinião especializada, representação de\ndados e mapa mental não são exemplos de ferramentas e\ntécnicas da gerência de um projeto.\nIII. Como técnica e ferramenta de um projeto é possível encontrar\nas estimativas análoga, paramétrica, única, de três pontos e a\nbottom-up, por exemplo.\nEstá correto o que se afirma em:",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "III, apenas.",
+    "D": "I e II, apenas.",
+    "E": "I e III, apenas."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 52,
+   "pagina": 10,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Uma empresa decidiu utilizar o Power BI para poder gerenciar\nmelhor os seus dados. Dessa forma, contratou um especialista\npara criar um dashboard com o objetivo de melhorar a visualização\nde seus negócios.\nSobre as a construção de dashboards, assinale a afirmativa correta.",
+   "alternativas": {
+    "A": "Pode ter uma ou mais páginas.",
+    "B": "Está disponível no Power BI Desktop.",
+    "C": "Não se pode definir alertas.",
+    "D": "Não se pode assinar um dashboard.",
+    "E": "Permitem realizar consultas de linguagem natural (P e R)."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 53,
+   "pagina": 10,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um analista da área de tecnologia da informação recebeu um\nconjunto de dados sobre o consumo de energia elétrica de\nindústrias no formato de distribuição de frequência.\nAssinale a opção que indica o tipo de gráfico mais adequado para\nrepresentar essa distribuição de frequência.",
+   "alternativas": {
+    "A": "Gráfico de Dispersão.",
+    "B": "Gráfico de Séries Temporais.",
+    "C": "Gráfico de Barras.",
+    "D": "Histograma.",
+    "E": "Boxplot."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 54,
+   "pagina": 11,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um analista da área de ciência de dados construiu um histograma\nlevando em consideração uma determinada base de dados. Para\nincluir uma curva nesse histograma foi utilizado a função\nas.timeSeries.\nEssa função pertence à biblioteca",
+   "alternativas": {
+    "A": "Graphics.",
+    "B": "grDevices.",
+    "C": "fBasics.",
+    "D": "ggplot2.",
+    "E": "Base."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 55,
+   "pagina": 11,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Na Ciência de Dados é muito comum a utilização da linguagem\nPython e do R para visualização de dados.\nSobre as diferenças entre essas duas ferramentas, analise as\nafirmativas a seguir.\nI. Python possui um padrão mais bem definido, permitindo que\ndiferentes tipos de funcionalidades sejam escritos da mesma\nforma, enquanto no R, a mesma funcionalidade pode ser\nescrita de diversas formas diferentes.\nII. Python é principalmente usada quando a análise de dados\nprecisa ser integrada com aplicativos web ou se o código\nestatístico precisa ser integrado em um servidor em ambiente\nde produção, que vai servir muitos usuários, enquanto o R é\nprincipalmente usado quando as atividades de análise de\ndados requerem computação standalone (em um único\ncomputador) ou análise em servidores individuais.\nIII. Tanto o Python quanto o R foram criados inicialmente para\nanálise de dados.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 56,
+   "pagina": 11,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O pacote dplyr do R é um dos mais usados para manipulação de\ndados.\nAssinale a opção que indica o conjunto de funções auxiliares desse\npacote que são muito úteis para a seleção de colunas.",
+   "alternativas": {
+    "A": "starts_with() e arrange().",
+    "B": "starts_with() e contains().",
+    "C": "contains() e mutate().",
+    "D": "ends_with() e arrange().",
+    "E": "ends_with() e mutate(). ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 57,
+   "pagina": 11,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "As técnicas de aprendizado supervisionado estão baseadas na\ndeterminação de modelos capazes de otimizar o mapeamento\nentre entradas e saídas de um conjunto de dados. Por vezes, o\nprocesso de treinamento pode gerar modelos muito complexos\nque “aprendem” o ruído existente nos conjuntos de dados,\ncaracterizando o fenômeno de sobreajuste ou overfitting.\nUm método que pode ajudar a mitigar a ocorrência do overfitting\nconsiste em\nI. dividir o conjunto de dados em k partes;\nII. utilizar uma das partes para teste e as outras k-1 para\ntreinamento;\nIII. repetir o processo para cada uma das k partes do conjunto de\ndados; e\nIV. avaliar a média das métricas de performance para o modelo.\nO método acima é chamado de",
+   "alternativas": {
+    "A": "k vizinhos mais próximos (k nearest neighbors ou k-NN).",
+    "B": "retropropagação (backpropagation).",
+    "C": "validação cruzada (cross-validation).",
+    "D": "regularização Lasso (Lasso regularization).",
+    "E": "comitê de modelos (model ensembling)."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 58,
+   "pagina": 11,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O algoritmo conhecido por Naïve Bayes, apesar de ter limitações\ndevido às suas premissas de simplificação, é bastante utilizado e\ncostuma apresentar boa performance para a classificação de\ninstâncias de dados.\nConsidere o conjunto de dados a seguir, que apresenta, de forma\nsimplificada, as características de uma amostra de 1600 animais de\nestimação.\nPelos Comportamento\nAnimal Pequenos Totais\nlongos agitado\nCães 560 480 320 800\nGatos 480 120 180 600\nOutros 140 20 60 200\nSejam dois novos animais de estimação identificados por A e B, tais\nque:\n• A é pequeno, com pelos curtos e de comportamento agitado;\n• B é grande, com pelos longos e de comportamento agitado.\nAplicando o algoritmo Naïve Bayes, assinale a opção que\napresenta as classes mais prováveis dos animais A e B,\nrespectivamente.",
+   "alternativas": {
+    "A": "Cão, Outro.",
+    "B": "Gato, Cão.",
+    "C": "Cão, Cão.",
+    "D": "Gato, Outro.",
+    "E": "Outro, Gato."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 59,
+   "pagina": 12,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A análise de componentes principais (Principal Component\nAnalysis - PCA) é uma técnica consagrada para a redução de\ndimensionalidade e para a identificação de padrões estruturais\nlineares em conjuntos de dados.\nCom relação à análise de componentes principais, analise as\nafirmativas a seguir e assinale (V) para a verdadeiras e (F) para a\nfalsa.\n( ) Baseia-se na identificação dos autovetores da matriz de\ncovariâncias dos dados, permitindo ao analista determinar\ndireções de maiores variações nas instâncias de dados.\n( ) Permite a seleção e a eliminação das dimensões referentes às\ndireções de maiores variações nas instâncias de dados, que por\nsua vez contribuem com poucas informações úteis para a\nanálise do conjunto de dados.\n( ) É utilizada em compressão de dados, pois permite a\nrepresentação dos dados em menos dimensões que são\nfacilmente interpretáveis pelo analista, sem grandes perdas de\ninformações.\nAs afirmativas são, respectivamente.",
+   "alternativas": {
+    "A": "V – V – V.",
+    "B": "F – V – V.",
+    "C": "V – F – V.",
+    "D": "V – V – F.",
+    "E": "V – F – F."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 60,
+   "pagina": 12,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Algoritmos de agrupamento são fundamentais para a área de\naprendizado de máquina não supervisionado. Em geral, esses\nalgoritmos determinam clusters de instâncias de dados que\npossuem algum traço de similaridade entre si.\nRelacione os métodos de agrupamento hierárquico e o K-means às\nsuas principais características.\n1. Agrupamento Hierárquico\n2. K-means\n( ) Seus resultados são altamente sensíveis ao número de clusters\nque deve ser pré-definido pelo usuário do algoritmo.\n( ) Baseia-se em abordagens top-down ou bottom-up, isto é, com\na divisão ou com a união sucessiva de clusters.\n( ) Seus resultados costumam ser graficamente visualizados por\ndendrogramas, que podem ser seccionados de acordo com o\nnúmero de clusters determinado pelo usuário do algoritmo.\n( ) Avalia distâncias entre as instâncias de dados e os centroides\ndos clusters e atualiza a posição dos centroides dos clusters\nsucessivamente, até a convergência.\nAssinale a opção que indica a relação correta, na ordem\napresentada.",
+   "alternativas": {
+    "A": "2 – 1 – 2 – 1.",
+    "B": "2 – 2 – 2 – 1.",
+    "C": "2 – 1 – 2 – 2.",
+    "D": "2 – 1 – 1 – 2.",
+    "E": "1 – 1 – 2 – 2. ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI"
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 61,
+   "pagina": 12,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um pesquisador desenvolveu um estudo longitudinal para analisar\no consumo de energia elétrica mensal de empresas do setor\nenergético de determinada região, ao longo dos últimos 40 anos.\nAnalisando a base de dados coletada, o pesquisador verificou que\na base tinha vários dados faltantes e que necessitava utilizar\nalguma técnica de imputação de dados.\nAssinale a opção que apresenta a técnica mais apropriada para o\nestudo do pesquisador.",
+   "alternativas": {
+    "A": "A substituição por um valor de tendência central.",
+    "B": "A predição por meio de um modelo de regressão linear simples.",
+    "C": "O algoritmo EM.",
+    "D": "O último valor observado.",
+    "E": "O método de Monte Carlo."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 62,
+   "pagina": 12,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um modelo de regressão múltipla foi utilizado para estudar o\nconsumo do gás natural em função de vários fatores levantados\npor especialistas. Nesse modelo adotado foi realizado uma análise\nde resíduos e verificou-se a presença de outliers.\nPara verificar se um outlier é influente ou não, o método mais\napropriado seria",
+   "alternativas": {
+    "A": "Distância de Cook.",
+    "B": "Distância de Mahalanobis.",
+    "C": "Teste de Grubbs.",
+    "D": "Vizinho mais próximo.",
+    "E": "Boxplot."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 63,
+   "pagina": 12,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O treinamento em redes neurais artificiais é, essencialmente, um\nproblema de otimização, em que se busca minimizar o erro entre\nas predições do modelo neural e os valores alvo preexistentes no\nconjunto de dados de treinamento.\nCom respeito aos métodos relacionados à otimização de\nparâmetros em redes neurais artificiais, analise as afirmativas a\nseguir.\nI. No algoritmo backpropagation, a aplicação da regra da cadeia\né fundamental para o cálculo dos gradientes dos erros com\nrespeito aos pesos (parâmetros) da rede neural artificial.\nII. O método do gradiente (também chamado de método do\nmáximo declive ou Gradient Descent – GD) escolhe\naleatoriamente um pequeno número de instâncias de dados\nde treinamento a cada passo, aumentando a velocidade inicial\nde minimização das métricas de erro.\nIII. As técnicas de regularização L1 (Lasso) e L2 (Ridge) podem ser\nutilizadas para mitigar problemas relacionados a inicialização\nindevida de pesos (parâmetros) em redes neurais.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 64,
+   "pagina": 13,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O pacote neuralnet, da linguagem R, é uma ferramenta útil para a\ndefinição e para o treinamento de redes neurais, disponibilizando\nao usuário uma interface relativamente simples.\nUma das limitações do pacote neuralnet é não oferecer ao usuário\nmuitas opções pré-definidas de funções de ativação. Caso o\nusuário deseje utilizar uma função de ativação diferente das únicas\nduas já pré-definidas no pacote, é preciso definí-la e atribuí-la por\nmeio do argumento act.fct.\nAo invocar o método neuralnet para o treinamento de uma\nrede neural, caso o argumento act.fct não seja explicitamente\ndeterminado na chamada do método, a função de ativação padrão\nutilizada nos neurônios da rede será",
+   "alternativas": {
+    "A": "Tangente Hiperbólica (tanh).",
+    "B": "Logística (também chamada de sigmoide).",
+    "C": "Unidade Linear Retificada (Rectified Linear Unit - ReLU).",
+    "D": "Softplus.",
+    "E": "Softmax."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 65,
+   "pagina": 13,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Sistemas de Informações Geográficas (SIG) são recursos valiosos\npara instituições cujos negócios demandam a tomada de decisões\nbaseadas na geolocalização de objetos e fenômenos. Entre as\nfuncionalidades inerentes aos SIG, algumas destinam-se à\nmanipulação e à análise de dados geográficos, tantos matriciais\nquanto vetoriais.\nAssinale a opção que apresenta funcionalidade de manipulação e\nde análise de dados matriciais, exclusivamente.",
+   "alternativas": {
+    "A": "Cálculo de declividade.",
+    "B": "Classificação MaxVer.",
+    "C": "Interpolação.",
+    "D": "Junção Espacial.",
+    "E": "Tesselação."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 66,
+   "pagina": 13,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Os Sistemas Globais de Navegação por Satélite permitem a\ndefinição das coordenadas de suas antenas, conforme o respectivo\nsistema de coordenadas de referência.\nAssinale a opção que apresenta a relação correta entre sistemas\nde navegação por satélite e os respectivos sistemas de\ncoordenadas.",
+   "alternativas": {
+    "A": "Compass e WGS-84",
+    "B": "GLONASS e WGS-84",
+    "C": "GPS e GRS-80",
+    "D": "GPS e WGS-84",
+    "E": "GPS e SIRGAS 2000"
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 67,
+   "pagina": 13,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "O problema básico das projeções cartográficas é a representação\nde uma superfície curva em um plano. Nesse sentido, foram\nelaborados diversos modelos matemáticos baseados em\nsuperfícies geométricas que minimizam as distorções decorrentes\nde tais projeções e, em alguns casos, preservam a verdadeira\ngrandeza de ângulos, distâncias e áreas.\nNesse contexto, assinale a opção que apresenta, respectivamente,\na superfície de referência e a grandeza preservada na projeção\nempregada no sistema de coordenadas UTM.",
+   "alternativas": {
+    "A": "Cilindro e Ângulo.",
+    "B": "Cilindro e Distância.",
+    "C": "Cone e Área.",
+    "D": "Cone e Ângulo.",
+    "E": "Plano e Distância. ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI"
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 68,
+   "pagina": 13,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Considerando a teoria de Limite, calcule:\n2𝑛 + 3\nlim\n𝑛→∞ (2𝑛2 − 6)0,5\n1",
+   "alternativas": {
+    "A": "20,5",
+    "B": "2.",
+    "C": "20,5.",
+    "D": "0,5.",
+    "E": "Zero."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-epe-ciencia-de-dados/q68-0.png"
+   ]
+  },
+  {
+   "numero": 69,
+   "pagina": 13,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Analise a expressão a seguir:\n∫ 𝑥2(3 + 2𝑥3)7𝑑𝑥\nO valor da seguinte expressão é\n1",
+   "alternativas": {
+    "A": "(3 + 2𝑥3)8 + 𝐶, em que C é uma constante real. 54 1",
+    "B": "(3 + 2𝑥3)8 + 𝐶, em que C é uma constante real. 48 1",
+    "C": "(3 + 2𝑥3)8 + 𝐶, em que C é uma constante real. 8 1",
+    "D": "(3 + 2𝑥3)9 + 𝐶, em que C é uma constante real. 48 1",
+    "E": "(3 + 2𝑥3)9 + 𝐶, em que C é uma constante real. 54"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-epe-ciencia-de-dados/q69-0.png"
+   ]
+  },
+  {
+   "numero": 70,
+   "pagina": 13,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Calcule o valor da derivada de ordem n da expressão a seguir,\n𝑓(𝑥) = 𝑒−𝑥 + 𝑥𝑒𝑥\nconsiderando n um número natural par.",
+   "alternativas": {
+    "A": "𝑒−𝑥 + (𝑥 + 𝑛)𝑒𝑥.",
+    "B": "𝑒−𝑥 + (𝑥 + 𝑛2)𝑒𝑥.",
+    "C": "𝑒−𝑥 + (𝑥 + 2𝑛)𝑒𝑥.",
+    "D": "𝑒−𝑥 + (𝑥𝑛 + 𝑛)𝑒𝑥.",
+    "E": "𝑒−𝑛𝑥 + (𝑥 + 𝑛)𝑒𝑥."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-epe-ciencia-de-dados/q70-0.png"
+   ]
+  },
+  {
+   "numero": 71,
+   "pagina": 14,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Vetores e matrizes são estruturas algébricas fundamentais em\nciência de dados.\nConsidere os vetores tridimensionais com representação em\n2 −1\ncoluna dados por 𝑢 = [ 4 ] e 𝑣 = [−3], bem como a matriz 𝐴 =\n−2 1\n3 2 1\n[ 1 0 2].\n−1 2 1\nConsidere ainda que 𝑢⊤𝑣 representa o produto escalar entre 𝑢 e\n𝑣 e que 𝑢 × 𝑣 representa o produto vetorial entre 𝑢 e 𝑣.\n−128\nEntre as opções a seguir, assinale a que resulta no vetor [ −96 ] .\n0",
+   "alternativas": {
+    "A": "𝐴 𝑣⊤𝑢 𝐴⊤(𝑣 × 𝑢).",
+    "B": "𝑢⊤𝑣 (𝑢 × 𝑣)⊤𝐴.",
+    "C": "𝐴 𝑢⊤𝑣 𝐴 (𝑢 × 𝑣).",
+    "D": "𝐴 𝑢⊤𝑣 (𝑢 × 𝑣).",
+    "E": "𝐴 (𝑣 × 𝑢) 𝑢⊤𝑣."
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-epe-ciencia-de-dados/q71-0.png"
+   ]
+  },
+  {
+   "numero": 72,
+   "pagina": 14,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Mapeamentos e transformações lineares são frequentemente\nutilizados em técnicas de aprendizado de máquina relacionadas à\nredução de dimensionalidade ou à normalização.\nConsiderando o mapeamento linear 𝐹:ℝ2 → ℝ2, para o qual\n𝐹(2,1) = (√2 , 3√2 ) e 𝐹(1,−1) = (√2,0), analise os itens a\n2 2\nseguir.\nI. 𝐹 pode ser escrito na forma 𝐹(𝑣) = 𝐴𝑣, sendo 𝑣 um vetor\n√2\n√2\ncoluna bidimensional e 𝐴 = [ 2 ].\n3√2\n0\n2\nII. O mapeamento inverso 𝐹−1 pode ser escrito na forma\n𝐹−1(𝑣) = 𝐵𝑣, sendo 𝑣 um vetor coluna bidimensional e 𝐵 =\n√2 √2\n[ 2 2 ].\n−√2 √2\n2 2\nIII. 𝐹(𝐹(𝐹(𝐹(𝑥, 𝑦)))) = (𝑥, 𝑦).\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "III, apenas.",
+    "D": "I e III, apenas.",
+    "E": "II e III, apenas. ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI"
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-epe-ciencia-de-dados/q72-0.png"
+   ]
+  },
+  {
+   "numero": 73,
+   "pagina": 14,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "As métricas de distância em aprendizado de máquina estão\nrelacionadas às normas de vetores que costumam representar\ninstâncias de dados. Duas normas comuns em ciência de dados são\nas normas L1 e L2.\n3 4\nSejam a matriz 𝐴 = [ ] e um vetor 𝑣, bidimensional, cujos\n4 3\nelementos são os autovalores de A.\nAs normas L1 e L2 de 𝑣 são, respectivamente, dadas por",
+   "alternativas": {
+    "A": "7 e 8.",
+    "B": "7 e 25.",
+    "C": "7 e 50.",
+    "D": "8 e 5√2.",
+    "E": "8 e 50."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-epe-ciencia-de-dados/q73-0.png"
+   ]
+  },
+  {
+   "numero": 74,
+   "pagina": 14,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "A decomposição em valores singulares (Singular Value\nDecomposition - SVD) de uma matriz é uma fatoração importante\npor ser aplicável em diversos algoritmos de inteligência artificial.\nConsidere o trecho de código em linguagem R a seguir.\n1. A <- matrix(c(1,2,1,2), ncol=2, nrow=2)\n2. svd_result <- svd",
+   "alternativas": {
+    "A": "10 -- 2.4652e-32",
+    "B": "0.7071068 -- 0.7071068",
+    "C": "-0.4472136 -- 0.4472136",
+    "D": "3.162278e+00 -- 1.570092e-16",
+    "E": "1 -- 1"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-epe-ciencia-de-dados/q74-0.png"
+   ]
+  },
+  {
+   "numero": 75,
+   "pagina": 14,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Com relação aos conceitos básicos de análise exploratória de\ndados, analise as afirmativas a seguir.\nI. O coeficiente de curtose é uma medida adimensional que\ndepende da diferença entre os percentis de ordem 90 e 10.\nII. Quando o coeficiente de correlação entre duas variáveis\naleatórias é nulo, isso implica que as mesmas são\nindependentes.\nIII. Um conjunto de dados cujo desvio padrão é maior do que o de\noutro conjunto possui maior dispersão.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 76,
+   "pagina": 15,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Seja o conjunto de dados abaixo cuja média aritmética é 30:\n{21, 42, 29, 15, 27, 36, 25, 45}\nConsiderando o exposto, analise os itens a seguir.\nI. A amplitude dos dados é igual àI, II média.\nII. A mediana é 28.\nIII. A moda é 45.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II, apenas.",
+    "C": "I e III, apenas.",
+    "D": "II e III, apenas.",
+    "E": "I, II e III."
+   },
+   "gabarito": "B",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 77,
+   "pagina": 15,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Seja 𝑋 a variável aleatória que representa o número de ocorrências\nde um certo evento A em 𝑡 unidades de tempo.\nA distribuição de probabilidade de 𝑋 segue a distribuição de\nPoisson, isto é, a probabilidade de {𝑋 = 𝑥} é dada por:\n𝑒−𝜆𝑡(𝜆𝑡)𝑥/𝑥!,\nem que 𝜆 é a taxa de ocorrência por unidade de tempo.\nConsiderando o exposto, o valor esperado do tempo entre duas\nocorrências consecutivas do evento A, é",
+   "alternativas": {
+    "A": "𝑡.",
+    "B": "𝜆𝑡.",
+    "C": "𝑡/𝜆.",
+    "D": "1/𝜆.",
+    "E": "2/𝜆."
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-epe-ciencia-de-dados/q77-0.png"
+   ]
+  },
+  {
+   "numero": 78,
+   "pagina": 15,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Seja 𝑋 uma variável aleatória, cujo valor esperado é desconhecido\ne a variância é igual a 123 𝑢2, onde 𝑢 é a unidade de medida.\nSejam 𝑋 e 𝑆2, a média e a variância amostrais de 𝑋,\nrespectivamente. Com o objetivo de estimar o valor esperado de\n𝑋, foi coletada uma amostra aleatória de tamanho 300, cuja média\ne variância são, respectivamente, 34 𝑢 e 52 𝑢2.\nConsiderando o exposto, de acordo com os conceitos da inferência\nestatística, analise os itens a seguir.\nI. O valor esperado de 𝑋 não depende do tamanho da amostra.\nII. A estimativa do valor esperado de 𝑋 é 34 𝑢.\nIII. A variância de 𝑋 é 52 𝑢2.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "A": "I, apenas.",
+    "B": "II, apenas.",
+    "C": "III, apenas.",
+    "D": "I e II, apenas.",
+    "E": "II e III, apenas. ANALISTA DE GESTÃO CORPORATIVA – TEC. DA INFROMAÇÃO – CIÊNCI"
+   },
+   "gabarito": "D",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/fgv-2024-epe-ciencia-de-dados/q78-0.png"
+   ]
+  },
+  {
+   "numero": 79,
+   "pagina": 15,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um símbolo binário, digamos 0 ou 1, é transmitido incorretamente\npor meio de um canal de comunicação com ruído, com\nprobabilidade 0,10 e 0,05, respectivamente.\nSupondo que a probabilidade do canal transmitir um 0 é 0,4,\nassinale a opção que indica a probabilidade de um símbolo\nescolhido aleatoriamente ser recebido corretamente.",
+   "alternativas": {
+    "A": "0,950.",
+    "B": "0,945.",
+    "C": "0,930.",
+    "D": "0,925.",
+    "E": "0,900."
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 80,
+   "pagina": 15,
+   "disciplina": "Ciência de Dados",
+   "assunto": null,
+   "texto_apoio": null,
+   "enunciado": "Um fabricante de certo equipamento diz que o tempo médio de\nsobrevida de seu produto é de 720 dias. Para verificar se a\nafirmação do fabricante estava correta, foi realizado um teste de\nhipótese.\nPara tanto, foi selecionado uma amostra de 25 equipamentos, em\nque se observou que o tempo médio e o desvio padrão dessa\namostra foi de, aproximadamente, 700 dias e 20 dias\nrespectivamente.\nLevando em consideração a potência do teste, assinale a opção\nque apresenta a hipótese alternativa mais adequada para a\nrealização do teste.",
+   "alternativas": {
+    "A": "H : µ < 720. A",
+    "B": "H : µ ≠ 720. A",
+    "C": "H : µ > 720. A",
+    "D": "H : µ < 700. A",
+    "E": "H : µ ≠ 700. A Realiz zação"
+   },
+   "gabarito": "A",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  }
+ ]
+}

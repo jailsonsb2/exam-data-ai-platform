@@ -1,0 +1,1476 @@
+[p1c0] A CVM -
+[p1c0] NALISTA
+[p1c0] D
+[p1c0] ADOS
+[p1c0] PROVA OBJETIVA DE CONH
+[p1c0] SUA PROVA
+[p1c0] Além deste caderno de provas contendo setenta
+[p1c0] questões objetivas, você receberá do fiscal de sala:
+[p1c0]  uma folha para a marcação das respostas das
+[p1c0] questões objetivas
+[p1c0] TEMPO
+[p1c0]  4 horas é o período disponível para a realização
+[p1c0] da prova, já incluído o tempo para a marcação da
+[p1c0] folha de respostas da prova objetiva
+[p1c0]  3 horas após o início da prova é possível retirar-
+[p1c0] se da sala, sem levar o caderno de provas
+[p1c0]  30 minutos antes do término do período de
+[p1c0] prova é possível retirar-se da sala levando o
+[p1c0] caderno de provas
+[p1c0] NÃO SERÁ PERMITIDO
+[p1c0]  Qualquer tipo de comunicação entre os candidatos
+[p1c0] durante a aplicação da prova
+[p1c0]  Usar o sanitário ao término da prova, após deixar
+[p1c0] a sala
+[p1c1] COMISSÃO DE
+[p1c1] VALORES
+[p1c1] MOBILIÁRIOS
+[p1c1] TARDE
+[p1c1] P 7 - C
+[p1c1] ERFIL IÊNCIA DE
+[p1c1] HECIMENTOS ESPECÍFICOS – NÍVEL SUPERIOR
+[p1c1] TIPO 1 – BRANCA
+[p1c1] INFORMAÇÕES GERAIS
+[p1c1]  As questões objetivas têm cinco alternativas de
+[p1c1] resposta (A, B, C, D, E) e somente uma delas está
+[p1c1] correta
+[p1c1]  Verifique se este caderno de provas está completo,
+[p1c1] sem repetição de questões ou falhas. Caso contrário,
+[p1c1] notifique imediatamente o fiscal da sala, para que
+[p1c1] sejam tomadas as devidas providências
+[p1c1]  Na folha de respostas da prova objetiva, confira seus
+[p1c1] dados pessoais, especialmente nome, número de
+[p1c1] inscrição e documento de identidade, e leia
+[p1c1] atentamente as instruções para preenchimento
+[p1c1]  Use somente caneta esferográfica, fabricada em
+[p1c1] material transparente, com tinta preta ou azul
+[p1c1]  Assine seu nome apenas no(s) espaço(s) reservado(s)
+[p1c1]  Confira o cargo, a cor e o tipo do seu caderno de
+[p1c1] provas. Caso tenha recebido caderno de cargo, cor ou
+[p1c1] tipo diferente do impresso em sua folha de respostas,
+[p1c1] o fiscal deve ser obrigatoriamente informado para o
+[p1c1] devido registro na ata da sala
+[p1c1]  O preenchimento das respostas da prova objetiva é de
+[p1c1] sua responsabilidade e não será permitida a troca da
+[p1c1] folha de respostas em caso de erro
+[p1c1]  Para fins de avaliação, serão levadas em consideração
+[p1c1] apenas as marcações realizadas na folha de respostas
+[p1c1] da prova objetiva, não sendo permitido anotar
+[p1c1] informações relativas às respostas em qualquer outro
+[p1c1] meio que não seja o caderno de provas
+[p1c1]  Os candidatos serão submetidos ao sistema de
+[p1c1] detecção de metais quando do ingresso e da saída de
+[p1c1] sanitários durante a realização das provas
+[p1c1] Boa sorte!
+[p3c0] PROVA OBJETIVA
+[p3c0] CONHECIMENTOS ESPECÍFICOS
+[p3c0] Ciência de Dados
+[p3c0] 1
+[p3c0] Considere um modelo de rede neural projetado para tarefas de
+[p3c0] classificação de imagens. A arquitetura da rede consiste em
+[p3c0] várias camadas, incluindo camadas de entrada, ocultas e de
+[p3c0] saída. Durante o treinamento, o modelo aprende a atribuir
+[p3c0] imagens de entrada a classes predefinidas (por exemplo, “gato”,
+[p3c0] “cachorro”, “pássaro”, etc.).
+[p3c0] Sobre o papel da camada de saída nessa rede neural, é correto
+[p3c0] afirmar que ela:
+[p3c0] (A) garante que a rede neural generalize bem para dados não
+[p3c0] vistos, prevenindo o sobreajuste;
+[p3c0] (B) ajusta os pesos dos neurônios ocultos para minimizar o erro
+[p3c0] de classificação durante o treinamento;
+[p3c0] (C) mapeia as características aprendidas para rótulos de classe
+[p3c0] específicos com base em padrões aprendidos;
+[p3c0] (D) realiza a extração de características aprendendo
+[p3c0] representações hierárquicas a partir de valores de pixel
+[p3c0] brutos;
+[p3c0] (E) calcula a soma ponderada das características de entrada e
+[p3c0] aplica uma função de ativação para produzir probabilidades
+[p3c0] de classe.
+[p3c0] 2
+[p3c0] O cientista de dados Pedro trabalha em um projeto que envolve a
+[p3c0] previsão dos movimentos de um braço robótico em um ambiente
+[p3c0] complexo. Pedro tem um fluxograma de um algoritmo de
+[p3c0] aprendizado por reforço que é capaz de se adaptar
+[p3c0] dinamicamente ao ambiente e ajustar suas ações com base nos
+[p3c0] resultados de ações anteriores.
+[p3c0] O algoritmo representado pelo referido fluxograma que deve ser
+[p3c0] empregado para a realização da tarefa de Pedro é o:
+[p3c0] (A) Máquina de Vetores de Suporte (SVM);
+[p3c0] (B) Rede Neural Convolucional (CNN);
+[p3c0] (C) Long Short-Term Memory (LSTM);
+[p3c0] (D) Twin Delayed Deep Deterministic Policy Gradient (TD3);
+[p3c0] (E) K-Vizinhos Mais Próximos (KNN).
+[p3c0] 3
+[p3c0] Considere uma estrutura específica de rede neural recorrente,
+[p3c0] conhecida como Long Short-Term Memory (LSTM). Essa estrutura
+[p3c0] é projetada para enfrentar desafios como capturar dependências
+[p3c0] de longo prazo e mitigar o problema do gradiente que
+[p3c0] desaparece.
+[p3c0] A inovação arquitetônica distintiva da LSTM é(são):
+[p3c0] (A) o recorte de gradiente;
+[p3c0] (B) as células de memória com mecanismos de gating;
+[p3c0] (C) os mecanismos de atenção;
+[p3c0] (D) as conexões de salto;
+[p3c0] (E) as camadas de Max-pooling.
+[p3c0] Analista CVM - Perfil 7 - Ciência de Dados
+[p3c1] 4
+[p3c1] A abordagem que garante uma exploração completa das
+[p3c1] combinações de hiperparâmetros na identificação da
+[p3c1] configuração ideal para maximizar o desempenho do modelo de
+[p3c1] aprendizado de máquina é a:
+[p3c1] (A) realização de uma Grid Search, explorando sistematicamente
+[p3c1] os valores de hiperparâmetros predefinidos para identificar a
+[p3c1] combinação ideal para maximizar o desempenho do modelo;
+[p3c1] (B) utilização de uma Busca Aleatória, amostrando
+[p3c1] aleatoriamente o espaço de hiperparâmetros, oferecendo
+[p3c1] uma abordagem mais eficiente para o ajuste de
+[p3c1] hiperparâmetros em comparação com os métodos
+[p3c1] exaustivos;
+[p3c1] (C) implementação de uma Validação Cruzada K-fold,
+[p3c1] particionando o conjunto de dados em K subconjuntos para
+[p3c1] treinar e avaliar iterativamente o modelo, fornecendo uma
+[p3c1] avaliação robusta de seu desempenho de generalização;
+[p3c1] (D) aplicação de métodos Ensemble, combinando vários modelos
+[p3c1] para aproveitar suas diversas forças, visando a melhorar o
+[p3c1] desempenho geral, particularmente quando os modelos
+[p3c1] individuais apresentam diferentes tipos de erros;
+[p3c1] (E) utilização de uma Feature Scaling, normalizando a escala das
+[p3c1] características de entrada para garantir comparações justas
+[p3c1] entre diferentes variáveis, o que é particularmente benéfico
+[p3c1] para algoritmos sensíveis a diferenças de escala.
+[p3c1] 5
+[p3c1] Um cientista trabalha em um projeto de cibersegurança no qual
+[p3c1] deve identificar atividades de rede incomuns, que podem indicar
+[p3c1] possíveis ameaças de segurança. Após coletar dados sobre o
+[p3c1] tráfego de rede, o cientista percebe que alguns pontos de dados
+[p3c1] exibem padrões significativamente diferentes da maioria.
+[p3c1] O método que deve ser aplicado para detectar as anomalias,
+[p3c1] identificando outliers isolados nos dados e possíveis ameaças de
+[p3c1] segurança, é o:
+[p3c1] (A) Isolation Forest;
+[p3c1] (B) Box Plot (IQR);
+[p3c1] (C) Local Outlier Factor (LOF);
+[p3c1] (D) do desvio padrão;
+[p3c1] (E) DBSCAN (Density-Based Spatial Clustering of Applications
+[p3c1] with Noise).
+[p3c1]  Tipo 1 – Branca – Página 3
+[p4c0] 6
+[p4c0] Observe os conjuntos de dados a seguir.
+[p4c0] Conjunto de Dados Sensíveis A:
+[p4c0] ID Nome Profissão CEP Situação
+[p4c0] 10 Luis Agente 20321-560 Em Análise
+[p4c0] Alberto Autonomo
+[p4c0] Nascimento
+[p4c0] 11 Juliana Agente 70125-120 Suspenso
+[p4c0] Lopes Fiduciário
+[p4c0] Quinta
+[p4c0] 12 Dércio Analista 15080-121 Cancelado
+[p4c0] Roberto de Sistemas
+[p4c0] Cunha
+[p4c0] 13 Edson Engenheiro 32800-090 Normal
+[p4c0] Nilo do de Software
+[p4c0] Nascimento
+[p4c0] Conjunto de Dados B:
+[p4c0] ID Nome Profissão CEP Situação
+[p4c0] 2 Luis Agente 20321 Sem acesso
+[p4c0] Alberto
+[p4c0] Souza
+[p4c0] 4 Juliana Agente 70125 Sem acesso
+[p4c0] Lima
+[p4c0] Quinta
+[p4c0] 6 Dércio Profissional 15080 Sem acesso
+[p4c0] Rui de TI
+[p4c0] Cunha
+[p4c0] 8 Edson Profissional 32800 Com acesso
+[p4c0] Nilo da de TI
+[p4c0] Silva
+[p4c0] Para desidentificar o Conjunto de Dados Sensíveis A e gerar o
+[p4c0] Conjunto de Dados B, a técnica de anonimização que deve ser
+[p4c0] aplicada é o(a):
+[p4c0] (A) adição de ruído no atributo ID;
+[p4c0] (B) truncagem no atributo Nome;
+[p4c0] (C) encobrimento no atributo Profissão;
+[p4c0] (D) supressão no atributo CEP;
+[p4c0] (E) blurring no atributo Situação.
+[p4c0] 7
+[p4c0] O analista João desenvolveu diversos dashboards na plataforma
+[p4c0] Microsoft Power BI e solicitou ao programador web Pedro que
+[p4c0] disponibilizasse aquelas análises no portal de acesso à
+[p4c0] informação da CVM.
+[p4c0] Para inserir os dashboards desenvolvidos por João na página web
+[p4c0] da CVM, o recurso do Power BI que Pedro deve usar é o(a):
+[p4c0] (A) Modelo semântico;
+[p4c0] (B) Relatório Paginado;
+[p4c0] (C) Conexão com fontes de dados Web;
+[p4c0] (D) Análise Integrada (Embedded Analytics);
+[p4c0] (E) Visualização Narrativa Inteligente (Smart Narrative).
+[p4c0] Analista CVM - Perfil 7 - Ciência de Dados
+[p4c1] 8
+[p4c1] Para tomar decisões diárias, o analista João precisa consultar o
+[p4c1] preço de diversas ações do mercado financeiro, bem como outros
+[p4c1] dados da CVM. Contudo, ao acessar o ambiente de BigData da
+[p4c1] CVM, João verificou que os preços das ações desse ambiente
+[p4c1] demoravam para ser atualizados.
+[p4c1] João procurou o arquiteto de BigData da CVM para tratar a
+[p4c1] dimensão da qualidade de dados denominada:
+[p4c1] (A) validade (validity);
+[p4c1] (B) correspondência (matching);
+[p4c1] (C) unicidade (uniqueness);
+[p4c1] (D) consistência (consistency);
+[p4c1] (E) temporalidade (timeliness).
+[p4c1] 9
+[p4c1] O cientista de dados Miguel decidiu buscar um serviço de nuvem
+[p4c1] que forneça recursos de computação sob demanda, tais como
+[p4c1] servidores, rede, armazenamento e outros, para construir seu
+[p4c1] ambiente de análise e exploração de dados, podendo incorporar
+[p4c1] sistemas operacionais e aplicativos.
+[p4c1] Para isso, Miguel deve contratar o serviço de nuvem:
+[p4c1] (A) DaaS;
+[p4c1] (B) FaaS;
+[p4c1] (C) IaaS;
+[p4c1] (D) PaaS;
+[p4c1] (E) SaaS.
+[p4c1] 10
+[p4c1] O sistema CVMWeb armazena os dados pessoais dos consultores
+[p4c1] de valores mobiliários, como nome, telefone e e-mail. Uma
+[p4c1] entidade financeira privada solicita, ao setor de recursos
+[p4c1] humanos da CVM, os dados de contato dos consultores
+[p4c1] cadastrados para oferecer linhas de crédito e financiamento
+[p4c1] imobiliário.
+[p4c1] Nesse contexto, é correto afirmar que o pedido foi:
+[p4c1] (A) negado, pois há incompatibilidade entre a finalidade original
+[p4c1] da coleta e a finalidade proposta para o compartilhamento,
+[p4c1] além de não haver enquadramento em uma das exceções
+[p4c1] previstas (Art. 26º, § 1, da LGPD);
+[p4c1] (B) analisado pela autoridade competente, que decidiu que os
+[p4c1] dados dos consultores inativos poderão ser compartilhados
+[p4c1] atendendo ao princípio da não discriminação (Art. 6º, IX, da
+[p4c1] LGPD);
+[p4c1] (C) enviado para a Autoridade Nacional de Privacidade de Dados,
+[p4c1] que deverá emitir um parecer autorizando o
+[p4c1] compartilhamento (Art. 30º, da LGPD);
+[p4c1] (D) atendido, com base no Art. 7º, II, da LGPD, segundo o qual o
+[p4c1] compartilhamento de dados pessoais pelo Poder Público
+[p4c1] poderá ser realizado “para o cumprimento de obrigação legal
+[p4c1] ou regulatória pelo controlador”;
+[p4c1] (E) legitimado pelo Art. 26º § 1º da LGPD: “É autorizado ao Poder
+[p4c1] Público transferir a entidades privadas dados pessoais
+[p4c1] constantes de bases de dados a que tenha acesso desde que
+[p4c1] previamente tratados.”
+[p4c1]  Tipo 1 – Branca – Página 4
+[p5c0] 11
+[p5c0] As informações são a base de toda tomada de decisão e gestão
+[p5c0] de empresas, sendo um diferencial importante o uso de grandes
+[p5c0] volumes de dados de diversas fontes.
+[p5c0] Nesse contexto, as soluções de Big Data para análise de dados
+[p5c0] devem ter a capacidade de:
+[p5c0] (A) processar dados heterogêneos, de alto volume e alta
+[p5c0] velocidade, utilizando estruturas computacionais
+[p5c0] aprimoradas para a automação de processos e tomadas de
+[p5c0] decisão;
+[p5c0] (B) operar dados homogêneos, de alto volume e limitada
+[p5c0] velocidade, gerando valor agregado para o negócio da
+[p5c0] empresa;
+[p5c0] (C) manusear volumes de dados armazenados localmente,
+[p5c0] heterogêneos e com atividades semiestruturadas, agregando
+[p5c0] valor ao processo decisório da empresa;
+[p5c0] (D) processar grandes volumes de dados homogêneos, cujo
+[p5c0] objetivo principal é a implementação de técnicas avançadas
+[p5c0] de criptografia;
+[p5c0] (E) auxiliar no processo de gestão empresarial, processando
+[p5c0] dados heterogêneos, de alto volume e alta velocidade,
+[p5c0] descartando domínios de dados e transações.
+[p5c0] Texto 1
+[p5c0] Aline, cientista de dados da CVM, foi designada para aferir a
+[p5c0] reação à prova da CVM entre os usuários de uma rede social de
+[p5c0] textos curtos usando técnicas de análise de sentimentos. Para
+[p5c0] isso, ela realiza um processo de KDD. Nesse processo, Aline opta
+[p5c0] por representar os textos obtidos da rede social no formato de
+[p5c0] vetores reais de baixa dimensionalidade, calculados a partir das
+[p5c0] representações das palavras obtidas de um modelo de
+[p5c0] linguagem pré-treinado utilizando a técnica word2vec.
+[p5c0] 12
+[p5c0] Considerando o texto 1, a representação das palavras que será
+[p5c0] utilizada por Aline é chamada de:
+[p5c0] (A) TF-IDF;
+[p5c0] (B) tokens;
+[p5c0] (C) n-gramas;
+[p5c0] (D) bag-of-words;
+[p5c0] (E) word embeddings.
+[p5c0] 13
+[p5c0] Considerando o texto 1, a fase do KDD em que Aline gera os
+[p5c0] vetores a partir dos textos é chamada de:
+[p5c0] (A) seleção dos dados;
+[p5c0] (B) limpeza dos dados;
+[p5c0] (C) mineração dos dados;
+[p5c0] (D) transformação dos dados;
+[p5c0] (E) enriquecimento dos dados.
+[p5c0] Analista CVM - Perfil 7 - Ciência de Dados
+[p5c1] 14
+[p5c1] Alexandre recebe a tarefa de treinar um sistema de detecção de
+[p5c1] fraudes no banco em que trabalha. Para isso, ele testa cinco
+[p5c1] modelos, M1, M2, M3, M4 e M5, que possuem, respectivamente,
+[p5c1] 2, 2, 2, 3 e 3 parâmetros. Alexandre realiza uma seleção
+[p5c1] bayesiana dos modelos, usando o critério de informação
+[p5c1] bayesiano.
+[p5c1] Sabendo que o tamanho da amostra é 200 e que os valores
+[p5c1] maximizados das funções de verossimilhança dos modelos são
+[p5c1] 0,3; 0,4; 0,5; 0,3 e 0,5, respectivamente, Alexandre seleciona o
+[p5c1] modelo:
+[p5c1] (se necessário, use ln(2) = 0,7; ln(3) = 1,1 e ln(5) = 1,6)
+[p5c1] (A) M1;
+[p5c1] (B) M2;
+[p5c1] (C) M3;
+[p5c1] (D) M4;
+[p5c1] (E) M5.
+[p5c1] 15
+[p5c1] Flávia, responsável pelo setor de análise de dados de uma rede
+[p5c1] de concessionárias de carros, está realizando o pré-
+[p5c1] processamento dos dados dos clientes da rede. Entre os atributos
+[p5c1] do conjunto de dados, estão os CPFs dos clientes, o seu sexo e a
+[p5c1] quantidade de carros que eles já compraram na rede.
+[p5c1] Esses três atributos podem ser classificados, respectivamente,
+[p5c1] como:
+[p5c1] (A) qualitativo nominal, qualitativo nominal e quantitativo
+[p5c1] discreto;
+[p5c1] (B) qualitativo nominal, qualitativo ordinal e quantitativo
+[p5c1] discreto;
+[p5c1] (C) qualitativo nominal, qualitativo nominal e quantitativo
+[p5c1] contínuo;
+[p5c1] (D) qualitativo ordinal, qualitativo nominal e quantitativo
+[p5c1] discreto;
+[p5c1] (E) quantitativo discreto, qualitativo nominal e quantitativo
+[p5c1] contínuo.
+[p5c1] 16
+[p5c1] Uma certa organização busca melhorar a qualidade e agilidade do
+[p5c1] seu atendimento eletrônico. Para isso um projeto foi criado para
+[p5c1] agrupar os e-mails recebidos de acordo com o tipo de problema a
+[p5c1] ser resolvido e assim repassá-los para o setor mais apropriado.
+[p5c1] A equipe responsável pela implementação do projeto resolveu
+[p5c1] utilizar um modelo de linguagem recente para representar o
+[p5c1] máximo possível de informação contida num e-mail em um vetor
+[p5c1] de dimensão 768. Entretanto, depararam-se com o seguinte
+[p5c1] problema: as distâncias entre os vetores se mostraram muito
+[p5c1] pequenas, tornando o agrupamento por diversos algoritmos
+[p5c1] muito pouco significativo.
+[p5c1] Com esse último problema em mente, a sequência mais
+[p5c1] apropriada de algoritmos a ser aplicada sobre os vetores, de
+[p5c1] forma a obter um agrupamento significativo dos e-mails, é:
+[p5c1] (A) PCA → t-SNE → KNN;
+[p5c1] (B) UMAP → KNN;
+[p5c1] (C) t-SNE → HDBSCAN → K-Means;
+[p5c1] (D) UMAP → HDBSCAN;
+[p5c1] (E) K-Means -> t-SNE.
+[p5c1]  Tipo 1 – Branca – Página 5
+[p6c0] 17
+[p6c0] Uma equipe de analistas de dados preparou um modelo preditivo
+[p6c0] cuja entrada consiste em planilhas contendo uma matriz de
+[p6c0] valores reais entre 1 e 10. Tais planilhas são obtidas de um
+[p6c0] sistema externo à equipe. O modelo foi treinado com um
+[p6c0] conjunto de planilhas que foi coletado pelos analistas, de forma a
+[p6c0] obter uma amostra representativa dos dados a serem utilizados.
+[p6c0] A média e o desvio padrão de duas colunas importantes foram
+[p6c0] calculados do conjunto de treinamento, como uma forma simples
+[p6c0] de verificar a consistência da distribuição dos dados, sendo seus
+[p6c0] valores 4,89 e 3,08, respectivamente. O modelo obteve bons
+[p6c0] resultados durante sua etapa de testes, com uma precisão de
+[p6c0] 94%.
+[p6c0] Ao iniciar a operação do modelo com planilhas atuais, entretanto,
+[p6c0] os analistas observaram que o modelo teve um desempenho
+[p6c0] muito inferior, com precisão de apenas 72%. Investigando as
+[p6c0] planilhas recebidas, obtiveram a média e o desvio padrão para as
+[p6c0] duas colunas importantes com valores 5,34 e 3,68,
+[p6c0] respectivamente.
+[p6c0] A explicação mais adequada à situação descrita é:
+[p6c0] (A) as planilhas atuais contêm ruído: valores ausentes nas
+[p6c0] colunas importantes;
+[p6c0] (B) a distribuição dos valores nas planilhas atuais não
+[p6c0] corresponde mais aos dados usados no treinamento, pois
+[p6c0] foram coletadas em momentos diferentes (drifting);
+[p6c0] (C) a distribuição dos valores nas planilhas atuais não
+[p6c0] corresponde mais aos dados usados no treinamento devido a
+[p6c0] uma mudança na posição das colunas;
+[p6c0] (D) a distribuição dos valores nas planilhas de treinamento não
+[p6c0] corresponde aos dados atuais, pois a amostra obtida pelos
+[p6c0] analistas não foi representativa;
+[p6c0] (E) as planilhas atuais contêm ruído: valores fora do intervalo
+[p6c0] definido para o modelo.
+[p6c0] 18
+[p6c0] Visando a maximizar a eficiência de uma equipe de auditores
+[p6c0] fiscais, um sistema de classificação de documentação foi
+[p6c0] encomendado à equipe de ciência de dados, com o objetivo de
+[p6c0] decidir, com base nos documentos obtidos durante uma
+[p6c0] fiscalização, se um exame detalhado de documentação é ou não
+[p6c0] necessário.
+[p6c0] Idealmente, o sistema permitiria aos auditores direcionar mais
+[p6c0] tempo às auditorias complexas e agilizar a análise dos casos mais
+[p6c0] simples, otimizando o custo de pessoal e equipamento
+[p6c0] especializado. Contudo, não examinar detalhadamente um caso
+[p6c0] complexo pode custar muito caro ao governo, a ponto de anular
+[p6c0] quaisquer ganhos obtidos usando o sistema com um pequeno
+[p6c0] número de erros.
+[p6c0] Considerando esse cenário, e o fato de o sistema de classificação
+[p6c0] responder apenas “sim” ou “não” quanto à necessidade de
+[p6c0] exame detalhado, a métrica de classificação a ser maximizada
+[p6c0] pela equipe que irá implementar o sistema é:
+[p6c0] (A) acurácia;
+[p6c0] (B) revocação;
+[p6c0] (C) F1-score;
+[p6c0] (D) precisão;
+[p6c0] (E) AUC.
+[p6c0] Analista CVM - Perfil 7 - Ciência de Dados
+[p6c1] 19
+[p6c1] Para ser utilizado em um modelo neural de regressão, um
+[p6c1] conjunto de dados precisa ser tratado de tal forma que todos os
+[p6c1] atributos de entrada sejam representados como um ou mais
+[p6c1] valores numéricos no intervalo [0, 1].
+[p6c1] Os atributos de uma observação são: idade (inteiro >= 18),
+[p6c1] escolaridade (fundamental, médio, superior, pós-graduação),
+[p6c1] estado de residência (Acre, Alagoas, …, Tocantins, incluindo
+[p6c1] Distrito Federal) e local de trabalho (empresa, home office,
+[p6c1] misto).
+[p6c1] O número mínimo de valores necessários para representar uma
+[p6c1] observação com os atributos acima descritos para o modelo de
+[p6c1] regressão, de forma que não ocorra perda de informação ordinal
+[p6c1] nem inserção de vieses nos dados, é:
+[p6c1] (A) 4;
+[p6c1] (B) 10;
+[p6c1] (C) 16;
+[p6c1] (D) 32;
+[p6c1] (E) 35.
+[p6c1] 20
+[p6c1] Ao receber um conjunto de dados para elaborar um modelo
+[p6c1] preditivo, uma equipe de analistas de dados percebeu que havia
+[p6c1] uma quantidade significativa de dados faltantes em certos
+[p6c1] atributos. Foi então debatido o uso de duas técnicas para lidar
+[p6c1] com esse problema: (1) remoção de observações contendo dados
+[p6c1] ausentes e (2) “inputação” multivariável, sendo que apenas uma
+[p6c1] das duas seria aplicada.
+[p6c1] Duas características do conjunto de dados que devem ser
+[p6c1] prioritariamente consideradas na escolha entre as duas técnicas
+[p6c1] são:
+[p6c1] (A) o intervalo dos atributos com dados faltantes e a fração de
+[p6c1] dados faltantes;
+[p6c1] (B) o número de observações e a fração de dados faltantes;
+[p6c1] (C) a fração de atributos com dados faltantes e o intervalo dos
+[p6c1] atributos com dados faltantes ;
+[p6c1] (D) uma medida de dependência estatística entre os atributos e a
+[p6c1] fração de atributos com dados faltantes;
+[p6c1] (E) o número de observações e uma medida de dependência
+[p6c1] estatística entre os atributos.
+[p6c1] 21
+[p6c1] Considere-se a aplicação de um modelo grande de linguagem
+[p6c1] (LLM) com 3 bilhões de parâmetros, distribuído em formato não
+[p6c1] quantizado, meia-precisão.
+[p6c1] A quantidade mínima de memória necessária para carregar os
+[p6c1] pesos do modelo para inferência (sem gradientes), considerando
+[p6c1] apenas o espaço ocupado pelos pesos, é:
+[p6c1] (A) 8GB;
+[p6c1] (B) 16GB;
+[p6c1] (C) 32GB;
+[p6c1] (D) 64GB;
+[p6c1] (E) 128GB.
+[p6c1]  Tipo 1 – Branca – Página 6
+[p7c0] 22
+[p7c0] Um dos principais fatores que tornam viável a aplicação de
+[p7c0] modelos grandes de linguagem (LLMs) é o controle do espaço de
+[p7c0] probabilidade de tokens através da redução de dimensionalidade
+[p7c0] do vocabulário, sem perda da capacidade de reconstruir qualquer
+[p7c0] token válido da linguagem sendo modelada.
+[p7c0] Considerando esse objetivo, dois algoritmos que podem ser
+[p7c0] utilizados para esse fim são:
+[p7c0] (A) UMAP, BPE;
+[p7c0] (B) T5, UMAP;
+[p7c0] (C) BPE, WordPiece;
+[p7c0] (D) WordPiece, T5;
+[p7c0] (E) UMAP, GTE.
+[p7c0] 23
+[p7c0] Considere o código python a seguir.
+[p7c0] import torch
+[p7c0] from torch import nn, Tensor
+[p7c0] class CVMNet(nn.Module):
+[p7c0] def __init__(self,
+[p7c0] dim_in: int,
+[p7c0] dim_hidden: int,
+[p7c0] n_classes: int):
+[p7c0] super().__init__()
+[p7c0] self.i_layer = nn.Linear(dim_in, dim_hidden)
+[p7c0] self.h_layer = nn.Sequential(
+[p7c0] nn.Linear(dim_hidden, dim_hidden // 2),
+[p7c0] nn.Tanh()
+[p7c0] )
+[p7c0] self.o_layer = nn.Sequential(
+[p7c0] nn.Dropout(0.2),
+[p7c0] nn.Linear(dim_hidden // 2, n_classes),
+[p7c0] nn.Softmax(dim=-1)
+[p7c0] )
+[p7c0] def forward(self, x: Tensor):
+[p7c0] return self.o_layer(self.h_layer(self.i_layer(x)))
+[p7c0] model = CVMNet(400, 100, 3)
+[p7c0] pred = model(torch.eye(20).flatten()).detach()
+[p7c0] Sobre a variável pred, é correto afirmar que:
+[p7c0] (A) seus gradientes foram preparados para a retropropagação;
+[p7c0] (B) seus valores, quando somados, resultam em 1.0;
+[p7c0] (C) sua dimensão é 50;
+[p7c0] (D) seus valores serão os mesmos para qualquer execução do
+[p7c0] código;
+[p7c0] (E) sua dimensão é 1.
+[p7c0] Analista CVM - Perfil 7 - Ciência de Dados
+[p7c1] 24
+[p7c1] Uma certa organização gostaria de compartilhar dados com um
+[p7c1] grupo de pesquisadores de uma universidade para a condução de
+[p7c1] um estudo sobre problemas ergonômicos nos seus escritórios.
+[p7c1] Entre os dados coletados, há informações sensíveis sobre seus
+[p7c1] funcionários; portanto, o responsável pela coleta decidiu
+[p7c1] anonimizar os dados. Isso foi feito removendo-se nomes e outros
+[p7c1] campos identificadores e adicionando-se um número
+[p7c1] identificador próprio a cada funcionário. Dessa forma, a
+[p7c1] identidade dos funcionários seria preservada. Após a verificação
+[p7c1] de uma amostra, o pesquisador responsável pelo estudo
+[p7c1] recomendou medidas que deveriam ser aplicadas antes que os
+[p7c1] dados pudessem ser aceitos para o estudo.
+[p7c1] O problema que mais provavelmente motivou a recomendação
+[p7c1] do pesquisador e uma medida que pode mitigar esse problema
+[p7c1] são, respectivamente:
+[p7c1] (A) os dados podem ser reidentificados usando uma combinação
+[p7c1] dos campos restantes → embaralhamento dos campos;
+[p7c1] (B) o número identificador não é suficiente para separar os
+[p7c1] dados → hashing usando os campos restantes;
+[p7c1] (C) os dados podem ser reidentificados utilizando dados externos
+[p7c1] ao conjunto compartilhado → privacidade diferencial;
+[p7c1] (D) os dados podem ser reidentificados através de engenharia
+[p7c1] reversa do número identificador → randomização não linear
+[p7c1] dos identificadores;
+[p7c1] (E) o campos restantes podem ser usados para deduzir
+[p7c1] informação não inclusa no conjunto de dados →
+[p7c1] k-anonimato.
+[p7c1] 25
+[p7c1] Considere o código python a seguir.
+[p7c1] import spacy
+[p7c1] nlp = spacy.load("pt_core_news_lg")
+[p7c1] doc = nlp("O rato roeu a roupa do rei de Roma")
+[p7c1] print(doc[2].pos_, doc[2].dep_)
+[p7c1] Os valores exibidos pela última linha são:
+[p7c1] (A) NOUN, NSUBJ;
+[p7c1] (B) VERB, ROOT;
+[p7c1] (C) NMOD, DET;
+[p7c1] (D) VERB, CASE;
+[p7c1] (E) NSUBJ, NOUN.
+[p7c1] Linguagens e Banco de Dados
+[p7c1] 26
+[p7c1] No método tensorflow.keras.layers.Dense(...), se nenhuma
+[p7c1] função de ativação é especificada, é utilizada por padrão a
+[p7c1] função:
+[p7c1] (A) linear;
+[p7c1] (B) ReLU;
+[p7c1] (C) sigmoide;
+[p7c1] (D) softmax;
+[p7c1] (E) softplus.
+[p7c1]  Tipo 1 – Branca – Página 7
+[p8c0] 27
+[p8c0] Um cientista de dados utiliza a biblioteca scikit-learn para treinar
+[p8c0] um estimador clf usando um conjunto de treinamento X1 e seu
+[p8c0] respectivo conjunto de atributos-alvo y. Posteriormente, o
+[p8c0] cientista estima os atributos-alvo do conjunto X2.
+[p8c0] Para realizar o treinamento e a predição, o cientista de dados
+[p8c0] deve usar, respectivamente, os métodos:
+[p8c0] (A) fit(X1,y) e estimate(X2);
+[p8c0] (B) fit(X1,y) e predict(X2);
+[p8c0] (C) train(X1,y) e estimate(X2);
+[p8c0] (D) train(X1,y) e predict(X2);
+[p8c0] (E) train(X1,y) e test(X2).
+[p8c0] 28
+[p8c0] Igor, analista de dados da CVM, escreveu e rodou o código a
+[p8c0] seguir.
+[p8c0] from nltk.corpus import stopwords
+[p8c0] from nltk.tokenize import word_tokenize
+[p8c0] texto = "Eu sou um analista de dados da
+[p8c0] CVM!"
+[p8c0] stop_words =
+[p8c0] set(stopwords.words('portuguese'))
+[p8c0] tokens = word_tokenize(texto)
+[p8c0] tokens_processados = [w for w in tokens if
+[p8c0] not w in stop_words]
+[p8c0] print(tokens_processados)
+[p8c0] Considerando que o código foi executado sem erros e sabendo
+[p8c0] que Igor está usando Python 3.10.12 e NLTK 3.8.1, a saída do
+[p8c0] terminal foi:
+[p8c0] (A) ['analista', 'dados', 'CVM'];
+[p8c0] (B) ['analista', 'dados', 'CVM', '!'];
+[p8c0] (C) ['Eu', 'analista', 'dados', 'CVM'];
+[p8c0] (D) ['Eu', 'analista', 'dados', 'CVM', '!'];
+[p8c0] (E) ['Eu', 'sou', 'analista', 'dados', 'CVM', '!'].
+[p8c0] 29
+[p8c0] Documentos do Jupyter Notebook são salvos com a extensão
+[p8c0] .ipynb, mas internamente eles são documentos do tipo:
+[p8c0] (A) DTD;
+[p8c0] (B) HTML;
+[p8c0] (C) JSON;
+[p8c0] (D) XHTML;
+[p8c0] (E) XML.
+[p8c0] Analista CVM - Perfil 7 - Ciência de Dados
+[p8c1] 30
+[p8c1] Observe o Modelo de Entidades e Relacionamentos a seguir.
+[p8c1] Com base nos relacionamentos apresentados, está explícito que:
+[p8c1] (A) I e J podem se relacionar com B;
+[p8c1] (B) H transforma A em uma entidade-forte;
+[p8c1] (C) B é um relacionamento semântico ternário;
+[p8c1] (D) G tem uma dependência do tipo todo-parte em relação a C;
+[p8c1] (E) I é um tipo de E dependente do relacionamento com B.
+[p8c1] 31
+[p8c1] O modelo relacional representa o banco de dados como uma
+[p8c1] coleção de relações. Considere a relação COLABORADOR
+[p8c1] apresentada a seguir, cuja chave primária é Matricula.
+[p8c1] COLABORADOR
+[p8c1] Nome Matricula Cpf Celular Endereco
+[p8c1] Fernando 1234 422.111.232-(21) Rua das
+[p8c1] Azul 78 9888-9991 Flores, 8
+[p8c1] Carla 1357 444.222.333-(21) Rua da
+[p8c1] Vermelha 77 9777-7474 Árvore, 4
+[p8c1] Vivian 1458 147.854.111-NULL Rua das
+[p8c1] Amarela 12 Frutas, 2
+[p8c1] Na relação COLABORADOR, o(a):
+[p8c1] (A) superchave padrão é representada pelos atributos Matricula
+[p8c1] e Cpf;
+[p8c1] (B) estado de relação atual reflete a cardinalidade dos domínios
+[p8c1] e o produto cartesiano;
+[p8c1] (C) ordenação das tuplas faz parte da definição da relação sendo
+[p8c1] influenciada pela alteração da ordem das tuplas;
+[p8c1] (D) domínio de cada atributo é um conjunto de valores atômicos,
+[p8c1] indivisível em se tratando de modelo relacional formal;
+[p8c1] (E) restrição de integridade referencial garante que nenhum
+[p8c1] valor da chave primária será NULL.
+[p8c1] 32
+[p8c1] As transações em banco de dados possuem propriedades que
+[p8c1] buscam proteger dados contra perdas ou danos.
+[p8c1] A propriedade durabilidade tem relação com:
+[p8c1] (A) a técnica de recuperação, para desfazer quaisquer efeitos de
+[p8c1] transações não completadas por algum motivo;
+[p8c1] (B) as restrições de integridade especificadas para o esquema,
+[p8c1] bem como quaisquer outras restrições no banco de dados;
+[p8c1] (C) o subsistema de recuperação do Sistema Gerenciador de
+[p8c1] Banco de Dados, por meio do log do sistema, para transações
+[p8c1] confirmadas e modificáveis pela execução de outra transação
+[p8c1] futura;
+[p8c1] (D) o ocultamento das atualizações por parte de cada transação
+[p8c1] até que esta esteja confirmada;
+[p8c1] (E) os níveis de durabilidade de uma transação variando do nível
+[p8c1] 1 ao 3, de forma a evitar atualizações perdidas.
+[p8c1]  Tipo 1 – Branca – Página 8
+[p9c0] 33
+[p9c0] Os Sistemas Gerenciadores de Banco de Dados (SGBD) comerciais
+[p9c0] implementam internamente técnicas para processar, otimizar e
+[p9c0] executar consultas de alto nível.
+[p9c0] Uma estratégia eficiente utilizada pelo otimizador de consultas
+[p9c0] do SGBD considera o uso de:
+[p9c0] (A) regras heurísticas de forma a realizar restrições (seleções)
+[p9c0] antes de projeções para reduzir o número de atributos para
+[p9c0] as projeções;
+[p9c0] (B) estimativas de custo para identificar restrições (seleções)
+[p9c0] mais eficientes como entrada para execução das projeções
+[p9c0] com menos atributos;
+[p9c0] (C) regras heurísticas de forma a realizar restrições (seleções)
+[p9c0] antes de projeções para reduzir o número de tuplas para as
+[p9c0] projeções;
+[p9c0] (D) estimativas de custo para consultas compiladas com o intuito
+[p9c0] de realizar junções e projeções antes das restrições
+[p9c0] (seleções);
+[p9c0] (E) regras heurísticas associadas a estimativas de custo para
+[p9c0] consultas interpretadas para eliminar o produto cartesiano.
+[p9c0] 34
+[p9c0] Diante de várias reclamações de performance em resposta a
+[p9c0] consultas a dados por meio de um dos sistemas estruturantes de
+[p9c0] uma autarquia federal, a equipe de tecnologia identificou que o
+[p9c0] motivo estava na lentidão para recuperação de registros na base
+[p9c0] de dados utilizada pelo sistema. Para agilizar a recuperação de
+[p9c0] registros em resposta a uma pesquisa que utiliza um campo que
+[p9c0] comporta valores repetidos, a equipe de tecnologia criou índices.
+[p9c0] Considerando que já existe um índice primário para o conjunto
+[p9c0] de dados em questão, a equipe criou um índice:
+[p9c0] (A) multinível secundário esparso de chave candidata;
+[p9c0] (B) de agrupamento (clustering) denso para o campo de
+[p9c0] ordenação física;
+[p9c0] (C) bitmap para um ou mais campos de pesquisa para os quais há
+[p9c0] grandes variações de valores;
+[p9c0] (D) de hash para o campo de pesquisa que é utilizado para
+[p9c0] organização do índice primário;
+[p9c0] (E) secundário não denso para o campo de pesquisa com um
+[p9c0] nível de indireção extra para múltiplos ponteiros.
+[p9c0] 35
+[p9c0] Janine é a responsável pela administração dos bancos de dados
+[p9c0] gerenciados pelo PostgreSQL de uma autarquia federal. Durante
+[p9c0] a criação de um banco de dados, Janine especificou a criação de
+[p9c0] um tablespace diferente do tablespace default.
+[p9c0] O tablespace criado por Janine:
+[p9c0] (A) é independente dos metadados contidos no diretório de
+[p9c0] dados principal;
+[p9c0] (B) será tratado pelo PostgreSQL como uma coleção autônoma
+[p9c0] de arquivos de dados;
+[p9c0] (C) pode ser anexado a outro cluster de banco de dados
+[p9c0] diferente daquele no qual foi criado;
+[p9c0] (D) pode ter uma rotina de backup individual, independente de
+[p9c0] outros componentes do banco de dados;
+[p9c0] (E) requer que o superusuário do banco de dados conceda o
+[p9c0] privilégio de criação no tablespace aos usuários comuns do
+[p9c0] banco de dados.
+[p9c0] Analista CVM - Perfil 7 - Ciência de Dados
+[p9c1] 36
+[p9c1] O analista Gabriel fez um levantamento das bases de dados
+[p9c1] existentes na CVM e percebeu que havia Data Marts distintos,
+[p9c1] criados para atender a requisitos analíticos específicos de cada
+[p9c1] Superintendência, como: Relações Institucionais, Auditoria e
+[p9c1] Registro de Valores Imobiliários. Cada Data Mart foi construído
+[p9c1] de forma independente, o que dificultava análises integradas
+[p9c1] para relacionar dados das diferentes Superintendências. Gabriel
+[p9c1] observou que havia várias dimensões em comum nos Data Marts.
+[p9c1] Para permitir análises integradas padronizando e compartilhando
+[p9c1] as dimensões em comum dos Data Marts da CVM, Gabriel
+[p9c1] implementou um(a):
+[p9c1] (A) Data Mart Híbrido;
+[p9c1] (B) Data Mart Dependente;
+[p9c1] (C) Modelo de Dados Normalizado;
+[p9c1] (D) Repositório de Metadados Mestres Corporativos;
+[p9c1] (E) Arquitetura e Matriz de Barramento de Data Warehouse.
+[p9c1] 37
+[p9c1] Para apoiar análises sobre os fundadores de empresas ao longo
+[p9c1] do tempo, elaborou-se, inicialmente, o seguinte modelo
+[p9c1] multidimensional de dados, no qual a tabela FATO FUNDAÇÃO
+[p9c1] EMPRESAS se relaciona com múltiplos valores da tabela
+[p9c1] DIMENSÃO FUNDADOR.
+[p9c1] No caso apresentado, a implementação de uma dimensão
+[p9c1] multivalorada deve ser realizada por meio da aplicação da técnica
+[p9c1] de modelagem multidimensional:
+[p9c1] (A) Tabela Ponte (Bridge Tables);
+[p9c1] (B) Tabela Fato sem Fatos (Factless Fact Tables);
+[p9c1] (C) Dimensão Degenerada (Degenerate Dimensions);
+[p9c1] (D) Dimensão Floco de Neve (Snowflaked Dimensions);
+[p9c1] (E) Dimensão que Desempenha Múltiplos Papéis (Role-Playing
+[p9c1] Dimensions).
+[p9c1]  Tipo 1 – Branca – Página 9
+[p10c0] 38
+[p10c0] As transações financeiras da CVM são realizadas sobre ativos
+[p10c0] nacionais, utilizando a moeda real (R$), e ativos internacionais,
+[p10c0] utilizando a moeda dólar americano (US$).
+[p10c0] Para implementar um Data Mart Financeiro da CVM, permitindo
+[p10c0] análises dos ativos nas duas moedas, deve-se:
+[p10c0] (A) criar um par de colunas para cada moeda na Tabela Fato,
+[p10c0] uma contendo o valor da moeda utilizada na transação e
+[p10c0] outra contendo o valor da moeda convertida. Criar uma
+[p10c0] Dimensão relacionada contendo a moeda utilizada na
+[p10c0] transação;
+[p10c0] (B) criar uma Minidimensão contendo duas colunas, uma com o
+[p10c0] valor da transação em real e a outra coluna com o valor em
+[p10c0] dólar. Correlacionar cada registro da Minidimensão com o
+[p10c0] respectivo valor da Tabela Fato;
+[p10c0] (C) normalizar a Dimensão que contém as moedas utilizadas em
+[p10c0] transações financeiras criando um snowflake apenas para as
+[p10c0] moedas real e dólar americano. Na Tabela Fato, criar um
+[p10c0] registro para cada transação relacionando-o com o respectivo
+[p10c0] registro da Dimensão normalizada;
+[p10c0] (D) criar uma Dimensão Auditoria para armazenar a descrição da
+[p10c0] moeda utilizada na transação armazenada na Tabela Fato, a
+[p10c0] qual deve armazenar o valor convertido;
+[p10c0] (E) entrevistar o gestor financeiro para levantar a regra de
+[p10c0] negócio da conversão de câmbio. Criar a tabela Dimensão
+[p10c0] correspondente e implementar a regra de negócio em um
+[p10c0] pacote de Extração, Transformação e Carga (ETL) para
+[p10c0] carregar o valor convertido a cada nova transação.
+[p10c0] 39
+[p10c0] O ambiente analítico da CVM armazena dados no formato
+[p10c0] multidimensional, implementa um cubo de dados e disponibiliza
+[p10c0] uma ferramenta OLAP para apoiar os analistas no desempenho
+[p10c0] de suas funções. Diante da grande quantidade de dados
+[p10c0] disponíveis, eles precisam reduzir o seu domínio de análise.
+[p10c0] Para isso, a operação OLAP, que extrai um subcubo da seleção de
+[p10c0] duas ou mais dimensões de um cubo de dados, é a:
+[p10c0] (A) Slice;
+[p10c0] (B) Dice;
+[p10c0] (C) Pivot;
+[p10c0] (D) Roll up;
+[p10c0] (E) Drill down.
+[p10c0] 40
+[p10c0] O dado no formato JSON – padrão utilizado para armazenar e
+[p10c0] transportar dados – deve ser de algum tipo.
+[p10c0] O dado que representa o tipo de dado JSON Array é o:
+[p10c0] (A) ["nome":"Joca"] {"idade":"30"}
+[p10c0] (B) {"idade":30} {"idade":20}
+[p10c0] (C) {"funcionario":{"nome":"Joca",
+[p10c0] "idade":30}}
+[p10c0] (D) ["Joca", "Ana", "Pedro"]
+[p10c0] (E) {"vendido":true} {"sobrenome":null}
+[p10c0] Analista CVM - Perfil 7 - Ciência de Dados
+[p10c1] 41
+[p10c1] As demandas de dados pelos analistas e cientistas de dados da
+[p10c1] CVM estão aumentando a cada dia. Para atendê-las com
+[p10c1] agilidade, é necessário obter dados de diversas fontes
+[p10c1] heterogêneas no seu formato original para posterior seleção e
+[p10c1] processamento sob demanda.
+[p10c1] Para armazenar dados estruturados, não estruturados e
+[p10c1] semiestruturados, deve-se implementar um(a):
+[p10c1] (A) Stage Area;
+[p10c1] (B) Data Lake;
+[p10c1] (C) Data Mining;
+[p10c1] (D) Data Warehouse;
+[p10c1] (E) Operational Data Store.
+[p10c1] 42
+[p10c1] Uma das principais atividades de implementação de um ambiente
+[p10c1] analítico é a limpeza dos conjuntos de dados origem. A biblioteca
+[p10c1] Pandas do Python é utilizada para analisar e também para limpar
+[p10c1] conjuntos de dados. Observe o trecho de código Python a seguir,
+[p10c1] que utiliza a biblioteca Pandas.
+[p10c1] import pandas as pd
+[p10c1] df = pd.read_csv('data.csv')
+[p10c1] df.dropna(inplace = True)
+[p10c1] O resultado da execução do código apresentado é a alteração do
+[p10c1] conjunto original de dados com o(a):
+[p10c1] (A) eliminação das linhas duplicadas;
+[p10c1] (B) truncamento dos dados do tipo boolean;
+[p10c1] (C) correção dos dados que estão na posição errada;
+[p10c1] (D) remoção das linhas com células vazias;
+[p10c1] (E) alteração do formato errado dos dados.
+[p10c1]  Tipo 1 – Branca – Página 10
+[p11c0] 43
+[p11c0] Durante a preparação de dados para análise, alterar a quantidade
+[p11c0] de dimensões e/ou elementos de cada dimensão de um dado do
+[p11c0] tipo Array é uma operação importante na manipulação de dados.
+[p11c0] Observe o seguinte trecho de código escrito na linguagem de
+[p11c0] programação Python:
+[p11c0] import numpy as np
+[p11c0] arr = np.array([1, 2, 3, 4, 5, 6, 7, 8, 9,
+[p11c0] 10, 11, 12])
+[p11c0] newarr = arr.reshape(2, 3, 2)
+[p11c0] print(newarr)
+[p11c0] O resultado da execução do código apresentado é:
+[p11c0] (A) [[ 1 2 3]
+[p11c0] [ 4 5 6]
+[p11c0] [ 7 8 9]
+[p11c0] [10 11 12]]
+[p11c0] (B) [[ 1 2 3 4]
+[p11c0] [ 5 6 7 8]
+[p11c0] [ 9 10 11 12]]
+[p11c0] (C) [[[ 1 2]
+[p11c0] [ 3 4]
+[p11c0] [ 5 6]]
+[p11c0] [[ 7 8]
+[p11c0] [ 9 10]
+[p11c0] [11 12]]]
+[p11c0] (D) [[ 1 2 3 4 5 6]
+[p11c0] [ 7 8 9 10 11 12]]
+[p11c0] (E) [[[ 1 2 3]
+[p11c0] [ 4 5 6]]
+[p11c0] [[ 7 8 9]
+[p11c0] [10 11 12]]]
+[p11c0] Analista CVM - Perfil 7 - Ciência de Dados
+[p11c1] 44
+[p11c1] Observe o script SQL a seguir.
+[p11c1] CREATE TABLE AUDITOR (ID_A INT NOT NULL,
+[p11c1] Nome varchar(20),PRIMARY KEY (ID_A));
+[p11c1] CREATE TABLE AUDITADO (ID_O INT NOT NULL,
+[p11c1] Nome varchar(20), ID_A INT,
+[p11c1] PRIMARY KEY (ID_O),FOREIGN KEY (ID_A)
+[p11c1] REFERENCES AUDITOR(ID_A));
+[p11c1] INSERT INTO AUDITOR (ID_A, Nome)
+[p11c1] VALUES (1, 'Maite');
+[p11c1] INSERT INTO AUDITOR (ID_A, Nome)
+[p11c1] VALUES (2, 'Lucca');
+[p11c1] INSERT INTO AUDITOR (ID_A, Nome)
+[p11c1] VALUES (3, 'Maria Clara');
+[p11c1] INSERT INTO AUDITADO (ID_O, Nome, ID_A)
+[p11c1] VALUES (1, 'Felipe', 1);
+[p11c1] INSERT INTO AUDITADO (ID_O, Nome, ID_A)
+[p11c1] VALUES (2, 'Stella', 2);
+[p11c1] INSERT INTO AUDITADO (ID_O, Nome, ID_A)
+[p11c1] VALUES (3, 'Patricia', NULL);
+[p11c1] Para analisar quais auditores estão realizando auditoria em quais
+[p11c1] auditados, é necessária a execução de uma consulta SQL que
+[p11c1] apresente o seguinte resultado:
+[p11c1] Auditor Auditado
+[p11c1] Maite Felipe
+[p11c1] Lucca Stella
+[p11c1] Para obter o resultado apresentado, deve-se executar a consulta
+[p11c1] SQL:
+[p11c1] (A) SELECT AUDITOR.Nome as 'Auditor'
+[p11c1] FROM AUDITOR
+[p11c1] WHERE AUDITOR.ID_A = ALL
+[p11c1] (SELECT AUDITADO.Nome as 'Auditado'
+[p11c1] FROM AUDITADO
+[p11c1] WHERE AUDITADO.ID_A=AUDITOR.ID_A);
+[p11c1] (B) SELECT AUDITOR.Nome as 'Auditor',
+[p11c1] AUDITADO.Nome as 'Auditado'
+[p11c1] FROM AUDITOR, AUDITADO
+[p11c1] HAVING AUDITADO.ID_A=AUDITOR.ID_A;
+[p11c1] (C) SELECT AUDITOR.Nome as 'Auditor',
+[p11c1] AUDITADO.Nome as 'Auditado'
+[p11c1] FROM AUDITOR INNER JOIN AUDITADO ON
+[p11c1] AUDITADO.ID_A=AUDITOR.ID_A;
+[p11c1] (D) SELECT AUDITOR.Nome as 'Auditor'
+[p11c1] FROM AUDITOR
+[p11c1] WHERE EXISTS (SELECT AUDITADO.Nome as
+[p11c1] 'Auditado'
+[p11c1] FROM AUDITADO
+[p11c1] WHERE AUDITADO.ID_A=AUDITOR.ID_A);
+[p11c1] (E) SELECT AUDITOR.Nome as 'Auditor'
+[p11c1] FROM AUDITOR
+[p11c1] UNION SELECT AUDITADO.Nome as 'Auditado'
+[p11c1] FROM AUDITADO;
+[p11c1]  Tipo 1 – Branca – Página 11
+[p12c0] 45
+[p12c0] Observe o script SQL a seguir.
+[p12c0] CREATE TABLE Pessoa (Nome varchar(255));
+[p12c0] INSERT INTO Pessoa (Nome)
+[p12c0] VALUES ('Ana Luca');
+[p12c0] INSERT INTO Pessoa (Nome)
+[p12c0] VALUES ('Antonio Silva');
+[p12c0] INSERT INTO Pessoa (Nome)
+[p12c0] VALUES ('Tania Rosendo');
+[p12c0] INSERT INTO Pessoa (Nome)
+[p12c0] VALUES ('Rosa Flor');
+[p12c0] INSERT INTO Pessoa (Nome)
+[p12c0] VALUES ('Lara Bel');
+[p12c0] SELECT * FROM Pessoa
+[p12c0] WHERE (Nome LIKE 'A_A%'
+[p12c0] OR Nome LIKE 'R%' /*OR Nome LIKE '%BEL'
+[p12c0] OR Nome LIKE '%T%'*/ OR Nome LIKE '%F');
+[p12c0] O resultado JSON da execução do script apresentado é:
+[p12c0] (A) [{"Nome":"Ana Luca"},{"Nome":"Rosa Flor"}]
+[p12c0] (B) [{"Nome":"Rosa Flor"},{"Nome":"Lara Bel"}]
+[p12c0] (C) [{"Nome":"Ana Luca"},{"Nome":"Tania
+[p12c0] Rosendo"},{"Nome":"Lara Bel"}]
+[p12c0] (D) [{"Nome":"Antonio Silva"},{"Nome":"Tania
+[p12c0] Rosendo"},{"Nome":"Rosa Flor"}]
+[p12c0] (E) [{"Nome":"Ana Luca"},{"Nome":"Antonio
+[p12c0] Silva"},{"Nome":"Tania
+[p12c0] Rosendo"},{"Nome":"Lara Bel"}]
+[p12c0] Analista CVM - Perfil 7 - Ciência de Dados
+[p12c1] Matemática e Estatística
+[p12c1] Para a resolução das questões 61 a 70, pode ser necessário
+[p12c1] utilizar alguns dos resultados a seguir.
+[p12c1]  Probabilidades aproximadas da Normal padrão (Z ~ N(0,1):
+[p12c1] P(Z>0.25) = 0.40 P(Z>0.5) = 0.31
+[p12c1] P(Z>0.8) = 0.21 P(Z>1) = 0.16
+[p12c1] P(Z>1.2) = 0.12 P(Z>1.28) = 0.1,
+[p12c1] P(Z>1.5) = 0.07 P(Z>1.64) = 0.05
+[p12c1] P(Z>1,96) = 0.025 P(Z>2) = 0.02
+[p12c1] P(Z>2,33) = 0,01 P(Z>2.5) = 0.06;
+[p12c1] Pr(Z>2,575) = 0,005 P(Z>3) = 0.013
+[p12c1]  Valores aproximados da função exponencial:
+[p12c1] exp(-1/40) = 0.97 exp(-1) = 0,368
+[p12c1] exp(-2) = 0,135 exp(-4) = 0,018
+[p12c1]  Valores aproximados da função logaritmo natural:
+[p12c1] ln(2) = 0,7 ln(3) = 1,1 ln(4) = 1,4.
+[p12c1] Também podem ser úteis os trechos de tabelas das distribuições
+[p12c1] a seguir.
+[p12c1]  Distribuição t de Student:
+[p12c1] Graus de Área de extremidade superior
+[p12c1] Liberdade 10% 5% 2,5% 1% 0,5%
+[p12c1] 15 1,341 1,753 2.131 2,602 2,947
+[p12c1] 16 1,337 1,746 2,120 2,583 2,921
+[p12c1] 17 1,333 1,740 2,110 2,567 2,898
+[p12c1] 18 1,330 1,734 2,101 2,552 2,878
+[p12c1] 19 1,328 1,729 2,093 2,539 2,861
+[p12c1] 20 1,325 1,725 2,086 2,528 2,845
+[p12c1]  Distribuição qui-quadrado:
+[p12c1] Graus de Área de extremidade superior
+[p12c1] Liberdade 2,5% 2% 1% 0,2% 0,1%
+[p12c1] 6 14,449 15,033 16,812 20,791 22,457
+[p12c1] 7 16,013 16,622 18,472 22,601 24,322
+[p12c1] 8 17,534 18,168 20,090 24,352 26,125
+[p12c1] 9 19,023 19,679 21,666 26,056 27,877
+[p12c1] 10 20,483 21,161 23,209 27,722 29,588
+[p12c1]  Distribuição qui-quadrado:
+[p12c1] Graus de Área de extremidade superior
+[p12c1] Liberdade 99% 98% 97,5% 95% 90%
+[p12c1] 8 1,646 2,032 2,180 2,733 3,490
+[p12c1] 9 2,088 2.532 2,700 3,325 4,168
+[p12c1] 10 2,558 3,059 3,247 3,940 4,865
+[p12c1] 11 3,053 3,609 3,816 4,575 5,578
+[p12c1] 12 3,571 4,178 4,404 5,226 6,304
+[p12c1]  Tipo 1 – Branca – Página 12
+[p13c0] 46
+[p13c0] O desempenho de uma variável econômica em 2023, em termos
+[p13c0] das variações percentuais trimestrais, foi armazenado no vetor
+[p13c0] (2, −1,4,−2)′. Com o intuito de avaliar a variabilidade nesse
+[p13c0] ano, foram consideradas as quatro métricas a seguir.
+[p13c0] 1. norma L1 das componentes do vetor;
+[p13c0] 2. norma L2 das componentes do vetor;
+[p13c0] 3. soma dos valores absolutos (módulos) dos desvios de cada
+[p13c0] componente do vetor em relação à mediana de todos;
+[p13c0] 4. raiz quadrada da soma dos quadrados dos desvios em relação
+[p13c0] à sua média, isto é, o numerador do desvio padrão.
+[p13c0] A respeito da comparação entre os valores assumidos por essas
+[p13c0] medidas, a única afirmativa correta é:
+[p13c0] (A) 1 e 3 coincidem, e são inferiores a todos os demais valores;
+[p13c0] (B) 3 é inferior a todos os demais, ao passo que 2 e 4 coincidem;
+[p13c0] (C) 1 é inferior a todos os demais, ao passo que 2 e 4 coincidem;
+[p13c0] (D) 4 é inferior a todos os demais, ao passo que 1 e 3 coincidem;
+[p13c0] (E) 2 e 4 coincidem, e são inferiores a todos os demais valores.
+[p13c0] 47
+[p13c0] Um analista estuda discrepâncias salariais entre os seguintes
+[p13c0] setores: manufatura, serviços financeiros e tecnologia. A figura a
+[p13c0] seguir apresenta os box-plots dos salários desses setores, em
+[p13c0] reais.
+[p13c0] Distribuição dos salários por setor
+[p13c0] Dentre as afirmativas a seguir, a única correta é:
+[p13c0] (A) o primeiro quartil de todos os setores é superior a 4.000
+[p13c0] reais;
+[p13c0] (B) a amplitude interquartil dos salários do setor de tecnologia
+[p13c0] vale aproximadamente 2.000 reais;
+[p13c0] (C) um salário de 5.500 seria identificado como uma observação
+[p13c0] discrepante, ou seja, um outlier, para todos os três setores;
+[p13c0] (D) a mediana dos salários do setor de serviços financeiros é
+[p13c0] menor do que o primeiro quartil do setor de tecnologia;
+[p13c0] (E) o menor salário observado para o setor de tecnologia é maior
+[p13c0] do que a mediana dos salários do setor de manufatura.
+[p13c0] Analista CVM - Perfil 7 - Ciência de Dados
+[p13c1] 48
+[p13c1] Suponha que sejam usados indicadores para avaliar a
+[p13c1] possibilidade de inadimplência de títulos emitidos no mercado, e
+[p13c1] seja X um desses indicadores. Se X assume um valor inferior a 4, a
+[p13c1] probabilidade de que o emissor do título venha a se tornar
+[p13c1] inadimplente é de apenas 0,2. Por outro lado, se X estiver acima
+[p13c1] de 7, a probabilidade de inadimplência é de 0,6. Finalmente, se o
+[p13c1] indicador estiver situado entre 4 e 7 (incluindo os extremos), o
+[p13c1] título emitido possui probabilidade de inadimplência igual a 0,4.
+[p13c1] Quando se considera o universo de todos os títulos emitidos
+[p13c1] neste mercado, os valores de X seguem distribuição Normal com
+[p13c1] média 6 e variância 4.
+[p13c1] Dado que o emissor de um determinado título se tornou
+[p13c1] inadimplente, a probabilidade de que o valor de X associado a ele
+[p13c1] estivesse situado entre 4 e 7 é:
+[p13c1] (A) 48/215;
+[p13c1] (B) 62/215;
+[p13c1] (C) 96/215;
+[p13c1] (D) 106/215;
+[p13c1] (E) 158/215.
+[p13c1] 49
+[p13c1] Em um concurso, 2.048 candidatos prestam um exame em que
+[p13c1] são submetidos a 6 questões de múltipla escolha, cada uma com
+[p13c1] 4 alternativas, das quais apenas uma é correta. Um candidato
+[p13c1] passa para a segunda fase do concurso caso acerte, pelo menos,
+[p13c1] 4 questões.
+[p13c1] Se todos os candidatos “chutam” as respostas, isto é, sempre
+[p13c1] escolhem ao acaso uma alternativa, o valor esperado do número
+[p13c1] de aprovados para a segunda fase é:
+[p13c1] (A) 77;
+[p13c1] (B) 85;
+[p13c1] (C) 98;
+[p13c1] (D) 116;
+[p13c1] (E) 128.
+[p13c1] 50
+[p13c1] Suponha que o tempo T até um que investidor solicite o resgate
+[p13c1] integral de um fundo, em meses, seja representado por uma
+[p13c1] variável aleatória contínua com função de densidade
+[p13c1] f(t) = 0,05e−0.05t, t > 0.
+[p13c1] De acordo com esse modelo probabilístico, o período até que a
+[p13c1] metade dos investidores desse fundo venha a solicitar o resgate
+[p13c1] integral é de, aproximadamente:
+[p13c1] (A) 7 meses;
+[p13c1] (B) 11 meses;
+[p13c1] (C) 14 meses;
+[p13c1] (D) 18 meses;
+[p13c1] (E) 20 meses.
+[p13c1]  Tipo 1 – Branca – Página 13
+[p14c0] 51
+[p14c0] Uma agência reguladora recebe, em média, uma denúncia a cada
+[p14c0] 15 minutos.
+[p14c0] Se o número de denúncias em um período qualquer segue
+[p14c0] distribuição de Poisson, a probabilidade de que, no intervalo de 1
+[p14c0] hora, cheguem pelo menos 2 denúncias, sabendo-se que pelo
+[p14c0] menos uma denúncia terá chegado, é de:
+[p14c0] (A) 72/910;
+[p14c0] (B) 18/125;
+[p14c0] (C) 288/982;
+[p14c0] (D) 91/100;
+[p14c0] (E) 455/491.
+[p14c0] 52
+[p14c0] A proporção de emissões de títulos imobiliários com suspeita de
+[p14c0] irregularidade em um ano pode ser representada por uma
+[p14c0] variável aleatória contínua X com função de densidade:
+[p14c0] f(x) = (+1)x, 0<x<1
+[p14c0] Deseja-se conduzir uma análise probabilística dessa proporção
+[p14c0] em 2024; porém, para isso, é preciso estimar o parâmetro . Nos
+[p14c0] últimos 5 anos, a proporção anual registrada foi: 0,3; 0,2; 0,6; 0,7
+[p14c0] e 0,2.
+[p14c0] Considerando que esses registros sejam observações de uma
+[p14c0] amostra aleatória simples da população referenciada por f(x), a
+[p14c0] estimativa do parâmetro  a partir dessa amostra, obtida pelo
+[p14c0] método dos momentos, é:
+[p14c0] (A) -2/3;
+[p14c0] (B) -1/3;
+[p14c0] (C) 1/3;
+[p14c0] (D) 2/5;
+[p14c0] (E) 2/3.
+[p14c0] 53
+[p14c0] Suponha que o tempo X, em dias, até que uma debênture
+[p14c0] incentivada aumente seu valor de mercado em 30%, seja uma
+[p14c0] variável aleatória com função de densidade
+[p14c0] f(x) = 2xe−x; x > 0.
+[p14c0] O tempo médio registrado, com base nas observações de uma
+[p14c0] amostra aleatória simples, foi de 400 dias.
+[p14c0] Com base nessa amostra, a estimativa de máxima
+[p14c0] verossimilhança do parâmetro  é:
+[p14c0] (A) 1/40;
+[p14c0] (B) 1/80;
+[p14c0] (C) 1/100;
+[p14c0] (D) 1/200;
+[p14c0] (E) 1/400.
+[p14c0] Analista CVM - Perfil 7 - Ciência de Dados
+[p14c1] 54
+[p14c1] Um indicador de desempenho das instituições que atuam no
+[p14c1] mercado financeiro brasileiro é avaliado com base nas 8
+[p14c1] observações de uma amostra aleatória simples, considerando 8
+[p14c1] dessas instituições. O desvio padrão amostral do indicador foi
+[p14c1] igual a 8.
+[p14c1] Supondo que a distribuição dos valores do indicador no universo
+[p14c1] em estudo seja Normal, o limite inferior do intervalo de confiança
+[p14c1] de 95% para a variância populacional é, aproximadamente
+[p14c1] (considere probabilidades iguais nas caudas):
+[p14c1] (A) 16;
+[p14c1] (B) 20;
+[p14c1] (C) 24;
+[p14c1] (D) 28;
+[p14c1] (E) 32.
+[p14c1] 55
+[p14c1] Um analista busca evidenciar estatisticamente a conjectura de
+[p14c1] que a valorização média das cotas dos fundos imobiliários
+[p14c1] negociados no mercado em 2023 tenha sido superior a 15%.
+[p14c1] Supõe-se que as valorizações das cotas sigam distribuição
+[p14c1] Normal, sendo o desvio padrão desconhecido. Com base nas
+[p14c1] observações de uma amostra aleatória de tamanho 16, ele
+[p14c1] observa que a valorização média foi de 15,85%, com desvio
+[p14c1] padrão amostral igual a 2%.
+[p14c1] Considerando os três níveis de significância usuais (0,01, 0,05 e
+[p14c1] 0,1), a conjectura investigada:
+[p14c1] (A) foi evidenciada apenas aos níveis 0,05 e 0,1, o que resulta da
+[p14c1] comparação do valor da estatística de teste com os valores
+[p14c1] críticos 1,64 e 1,28;
+[p14c1] (B) foi evidenciada apenas ao nível 0,1, o que se conclui a partir
+[p14c1] da comparação do valor da estatística de teste com os valores
+[p14c1] críticos 1,96 e 1,64;
+[p14c1] (C) foi evidenciada apenas ao nível 0,1, o que se conclui a partir
+[p14c1] da comparação do valor da estatística de teste com os valores
+[p14c1] críticos 1,64 e 1,28;
+[p14c1] (D) foi evidenciada apenas ao nível 0,1, o que se conclui a partir
+[p14c1] da comparação do valor da estatística de teste com os valores
+[p14c1] críticos 1,753 e 1,341;
+[p14c1] (E) não foi evidenciada a nenhum dos três níveis, o que se
+[p14c1] conclui comparando o valor da estatística de teste com os
+[p14c1] valores 2,947, 2,131 e 1,753.
+[p14c1] 56
+[p14c1] O número de fraudes anuais detectadas no mercado financeiro,
+[p14c1] nos últimos 16 anos, foi registrado por um auditor. Ele deseja
+[p14c1] testar se o resultado fornece evidência de que a média anual de
+[p14c1] fraudes no mercado é inferior a 4, supondo que esses 16 registros
+[p14c1] constituam observações de uma amostra aleatória simples obtida
+[p14c1] a partir de uma população Normal. A variância dessa população é
+[p14c1] conhecida e igual a 25.
+[p14c1] Nessas condições, o auditor obterá evidência estatística de que a
+[p14c1] média populacional é inferior a 4, ao nível de significância 0,1, se
+[p14c1] a média na amostra for menor ou igual a:
+[p14c1] (A) 1,6;
+[p14c1] (B) 1,8;
+[p14c1] (C) 2,4;
+[p14c1] (D) 3,6;
+[p14c1] (E) 5,6.
+[p14c1]  Tipo 1 – Branca – Página 14
+[p15c0] 57
+[p15c0] Um analista investiga, mediante um modelo de regressão linear
+[p15c0] clássico, a relação entre a rentabilidade y de ofertas públicas
+[p15c0] disponíveis no mercado e um indicador de risco associado ao
+[p15c0] emissor, representado pela variável explicativa x. Considera-se
+[p15c0] que o termo de erro do modelo siga distribuição Normal. Foi
+[p15c0] utilizada uma amostra aleatória simples de 20 pares (x,y) de
+[p15c0] observações mensais. O modelo estimado está apresentado a
+[p15c0] seguir (erros padrão entre parênteses).
+[p15c0] y = 0,528 + 0,627𝑥
+[p15c0] (0,264) (0,300)
+[p15c0] O intervalo de 95% de confiança associado ao impacto de x sobre
+[p15c0] y é (considere apenas 3 casas decimais):
+[p15c0] (A) [-0,009;1,255], e o impacto não é significante ao nível 0,05;
+[p15c0] (B) [-0,033;1,257], e o impacto não é significante ao nível 0,05;
+[p15c0] (C) [0,039;1,215], e o impacto é significante ao nível 0,05;
+[p15c0] (D) [0,135;1,119], e o impacto é significante ao nível 0,05;
+[p15c0] (E) [0,327;0,927], e o impacto é significante ao nível 0,05.
+[p15c0] 58
+[p15c0] Um gestor avalia a expectativa de rentabilidade mensal de um
+[p15c0] fundo de ações utilizando o modelo de regressão linear clássico
+[p15c0] 𝑦 = β + β x + ϵ, em que y é a rentabilidade, x é um indicador
+[p15c0] 0 1
+[p15c0] econômico, β e β são parâmetros a serem estimados por
+[p15c0] 0 1
+[p15c0] mínimos quadrados e ϵ é o termo de erro. O modelo satisfaz aos
+[p15c0] pressupostos para estimação por mínimos quadrados. Com base
+[p15c0] em uma amostra de 3 meses, na qual os valores observados da
+[p15c0] variável explicativa x foram x = 1, x = 2 e x = 2, o modelo
+[p15c0] 1 2 3
+[p15c0] estimado conduziu aos resíduos e = 2, e = 1 e e = 1.
+[p15c0] 1 2 3
+[p15c0] A estimativa, baseada no estimador não viciado, para a
+[p15c0] covariância entre os estimadores de β e β , é:
+[p15c0] 0 1
+[p15c0] (A) - 4;
+[p15c0] (B) - 5;
+[p15c0] (C) -10;
+[p15c0] (D) -15;
+[p15c0] (E) -20.
+[p15c0] 59
+[p15c0] Um analista financeiro tenta prever a rentabilidade anual futura
+[p15c0] de um ativo, em termos reais. Ele considera que a rentabilidade
+[p15c0] real (em %) siga, ao longo dos anos, um modelo
+[p15c0] AR(1): y =  +  y +  , em que t é o ano, E( ) = 0 e
+[p15c0] t 0 1 t-1 t t
+[p15c0] corr( ,  ) = 0, para s = 1, 2, ... . Sabe-se que a rentabilidade real
+[p15c0] t t-s
+[p15c0] prevista pelo modelo para o longuíssimo prazo foi de 4% ao ano.
+[p15c0] Se a estimativa obtida para o parâmetro  foi 0,8, a estimativa
+[p15c0] 1
+[p15c0] do parâmetro  foi:
+[p15c0] 0
+[p15c0] (A) 0,2;
+[p15c0] (B) 0,4;
+[p15c0] (C) 0,5;
+[p15c0] (D) 0,6;
+[p15c0] (E) 0,8.
+[p15c0] Analista CVM - Perfil 7 - Ciência de Dados
+[p15c1] 60
+[p15c1] Considere duas séries temporais x e y, ambas integradas de
+[p15c1] ordem 1, ou I(1), representando a evolução de agregados
+[p15c1] macroeconômicos no tempo. Ao aplicarmos o teste de raiz
+[p15c1] unitária ADF aos resíduos da regressão linear de y em x (com
+[p15c1] valores críticos propostos por Engle-Granger para aplicá-lo a
+[p15c1] resíduos de uma regressão), verifica-se que a hipótese nula não é
+[p15c1] rejeitada, aos níveis usuais.
+[p15c1] É correto concluir que essas séries:
+[p15c1] (Obs: os valores críticos propostos por Engle-Granger para esse
+[p15c1] tipo de teste não são necessários para a resolução da questão)
+[p15c1] (A) são cointegradas, pois tanto as séries quanto os resíduos são
+[p15c1] estacionários, o que torna a regressão entre elas válida;
+[p15c1] (B) não são cointegradas, pois, apesar de serem estacionárias, os
+[p15c1] resíduos da regressão entre elas não são estacionários;
+[p15c1] (C) são cointegradas, pois, embora não sejam estacionárias, os
+[p15c1] resíduos da regressão entre elas são estacionários;
+[p15c1] (D) não são cointegradas, pois não são estacionárias e os
+[p15c1] resíduos da regressão entre elas não possuem raiz unitária;
+[p15c1] (E) não são cointegradas, pois, embora não sejam estacionárias,
+[p15c1] os resíduos da regressão entre elas possuem raiz unitária.
+[p15c1] Gestão de Projetos
+[p15c1] 61
+[p15c1] Em termos de recursos humanos, os projetos possuem gerentes,
+[p15c1] equipes de gerenciamento e as equipes de projeto, com as
+[p15c1] pessoas efetivamente alocadas às atividades ao longo do ciclo de
+[p15c1] vida do projeto.
+[p15c1] Independentemente de como as atividades de gerenciamento são
+[p15c1] estruturadas, existem aspectos comuns de desenvolvimento que
+[p15c1] são relevantes para a maioria das equipes de projeto.
+[p15c1] Tais aspectos incluem:
+[p15c1] (A) atribuição de tarefas; monitoramento e controle; avaliação
+[p15c1] de desempenho; lições aprendidas;
+[p15c1] (B) liderança; trabalho em equipe; negociação; solução de
+[p15c1] conflitos;
+[p15c1] (C) visão e objetivos; papéis e responsabilidades; operações da
+[p15c1] equipe do projeto; orientação; e crescimento;
+[p15c1] (D) visão e objetivos; valor do projeto; benefícios esperados;
+[p15c1] crescimento pessoal;
+[p15c1] (E) papéis e responsabilidades; atribuições de atividades do
+[p15c1] projeto; execução das atividades; gestão do conhecimento.
+[p15c1]  Tipo 1 – Branca – Página 15
+[p16c0] 62
+[p16c0] O planejamento de um projeto sempre envolve a determinação
+[p16c0] de estimativas, que se dividem em estimativas de esforço,
+[p16c0] duração, custos, pessoas e recursos físicos do trabalho. Dentre os
+[p16c0] aspectos ligados às estimativas, incluem-se as dimensões de
+[p16c0] intervalo, exatidão, precisão e confiança.
+[p16c0] Dentre as caracterizações de cada uma dessas dimensões, a
+[p16c0] correta é:
+[p16c0] (A) intervalo: as estimativas tendem a ter uma reduzida gama no
+[p16c0] início do projeto, quando não há muitas informações sobre o
+[p16c0] projeto, o escopo do produto, partes interessadas, requisitos,
+[p16c0] riscos e outras informações;
+[p16c0] (B) exatidão: refere-se à assertividade de uma estimativa e está
+[p16c0] ligada ao intervalo, pois quanto maior a exatidão, menor o
+[p16c0] intervalo de valores em potencial;
+[p16c0] (C) exatidão: uma estimativa no início do projeto terá mais
+[p16c0] exatidão do que se for elaborada quando da realização de
+[p16c0] 25% do trabalho do projeto;
+[p16c0] (D) precisão: refere-se ao grau de erro associado à estimativa; a
+[p16c0] precisão das estimativas deve ser compatível com a exatidão
+[p16c0] obtida;
+[p16c0] (E) confiança: aumenta com a experiência, e a experiência de
+[p16c0] trabalho em um projeto anterior semelhante pode ajudar
+[p16c0] com o nível de confiança necessário.
+[p16c0] 63
+[p16c0] Na fase de planejamento de projetos, são elaborados os
+[p16c0] cronogramas. Um cronograma é um modelo para a execução das
+[p16c0] atividades do projeto, incluindo durações, dependências e outras
+[p16c0] informações de planejamento. O cronograma do projeto parte da
+[p16c0] decomposição de seu escopo em atividades específicas. Essas
+[p16c0] atividades podem estar ordenadas em série, em paralelo e em
+[p16c0] combinações série/paralelo.
+[p16c0] Para tal são usadas as seguintes classes de dependências entre as
+[p16c0] atividades:
+[p16c0] (A) dependências críticas e não críticas;
+[p16c0] (B) dependências obrigatórias, arbitradas, externas, e internas;
+[p16c0] (C) dependências lógicas e físicas;
+[p16c0] (D) dependências obrigatórias, contratuais, lógicas e internas;
+[p16c0] (E) dependências do caminho crítico, externas e internas.
+[p16c0] 64
+[p16c0] Você foi designado como gerente de um novo projeto, que logo
+[p16c0] terá o respectivo termo de abertura aprovado pela cúpula
+[p16c0] estratégica da sua organização.
+[p16c0] As habilidades do gerente de projetos que são essenciais para
+[p16c0] você iniciar o trabalho são:
+[p16c0] (A) empreendedorismo; alocação de recursos; análise das partes
+[p16c0] interessadas;
+[p16c0] (B) construção de equipes; liderança; planejamento;
+[p16c0] (C) iniciação; planejamento; análise de partes interessadas;
+[p16c0] (D) resolução de conflitos; competências técnicas; competências
+[p16c0] comportamentais;
+[p16c0] (E) detalhamento do escopo; identificação das partes
+[p16c0] interessadas; organização.
+[p16c0] Analista CVM - Perfil 7 - Ciência de Dados
+[p16c1] 65
+[p16c1] Você foi convocado para uma reunião com a cúpula estratégica
+[p16c1] da sua empresa. Na reunião, foi informado de que um projeto em
+[p16c1] execução em uma filial localizada em outro estado está
+[p16c1] enfrentando problemas. Atrasos, gastos em excesso e conflitos
+[p16c1] técnicos entre membros da equipe têm sido relatados à diretoria.
+[p16c1] Você foi, então, designado para acompanhar o projeto, coletar e
+[p16c1] informar os indicadores de desempenho e identificar as causas
+[p16c1] prováveis dos problemas.
+[p16c1] Sabendo que a sua empresa utiliza a metodologia de análise de
+[p16c1] valor agregado (EVA - Earned Value Analysis), você deve iniciar o
+[p16c1] trabalho com:
+[p16c1] (A) coleta dos indicadores de progresso de entregas, de
+[p16c1] progresso de cronograma e de progresso de custos;
+[p16c1] (B) coleta dos indicadores de desempenho de prazo e de custo;
+[p16c1] (C) cálculo da variação de prazo e de custo do projeto;
+[p16c1] (D) medição do valor planejado, valor agregado e custo real
+[p16c1] atuais;
+[p16c1] (E) medição dos valores orçados, dos gastos efetivos e do saldo
+[p16c1] do projeto.
+[p16c1] 66
+[p16c1] Você é gerente de um projeto cujo prazo total é de oito meses e
+[p16c1] que está em fase de execução. No último dia do quarto mês do
+[p16c1] projeto, você solicitou o cálculo do índice de desempenho de
+[p16c1] prazo do projeto, e o resultado, nessa data, foi de 50%.
+[p16c1] Tal índice significa que:
+[p16c1] (A) o projeto está caminhando conforme o previsto, pois está na
+[p16c1] metade da duração estabelecida;
+[p16c1] (B) o projeto está pronto para ser encerrado, pois as atividades
+[p16c1] foram realizadas na metade do tempo previsto;
+[p16c1] (C) o projeto teve desembolsos equivalentes a 50% do que havia
+[p16c1] sido previsto no plano inicial;
+[p16c1] (D) o projeto deve levar o dobro do tempo para ser concluído,
+[p16c1] caso o desempenho passado permaneça o mesmo a partir de
+[p16c1] hoje;
+[p16c1] (E) conclusões não podem ser tiradas sem informações das
+[p16c1] entregas realizadas no período.
+[p16c1] 67
+[p16c1] Hoje em dia, todas as organizações realizam projetos, a partir de
+[p16c1] um direcionamento estratégico e visando, entre outros aspectos,
+[p16c1] a estarem aptas para atender às exigências crescentes de seus
+[p16c1] respectivos mercados, em um ambiente de intensa competição e
+[p16c1] inovação tecnológica. Ainda assim, os diferentes tipos de
+[p16c1] organizações terão abordagens diferentes na condução de
+[p16c1] projetos, em função de sua atividade fim.
+[p16c1] Nesse sentido, é correto afirmar que organizações:
+[p16c1] (A) baseadas em projetos são aquelas empresas intensivas no
+[p16c1] desenvolvimento de novas tecnologias;
+[p16c1] (B) suportadas por projetos são aquelas nas quais a principal
+[p16c1] fonte de receita é oriunda das suas operações de produção de
+[p16c1] bens e/ou serviços;
+[p16c1] (C) caracterizadas por projetos em redes são unidades de negócio
+[p16c1] de um mesmo grupo empresarial, que executam projetos em
+[p16c1] parceria;
+[p16c1] (D) baseadas em processos são aquelas que adotam processos de
+[p16c1] gerenciamento de projetos alinhados com as áreas de
+[p16c1] conhecimento e os grupos de processos mencionados no
+[p16c1] Guia PMBOK (6ª. edição);
+[p16c1] (E) baseadas em portfólios são aquelas que possuem uma gestão
+[p16c1] integrada de projetos, programas e operações, com um
+[p16c1] portfólio ativo.
+[p16c1]  Tipo 1 – Branca – Página 16
+[p17c0] 68
+[p17c0] O uso de softwares de gerenciamento de projetos tem se
+[p17c0] disseminado desde a década de 1980, inicialmente em
+[p17c0] computadores pessoais isolados (PCs) e depois com solução em
+[p17c0] rede e armazenamento na nuvem. O Microsoft Project
+[p17c0] (MS Project) é um software surgido em 1985 que se tornou uma
+[p17c0] espécie de padrão para a área de projetos.
+[p17c0] A respeito do planejamento de recursos humanos no MS Project,
+[p17c0] é correto afirmar que:
+[p17c0] (A) o “nivelamento de recursos” permite que todos os recursos
+[p17c0] tenham a mesma carga de trabalho ao longo do projeto;
+[p17c0] (B) o “nivelamento de recursos”, aliado ao cálculo das folgas das
+[p17c0] atividades do projeto, distribui as alocações individuais de
+[p17c0] trabalho, minimizando picos e períodos de ociosidade;
+[p17c0] (C) a “planilha de recursos” permite a visualização de todas as
+[p17c0] atividades alocadas a um recurso específico;
+[p17c0] (D) o “planejador de equipe” permite a visualização do custo
+[p17c0] previsto para todos os recursos do projeto;
+[p17c0] (E) a “planilha de recursos” permite a visualização do
+[p17c0] desempenho de cada recurso ao longo da execução do
+[p17c0] projeto.
+[p17c0] 69
+[p17c0] Para aumentar a probabilidade de sucesso dos projetos e
+[p17c0] assegurar que seus objetivos sejam cumpridos, processos de
+[p17c0] gerenciamento são utilizados. São cinco os grupos de processos
+[p17c0] de gerenciamento de projetos.
+[p17c0] Você foi designado para gerenciar um projeto que estava em
+[p17c0] execução no ano passado, mas foi interrompido por falta de
+[p17c0] recursos e mudança de prioridades na sua empresa. Agora a
+[p17c0] empresa quer retomar o projeto.
+[p17c0] Para obter sucesso, você deverá começar o trabalho a partir do
+[p17c0] grupo de processos de:
+[p17c0] (A) execução, pois você precisa validar o escopo do trabalho já
+[p17c0] concluído até a data da interrupção;
+[p17c0] (B) encerramento, para encerrar as atividades realizadas antes da
+[p17c0] interrupção do projeto;
+[p17c0] (C) planejamento, pois a retomada vai requerer a atualização no
+[p17c0] plano de gerenciamento do projeto;
+[p17c0] (D) iniciação, pois você deve reiniciar o projeto a partir do ponto
+[p17c0] em que ele foi interrompido;
+[p17c0] (E) monitoramento e controle, pois, para retomar o projeto, você
+[p17c0] deve criar nova EAP (Estrutura Analítica de Projeto).
+[p17c0] Analista CVM - Perfil 7 - Ciência de Dados
+[p17c1] 70
+[p17c1] Trabalhando em uma empresa de produtos de beleza e cuidados
+[p17c1] pessoais, você foi designado gerente de um projeto de
+[p17c1] lançamento de uma nova linha de perfumes no mercado. A data
+[p17c1] do evento de lançamento já foi definida pela cúpula estratégica. O
+[p17c1] escopo inclui a campanha de lançamento, definição dos pontos
+[p17c1] de venda, com instalação de quiosques nos principais shoppings,
+[p17c1] bem como a definição dos estoques iniciais e sua distribuição.
+[p17c1] Durante a realização dos processos de gerenciamento do
+[p17c1] cronograma do projeto, você solicitou que a equipe de
+[p17c1] gerenciamento fizesse a verificação das atividades, seu
+[p17c1] sequenciamento e respectivas estimativas de duração. Em uma
+[p17c1] reunião de planejamento, ao perguntar sobre o caminho crítico
+[p17c1] do projeto, você recebeu diferentes informações a respeito, uma
+[p17c1] de cada membro.
+[p17c1] A informação correta é:
+[p17c1] (A) “Não há como calcular o caminho crítico do projeto, pois
+[p17c1] dependemos da fábrica para definição do lote inicial dos
+[p17c1] produtos”;
+[p17c1] (B) “Sem os quiosques prontos nos shoppings não há como
+[p17c1] concluir o projeto, portanto o caminho crítico passa pelas
+[p17c1] atividades de montagem dos quiosques”;
+[p17c1] (C) “De acordo com as estimativas de duração de cada atividade
+[p17c1] do projeto, bem como de seu respectivo sequenciamento, o
+[p17c1] caminho crítico do projeto foi calculado e será detalhado na
+[p17c1] apresentação”;
+[p17c1] (D) “O projeto tem muitas atividades que dependem de terceiros,
+[p17c1] como aquisição de matérias-primas novas, montagem de
+[p17c1] estruturas em shopping e contratação de agência de
+[p17c1] publicidade, portanto todas as atividades são críticas”;
+[p17c1] (E) “A diretoria da empresa não poderia ter definido a data de
+[p17c1] lançamento sem consultar a equipe; portanto,
+[p17c1] independentemente do caminho crítico, esse projeto deverá
+[p17c1] atrasar”.
+[p17c1]  Tipo 1 – Branca – Página 17
+[p18c0] Analista CVM - Perfil 7 - Ciência de Dados
+[p18c1]  Tipo 1 – Branca
+[p19c0] Analista CVM - Perfil 7 - Ciência de Dados
+[p19c1]  Tipo 1 – Branca
+[p20c0] Realiz
+[p20c1] zação
