@@ -1,5 +1,12 @@
-/* Testa a edge function de Basic Auth real, com um shim do Deno.env. */
-const AUTH = new URL("./auth.ts", import.meta.url).href;
+/* Testa a edge function de Basic Auth real, com um shim do Deno.env.
+ *
+ *     node scripts/test_auth.mjs
+ *
+ * Mora aqui, e não junto da função: a Netlify trata TODO arquivo dentro de
+ * netlify/edge-functions/ como uma edge function e tenta empacotá-lo com o
+ * Deno — um arquivo de teste ali quebra o build do site.
+ */
+const AUTH = new URL("../../netlify/edge-functions/auth.ts", import.meta.url).href;
 
 globalThis.Deno = { env: { get: (k) => process.env[k] } };
 

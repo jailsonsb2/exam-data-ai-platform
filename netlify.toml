@@ -9,11 +9,10 @@
   publish = "concurso-datalake/site"
   command = ""
 
-# Basic Auth antes de servir qualquer arquivo — inclusive dados/questoes.json.
-# Usuário e senha ficam em SITE_USER e SITE_PASS (painel da Netlify), nunca aqui.
-[[edge_functions]]
-  path = "/*"
-  function = "auth"
+# A proteção por usuário e senha é a edge function netlify/edge-functions/auth.ts,
+# que se declara sozinha (export const config) e cobre "/*" — inclusive
+# dados/questoes.json e os recortes de PDF. As credenciais ficam nas variáveis
+# de ambiente SITE_USER e SITE_PASS do painel da Netlify, nunca neste arquivo.
 
 # O conteúdo é de provas das bancas: fora dos buscadores.
 [[headers]]
