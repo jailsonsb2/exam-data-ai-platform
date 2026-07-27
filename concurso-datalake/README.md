@@ -32,6 +32,12 @@ navegador.
 
 ## 🚀 Como rodar
 
+Há duas formas de usar: o app completo no PC (FastAPI + SQLite) e o **site
+estático**, publicado na Netlify para estudar pelo celular, inclusive
+offline.
+
+### No PC (FastAPI)
+
 ```powershell
 # 1. dependências (uma vez)
 pip install pdfplumber fastapi "uvicorn[standard]" anthropic
@@ -47,6 +53,41 @@ enquanto estuda — é ele que mantém o app no ar.
 > 💡 Para habilitar as correções por IA (justificativas em lote e correção
 > de redação), configure a chave antes de subir o servidor:
 > `set ANTHROPIC_API_KEY=sua-chave`
+
+### No celular (site estático na Netlify)
+
+```powershell
+cd concurso-datalake
+python scripts/build_site.py    # gera a pasta site/
+node scripts/test_site.js       # 30 testes da lógica e dos dados
+```
+
+Depois é só commitar e publicar: a Netlify serve `concurso-datalake/site`
+sem etapa de build (a configuração está em [`netlify.toml`](../netlify.toml)).
+
+---
+
+## 📱 O site estático
+
+Netlify não roda Python nem guarda arquivo entre requisições, então a versão
+do celular não tem backend: `build_site.py` exporta o banco para
+`site/dados/questoes.json` (~770 KB) e **toda a lógica roda no navegador** —
+a mesma repetição espaçada, os mesmos filtros e as mesmas estatísticas.
+
+| | |
+|---|---|
+| 📴 **Offline** | Um service worker guarda o app e as questões no aparelho: funciona em túnel, metrô e ônibus sem sinal. Os recortes de PDF entram no cache conforme você esbarra neles |
+| 💾 **Progresso local** | Respostas, revisões e redações ficam no `localStorage` **deste aparelho** — não sincroniza com o PC |
+| 📤 **Backup** | Aba **Ajustes** exporta e importa o progresso em JSON (a importação mescla, então dá para juntar aparelhos) |
+| 🌙 **Modo escuro** | Automático, seguindo o tema do celular |
+| ✍️ **Redação por IA** | Opcional: você cola sua chave do Gemini em Ajustes e ela fica **só no celular**, chamando o Google direto do navegador |
+| 📵 **Fora dos buscadores** | `robots.txt` + `X-Robots-Tag: noindex` — é conteúdo de prova das bancas |
+
+O histórico que você já fez no PC viaja junto no primeiro acesso: o export
+leva as tentativas do SQLite e o site as semeia uma única vez.
+
+> ⚠️ A URL da Netlify é pública (proteção por senha só existe no plano pago).
+> Não divulgue o link.
 
 ---
 
@@ -135,10 +176,15 @@ PROVAS CONCURSO/               ← bronze: PDFs originais (provas + gabaritos + 
     │   ├── extract_prova.py       ← PDF → silver → gold (config por prova no dict PROVAS)
     │   ├── curate_assuntos.py     ← tags de assunto por palavra-chave (manual prevalece)
     │   ├── gen_justificativas.py  ← justificativas em lote via Claude API
-    │   └── build_db.py            ← gold + curated → SQLite (preserva o histórico)
-    └── app/
-        ├── main.py            ← API FastAPI
-        └── static/            ← frontend vanilla JS/HTML/CSS
+    │   ├── gen_justificativas_gemini.py  ← idem, na cota gratuita do Gemini
+    │   ├── build_db.py            ← gold + curated → SQLite (preserva o histórico)
+    │   ├── build_site.py          ← SQLite + web/ → site/ (build estático)
+    │   └── test_site.js           ← testes do site estático (node)
+    ├── app/
+    │   ├── main.py            ← API FastAPI (versão do PC)
+    │   └── static/            ← frontend vanilla JS/HTML/CSS
+    ├── web/                   ← fontes do site estático (celular)
+    └── site/                  ← gerado: é o que a Netlify publica
 ```
 
 O extrator tem dois estilos de parse:
@@ -168,7 +214,13 @@ O extrator tem dois estilos de parse:
 | FCC 2023 · TRT-18 · Analista Judiciário Área Judiciária | 60 | (Direito) |
 | FCC 2025 · Prefeitura de SP · Analista TIC | 90 | q21–90 |
 
-**Total: 670 questões (661 respondíveis).**
+**Total: 670 questões (661 respondíveis; 660 no site do celular).**
+
+A ALEGO q61 ("selecione a visualização do tipo Boxplot") fica de fora do site
+estático: as cinco alternativas são gráficos que a extração não capturou, e
+sem elas a questão só pode ser respondida no chute. As outras 22 questões cujo
+texto das alternativas se perdeu têm o recorte da prova, então o app mostra as
+cinco letras para você escolher lendo a imagem.
 
 ### Provas pendentes (não extraídas)
 
@@ -186,13 +238,28 @@ O extrator tem dois estilos de parse:
 
 O bloco de Ciência de Dados/ML e Matemática da Dataprev (q41–70) tem
 justificativas **escritas e revisadas manualmente**. Para gerar as demais em
-lote:
+lote, via Claude:
 
 ```powershell
 set ANTHROPIC_API_KEY=sua-chave
 python scripts/gen_justificativas.py all     # incremental: pode interromper e retomar
 python scripts/build_db.py
 ```
+
+Ou pela **cota gratuita do Gemini** (`gemini-3.1-flash-lite`: 15 req/min e
+500 req/dia, então o lote completo leva dois dias):
+
+```powershell
+set GEMINI_API_KEY=sua-chave
+python scripts/gen_justificativas_gemini.py all --max 460   # hoje
+python scripts/gen_justificativas_gemini.py all             # amanhã
+python scripts/build_db.py
+python scripts/build_site.py
+```
+
+Os dois scripts pulam o que já existe e gravam a cada questão — dá para
+interromper com Ctrl+C e retomar. Ao bater a cota diária, o script avisa e
+para sozinho.
 
 Questões com código/fórmula são enviadas **com o recorte PNG da prova**,
 para o modelo ler o que a extração de texto não captura.
@@ -211,6 +278,8 @@ para o modelo ler o que a extração de texto não captura.
    prevalece).
 5. Opcional: `python scripts/gen_justificativas.py <chave>`.
 6. `python scripts/build_db.py` — preserva todo o histórico de tentativas.
+7. `python scripts/build_site.py` + `node scripts/test_site.js` — atualiza o
+   site do celular; commite `site/` para a Netlify publicar.
 
 ---
 
@@ -221,6 +290,7 @@ para o modelo ler o que a extração de texto não captura.
 - [x] Justificativas (manuais + geração em lote via Claude API)
 - [x] Sessão do dia com repetição espaçada (1/3/7/15 dias)
 - [x] Treino de redação discursiva FCC com correção por IA
+- [x] Site estático offline (PWA) para estudar pelo celular, publicado na Netlify
 - [ ] OCR (Tesseract) para as provas escaneadas pendentes
 - [ ] Geração de questões inéditas ancoradas nas reais (mentor "engenharia reversa")
 - [ ] Case Databricks: replicar o pipeline medallion (bronze/silver/gold) no Free Edition

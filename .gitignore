@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+# chaves de API nunca entram no repositório — elas vivem em variável de
+# ambiente (scripts) ou no localStorage do celular (correção de redação)
+.env
+*.key
+segredos*.json

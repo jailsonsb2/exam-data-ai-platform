@@ -1,0 +1,3 @@
+# Material de provas das bancas, para estudo pessoal. Fora dos buscadores.
+User-agent: *
+Disallow: /

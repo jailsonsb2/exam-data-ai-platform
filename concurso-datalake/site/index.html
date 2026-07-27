@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#123a5c">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Treino Concursos</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="icone.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🎯 Treino Concursos</h1>
+    <nav>
+      <button id="nav-treino" class="active">Treinar</button>
+      <button id="nav-redacao">Redação</button>
+      <button id="nav-stats">Desempenho</button>
+      <button id="nav-ajustes">Ajustes</button>
+    </nav>
+  </header>
+
+  <main>
+    <!-- ===== carregando ===== -->
+    <section id="tela-carregando">
+      <p>Carregando o banco de questões…</p>
+      <p class="dica">Na primeira vez leva alguns segundos. Depois fica salvo
+        no celular e abre offline.</p>
+    </section>
+
+    <!-- ===== tela de filtros ===== -->
+    <section id="tela-filtros" class="oculto">
+      <div class="sessao-dia">
+        <div>
+          <strong>🗓️ Sessão do dia</strong>
+          <p id="sd-info">Mistura automática: revisão espaçada das que você
+            errou (1, 3, 7 e 15 dias) + questões novas.</p>
+        </div>
+        <button id="btn-sessao-dia" class="primario">Começar</button>
+      </div>
+      <h2>Ou monte uma sessão manual</h2>
+      <div class="filtros">
+        <label>Prova
+          <select id="f-prova"><option value="">Todas</option></select>
+        </label>
+        <label>Disciplina
+          <select id="f-disciplina"><option value="">Todas</option></select>
+        </label>
+        <label>Assunto
+          <select id="f-assunto"><option value="">Todos</option></select>
+        </label>
+        <label>Modo
+          <select id="f-modo">
+            <option value="todas">Todas as questões</option>
+            <option value="nao_respondidas">Só não respondidas</option>
+            <option value="erradas">Só as que errei (última tentativa)</option>
+          </select>
+        </label>
+        <label>Quantidade
+          <select id="f-limit">
+            <option>10</option><option selected>20</option>
+            <option>50</option><option>100</option>
+          </select>
+        </label>
+      </div>
+      <button id="btn-iniciar" class="primario">Iniciar sessão</button>
+      <p id="filtros-vazio" class="aviso oculto">Nenhuma questão encontrada com esses filtros.</p>
+    </section>
+
+    <!-- ===== tela de questão ===== -->
+    <section id="tela-questao" class="oculto">
+      <div id="q-progresso"></div>
+      <div id="q-meta"></div>
+      <p id="q-revisar" class="aviso oculto"></p>
+      <details id="q-apoio" class="oculto">
+        <summary>Texto de apoio</summary>
+        <p id="q-apoio-texto"></p>
+      </details>
+      <div id="q-enunciado"></div>
+      <div id="q-imagens"></div>
+      <div id="q-alternativas"></div>
+      <div id="q-feedback" class="oculto"></div>
+      <div id="q-justificativa" class="oculto"></div>
+      <div class="acoes">
+        <button id="btn-proxima" class="primario oculto">Próxima →</button>
+        <button id="btn-encerrar">Encerrar sessão</button>
+      </div>
+    </section>
+
+    <!-- ===== fim de sessão ===== -->
+    <section id="tela-fim" class="oculto">
+      <h2>Sessão concluída</h2>
+      <p id="fim-resumo"></p>
+      <p id="fim-agenda" class="dica"></p>
+      <button id="btn-nova" class="primario">Nova sessão</button>
+    </section>
+
+    <!-- ===== redação ===== -->
+    <section id="tela-redacao" class="oculto">
+      <div id="red-editor">
+        <h2>Treino de redação — discursiva FCC</h2>
+        <div class="filtros">
+          <label>Tema
+            <select id="red-tema"></select>
+          </label>
+        </div>
+        <p id="red-comando" class="comando"></p>
+        <div class="red-barra">
+          <button id="red-timer-btn">▶ Cronômetro (60 min)</button>
+          <span id="red-timer">60:00</span>
+          <span id="red-contagem">0 palavras · ~0 linhas</span>
+        </div>
+        <textarea id="red-texto" rows="18"
+          placeholder="Escreva aqui sua dissertação argumentativa (padrão FCC: 20 a 30 linhas)."></textarea>
+        <div class="acoes">
+          <button id="red-salvar" class="primario">Salvar redação</button>
+        </div>
+        <h3>Minhas redações</h3>
+        <div class="rolagem">
+          <table id="red-tabela">
+            <thead>
+              <tr><th>Data</th><th>Tema</th><th>Palavras</th><th>Nota</th></tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <p id="red-vazio" class="dica">Nenhuma redação salva ainda.</p>
+      </div>
+      <div id="red-view" class="oculto">
+        <button id="red-voltar">← Voltar</button>
+        <h3 id="red-view-tema"></h3>
+        <pre id="red-view-texto"></pre>
+        <div class="acoes">
+          <button id="red-corrigir" class="primario">Corrigir com IA</button>
+          <button id="red-apagar">Apagar</button>
+        </div>
+        <div id="red-view-correcao" class="oculto"></div>
+      </div>
+    </section>
+
+    <!-- ===== desempenho ===== -->
+    <section id="tela-stats" class="oculto">
+      <h2>Desempenho</h2>
+      <p id="stats-geral"></p>
+      <p id="stats-revisao" class="dica"></p>
+      <div class="rolagem">
+        <table id="stats-tabela">
+          <thead>
+            <tr><th>Assunto</th><th>Tent.</th><th>Acertos</th><th>%</th></tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- ===== ajustes ===== -->
+    <section id="tela-ajustes" class="oculto">
+      <h2>Ajustes</h2>
+
+      <h3>Backup do progresso</h3>
+      <p class="dica">Seu histórico de respostas e as redações ficam salvos
+        <strong>só neste aparelho</strong>. Se você limpar os dados do
+        navegador, tudo se perde — exporte de vez em quando.</p>
+      <p id="backup-resumo" class="dica"></p>
+      <div class="acoes">
+        <button id="btn-exportar" class="primario">Exportar backup</button>
+        <button id="btn-importar">Importar backup</button>
+        <input id="arquivo-importar" type="file" accept="application/json" class="oculto">
+      </div>
+
+      <h3>Correção de redação por IA</h3>
+      <p class="dica">Opcional. Cole uma chave da API do Google Gemini
+        (<a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">aistudio.google.com/apikey</a>).
+        Ela fica guardada <strong>apenas neste celular</strong> e é usada
+        direto do navegador para o Google — não passa por nenhum servidor deste
+        site.</p>
+      <label class="campo">Chave da API
+        <input id="cfg-chave" type="password" placeholder="AIza..." autocomplete="off">
+      </label>
+      <div class="acoes">
+        <button id="btn-salvar-chave" class="primario">Salvar chave</button>
+        <button id="btn-limpar-chave">Remover</button>
+      </div>
+      <p id="cfg-status" class="dica"></p>
+
+      <h3>Zerar histórico</h3>
+      <p class="dica">Apaga todas as respostas e reinicia a repetição espaçada.
+        As redações não são afetadas.</p>
+      <div class="acoes">
+        <button id="btn-zerar">Zerar respostas</button>
+      </div>
+
+      <h3>Sobre</h3>
+      <p id="sobre-info" class="dica"></p>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
