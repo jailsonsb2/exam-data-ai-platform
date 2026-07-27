@@ -9,6 +9,12 @@
   publish = "concurso-datalake/site"
   command = ""
 
+# Basic Auth antes de servir qualquer arquivo — inclusive dados/questoes.json.
+# Usuário e senha ficam em SITE_USER e SITE_PASS (painel da Netlify), nunca aqui.
+[[edge_functions]]
+  path = "/*"
+  function = "auth"
+
 # O conteúdo é de provas das bancas: fora dos buscadores.
 [[headers]]
   for = "/*"

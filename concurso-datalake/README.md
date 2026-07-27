@@ -236,9 +236,13 @@ cinco letras para você escolher lendo a imagem.
 
 ## 💡 Justificativas por IA
 
+**Cobertura atual: 661/661 questões respondíveis (100%)** — as nove provas
+têm justificativa em todas as questões.
+
 O bloco de Ciência de Dados/ML e Matemática da Dataprev (q41–70) tem
-justificativas **escritas e revisadas manualmente**. Para gerar as demais em
-lote, via Claude:
+justificativas **escritas e revisadas manualmente**; o restante foi gerado em
+lote com `gemini-3.1-flash-lite`. Para regerar ou completar uma prova nova,
+via Claude:
 
 ```powershell
 set ANTHROPIC_API_KEY=sua-chave
