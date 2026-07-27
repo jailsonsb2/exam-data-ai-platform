@@ -8,7 +8,7 @@
    A versão abaixo é trocada pelo build_site.py a cada geração — é ela que faz
    o celular buscar os dados novos depois de um deploy. */
 
-const VERSAO = "20260726233607";
+const VERSAO = "20260727000946";
 const CACHE_CASCA = `treino-casca-${VERSAO}`;
 const CACHE_IMG = `treino-img-${VERSAO}`;
 
