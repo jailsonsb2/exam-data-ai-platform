@@ -6,3 +6,7 @@ __pycache__/
 .env
 *.key
 segredos*.json
+
+# capturas geradas pelo test_mobile.mjs
+mobile-*.png
+tela-*.png

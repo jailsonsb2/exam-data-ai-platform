@@ -98,9 +98,11 @@ function mostrar(tela) {
 
 // ---------- filtros ----------
 function montarFiltros() {
+  /* Só banca, ano e órgão: o cargo levava o rótulo a 97 caracteres, que num
+     seletor nativo de celular fica cortado sem acrescentar nada — o órgão já
+     identifica cada uma das nove provas sem ambiguidade. */
   for (const p of DADOS.provas) {
-    $("f-prova").add(
-      new Option(`${p.banca} ${p.ano} - ${p.orgao} (${p.cargo})`, p.id));
+    $("f-prova").add(new Option(`${p.banca} ${p.ano} · ${p.orgao}`, p.id));
   }
   const porDisciplina = new Map();
   for (const q of DADOS.questoes) {
