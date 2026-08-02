@@ -144,7 +144,9 @@ function renderQuestao() {
 
   const cont = $("q-alternativas");
   cont.innerHTML = "";
-  for (const letra of ["A", "B", "C", "D", "E"]) {
+  // provas certo/errado (Cebraspe) só têm as letras C e E
+  const letras = q.formato === "ce" ? ["C", "E"] : ["A", "B", "C", "D", "E"];
+  for (const letra of letras) {
     const btn = document.createElement("button");
     btn.className = "alternativa";
     btn.dataset.letra = letra;

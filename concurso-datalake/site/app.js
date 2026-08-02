@@ -10,11 +10,34 @@ const $ = (id) => document.getElementById(id);
 // intervalos da repetição espaçada (dias até rever, por acertos consecutivos)
 const INTERVALOS_REVISAO = [1, 3, 7, 15];
 
-const CHAVES = {
+/* Perfis: o site tem uma senha só (Basic Auth na Netlify), então quem entra
+   escolhe/cria um perfil e o progresso de cada um fica separado neste
+   aparelho. Não há sincronização entre aparelhos — o histórico do celular e o
+   do PC são independentes, como sempre foram. */
+const CHAVES_APP = {
+  perfis: "tc.perfis",         // [{id, nome, criado_em}]
+  atual: "tc.perfilAtual",     // id do perfil em uso
+  seq: "tc.perfilSeq",         // contador de ids: apagar não libera o id
+  semeadoPC: "tc.semeadoPC",   // o histórico do SQLite só entra em um perfil
+};
+
+// chaves da versão sem perfis: migradas para o primeiro perfil na abertura
+const CHAVES_LEGADO = {
   tentativas: "tc.tentativas",
   redacoes: "tc.redacoes",
   apiKey: "tc.geminiKey",
   semeado: "tc.semeado",
+};
+
+let perfilAtual = null;         // {id, nome, criado_em}
+
+/* Getters, não strings fixas: trocar de perfil troca o namespace inteiro sem
+   precisar avisar nenhum dos ~30 pontos que leem e gravam. */
+const CHAVES = {
+  get tentativas() { return `tc.${perfilAtual.id}.tentativas`; },
+  get redacoes() { return `tc.${perfilAtual.id}.redacoes`; },
+  get apiKey() { return `tc.${perfilAtual.id}.geminiKey`; },
+  get semeado() { return `tc.${perfilAtual.id}.semeado`; },
 };
 
 let DADOS = null;               // conteúdo de dados/questoes.json
@@ -47,6 +70,113 @@ function gravar(chave, valor) {
 const lerTentativas = () => ler(CHAVES.tentativas, []);
 const lerRedacoes = () => ler(CHAVES.redacoes, []);
 
+// ---------- perfis ----------
+const lerPerfis = () => ler(CHAVES_APP.perfis, []);
+
+/* Contador próprio em vez de "maior id + 1": apagar um perfil não pode
+   liberar o id dele, senão o perfil seguinte herdaria qualquer chave
+   `tc.<id>.*` que tenha sobrado de uma limpeza incompleta. */
+function proximoIdPerfil(perfis) {
+  const usados = perfis.map((p) => Number(String(p.id).replace(/\D/g, "")) || 0);
+  const seq = Math.max(ler(CHAVES_APP.seq, 0), ...usados, 0) + 1;
+  gravar(CHAVES_APP.seq, seq);
+  return `p${seq}`;
+}
+
+function criarPerfil(nome, perfis = lerPerfis()) {
+  const perfil = {
+    id: proximoIdPerfil(perfis),
+    nome: nome.trim().slice(0, 40),
+    criado_em: new Date().toISOString(),
+  };
+  perfis.push(perfil);
+  gravar(CHAVES_APP.perfis, perfis);
+  return perfil;
+}
+
+/** Move as chaves da versão sem perfis para o namespace do perfil novo. */
+function migrarLegado(perfil) {
+  let achou = false;
+  for (const [campo, antiga] of Object.entries(CHAVES_LEGADO)) {
+    const bruto = localStorage.getItem(antiga);
+    if (bruto === null) continue;
+    localStorage.setItem(`tc.${perfil.id}.${campo === "apiKey" ? "geminiKey" : campo}`,
+                         bruto);
+    localStorage.removeItem(antiga);
+    achou = true;
+  }
+  // o histórico do PC já foi semeado antes dos perfis existirem
+  if (achou) gravar(CHAVES_APP.semeadoPC, true);
+  return achou;
+}
+
+/** Deixa sempre um perfil ativo — o app nunca roda sem namespace definido. */
+function garantirPerfil() {
+  let perfis = lerPerfis();
+  if (!perfis.length) {
+    const perfil = criarPerfil("Meu progresso", perfis);
+    migrarLegado(perfil);
+    perfis = lerPerfis();
+  }
+  const id = ler(CHAVES_APP.atual, null);
+  perfilAtual = perfis.find((p) => p.id === id) || perfis[0];
+  gravar(CHAVES_APP.atual, perfilAtual.id);
+}
+
+function usarPerfil(id) {
+  const perfil = lerPerfis().find((p) => p.id === id);
+  if (!perfil) return;
+  perfilAtual = perfil;
+  gravar(CHAVES_APP.atual, perfil.id);
+  // a sessão em andamento é do perfil anterior: começa de novo
+  estado.fila = [];
+  estado.indice = 0;
+  estado.acertos = 0;
+  estado.respondidas = 0;
+  pintarPerfil();
+  atualizarAvisoRevisoes();
+  mostrar("tela-filtros");
+}
+
+function apagarPerfil(id) {
+  const perfis = lerPerfis();
+  if (perfis.length < 2) {
+    alert("Este é o único perfil — crie outro antes de apagar este.");
+    return;
+  }
+  const perfil = perfis.find((p) => p.id === id);
+  const n = ler(`tc.${id}.tentativas`, []).length;
+  if (!confirm(`Apagar o perfil "${perfil.nome}" e as ${n} respostas dele? ` +
+               "Isso não dá para desfazer.")) return;
+  for (const campo of ["tentativas", "redacoes", "geminiKey", "semeado"]) {
+    localStorage.removeItem(`tc.${id}.${campo}`);
+  }
+  gravar(CHAVES_APP.perfis, perfis.filter((p) => p.id !== id));
+  if (perfilAtual.id === id) {
+    perfilAtual = lerPerfis()[0];
+    gravar(CHAVES_APP.atual, perfilAtual.id);
+    estado.fila = [];
+  }
+  pintarPerfil();
+  abrirPerfis();
+}
+
+function renomearPerfil(id) {
+  const perfis = lerPerfis();
+  const perfil = perfis.find((p) => p.id === id);
+  const nome = prompt("Novo nome do perfil:", perfil.nome);
+  if (!nome || !nome.trim()) return;
+  perfil.nome = nome.trim().slice(0, 40);
+  gravar(CHAVES_APP.perfis, perfis);
+  if (perfilAtual.id === id) perfilAtual = perfil;
+  pintarPerfil();
+  abrirPerfis();
+}
+
+function pintarPerfil() {
+  $("perfil-chip").textContent = `👤 ${perfilAtual.nome}`;
+}
+
 // SQLite grava "2026-07-18 11:20:00" (hora local); o app grava ISO com fuso
 function parseData(s) {
   if (!s) return new Date(0);
@@ -67,8 +197,10 @@ async function carregarDados() {
   for (const p of DADOS.provas) PROVAS.set(p.id, p);
   for (const q of DADOS.questoes) QUESTOES.set(q.id, q);
 
-  // primeira abertura: traz o histórico que já existia no PC
-  if (!ler(CHAVES.semeado, false)) {
+  /* Primeira abertura: traz o histórico que já existia no PC. O controle é
+     global (não por perfil) porque esse histórico é de uma pessoa só — um
+     perfil novo começa zerado, e não herdando as respostas do dono do PC. */
+  if (!ler(CHAVES_APP.semeadoPC, false)) {
     const iniciais = (DADOS.tentativas_iniciais || []).map((t) => ({
       questao_id: t.questao_id,
       resposta: t.resposta,
@@ -78,13 +210,13 @@ async function carregarDados() {
     if (iniciais.length && !lerTentativas().length) {
       gravar(CHAVES.tentativas, iniciais);
     }
-    gravar(CHAVES.semeado, true);
+    gravar(CHAVES_APP.semeadoPC, true);
   }
 }
 
 // ---------- navegação entre telas ----------
 const TELAS = ["tela-carregando", "tela-filtros", "tela-questao", "tela-fim",
-               "tela-stats", "tela-redacao", "tela-ajustes"];
+               "tela-stats", "tela-redacao", "tela-ajustes", "tela-perfis"];
 
 function mostrar(tela) {
   TELAS.forEach((t) => $(t).classList.toggle("oculto", t !== tela));
@@ -288,11 +420,17 @@ function renderQuestao() {
   /* Quando a questão tem recorte do PDF, as alternativas estão na imagem e o
      texto extraído pode estar vazio ou incompleto: nesse caso desenhamos as
      cinco letras para você escolher lendo o recorte. Sem imagem, só aparecem
-     as alternativas que têm texto — desenhar uma vazia entregaria o gabarito. */
+     as alternativas que têm texto — desenhar uma vazia entregaria o gabarito.
+     Nas provas certo/errado (Cebraspe) são sempre as duas letras C e E, que já
+     vêm preenchidas: o caderno não imprime as alternativas. */
   const alts = q.alts || {};
-  const letras = temImagens
-    ? ["A", "B", "C", "D", "E"]
-    : ["A", "B", "C", "D", "E"].filter((l) => alts[l]);
+  const TODAS = ["A", "B", "C", "D", "E"];
+  const letras =
+    prova.formato === "ce"
+      ? ["C", "E"]
+      : temImagens
+        ? TODAS
+        : TODAS.filter((l) => alts[l]);
 
   const cont = $("q-alternativas");
   cont.innerHTML = "";
@@ -620,15 +758,76 @@ async function corrigirRedacao() {
   }
 }
 
+// ---------- tela de perfis ----------
+function abrirPerfis() {
+  const lista = $("perfis-lista");
+  lista.innerHTML = "";
+  for (const p of lerPerfis()) {
+    const n = ler(`tc.${p.id}.tentativas`, []).length;
+    const nr = ler(`tc.${p.id}.redacoes`, []).length;
+    const atual = p.id === perfilAtual.id;
+
+    const linha = document.createElement("div");
+    linha.className = "perfil" + (atual ? " atual" : "");
+
+    const info = document.createElement("div");
+    info.className = "perfil-info";
+    const nome = document.createElement("strong");
+    nome.textContent = p.nome + (atual ? " (em uso)" : "");
+    const resumo = document.createElement("span");
+    resumo.className = "dica";
+    resumo.textContent = `${n} resposta${n === 1 ? "" : "s"} · ` +
+                         `${nr} redaç${nr === 1 ? "ão" : "ões"}`;
+    info.append(nome, resumo);
+
+    const acoes = document.createElement("div");
+    acoes.className = "perfil-acoes";
+    if (!atual) {
+      const usar = document.createElement("button");
+      usar.className = "primario";
+      usar.textContent = "Usar";
+      usar.addEventListener("click", () => usarPerfil(p.id));
+      acoes.append(usar);
+    }
+    const ren = document.createElement("button");
+    ren.textContent = "Renomear";
+    ren.addEventListener("click", () => renomearPerfil(p.id));
+    const del = document.createElement("button");
+    del.textContent = "Apagar";
+    del.addEventListener("click", () => apagarPerfil(p.id));
+    acoes.append(ren, del);
+
+    linha.append(info, acoes);
+    lista.append(linha);
+  }
+  $("perfil-novo-nome").value = "";
+  mostrar("tela-perfis");
+}
+
+function criarPerfilPelaTela() {
+  const nome = $("perfil-novo-nome").value.trim();
+  if (!nome) {
+    alert("Escreva um nome para o perfil.");
+    return;
+  }
+  if (lerPerfis().some((p) => p.nome.toLowerCase() === nome.toLowerCase())) {
+    alert("Já existe um perfil com esse nome.");
+    return;
+  }
+  const perfil = criarPerfil(nome);
+  usarPerfil(perfil.id);
+}
+
 // ---------- ajustes ----------
 function abrirAjustes() {
   const tentativas = lerTentativas();
   const redacoes = lerRedacoes();
   $("backup-resumo").textContent =
-    `Hoje: ${tentativas.length} respostas e ${redacoes.length} redações ` +
-    `guardadas neste aparelho.`;
+    `Perfil "${perfilAtual.nome}": ${tentativas.length} respostas e ` +
+    `${redacoes.length} redações guardadas neste aparelho.`;
   $("cfg-status").textContent = localStorage.getItem(CHAVES.apiKey)
-    ? "✅ Chave salva neste aparelho." : "Nenhuma chave configurada.";
+    ? `✅ Chave salva para o perfil "${perfilAtual.nome}".`
+    : "Nenhuma chave configurada.";
   $("cfg-chave").value = "";
   const geradoEm = DADOS.gerado_em ? parseData(DADOS.gerado_em) : null;
   const comJust = DADOS.questoes.filter((q) => q.justificativa).length;
@@ -643,6 +842,7 @@ function exportarBackup() {
   const backup = {
     app: "treino-concursos",
     versao: 1,
+    perfil: perfilAtual.nome,      // o backup é sempre do perfil em uso
     exportado_em: new Date().toISOString(),
     tentativas: lerTentativas(),
     redacoes: lerRedacoes(),
@@ -651,8 +851,11 @@ function exportarBackup() {
                         { type: "application/json" });
   const a = document.createElement("a");
   const hoje = new Date().toISOString().slice(0, 10);
+  const apelido = perfilAtual.nome.toLowerCase()
+    .normalize("NFD").replace(/[̀-ͯ]/g, "")   // tira os acentos
+    .replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") || "perfil";
   a.href = URL.createObjectURL(blob);
-  a.download = `treino-concursos-backup-${hoje}.json`;
+  a.download = `treino-concursos-${apelido}-${hoje}.json`;
   a.click();
   URL.revokeObjectURL(a.href);
 }
@@ -661,6 +864,12 @@ async function importarBackup(arquivo) {
   try {
     const backup = JSON.parse(await arquivo.text());
     if (!Array.isArray(backup.tentativas)) throw new Error("formato inesperado");
+
+    // o backup entra no perfil aberto: avisa quando é de outra pessoa, senão
+    // o histórico dos dois vira um só sem ninguém perceber
+    if (backup.perfil && backup.perfil !== perfilAtual.nome &&
+        !confirm(`Este backup é do perfil "${backup.perfil}" e você está em ` +
+                 `"${perfilAtual.nome}". Misturar os dois históricos?`)) return;
 
     // mescla por (questão + horário) para poder importar mais de uma vez
     const atuais = lerTentativas();
@@ -731,6 +940,10 @@ $("nav-treino").addEventListener("click", seCarregado(() => {
 $("nav-redacao").addEventListener("click", seCarregado(carregarRedacao));
 $("nav-stats").addEventListener("click", seCarregado(carregarStats));
 $("nav-ajustes").addEventListener("click", seCarregado(abrirAjustes));
+$("perfil-chip").addEventListener("click", seCarregado(abrirPerfis));
+$("btn-perfis").addEventListener("click", seCarregado(abrirPerfis));
+$("perfil-criar").addEventListener("click", criarPerfilPelaTela);
+$("perfil-voltar").addEventListener("click", () => mostrar("tela-filtros"));
 
 $("red-texto").addEventListener("input", atualizarContagem);
 $("red-timer-btn").addEventListener("click", toggleTimer);
@@ -771,6 +984,10 @@ window.addEventListener("beforeunload", (e) => {
 });
 
 // ---------- início ----------
+// antes de qualquer leitura: sem perfil ativo não existe namespace de dados
+garantirPerfil();
+pintarPerfil();
+
 carregarDados()
   .then(() => {
     montarFiltros();

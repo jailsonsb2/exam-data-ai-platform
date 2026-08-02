@@ -85,6 +85,54 @@ nav button {
 }
 nav button.active { background: rgba(255, 255, 255, 0.2); font-weight: 600; }
 
+/* quem está estudando agora: fica sempre visível no cabeçalho, porque num
+   aparelho compartilhado responder no perfil errado é o erro fácil de cometer */
+#perfil-chip {
+  background: rgba(255, 255, 255, 0.16);
+  border: 1px solid rgba(255, 255, 255, 0.45);
+  color: #fff;
+  border-radius: 999px;
+  padding: 0.4rem 0.9rem;
+  font-size: 0.9rem;
+  min-height: 44px;
+  max-width: 45vw;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  cursor: pointer;
+}
+#perfil-chip:hover { background: rgba(255, 255, 255, 0.28); }
+
+.perfil {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  border: 1px solid var(--borda-forte);
+  border-radius: 8px;
+  padding: 0.7rem 0.9rem;
+  margin-bottom: 0.6rem;
+}
+.perfil.atual { border-color: var(--azul); background: var(--azul-claro); }
+.perfil-info { display: flex; flex-direction: column; gap: 0.15rem; }
+.perfil-acoes { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+.perfil-acoes button {
+  background: var(--cinza-btn);
+  border: 1px solid var(--borda-forte);
+  color: var(--texto);
+  border-radius: 8px;
+  padding: 0.55rem 0.9rem;
+  min-height: 44px;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+.perfil-acoes button.primario {
+  background: var(--azul);
+  color: #fff;
+  border: none;
+}
+
 main {
   max-width: 860px;
   margin: 1.2rem auto;

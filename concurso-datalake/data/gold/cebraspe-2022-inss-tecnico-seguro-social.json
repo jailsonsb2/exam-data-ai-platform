@@ -1,0 +1,1936 @@
+{
+ "prova": "cebraspe-2022-inss-tecnico-seguro-social",
+ "banca": "CEBRASPE",
+ "ano": 2022,
+ "orgao": "INSS",
+ "cargo": "Técnico do Seguro Social",
+ "tipo": "Aplicação 11/12/2022",
+ "formato": "ce",
+ "pdf": "cebraspe-2022-inss-tecnico-do-seguro-social-prova.pdf",
+ "questoes": [
+  {
+   "numero": 1,
+   "pagina": 1,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": "Texto CB1A1-I As pessoas que driblaram o desemprego trabalhando por conta própria desde o início da pandemia estão ganhando 31% menos em comparação com as que optaram por esse tipo de trabalho dois anos antes da covid-19. Entre estas, o rendimento médio mensal era de R$ 2.074, enquanto, entre aquelas, o rendimento é de R$ 1.434. Os dados, publicados no Boletim Emprego em Pauta, são do Departamento Intersindical de Estatística e Estudos Socioeconômicos (DIEESE) e foram obtidos a partir de uma análise comparativa que levou em conta os resultados referentes ao quarto trimestre de 2021 da Pesquisa Nacional por Amostra de Domicílio, realizada pelo Instituto Brasileiro de Geografia e Estatística. Ao final de 2021, o número de trabalhadores por conta própria havia crescido 6,6%. A maioria não tem nenhuma proteção social, o que confirma a precarização do trabalho até mesmo para quem conseguiu se manter no mercado por conta própria. Três em cada quatro pessoas que trabalham por conta própria deixam de contribuir para a previdência social, ou seja, apenas 12,7% desses trabalhadores conseguem pagar a contribuição previdenciária para o Instituto Nacional do Seguro Social (INSS), para terem alguma segurança no futuro com a aposentadoria e outros benefícios. Entre os mais antigos, o percentual era de 58,3%. Os técnicos do DIEESE sugerem as seguintes hipóteses para explicar esse percentual menor de inscrição no cadastro nacional da pessoa jurídica (CNPJ) entre aqueles que começaram a trabalhar mais recentemente por conta própria: a baixa remuneração e a incerteza do negócio, assim como a preocupação com o endividamento que a regularização do trabalho pode gerar. Internet: <www.cut.org.br> (com adaptações). Em relação às ideias do texto CB1A1-I, julgue os seguintes itens.",
+   "enunciado": "Conclui-se da leitura do texto que os benefícios da\nprevidência social no Brasil são pouco vantajosos para os\ntrabalhadores autônomos, em razão do possível\nendividamento decorrente da regularização do trabalho e da\nbaixa remuneração prevista para a aposentadoria.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 2,
+   "pagina": 1,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": "Texto CB1A1-I As pessoas que driblaram o desemprego trabalhando por conta própria desde o início da pandemia estão ganhando 31% menos em comparação com as que optaram por esse tipo de trabalho dois anos antes da covid-19. Entre estas, o rendimento médio mensal era de R$ 2.074, enquanto, entre aquelas, o rendimento é de R$ 1.434. Os dados, publicados no Boletim Emprego em Pauta, são do Departamento Intersindical de Estatística e Estudos Socioeconômicos (DIEESE) e foram obtidos a partir de uma análise comparativa que levou em conta os resultados referentes ao quarto trimestre de 2021 da Pesquisa Nacional por Amostra de Domicílio, realizada pelo Instituto Brasileiro de Geografia e Estatística. Ao final de 2021, o número de trabalhadores por conta própria havia crescido 6,6%. A maioria não tem nenhuma proteção social, o que confirma a precarização do trabalho até mesmo para quem conseguiu se manter no mercado por conta própria. Três em cada quatro pessoas que trabalham por conta própria deixam de contribuir para a previdência social, ou seja, apenas 12,7% desses trabalhadores conseguem pagar a contribuição previdenciária para o Instituto Nacional do Seguro Social (INSS), para terem alguma segurança no futuro com a aposentadoria e outros benefícios. Entre os mais antigos, o percentual era de 58,3%. Os técnicos do DIEESE sugerem as seguintes hipóteses para explicar esse percentual menor de inscrição no cadastro nacional da pessoa jurídica (CNPJ) entre aqueles que começaram a trabalhar mais recentemente por conta própria: a baixa remuneração e a incerteza do negócio, assim como a preocupação com o endividamento que a regularização do trabalho pode gerar. Internet: <www.cut.org.br> (com adaptações). Em relação às ideias do texto CB1A1-I, julgue os seguintes itens.",
+   "enunciado": "De acordo com as informações do texto, o rendimento médio\nmensal das pessoas que passaram a trabalhar por conta\nprópria desde o início da pandemia de covid-19 é menor que\no rendimento que tinham as pessoas que optaram por esse\ntipo de trabalho dois anos antes dessa pandemia.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 3,
+   "pagina": 1,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": "Texto CB1A1-I As pessoas que driblaram o desemprego trabalhando por conta própria desde o início da pandemia estão ganhando 31% menos em comparação com as que optaram por esse tipo de trabalho dois anos antes da covid-19. Entre estas, o rendimento médio mensal era de R$ 2.074, enquanto, entre aquelas, o rendimento é de R$ 1.434. Os dados, publicados no Boletim Emprego em Pauta, são do Departamento Intersindical de Estatística e Estudos Socioeconômicos (DIEESE) e foram obtidos a partir de uma análise comparativa que levou em conta os resultados referentes ao quarto trimestre de 2021 da Pesquisa Nacional por Amostra de Domicílio, realizada pelo Instituto Brasileiro de Geografia e Estatística. Ao final de 2021, o número de trabalhadores por conta própria havia crescido 6,6%. A maioria não tem nenhuma proteção social, o que confirma a precarização do trabalho até mesmo para quem conseguiu se manter no mercado por conta própria. Três em cada quatro pessoas que trabalham por conta própria deixam de contribuir para a previdência social, ou seja, apenas 12,7% desses trabalhadores conseguem pagar a contribuição previdenciária para o Instituto Nacional do Seguro Social (INSS), para terem alguma segurança no futuro com a aposentadoria e outros benefícios. Entre os mais antigos, o percentual era de 58,3%. Os técnicos do DIEESE sugerem as seguintes hipóteses para explicar esse percentual menor de inscrição no cadastro nacional da pessoa jurídica (CNPJ) entre aqueles que começaram a trabalhar mais recentemente por conta própria: a baixa remuneração e a incerteza do negócio, assim como a preocupação com o endividamento que a regularização do trabalho pode gerar. Internet: <www.cut.org.br> (com adaptações). Em relação às ideias do texto CB1A1-I, julgue os seguintes itens.",
+   "enunciado": "No texto, os dados indicativos de que a maioria das pessoas\nque trabalha por conta própria não contribui para a\nprevidência social são utilizados como argumento para\ncomprovar a precarização do trabalho, no Brasil, desde o\ninício da pandemia de covid-19 até o final de 2021.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 4,
+   "pagina": 1,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": "Julgue os itens que se seguem, relativos a aspectos linguísticos do texto CB1A1-I.",
+   "enunciado": "Estariam mantidos os sentidos e a correção gramatical do\ntexto caso se substituísse, no primeiro período do texto, o\nsegmento “em comparação com as” por quando\ncomparadas as.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 5,
+   "pagina": 1,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": "Julgue os itens que se seguem, relativos a aspectos linguísticos do texto CB1A1-I.",
+   "enunciado": "O vocábulo “obtidos” (terceiro período do primeiro\nparágrafo) e o vocábulo “crescido” (primeiro período\ndo segundo parágrafo) constituem adjetivos nos contextos\nsintáticos em que se inserem, haja vista a concordância dos\nreferidos termos, respectivamente, com “dados” (terceiro\nperíodo do primeiro parágrafo) e com “número” (primeiro\nperíodo do segundo parágrafo).",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 6,
+   "pagina": 1,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": "Julgue os itens que se seguem, relativos a aspectos linguísticos do texto CB1A1-I.",
+   "enunciado": "Seria mantida a correção gramatical do último período do\nsegundo parágrafo caso a forma verbal “era” fosse\nflexionada no plural — eram —, dada a possibilidade de\nconcordância verbal com a expressão de porcentagem que\naparece logo em seguida.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 7,
+   "pagina": 1,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": "Julgue os itens que se seguem, relativos a aspectos linguísticos do texto CB1A1-I.",
+   "enunciado": "Estaria preservada a coerência das ideias do último parágrafo\ndo texto caso o segmento “mais recentemente” fosse\ndeslocado para imediatamente depois do termo “própria”.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 8,
+   "pagina": 2,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": "Ora, graças a Deus, lá se foi mais um. Um ano, quero dizer. Menos um na conta, mais uma prestação paga. E tem quem fique melancólico. Tem quem deteste ver à porta a cara do mascate em cada primeiro do mês, cobrando o vencido. Quando compram fiado, têm a sensação de que o homem deu de presente, e se esquecem das prestações, que serão, cada uma, uma facada. Nem se lembram dessa outra prestação que se paga a toda hora, tabela Price insaciável comendo juros de vida, todo dia um pouquinho mais; um cabelo que fica branco, mais um milímetro de pele que enruga, uma camada infinitesimal acrescentada à artéria que endurece, um pouco mais de fadiga no coração, que também é carne e se cansa com aquele bater sem folga. E o olho que enxerga menos, e o dente que caria e trata de abrir lugar primeiro para o pivô, depois para a dentadura completa. O engraçado é que muito poucos reconhecem isso. Convencem-se de que a morte chega de repente, que não houve desgaste preparatório, e nos apanha em plena flor da juventude, ou em plena frutificação da maturidade; se imaginam uma rosa que foi colhida em plena beleza desabrochada. Mas a rosa, se a não apanha o jardineiro, que será ela no dia seguinte, após o mormaço do sol e a friagem do sereno? A hora da colheita não interessa ― de qualquer modo, o destino dela era murchar, perder as pétalas, secar, sumir-se. A gente, porém, não pode pensar muito nessas coisas. Tem que pensar em alegrias, sugestionar-se, sugestionar os outros. Vamos dar festas, vamos aguardar o ano novo com esperanças e risadas e beijos congratulatórios. Desejar uns aos outros saúde, riqueza e venturas. Fazer de conta que não se sabe; sim, como se a gente nem desconfiasse. Tudo que nos espera: dentro do corpo o que vai sangrar, doer, inflamar, envelhecer. As cólicas de fígado, as dores de cabeça, as azias, os reumatismos, as gripes com febre, quem sabe o tifo, o atropelamento. Tudo escondido, esperando. Sem falar nos que vão ficar tuberculosos, nas mulheres que vão fazer cesariana. Os que vão perder o emprego, os que se verão doidos com as dívidas, os que hão de esperar nas filas ― que seremos quase todos. E os que, não morrendo, hão de ver a morte lhes entrando de casa adentro, carregando o filho, pai, amor, amizade. As missas de sétimo dia, as cartas de rompimento, os bilhetes de despedida. E até guerra, quem sabe? Desgostos, desgostos de toda espécie. Qual de nós passa um dia, dois dias, sem um desgosto? Quanto mais um ano! Rachel de Queiroz. Um ano de menos. In: O Cruzeiro, Rio de Janeiro, dez./1951 (com adaptações). Acerca das ideias e de aspectos linguísticos do texto precedente, julgue os itens que se seguem.",
+   "enunciado": "No texto, a autora incentiva uma postura otimista durante a\npassagem de ano, apesar de manifestar uma visão pessimista\nquanto ao porvir.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 9,
+   "pagina": 2,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": "Ora, graças a Deus, lá se foi mais um. Um ano, quero dizer. Menos um na conta, mais uma prestação paga. E tem quem fique melancólico. Tem quem deteste ver à porta a cara do mascate em cada primeiro do mês, cobrando o vencido. Quando compram fiado, têm a sensação de que o homem deu de presente, e se esquecem das prestações, que serão, cada uma, uma facada. Nem se lembram dessa outra prestação que se paga a toda hora, tabela Price insaciável comendo juros de vida, todo dia um pouquinho mais; um cabelo que fica branco, mais um milímetro de pele que enruga, uma camada infinitesimal acrescentada à artéria que endurece, um pouco mais de fadiga no coração, que também é carne e se cansa com aquele bater sem folga. E o olho que enxerga menos, e o dente que caria e trata de abrir lugar primeiro para o pivô, depois para a dentadura completa. O engraçado é que muito poucos reconhecem isso. Convencem-se de que a morte chega de repente, que não houve desgaste preparatório, e nos apanha em plena flor da juventude, ou em plena frutificação da maturidade; se imaginam uma rosa que foi colhida em plena beleza desabrochada. Mas a rosa, se a não apanha o jardineiro, que será ela no dia seguinte, após o mormaço do sol e a friagem do sereno? A hora da colheita não interessa ― de qualquer modo, o destino dela era murchar, perder as pétalas, secar, sumir-se. A gente, porém, não pode pensar muito nessas coisas. Tem que pensar em alegrias, sugestionar-se, sugestionar os outros. Vamos dar festas, vamos aguardar o ano novo com esperanças e risadas e beijos congratulatórios. Desejar uns aos outros saúde, riqueza e venturas. Fazer de conta que não se sabe; sim, como se a gente nem desconfiasse. Tudo que nos espera: dentro do corpo o que vai sangrar, doer, inflamar, envelhecer. As cólicas de fígado, as dores de cabeça, as azias, os reumatismos, as gripes com febre, quem sabe o tifo, o atropelamento. Tudo escondido, esperando. Sem falar nos que vão ficar tuberculosos, nas mulheres que vão fazer cesariana. Os que vão perder o emprego, os que se verão doidos com as dívidas, os que hão de esperar nas filas ― que seremos quase todos. E os que, não morrendo, hão de ver a morte lhes entrando de casa adentro, carregando o filho, pai, amor, amizade. As missas de sétimo dia, as cartas de rompimento, os bilhetes de despedida. E até guerra, quem sabe? Desgostos, desgostos de toda espécie. Qual de nós passa um dia, dois dias, sem um desgosto? Quanto mais um ano! Rachel de Queiroz. Um ano de menos. In: O Cruzeiro, Rio de Janeiro, dez./1951 (com adaptações). Acerca das ideias e de aspectos linguísticos do texto precedente, julgue os itens que se seguem.",
+   "enunciado": "No quinto período do primeiro parágrafo, o emprego do sinal\nindicativo de crase no vocábulo “à”, em “à porta”,\njustifica-se pela combinação de dois fatores: a regência do\nverbo “ver” e o gênero feminino da palavra “porta”.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 10,
+   "pagina": 2,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": "Ora, graças a Deus, lá se foi mais um. Um ano, quero dizer. Menos um na conta, mais uma prestação paga. E tem quem fique melancólico. Tem quem deteste ver à porta a cara do mascate em cada primeiro do mês, cobrando o vencido. Quando compram fiado, têm a sensação de que o homem deu de presente, e se esquecem das prestações, que serão, cada uma, uma facada. Nem se lembram dessa outra prestação que se paga a toda hora, tabela Price insaciável comendo juros de vida, todo dia um pouquinho mais; um cabelo que fica branco, mais um milímetro de pele que enruga, uma camada infinitesimal acrescentada à artéria que endurece, um pouco mais de fadiga no coração, que também é carne e se cansa com aquele bater sem folga. E o olho que enxerga menos, e o dente que caria e trata de abrir lugar primeiro para o pivô, depois para a dentadura completa. O engraçado é que muito poucos reconhecem isso. Convencem-se de que a morte chega de repente, que não houve desgaste preparatório, e nos apanha em plena flor da juventude, ou em plena frutificação da maturidade; se imaginam uma rosa que foi colhida em plena beleza desabrochada. Mas a rosa, se a não apanha o jardineiro, que será ela no dia seguinte, após o mormaço do sol e a friagem do sereno? A hora da colheita não interessa ― de qualquer modo, o destino dela era murchar, perder as pétalas, secar, sumir-se. A gente, porém, não pode pensar muito nessas coisas. Tem que pensar em alegrias, sugestionar-se, sugestionar os outros. Vamos dar festas, vamos aguardar o ano novo com esperanças e risadas e beijos congratulatórios. Desejar uns aos outros saúde, riqueza e venturas. Fazer de conta que não se sabe; sim, como se a gente nem desconfiasse. Tudo que nos espera: dentro do corpo o que vai sangrar, doer, inflamar, envelhecer. As cólicas de fígado, as dores de cabeça, as azias, os reumatismos, as gripes com febre, quem sabe o tifo, o atropelamento. Tudo escondido, esperando. Sem falar nos que vão ficar tuberculosos, nas mulheres que vão fazer cesariana. Os que vão perder o emprego, os que se verão doidos com as dívidas, os que hão de esperar nas filas ― que seremos quase todos. E os que, não morrendo, hão de ver a morte lhes entrando de casa adentro, carregando o filho, pai, amor, amizade. As missas de sétimo dia, as cartas de rompimento, os bilhetes de despedida. E até guerra, quem sabe? Desgostos, desgostos de toda espécie. Qual de nós passa um dia, dois dias, sem um desgosto? Quanto mais um ano! Rachel de Queiroz. Um ano de menos. In: O Cruzeiro, Rio de Janeiro, dez./1951 (com adaptações). Acerca das ideias e de aspectos linguísticos do texto precedente, julgue os itens que se seguem.",
+   "enunciado": "No trecho “murchar, perder as pétalas, secar, sumir-se”\n(último período do segundo parágrafo), os verbos, dispostos\nem enumeração, expressam uma sequência lógica de\nacontecimentos.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 11,
+   "pagina": 2,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": "Ora, graças a Deus, lá se foi mais um. Um ano, quero dizer. Menos um na conta, mais uma prestação paga. E tem quem fique melancólico. Tem quem deteste ver à porta a cara do mascate em cada primeiro do mês, cobrando o vencido. Quando compram fiado, têm a sensação de que o homem deu de presente, e se esquecem das prestações, que serão, cada uma, uma facada. Nem se lembram dessa outra prestação que se paga a toda hora, tabela Price insaciável comendo juros de vida, todo dia um pouquinho mais; um cabelo que fica branco, mais um milímetro de pele que enruga, uma camada infinitesimal acrescentada à artéria que endurece, um pouco mais de fadiga no coração, que também é carne e se cansa com aquele bater sem folga. E o olho que enxerga menos, e o dente que caria e trata de abrir lugar primeiro para o pivô, depois para a dentadura completa. O engraçado é que muito poucos reconhecem isso. Convencem-se de que a morte chega de repente, que não houve desgaste preparatório, e nos apanha em plena flor da juventude, ou em plena frutificação da maturidade; se imaginam uma rosa que foi colhida em plena beleza desabrochada. Mas a rosa, se a não apanha o jardineiro, que será ela no dia seguinte, após o mormaço do sol e a friagem do sereno? A hora da colheita não interessa ― de qualquer modo, o destino dela era murchar, perder as pétalas, secar, sumir-se. A gente, porém, não pode pensar muito nessas coisas. Tem que pensar em alegrias, sugestionar-se, sugestionar os outros. Vamos dar festas, vamos aguardar o ano novo com esperanças e risadas e beijos congratulatórios. Desejar uns aos outros saúde, riqueza e venturas. Fazer de conta que não se sabe; sim, como se a gente nem desconfiasse. Tudo que nos espera: dentro do corpo o que vai sangrar, doer, inflamar, envelhecer. As cólicas de fígado, as dores de cabeça, as azias, os reumatismos, as gripes com febre, quem sabe o tifo, o atropelamento. Tudo escondido, esperando. Sem falar nos que vão ficar tuberculosos, nas mulheres que vão fazer cesariana. Os que vão perder o emprego, os que se verão doidos com as dívidas, os que hão de esperar nas filas ― que seremos quase todos. E os que, não morrendo, hão de ver a morte lhes entrando de casa adentro, carregando o filho, pai, amor, amizade. As missas de sétimo dia, as cartas de rompimento, os bilhetes de despedida. E até guerra, quem sabe? Desgostos, desgostos de toda espécie. Qual de nós passa um dia, dois dias, sem um desgosto? Quanto mais um ano! Rachel de Queiroz. Um ano de menos. In: O Cruzeiro, Rio de Janeiro, dez./1951 (com adaptações). Acerca das ideias e de aspectos linguísticos do texto precedente, julgue os itens que se seguem.",
+   "enunciado": "Em ambas as orações presentes no trecho “Nem se lembram\ndessa outra prestação que se paga a toda hora”\n(sétimo período do primeiro parágrafo), a intenção de\nindefinir quem realiza as ações de lembrar e pagar é\nmaterializada por meio da estratégia de indeterminação do\nsujeito sintático pelo emprego do pronome “se”.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 12,
+   "pagina": 2,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": "Ora, graças a Deus, lá se foi mais um. Um ano, quero dizer. Menos um na conta, mais uma prestação paga. E tem quem fique melancólico. Tem quem deteste ver à porta a cara do mascate em cada primeiro do mês, cobrando o vencido. Quando compram fiado, têm a sensação de que o homem deu de presente, e se esquecem das prestações, que serão, cada uma, uma facada. Nem se lembram dessa outra prestação que se paga a toda hora, tabela Price insaciável comendo juros de vida, todo dia um pouquinho mais; um cabelo que fica branco, mais um milímetro de pele que enruga, uma camada infinitesimal acrescentada à artéria que endurece, um pouco mais de fadiga no coração, que também é carne e se cansa com aquele bater sem folga. E o olho que enxerga menos, e o dente que caria e trata de abrir lugar primeiro para o pivô, depois para a dentadura completa. O engraçado é que muito poucos reconhecem isso. Convencem-se de que a morte chega de repente, que não houve desgaste preparatório, e nos apanha em plena flor da juventude, ou em plena frutificação da maturidade; se imaginam uma rosa que foi colhida em plena beleza desabrochada. Mas a rosa, se a não apanha o jardineiro, que será ela no dia seguinte, após o mormaço do sol e a friagem do sereno? A hora da colheita não interessa ― de qualquer modo, o destino dela era murchar, perder as pétalas, secar, sumir-se. A gente, porém, não pode pensar muito nessas coisas. Tem que pensar em alegrias, sugestionar-se, sugestionar os outros. Vamos dar festas, vamos aguardar o ano novo com esperanças e risadas e beijos congratulatórios. Desejar uns aos outros saúde, riqueza e venturas. Fazer de conta que não se sabe; sim, como se a gente nem desconfiasse. Tudo que nos espera: dentro do corpo o que vai sangrar, doer, inflamar, envelhecer. As cólicas de fígado, as dores de cabeça, as azias, os reumatismos, as gripes com febre, quem sabe o tifo, o atropelamento. Tudo escondido, esperando. Sem falar nos que vão ficar tuberculosos, nas mulheres que vão fazer cesariana. Os que vão perder o emprego, os que se verão doidos com as dívidas, os que hão de esperar nas filas ― que seremos quase todos. E os que, não morrendo, hão de ver a morte lhes entrando de casa adentro, carregando o filho, pai, amor, amizade. As missas de sétimo dia, as cartas de rompimento, os bilhetes de despedida. E até guerra, quem sabe? Desgostos, desgostos de toda espécie. Qual de nós passa um dia, dois dias, sem um desgosto? Quanto mais um ano! Rachel de Queiroz. Um ano de menos. In: O Cruzeiro, Rio de Janeiro, dez./1951 (com adaptações). Acerca das ideias e de aspectos linguísticos do texto precedente, julgue os itens que se seguem.",
+   "enunciado": "Da leitura do segundo parágrafo, entende-se que o pronome\n“ela”, em “dela” (último período), refere-se a “rosa”\n(penúltimo período).",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 13,
+   "pagina": 2,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": "Ora, graças a Deus, lá se foi mais um. Um ano, quero dizer. Menos um na conta, mais uma prestação paga. E tem quem fique melancólico. Tem quem deteste ver à porta a cara do mascate em cada primeiro do mês, cobrando o vencido. Quando compram fiado, têm a sensação de que o homem deu de presente, e se esquecem das prestações, que serão, cada uma, uma facada. Nem se lembram dessa outra prestação que se paga a toda hora, tabela Price insaciável comendo juros de vida, todo dia um pouquinho mais; um cabelo que fica branco, mais um milímetro de pele que enruga, uma camada infinitesimal acrescentada à artéria que endurece, um pouco mais de fadiga no coração, que também é carne e se cansa com aquele bater sem folga. E o olho que enxerga menos, e o dente que caria e trata de abrir lugar primeiro para o pivô, depois para a dentadura completa. O engraçado é que muito poucos reconhecem isso. Convencem-se de que a morte chega de repente, que não houve desgaste preparatório, e nos apanha em plena flor da juventude, ou em plena frutificação da maturidade; se imaginam uma rosa que foi colhida em plena beleza desabrochada. Mas a rosa, se a não apanha o jardineiro, que será ela no dia seguinte, após o mormaço do sol e a friagem do sereno? A hora da colheita não interessa ― de qualquer modo, o destino dela era murchar, perder as pétalas, secar, sumir-se. A gente, porém, não pode pensar muito nessas coisas. Tem que pensar em alegrias, sugestionar-se, sugestionar os outros. Vamos dar festas, vamos aguardar o ano novo com esperanças e risadas e beijos congratulatórios. Desejar uns aos outros saúde, riqueza e venturas. Fazer de conta que não se sabe; sim, como se a gente nem desconfiasse. Tudo que nos espera: dentro do corpo o que vai sangrar, doer, inflamar, envelhecer. As cólicas de fígado, as dores de cabeça, as azias, os reumatismos, as gripes com febre, quem sabe o tifo, o atropelamento. Tudo escondido, esperando. Sem falar nos que vão ficar tuberculosos, nas mulheres que vão fazer cesariana. Os que vão perder o emprego, os que se verão doidos com as dívidas, os que hão de esperar nas filas ― que seremos quase todos. E os que, não morrendo, hão de ver a morte lhes entrando de casa adentro, carregando o filho, pai, amor, amizade. As missas de sétimo dia, as cartas de rompimento, os bilhetes de despedida. E até guerra, quem sabe? Desgostos, desgostos de toda espécie. Qual de nós passa um dia, dois dias, sem um desgosto? Quanto mais um ano! Rachel de Queiroz. Um ano de menos. In: O Cruzeiro, Rio de Janeiro, dez./1951 (com adaptações). Acerca das ideias e de aspectos linguísticos do texto precedente, julgue os itens que se seguem.",
+   "enunciado": "O segmento “que será ela no dia seguinte”\n(penúltimo período do segundo parágrafo) consiste em uma\noração adjetiva com sentido explicativo, o que justifica seu\nisolamento entre vírgulas no texto.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 14,
+   "pagina": 2,
+   "disciplina": "Língua Portuguesa",
+   "assunto": null,
+   "texto_apoio": "Ora, graças a Deus, lá se foi mais um. Um ano, quero dizer. Menos um na conta, mais uma prestação paga. E tem quem fique melancólico. Tem quem deteste ver à porta a cara do mascate em cada primeiro do mês, cobrando o vencido. Quando compram fiado, têm a sensação de que o homem deu de presente, e se esquecem das prestações, que serão, cada uma, uma facada. Nem se lembram dessa outra prestação que se paga a toda hora, tabela Price insaciável comendo juros de vida, todo dia um pouquinho mais; um cabelo que fica branco, mais um milímetro de pele que enruga, uma camada infinitesimal acrescentada à artéria que endurece, um pouco mais de fadiga no coração, que também é carne e se cansa com aquele bater sem folga. E o olho que enxerga menos, e o dente que caria e trata de abrir lugar primeiro para o pivô, depois para a dentadura completa. O engraçado é que muito poucos reconhecem isso. Convencem-se de que a morte chega de repente, que não houve desgaste preparatório, e nos apanha em plena flor da juventude, ou em plena frutificação da maturidade; se imaginam uma rosa que foi colhida em plena beleza desabrochada. Mas a rosa, se a não apanha o jardineiro, que será ela no dia seguinte, após o mormaço do sol e a friagem do sereno? A hora da colheita não interessa ― de qualquer modo, o destino dela era murchar, perder as pétalas, secar, sumir-se. A gente, porém, não pode pensar muito nessas coisas. Tem que pensar em alegrias, sugestionar-se, sugestionar os outros. Vamos dar festas, vamos aguardar o ano novo com esperanças e risadas e beijos congratulatórios. Desejar uns aos outros saúde, riqueza e venturas. Fazer de conta que não se sabe; sim, como se a gente nem desconfiasse. Tudo que nos espera: dentro do corpo o que vai sangrar, doer, inflamar, envelhecer. As cólicas de fígado, as dores de cabeça, as azias, os reumatismos, as gripes com febre, quem sabe o tifo, o atropelamento. Tudo escondido, esperando. Sem falar nos que vão ficar tuberculosos, nas mulheres que vão fazer cesariana. Os que vão perder o emprego, os que se verão doidos com as dívidas, os que hão de esperar nas filas ― que seremos quase todos. E os que, não morrendo, hão de ver a morte lhes entrando de casa adentro, carregando o filho, pai, amor, amizade. As missas de sétimo dia, as cartas de rompimento, os bilhetes de despedida. E até guerra, quem sabe? Desgostos, desgostos de toda espécie. Qual de nós passa um dia, dois dias, sem um desgosto? Quanto mais um ano! Rachel de Queiroz. Um ano de menos. In: O Cruzeiro, Rio de Janeiro, dez./1951 (com adaptações). Acerca das ideias e de aspectos linguísticos do texto precedente, julgue os itens que se seguem.",
+   "enunciado": "No trecho “os que hão de esperar nas filas”\n(último parágrafo), o termo “hão” corresponde a uma forma\nabreviada de haverão e, como tal, diz respeito ao tempo\nfuturo.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 15,
+   "pagina": 2,
+   "disciplina": "Ética no Serviço Público",
+   "assunto": null,
+   "texto_apoio": "Com base no disposto no Decreto n.º 1.171/1994, que aprova o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal, julgue os itens a seguir.",
+   "enunciado": "Considere que Jonas, servidor público federal lotado no\natendimento ao público de uma repartição federal de\nrecolhimento de tributos, tenha tratado mal, no exercício de\nsuas atribuições de atendimento, uma contribuinte que\nbuscava informações a respeito de suposto débito tributário.\nNessa situação hipotética, a atitude de Jonas causou dano\nmoral à contribuinte.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 16,
+   "pagina": 2,
+   "disciplina": "Ética no Serviço Público",
+   "assunto": null,
+   "texto_apoio": "Com base no disposto no Decreto n.º 1.171/1994, que aprova o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal, julgue os itens a seguir.",
+   "enunciado": "É vedado ao servidor público federal ligar seu nome a\nempreendimentos de cunho duvidoso, mesmo que o servidor\nrespeite, no ambiente de trabalho, todos os deveres\nfundamentais a ele aplicáveis.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 17,
+   "pagina": 2,
+   "disciplina": "Ética no Serviço Público",
+   "assunto": null,
+   "texto_apoio": "Com base no disposto no Decreto n.º 1.171/1994, que aprova o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal, julgue os itens a seguir.",
+   "enunciado": "O servidor público pode, até mesmo injustificadamente,\ndeixar de participar de estudos que se relacionem com a\nmelhoria do exercício de suas funções e que visem à\nrealização do bem comum, pois, apesar de importante, essa\nação não constitui dever fundamental dos servidores\npúblicos.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 18,
+   "pagina": 2,
+   "disciplina": "Ética no Serviço Público",
+   "assunto": null,
+   "texto_apoio": "Julgue os itens seguintes de acordo com as disposições do Decreto n.º 6.029/2007, que institui o Sistema de Gestão da Ética do Poder Executivo Federal.",
+   "enunciado": "Caso determinado ministro de Estado pretenda realizar\nconsulta a respeito de matéria de ética pública, a referida\nconsulta deverá ser dirigida à Comissão de Ética\nPública (CEP), que integra o Sistema de Gestão da Ética do\nPoder Executivo Federal.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 19,
+   "pagina": 2,
+   "disciplina": "Ética no Serviço Público",
+   "assunto": null,
+   "texto_apoio": "Julgue os itens seguintes de acordo com as disposições do Decreto n.º 6.029/2007, que institui o Sistema de Gestão da Ética do Poder Executivo Federal.",
+   "enunciado": "Dado o teor sensível das informações que transitam na maior\nparte das entidades do Poder Executivo Federal, as\nautoridades competentes dessas entidades poderão alegar\nsigilo para deixar de prestar informação solicitada pelas\ncomissões de ética.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 20,
+   "pagina": 2,
+   "disciplina": "Ética no Serviço Público",
+   "assunto": null,
+   "texto_apoio": "Julgue os itens seguintes de acordo com as disposições do Decreto n.º 6.029/2007, que institui o Sistema de Gestão da Ética do Poder Executivo Federal.",
+   "enunciado": "As instâncias superiores dos órgãos e das entidades do Poder\nExecutivo Federal estão dispensadas de garantir os recursos\nhumanos, materiais e financeiros para que a Comissão de\nÉtica cumpra com suas atribuições, uma vez que essas\ncomissões devem ser mantidas por meio de recursos\npróprios, obtidos mediante cobrança para emissão de\npareceres a respeito de questões que envolvam temas\nrelacionados à ética no serviço público.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 21,
+   "pagina": 2,
+   "disciplina": "Noções de Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": "A respeito dos direitos e garantias fundamentais, julgue os itens a seguir.",
+   "enunciado": "A obtenção de certidões em repartições públicas, para\nesclarecimento de situação de interesse pessoal, é direito\nassegurado a todos e independe do pagamento de taxa.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 22,
+   "pagina": 2,
+   "disciplina": "Noções de Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": "A respeito dos direitos e garantias fundamentais, julgue os itens a seguir.",
+   "enunciado": "O Poder Judiciário pode determinar a implantação de\npolíticas públicas relacionadas a direitos e garantias\nfundamentais, sem que isso ofenda o princípio da separação\ndos poderes.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 23,
+   "pagina": 3,
+   "disciplina": "Noções de Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": "Acerca dos direitos sociais, da nacionalidade e da garantia dos direitos políticos, julgue os itens a seguir.",
+   "enunciado": "O Fundo de Garantia do Tempo de Serviço é direito tanto\ndos trabalhadores urbanos quanto dos trabalhadores rurais.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 24,
+   "pagina": 3,
+   "disciplina": "Noções de Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": "Acerca dos direitos sociais, da nacionalidade e da garantia dos direitos políticos, julgue os itens a seguir.",
+   "enunciado": "A participação dos sindicatos nas negociações coletivas de\ntrabalho pode ser dispensada mediante manifestação da\nmaioria dos filiados.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 25,
+   "pagina": 3,
+   "disciplina": "Noções de Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": "Acerca dos direitos sociais, da nacionalidade e da garantia dos direitos políticos, julgue os itens a seguir.",
+   "enunciado": "No caso de senador que pretenda concorrer a outro cargo\neletivo, não se exige a renúncia ao mandato atual.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 26,
+   "pagina": 3,
+   "disciplina": "Noções de Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": "Acerca dos direitos sociais, da nacionalidade e da garantia dos direitos políticos, julgue os itens a seguir.",
+   "enunciado": "A nacionalidade brasileira será concedida de ofício aos\nestrangeiros de qualquer nacionalidade que residam no Brasil\nhá mais de quinze anos e que não possuam condenação\npenal.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 27,
+   "pagina": 3,
+   "disciplina": "Noções de Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": "Considerando as disposições da Constituição Federal de 1988 (CF) quanto à administração pública, julgue os itens a seguir.",
+   "enunciado": "É vedado a estrangeiros o acesso a cargos públicos.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 28,
+   "pagina": 3,
+   "disciplina": "Noções de Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": "Considerando as disposições da Constituição Federal de 1988 (CF) quanto à administração pública, julgue os itens a seguir.",
+   "enunciado": "Servidor público da administração indireta investido no\nmandato de vereador poderá acumular as vantagens do\nemprego com a remuneração do cargo eletivo, se houver\ncompatibilidade de horários.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 29,
+   "pagina": 3,
+   "disciplina": "Noções de Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": "Considerando as disposições da Constituição Federal de 1988 (CF) quanto à administração pública, julgue os itens a seguir.",
+   "enunciado": "Os vencimentos dos cargos integrantes dos Poderes\nLegislativo e Judiciário não poderão exceder os pagos aos\ncargos do Poder Executivo.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 30,
+   "pagina": 3,
+   "disciplina": "Noções de Direito Constitucional",
+   "assunto": null,
+   "texto_apoio": "Considerando as disposições da Constituição Federal de 1988 (CF) quanto à administração pública, julgue os itens a seguir.",
+   "enunciado": "Agente público ocupante de cargo temporário não está\nsubmetido ao Regime Geral de Previdência Social.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 31,
+   "pagina": 3,
+   "disciplina": "Noções de Direito Administrativo",
+   "assunto": null,
+   "texto_apoio": "A respeito da administração pública, do direito administrativo e da organização administrativa da União, julgue os itens a seguir.",
+   "enunciado": "A transmissão de competência de uma pessoa jurídica de\ndireito público para outra configura a descontração.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 32,
+   "pagina": 3,
+   "disciplina": "Noções de Direito Administrativo",
+   "assunto": null,
+   "texto_apoio": "A respeito da administração pública, do direito administrativo e da organização administrativa da União, julgue os itens a seguir.",
+   "enunciado": "O ato administrativo praticado por agente público no\nexercício da sua função expressa o sentido orgânico da\nadministração pública.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 33,
+   "pagina": 3,
+   "disciplina": "Noções de Direito Administrativo",
+   "assunto": null,
+   "texto_apoio": "A respeito da administração pública, do direito administrativo e da organização administrativa da União, julgue os itens a seguir.",
+   "enunciado": "A regulamentação e a fiscalização de atividade econômica de\nnatureza privada pela administração pública caracterizam a\nintervenção.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 34,
+   "pagina": 3,
+   "disciplina": "Noções de Direito Administrativo",
+   "assunto": null,
+   "texto_apoio": "A respeito dos agentes públicos, do regime jurídico único dos servidores públicos federais, dos poderes administrativos e do ato administrativo, julgue os itens seguintes.",
+   "enunciado": "Os jurados, embora colaborem temporariamente com a\nadministração pública, não podem ser considerados agentes\npúblicos.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 35,
+   "pagina": 3,
+   "disciplina": "Noções de Direito Administrativo",
+   "assunto": null,
+   "texto_apoio": "A respeito dos agentes públicos, do regime jurídico único dos servidores públicos federais, dos poderes administrativos e do ato administrativo, julgue os itens seguintes.",
+   "enunciado": "Por meio do poder regulamentar, cabe à administração\npública criar mecanismos de complementação das leis, a fim\nde possibilitar a sua efetiva aplicabilidade.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 36,
+   "pagina": 3,
+   "disciplina": "Noções de Direito Administrativo",
+   "assunto": null,
+   "texto_apoio": "A respeito dos agentes públicos, do regime jurídico único dos servidores públicos federais, dos poderes administrativos e do ato administrativo, julgue os itens seguintes.",
+   "enunciado": "A condição de acionista de sociedade privada impede a posse\nem cargo público.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 37,
+   "pagina": 3,
+   "disciplina": "Noções de Direito Administrativo",
+   "assunto": null,
+   "texto_apoio": "A respeito dos serviços públicos, do controle e responsabilização da administração, da improbidade administrativa e do processo administrativo, julgue os próximos itens.",
+   "enunciado": "A delegação de competência de um titular a outro depende\nda existência de subordinação hierárquica.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 38,
+   "pagina": 3,
+   "disciplina": "Noções de Direito Administrativo",
+   "assunto": null,
+   "texto_apoio": "A respeito dos serviços públicos, do controle e responsabilização da administração, da improbidade administrativa e do processo administrativo, julgue os próximos itens.",
+   "enunciado": "A concessão administrativa se dá quando seu objeto é a\nprestação de serviço do qual a administração pública seja a\nusuária, ainda que indireta.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 39,
+   "pagina": 3,
+   "disciplina": "Noções de Direito Administrativo",
+   "assunto": null,
+   "texto_apoio": "A respeito dos serviços públicos, do controle e responsabilização da administração, da improbidade administrativa e do processo administrativo, julgue os próximos itens.",
+   "enunciado": "A voluntariedade do agente é suficiente para caracterizar a\nconduta ilícita como crime de improbidade administrativa.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 40,
+   "pagina": 3,
+   "disciplina": "Noções de Direito Administrativo",
+   "assunto": null,
+   "texto_apoio": "A respeito dos serviços públicos, do controle e responsabilização da administração, da improbidade administrativa e do processo administrativo, julgue os próximos itens.",
+   "enunciado": "O direito de petição, por meio do qual as pessoas podem\nformular postulações aos órgãos públicos, é um meio de\ncontrole administrativo.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 41,
+   "pagina": 3,
+   "disciplina": "Noções de Informática",
+   "assunto": null,
+   "texto_apoio": "Julgue os próximos itens, relativos a noções de informática.",
+   "enunciado": "No Windows 10, a Segurança do Windows verifica\ncontinuamente a existência de malwares e vírus e inclui um\nprograma antivírus chamado Microsoft Defender Antivírus.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 42,
+   "pagina": 3,
+   "disciplina": "Noções de Informática",
+   "assunto": null,
+   "texto_apoio": "Julgue os próximos itens, relativos a noções de informática.",
+   "enunciado": "Caso haja a necessidade de reorganizar os dados\nfragmentados do disco rígido de uma estação de trabalho\ncujo sistema operacional é o Windows 10, pode-se executar\no utilitário do Windows chamado Desfragmentador de Disco no\ndisco rígido, a fim de que este possa funcionar de maneira\nmais eficiente.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": null,
+   "anulada": true,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 43,
+   "pagina": 3,
+   "disciplina": "Noções de Informática",
+   "assunto": null,
+   "texto_apoio": "Julgue os próximos itens, relativos a noções de informática.",
+   "enunciado": "Com a finalidade de proteger os seus arquivos no Windows\n10, o usuário pode criptografá-los pelo aplicativo Windows\nDefender Firewall, no painel Segurança do Windows.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 44,
+   "pagina": 3,
+   "disciplina": "Noções de Informática",
+   "assunto": null,
+   "texto_apoio": "Considerando a planilha mostrada na figura precedente, elaborada no Microsoft Excel 365, julgue o seguinte item.",
+   "enunciado": "Se for inserida na célula B8 a fórmula indicada a seguir, o\nresultado a ser apresentado nessa célula será 2.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/cebraspe-2022-inss-tecnico-seguro-social/q44-0.png"
+   ]
+  },
+  {
+   "numero": 45,
+   "pagina": 3,
+   "disciplina": "Noções de Informática",
+   "assunto": null,
+   "texto_apoio": "=SOMASE(A2:A7;”auxílio*”;B2:B7) A próxima imagem representa uma mensagem de e-mail gerenciada por meio do Microsoft Outlook 365, no idioma Português (Brasil). A mensagem se encontra na Caixa de Entrada e seu remetente foi omitido. A partir das informações e da imagem anteriores, julgue o item que se segue.",
+   "enunciado": "Se o usuário tiver clicado primeiramente no ícone ... e, em\nseguida, em Sinalizador, a mensagem será enviada para a\npasta Lixo Eletrônico, o remetente será bloqueado e quaisquer\nmensagens futuras desse remetente serão enviadas\nautomaticamente para o Lixo Eletrônico.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": true,
+   "imagens": [
+    "img/cebraspe-2022-inss-tecnico-seguro-social/q45-0.png"
+   ]
+  },
+  {
+   "numero": 46,
+   "pagina": 4,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": null,
+   "texto_apoio": "P: “Se me mandou mensagem, meu filho lembrou-se de mim e quer ser lembrado por mim”. Considerando a proposição P apresentada, julgue os itens seguintes.",
+   "enunciado": "Na proposição P, permitindo-se variar, em certo conjunto de pessoas, o sujeito e o objeto de cada verbo de suas proposições\nsimples constituintes, tem-se uma sentença aberta, que também pode ser expressa por quem mandou mensagem, lembrou-se e\nquer ser lembrado.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 47,
+   "pagina": 4,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": null,
+   "texto_apoio": "P: “Se me mandou mensagem, meu filho lembrou-se de mim e quer ser lembrado por mim”. Considerando a proposição P apresentada, julgue os itens seguintes.",
+   "enunciado": "A tabela-verdade da proposição P possui 16 linhas.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 48,
+   "pagina": 4,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": null,
+   "texto_apoio": "P: “Se me mandou mensagem, meu filho lembrou-se de mim e quer ser lembrado por mim”. Considerando a proposição P apresentada, julgue os itens seguintes.",
+   "enunciado": "A negação da proposição “meu filho lembrou-se de mim e quer ser lembrado por mim” pode ser expressa por meu filho não se\nlembrou de mim nem quer ser lembrado por mim.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 49,
+   "pagina": 4,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": null,
+   "texto_apoio": "Entre os servidores de certa repartição do INSS, sabe-se que 65% gostam de trabalhar com atendimento ao público e, desses, 30% gostam também de trabalhos administrativos. Com base na situação hipotética descrita, julgue os itens subsequentes.",
+   "enunciado": "Se todos os servidores da repartição gostam de pelo menos uma das modalidades de trabalho mencionadas, então mais de 30%\ndeles gostam de trabalhos administrativos.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 50,
+   "pagina": 4,
+   "disciplina": "Raciocínio Lógico",
+   "assunto": null,
+   "texto_apoio": "Entre os servidores de certa repartição do INSS, sabe-se que 65% gostam de trabalhar com atendimento ao público e, desses, 30% gostam também de trabalhos administrativos. Com base na situação hipotética descrita, julgue os itens subsequentes.",
+   "enunciado": "Entre todos os servidores da repartição, mais de 20% gostam das duas modalidades de trabalho mencionadas.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 51,
+   "pagina": 5,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Acerca das fontes de legislação previdenciária, de sua organização e evolução histórica, julgue os itens que se seguem.",
+   "enunciado": "A Constituição Federal é considerada uma fonte formal\nprimária do direito previdenciário brasileiro.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 52,
+   "pagina": 5,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Acerca das fontes de legislação previdenciária, de sua organização e evolução histórica, julgue os itens que se seguem.",
+   "enunciado": "A Constituição outorgada por Getúlio Vargas em 1937,\nconhecida como Constituição Polaca, é considerada o marco\ndo direito previdenciário brasileiro, pois foi ela que\nconsolidou a legislação previdenciária no Brasil.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 53,
+   "pagina": 5,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Acerca das fontes de legislação previdenciária, de sua organização e evolução histórica, julgue os itens que se seguem.",
+   "enunciado": "Os benefícios e serviços prestados pela seguridade social são\nexclusivos daqueles que participam do seu custeio.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 54,
+   "pagina": 5,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Em relação aos princípios da seguridade social, integração da legislação previdenciária e conceito de seguridade social, julgue os itens a seguir.",
+   "enunciado": "O princípio da seguridade social que estabelece que a\ncontribuição social para o custeio do regime geral de\nprevidência social deve ser proporcional à condição\nfinanceira dos seus contribuintes denomina-se equidade na\nforma de participação no custeio.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 55,
+   "pagina": 5,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Em relação aos princípios da seguridade social, integração da legislação previdenciária e conceito de seguridade social, julgue os itens a seguir.",
+   "enunciado": "A assistência social integra a seguridade social, cujos\nprogramas são coordenados e executados pelas esferas\nestadual e municipal, com recursos do orçamento da\nseguridade social, bem como por entidades beneficentes e de\nassistência social.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 56,
+   "pagina": 5,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Em relação aos princípios da seguridade social, integração da legislação previdenciária e conceito de seguridade social, julgue os itens a seguir.",
+   "enunciado": "Caso haja lacuna na legislação, o intérprete poderá valer-se\nde analogia, costumes e princípios gerais do direito como\ninstrumentos integrativos para resolver questões referentes a\nmatéria previdenciária.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 57,
+   "pagina": 5,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "No que se refere à filiação e à inscrição no regime geral de previdência social (RGPS), julgue os itens subsequentes.",
+   "enunciado": "O dependente do segurado do regime geral de previdência\nsocial (RGPS) pode, nessa condição, efetuar a sua inscrição\njunto ao INSS no momento em que este tiver de se habilitar\nao recebimento do benefício a que faz jus.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 58,
+   "pagina": 5,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "No que se refere à filiação e à inscrição no regime geral de previdência social (RGPS), julgue os itens subsequentes.",
+   "enunciado": "Presentes os pressupostos da filiação, é admitida a inscrição\npost mortem de segurado contribuinte individual e de\nsegurado facultativo, mas não é admitida a inscrição post\nmortem de segurado especial.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 59,
+   "pagina": 5,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "No que se refere à filiação e à inscrição no regime geral de previdência social (RGPS), julgue os itens subsequentes.",
+   "enunciado": "Suponha que um estudante de quinze anos de idade pretenda\nse inscrever no regime geral de previdência social (RGPS) na\ncondição de segurado facultativo. Nessa situação, a inscrição\nnão será possível em decorrência da idade do estudante.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 60,
+   "pagina": 5,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "No que se refere à aplicação da norma previdenciária, à seguridade social e ao empregador doméstico, julgue os próximos itens.",
+   "enunciado": "Suponha que o Executivo federal tenha editado um decreto\npara regular matéria referente à criação de um novo\nbenefício previdenciário e ao aumento da contribuição para\narcar com o custeio do benefício criado. Nesse caso, tanto o\nsegurado pode exigir a imediata concessão do benefício\ninstituído quanto a previdência pode exigir o imediato\npagamento da alíquota majorada.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 61,
+   "pagina": 5,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "No que se refere à aplicação da norma previdenciária, à seguridade social e ao empregador doméstico, julgue os próximos itens.",
+   "enunciado": "Suponha que um servidor público de carreira do Poder\nJudiciário de determinada unidade da Federação tenha sido\nnomeado para exercer um cargo em comissão junto a uma\nfundação pública federal, momento em que tenha optado por\ncontinuar recebendo remuneração do órgão em que exerça\ncargo efetivo. Nessa situação hipotética, em decorrência do\ncargo que passou a exercer na fundação pública, o referido\nservidor passa a integrar a condição de segurado obrigatório\ndo RGPS.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 62,
+   "pagina": 5,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "No que se refere à aplicação da norma previdenciária, à seguridade social e ao empregador doméstico, julgue os próximos itens.",
+   "enunciado": "Suponha que o proprietário de uma fazenda de produção de\nleite e gado de corte para o comércio local tenha contratado\num indivíduo para exercer as funções de caseiro e gestor da\nfazenda. Nesse caso hipotético, para efeito previdenciário, o\nreferido contratante é considerado empregador doméstico.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 63,
+   "pagina": 5,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "A respeito do contribuinte individual, do segurado especial e do segurado facultativo, julgue os itens seguintes.",
+   "enunciado": "Suponha-se que, para complementar a renda familiar, Flávio,\nservidor público federal, exerça eventualmente atividade\ncomo motorista de aplicativo. Nessa situação hipotética, na\ncondição de motorista de aplicativo, Flávio é considerado\nsegurado obrigatório do RGPS.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 64,
+   "pagina": 5,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "A respeito do contribuinte individual, do segurado especial e do segurado facultativo, julgue os itens seguintes.",
+   "enunciado": "Suponha-se que Pedro, após ter trabalhado como empregado\ncontratado em determinada empresa privada por cerca\nde 20 anos, tenha deixado de exercer atividade remunerada e\npassado a se dedicar exclusivamente ao lar e a seus filhos,\nem razão de seu companheiro possuir renda para arcar com\nas despesas da família. Nesse caso hipotético, Pedro poderá\nmanter o vínculo com o RGPS após o período de graça,\ndesde que proceda à sua filiação na condição de segurado\nfacultativo.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 65,
+   "pagina": 5,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "A respeito do contribuinte individual, do segurado especial e do segurado facultativo, julgue os itens seguintes.",
+   "enunciado": "Suponha que Matilde, moradora no interior da Amazônia,\nutilizando-se de embarcação de pequeno porte, faça da pesca\nartesanal seu principal meio de vida. Nesse caso hipotético,\npara se filiar ao RGPS, Matilde poderá fazer a sua inscrição\ncomo segurada facultativa.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 66,
+   "pagina": 5,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "A respeito do financiamento da seguridade social, julgue os itens subsequentes.",
+   "enunciado": "A licença-prêmio indenizada integra o salário de\ncontribuição, nos termos da legislação.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 67,
+   "pagina": 5,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "A respeito do financiamento da seguridade social, julgue os itens subsequentes.",
+   "enunciado": "As igrejas e os templos de qualquer culto são isentos de\ncontribuições para a seguridade social.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 68,
+   "pagina": 5,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "A respeito do financiamento da seguridade social, julgue os itens subsequentes.",
+   "enunciado": "Os devedores da previdência social não podem receber\nbenefícios ou incentivos fiscais ou creditícios do Estado.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 69,
+   "pagina": 5,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "A respeito do financiamento da seguridade social, julgue os itens subsequentes.",
+   "enunciado": "Os contribuintes individual e facultativo podem optar pela\nalíquota de 11% incidente sobre o salário de contribuição\ncaso renunciem ao direito à aposentadoria por tempo de\ncontribuição.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": null,
+   "anulada": true,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 70,
+   "pagina": 5,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "A respeito do financiamento da seguridade social, julgue os itens subsequentes.",
+   "enunciado": "O percentual incidente sobre o resultado dos leilões dos bens\napreendidos pelo Departamento da Receita Federal é fonte\nde receita da seguridade social, segundo a legislação.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 71,
+   "pagina": 5,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Acerca do recolhimento e do reajustamento de benefícios, bem como das competências do INSS e da Secretaria da Receita Federal do Brasil, julgue os itens a seguir.",
+   "enunciado": "Os trabalhadores avulsos que prestam serviços a empresas e\nos contribuintes individual e facultativo devem recolher as\ncontribuições à previdência social por conta própria.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 72,
+   "pagina": 5,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Acerca do recolhimento e do reajustamento de benefícios, bem como das competências do INSS e da Secretaria da Receita Federal do Brasil, julgue os itens a seguir.",
+   "enunciado": "Compete ao INSS planejar, executar, acompanhar e avaliar\nas atividades relativas à tributação, à fiscalização, à\narrecadação, à cobrança e ao recolhimento das contribuições\nprevidenciárias.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 73,
+   "pagina": 5,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Acerca do recolhimento e do reajustamento de benefícios, bem como das competências do INSS e da Secretaria da Receita Federal do Brasil, julgue os itens a seguir.",
+   "enunciado": "Os valores do salário de contribuição equivalem à renda\nmensal dos benefícios previdenciários.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 74,
+   "pagina": 5,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Acerca do recolhimento e do reajustamento de benefícios, bem como das competências do INSS e da Secretaria da Receita Federal do Brasil, julgue os itens a seguir.",
+   "enunciado": "Os valores do salário de contribuição e dos benefícios de\nprestação continuada da previdência social são reajustados\nna mesma época e nos mesmos índices.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 75,
+   "pagina": 6,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Paulo aposentou-se por invalidez em 5 de dezembro de 2015. Joaquim obteve, fraudulentamente, benefício previdenciário em 5 de dezembro de 2015. Matias sofreu acidente de trabalho em 5 de dezembro de 2015. Jonas encontra-se impossibilitado de trabalhar por haver adquirido doença incapacitante. Considerando esses dados hipotéticos, julgue os itens que se seguem.",
+   "enunciado": "Paulo pode solicitar a revisão de sua aposentadoria até\no dia 1.º de janeiro de 2026.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 76,
+   "pagina": 6,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Paulo aposentou-se por invalidez em 5 de dezembro de 2015. Joaquim obteve, fraudulentamente, benefício previdenciário em 5 de dezembro de 2015. Matias sofreu acidente de trabalho em 5 de dezembro de 2015. Jonas encontra-se impossibilitado de trabalhar por haver adquirido doença incapacitante. Considerando esses dados hipotéticos, julgue os itens que se seguem.",
+   "enunciado": "Jonas deve solicitar o benefício previdenciário em até\ncinco anos, contados da data em que ele foi acometido pela\ndoença incapacitante.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 77,
+   "pagina": 6,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Paulo aposentou-se por invalidez em 5 de dezembro de 2015. Joaquim obteve, fraudulentamente, benefício previdenciário em 5 de dezembro de 2015. Matias sofreu acidente de trabalho em 5 de dezembro de 2015. Jonas encontra-se impossibilitado de trabalhar por haver adquirido doença incapacitante. Considerando esses dados hipotéticos, julgue os itens que se seguem.",
+   "enunciado": "A previdência social pode cassar o benefício de Joaquim até\no dia 5 de dezembro de 2025.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 78,
+   "pagina": 6,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Paulo aposentou-se por invalidez em 5 de dezembro de 2015. Joaquim obteve, fraudulentamente, benefício previdenciário em 5 de dezembro de 2015. Matias sofreu acidente de trabalho em 5 de dezembro de 2015. Jonas encontra-se impossibilitado de trabalhar por haver adquirido doença incapacitante. Considerando esses dados hipotéticos, julgue os itens que se seguem.",
+   "enunciado": "Matias pôde solicitar o benefício acidentário até\no dia 5 de dezembro de 2020.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 79,
+   "pagina": 6,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "A empresa W descontou a contribuição previdenciária devida pelos trabalhadores e não a repassou à previdência social. A empresa X deixou de recolher as contribuições previdenciárias devidas, por estar passando por dificuldades financeiras. A empresa Y declarou salário de trabalhador inferior ao efetivamente pago, para reduzir contribuição previdenciária devida. A empresa Z pagou quantia anteriormente devida e subtraída à previdência social antes da prolação de sentença de primeiro grau. No que se refere a essas situações hipotéticas, julgue os seguintes itens.",
+   "enunciado": "A empresa W cometeu apropriação indébita previdenciária.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 80,
+   "pagina": 6,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "A empresa W descontou a contribuição previdenciária devida pelos trabalhadores e não a repassou à previdência social. A empresa X deixou de recolher as contribuições previdenciárias devidas, por estar passando por dificuldades financeiras. A empresa Y declarou salário de trabalhador inferior ao efetivamente pago, para reduzir contribuição previdenciária devida. A empresa Z pagou quantia anteriormente devida e subtraída à previdência social antes da prolação de sentença de primeiro grau. No que se refere a essas situações hipotéticas, julgue os seguintes itens.",
+   "enunciado": "A empresa X praticou o delito de sonegação previdenciária.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 81,
+   "pagina": 6,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "A empresa W descontou a contribuição previdenciária devida pelos trabalhadores e não a repassou à previdência social. A empresa X deixou de recolher as contribuições previdenciárias devidas, por estar passando por dificuldades financeiras. A empresa Y declarou salário de trabalhador inferior ao efetivamente pago, para reduzir contribuição previdenciária devida. A empresa Z pagou quantia anteriormente devida e subtraída à previdência social antes da prolação de sentença de primeiro grau. No que se refere a essas situações hipotéticas, julgue os seguintes itens.",
+   "enunciado": "A empresa Y cometeu o delito de sonegação previdenciária.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 82,
+   "pagina": 6,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "A empresa W descontou a contribuição previdenciária devida pelos trabalhadores e não a repassou à previdência social. A empresa X deixou de recolher as contribuições previdenciárias devidas, por estar passando por dificuldades financeiras. A empresa Y declarou salário de trabalhador inferior ao efetivamente pago, para reduzir contribuição previdenciária devida. A empresa Z pagou quantia anteriormente devida e subtraída à previdência social antes da prolação de sentença de primeiro grau. No que se refere a essas situações hipotéticas, julgue os seguintes itens.",
+   "enunciado": "A empresa Z tem direito à extinção da punibilidade, pelo\npagamento da quantia anteriormente subtraída à previdência\nsocial.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 83,
+   "pagina": 6,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Com relação aos recursos das decisões administrativas no âmbito do procedimento previdenciário, julgue os itens subsequentes.",
+   "enunciado": "Compete ao Conselho de Recursos da Previdência Social\njulgar os recursos de ofício interpostos contra decisões que\ntenham anulado lançamento de crédito previdenciário.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 84,
+   "pagina": 6,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Com relação aos recursos das decisões administrativas no âmbito do procedimento previdenciário, julgue os itens subsequentes.",
+   "enunciado": "Compete ao Conselho de Recursos da Previdência Social\njulgar os recursos interpostos contra decisões proferidas em\nprocessos de supervisão e de fiscalização de regimes\npróprios de previdência social.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 85,
+   "pagina": 6,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Com relação aos recursos das decisões administrativas no âmbito do procedimento previdenciário, julgue os itens subsequentes.",
+   "enunciado": "Se o recorrente propuser ação com objeto idêntico ao do\nrecurso interposto por ele perante o Conselho de Recursos da\nPrevidência Social, será automática a sua desistência do\nrecurso.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 86,
+   "pagina": 6,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "No que diz respeito ao plano de benefícios da previdência social, julgue os itens a seguir.",
+   "enunciado": "Não faz jus à pensão por morte o pretenso beneficiário que\ntenha sido condenado criminalmente, por sentença transitada\nem julgado, pela prática de crime que tenha dolosamente\ncausado a morte do segurado.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 87,
+   "pagina": 6,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "No que diz respeito ao plano de benefícios da previdência social, julgue os itens a seguir.",
+   "enunciado": "É constitucional o reconhecimento do direito previdenciário\nà pensão por morte para a pessoa que tenha mantido, durante\nlongo período e com aparência familiar, união com pessoa\ncasada, porquanto o concubinato se equipara, para fins de\nproteção estatal, às uniões afetivas resultantes do casamento\ne da união estável.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 88,
+   "pagina": 6,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "No que diz respeito ao plano de benefícios da previdência social, julgue os itens a seguir.",
+   "enunciado": "Para fins de concessão dos benefícios previdenciários e de\ncontagem recíproca, é admitida a contagem de tempo de\ncontribuição fictício.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 89,
+   "pagina": 6,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "No que diz respeito ao plano de benefícios da previdência social, julgue os itens a seguir.",
+   "enunciado": "O valor do salário de benefício não pode ser inferior ao de\num salário mínimo nem superior ao do limite máximo do\nsalário de contribuição na data de início do benefício.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 90,
+   "pagina": 6,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "No que diz respeito ao plano de benefícios da previdência social, julgue os itens a seguir.",
+   "enunciado": "O período de carência visa resguardar o equilíbrio financeiro\ne atuarial do sistema previdenciário.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 91,
+   "pagina": 6,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "No que diz respeito ao plano de benefícios da previdência social, julgue os itens a seguir.",
+   "enunciado": "O salário de benefício do segurado que contribui em razão de\natividades concomitantes é calculado com base na soma dos\nsalários de contribuição das atividades exercidas na data do\nrequerimento ou do óbito, ou no período básico de cálculo.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 92,
+   "pagina": 6,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Quanto à manutenção, à perda e ao restabelecimento da qualidade de segurado, julgue os itens que se seguem.",
+   "enunciado": "Aquele que esteja em gozo de benefício, exceto do\nauxílio-acidente, perde a qualidade de segurado,\nindependentemente de contribuições, sem limite de prazo.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 93,
+   "pagina": 6,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Quanto à manutenção, à perda e ao restabelecimento da qualidade de segurado, julgue os itens que se seguem.",
+   "enunciado": "O segurado facultativo mantém essa qualidade por, no\nmáximo, três meses após a cessação das contribuições.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 94,
+   "pagina": 6,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Quanto à manutenção, à perda e ao restabelecimento da qualidade de segurado, julgue os itens que se seguem.",
+   "enunciado": "Durante o período de graça, o segurado conserva todos os\ndireitos perante a previdência social.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 95,
+   "pagina": 6,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Em relação aos serviços previdenciários, julgue os itens seguintes.",
+   "enunciado": "Ao serviço social compete esclarecer aos beneficiários seus\ndireitos sociais e os meios de exercê-los, bem como\nestabelecer, juntamente com eles, o processo de solução dos\nproblemas que emergirem da sua relação com a previdência\nsocial, no âmbito interno da instituição e na dinâmica da\nsociedade.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 96,
+   "pagina": 6,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Em relação aos serviços previdenciários, julgue os itens seguintes.",
+   "enunciado": "Na hipótese de habilitação e reabilitação profissional, é\nvedada a concessão de auxílio para tratamento ou exame fora\ndo domicílio do beneficiário.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 97,
+   "pagina": 7,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Acerca dos benefícios decorrentes de legislações especiais e do seguro defeso, julgue os próximos itens.",
+   "enunciado": "A pensão especial concedida às pessoas com deficiência\nfísica conhecida como síndrome da talidomida, ressalvado o\ndireito à opção, é acumulável com rendimento ou\nremuneração que, a qualquer título, venha a ser pago pela\nUnião a seus beneficiários, salvo a indenização por dano\nmoral concedida por lei específica.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 98,
+   "pagina": 7,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Acerca dos benefícios decorrentes de legislações especiais e do seguro defeso, julgue os próximos itens.",
+   "enunciado": "Os seringueiros que trabalharam nos seringais da região\namazônica durante a Segunda Guerra Mundial, ainda que\npossuam meios para a sua subsistência e a da sua família,\ntêm direito ao pagamento de pensão mensal vitalícia\ncorrespondente ao valor de dois salários mínimos vigentes\nno país.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 99,
+   "pagina": 7,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Acerca dos benefícios decorrentes de legislações especiais e do seguro defeso, julgue os próximos itens.",
+   "enunciado": "A pensão especial devida aos ex-combatentes da Segunda\nGuerra Mundial e a seus dependentes corresponde à pensão\nmilitar deixada por segundo-tenente das Forças Armadas.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 100,
+   "pagina": 7,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Acerca dos benefícios decorrentes de legislações especiais e do seguro defeso, julgue os próximos itens.",
+   "enunciado": "A pensão especial concedida às vítimas de hemodiálise\nde Caruaru não será transmitida aos seus sucessores.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 101,
+   "pagina": 7,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Acerca dos benefícios decorrentes de legislações especiais e do seguro defeso, julgue os próximos itens.",
+   "enunciado": "A pensão especial concedida às vítimas do acidente nuclear\nocorrido em Goiânia – GO é transmissível ao cônjuge\nsobrevivente ou aos herdeiros, em caso de morte do\nbeneficiário.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 102,
+   "pagina": 7,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Acerca dos benefícios decorrentes de legislações especiais e do seguro defeso, julgue os próximos itens.",
+   "enunciado": "O regime do anistiado político compreende, entre outros, o\ndireito à reparação econômica, de caráter indenizatório, em\nprestação única ou mensal, permanente e continuada, sendo\nvedadas a readmissão e a promoção na inatividade.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 103,
+   "pagina": 7,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Acerca dos benefícios decorrentes de legislações especiais e do seguro defeso, julgue os próximos itens.",
+   "enunciado": "A pensão especial concedida às pessoas atingidas pela\nhanseníase, ressalvado o direito à opção, não é acumulável\ncom indenizações que a União venha a pagar em decorrência\nde responsabilização civil sobre os mesmos fatos, bem como\nnão impede a fruição de qualquer benefício previdenciário.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 104,
+   "pagina": 7,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Acerca dos benefícios decorrentes de legislações especiais e do seguro defeso, julgue os próximos itens.",
+   "enunciado": "A pensão especial destinada às crianças com síndrome\ncongênita do zika vírus nascidas entre 1.º de janeiro de 2015\ne 31 de dezembro de 2019 e beneficiárias do benefício de\nprestação continuada é mensal, vitalícia e intransferível,\ntendo o valor de um salário mínimo.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 105,
+   "pagina": 7,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Acerca dos benefícios decorrentes de legislações especiais e do seguro defeso, julgue os próximos itens.",
+   "enunciado": "O seguro-desemprego concedido, durante o período de\ndefeso, ao pescador profissional que exerce a atividade\npesqueira de forma artesanal é transferível a outrem.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 106,
+   "pagina": 7,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "A seguridade social compreende um conjunto integrado de ações de iniciativa dos poderes públicos e da sociedade, destinado a assegurar o direito relativo à saúde, à previdência e à assistência social. A esse respeito, julgue os itens a seguir.",
+   "enunciado": "São princípios da seguridade social a universalidade da\ncobertura e do atendimento, a seletividade e distributividade\nna prestação dos benefícios e serviços e a progressividade na\nforma de participação no custeio.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 107,
+   "pagina": 7,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "A seguridade social compreende um conjunto integrado de ações de iniciativa dos poderes públicos e da sociedade, destinado a assegurar o direito relativo à saúde, à previdência e à assistência social. A esse respeito, julgue os itens a seguir.",
+   "enunciado": "O direito à saúde deve ser garantido mediante políticas\nsociais e econômicas que assegurem o acesso universal e\nigualitário às ações e aos serviços voltados para sua\npromoção, proteção e recuperação, promovidos por meio de\nrede regionalizada e hierarquizada e integrados em sistema\núnico.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 108,
+   "pagina": 7,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "A seguridade social compreende um conjunto integrado de ações de iniciativa dos poderes públicos e da sociedade, destinado a assegurar o direito relativo à saúde, à previdência e à assistência social. A esse respeito, julgue os itens a seguir.",
+   "enunciado": "A previdência social tem a finalidade de assegurar aos seus\ncontribuintes a proteção em face de eventos como\nincapacidade, idade avançada, desemprego voluntário e\nreclusão ou morte daqueles de quem dependam\neconomicamente.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 109,
+   "pagina": 7,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "A seguridade social compreende um conjunto integrado de ações de iniciativa dos poderes públicos e da sociedade, destinado a assegurar o direito relativo à saúde, à previdência e à assistência social. A esse respeito, julgue os itens a seguir.",
+   "enunciado": "A assistência social será prestada a quem dela necessitar,\nindependentemente de contribuição, a fim de garantir, entre\noutros objetivos, a proteção à maternidade, à infância e\nà pessoa com deficiência.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 110,
+   "pagina": 7,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "A seguridade social compreende um conjunto integrado de ações de iniciativa dos poderes públicos e da sociedade, destinado a assegurar o direito relativo à saúde, à previdência e à assistência social. A esse respeito, julgue os itens a seguir.",
+   "enunciado": "A seguridade social será financiada por toda a sociedade,\nde forma direta e indireta, mediante recursos provenientes\nda União, dos estados, do Distrito Federal, dos municípios e\nde contribuições sociais como as incidentes sobre a receita\nde concursos de prognósticos.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 111,
+   "pagina": 7,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Quanto ao Regime Geral de Previdência Social (RGPS), seus segurados e respectivos dependentes, julgue os próximos itens.",
+   "enunciado": "São segurados obrigatórios da previdência social o servidor\npúblico ocupante de cargo em comissão, sem vínculo efetivo\ncom a União, com autarquias, inclusive em regime especial,\ne com fundações públicas federais, e a pessoa física que\nexerce, por conta própria, com finalidade de lucro, atividade\neconômica de natureza urbana.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 112,
+   "pagina": 7,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Quanto ao Regime Geral de Previdência Social (RGPS), seus segurados e respectivos dependentes, julgue os próximos itens.",
+   "enunciado": "É vedada a filiação ao RGPS, na qualidade de segurado\nfacultativo, de pessoa participante de regime próprio de\nprevidência social, salvo na hipótese de afastamento sem\nvencimento e desde que não permitida, nesta condição,\ncontribuição ao respectivo regime próprio.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 113,
+   "pagina": 7,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Quanto ao Regime Geral de Previdência Social (RGPS), seus segurados e respectivos dependentes, julgue os próximos itens.",
+   "enunciado": "É beneficiário do RGPS, na condição de dependente do\nsegurado, o filho não emancipado, de qualquer condição,\nmenor de 24 anos de idade, desde que esteja matriculado em\ncurso de ensino superior ou de escola técnica.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 114,
+   "pagina": 7,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Quanto ao Regime Geral de Previdência Social (RGPS), seus segurados e respectivos dependentes, julgue os próximos itens.",
+   "enunciado": "O enteado, o menor sob guarda e o menor tutelado\nequiparam-se a filho do segurado, mediante declaração deste,\ndesde que comprovada a dependência econômica.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 115,
+   "pagina": 7,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "No que diz respeito ao benefício de prestação continuada e ao auxílio-inclusão conforme as disposições da Lei Orgânica da Assistência Social (LOAS), julgue os itens subsecutivos.",
+   "enunciado": "A assistência social é regida pelo princípio da supremacia\ndas exigências de rentabilidade econômica sobre o\natendimento às necessidades sociais.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 116,
+   "pagina": 7,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "No que diz respeito ao benefício de prestação continuada e ao auxílio-inclusão conforme as disposições da Lei Orgânica da Assistência Social (LOAS), julgue os itens subsecutivos.",
+   "enunciado": "Observados os demais critérios de elegibilidade definidos na\nLOAS, terão direito ao benefício de prestação continuada a\npessoa com deficiência ou a pessoa idosa com renda familiar\nmensal per capita igual ou inferior a um quarto do salário\nmínimo.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 117,
+   "pagina": 7,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "No que diz respeito ao benefício de prestação continuada e ao auxílio-inclusão conforme as disposições da Lei Orgânica da Assistência Social (LOAS), julgue os itens subsecutivos.",
+   "enunciado": "O pagamento do auxílio-inclusão não será acumulado com o\npagamento do benefício de prestação continuada.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 118,
+   "pagina": 7,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "No que diz respeito ao benefício de prestação continuada e ao auxílio-inclusão conforme as disposições da Lei Orgânica da Assistência Social (LOAS), julgue os itens subsecutivos.",
+   "enunciado": "Compete ao INSS a operacionalização do benefício de\nprestação continuada.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 119,
+   "pagina": 7,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Em relação à certidão de tempo de contribuição, à contagem recíproca e à compensação previdenciária, julgue os itens a seguir.",
+   "enunciado": "É vedada a emissão de certidão de tempo de contribuição\nreferente a períodos de contribuição posteriores à data da\naposentadoria no RGPS.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "E",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  },
+  {
+   "numero": 120,
+   "pagina": 7,
+   "disciplina": "Direito Previdenciário e Seguridade Social",
+   "assunto": null,
+   "texto_apoio": "Em relação à certidão de tempo de contribuição, à contagem recíproca e à compensação previdenciária, julgue os itens a seguir.",
+   "enunciado": "A compensação financeira entre os regimes de previdência\nserá realizada exclusivamente na contagem recíproca de\ntempo de contribuição não concomitante utilizado na\nconcessão da aposentadoria.",
+   "alternativas": {
+    "C": "Certo",
+    "E": "Errado"
+   },
+   "gabarito": "C",
+   "anulada": false,
+   "revisar": false,
+   "imagens": []
+  }
+ ]
+}

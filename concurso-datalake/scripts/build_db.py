@@ -22,6 +22,8 @@ CREATE TABLE IF NOT EXISTS provas (
     orgao TEXT NOT NULL,
     cargo TEXT NOT NULL,
     tipo TEXT,
+    -- "abcde" (múltipla escolha) ou "ce" (certo/errado, estilo Cebraspe)
+    formato TEXT NOT NULL DEFAULT 'abcde',
     pdf TEXT
 );
 CREATE TABLE IF NOT EXISTS questoes (
@@ -76,6 +78,10 @@ def main():
     for col in ("imagens", "justificativa"):
         if col not in cols:
             con.execute(f"ALTER TABLE questoes ADD COLUMN {col} TEXT")
+    cols_provas = {r[1] for r in con.execute("PRAGMA table_info(provas)")}
+    if "formato" not in cols_provas:
+        con.execute("ALTER TABLE provas ADD COLUMN formato TEXT "
+                    "NOT NULL DEFAULT 'abcde'")
 
     for gold_file in sorted(GOLD.glob("*.json")):
         doc = json.loads(gold_file.read_text(encoding="utf-8"))
@@ -84,13 +90,15 @@ def main():
         justificativas = carregar_justificativas(chave)
 
         con.execute(
-            """INSERT INTO provas (chave, banca, ano, orgao, cargo, tipo, pdf)
-               VALUES (?,?,?,?,?,?,?)
+            """INSERT INTO provas (chave, banca, ano, orgao, cargo, tipo,
+                                   formato, pdf)
+               VALUES (?,?,?,?,?,?,?,?)
                ON CONFLICT(chave) DO UPDATE SET banca=excluded.banca,
                  ano=excluded.ano, orgao=excluded.orgao, cargo=excluded.cargo,
-                 tipo=excluded.tipo, pdf=excluded.pdf""",
+                 tipo=excluded.tipo, formato=excluded.formato,
+                 pdf=excluded.pdf""",
             (chave, doc["banca"], doc["ano"], doc["orgao"], doc["cargo"],
-             doc.get("tipo"), doc.get("pdf")))
+             doc.get("tipo"), doc.get("formato", "abcde"), doc.get("pdf")))
         prova_id = con.execute(
             "SELECT id FROM provas WHERE chave=?", (chave,)).fetchone()[0]
 

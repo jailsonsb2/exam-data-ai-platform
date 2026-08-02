@@ -49,6 +49,26 @@ SYSTEM = (
     "texto da justificativa."
 )
 
+# itens certo/errado (Cebraspe) não têm distratoras: o que importa é apontar a
+# palavra ou o requisito que torna a assertiva certa ou errada
+SYSTEM_CE = (
+    "Você é um professor especialista em concursos públicos, explicando itens "
+    "de prova da banca Cebraspe (formato certo/errado).\n"
+    "Para cada item, escreva uma justificativa em português com 3 a 6 frases:\n"
+    "1) diga por que o item está CERTO ou ERRADO, citando a base legal "
+    "(artigo da lei, decreto ou súmula) quando houver;\n"
+    "2) se estiver errado, aponte exatamente a palavra ou o requisito que o "
+    "torna incorreto e como seria a redação correta;\n"
+    "3) se houver conta, mostre o cálculo de forma compacta em texto plano "
+    "(sem LaTeX).\n"
+    "Não repita o enunciado. Não use markdown nem títulos. Responda apenas com o "
+    "texto da justificativa."
+)
+
+
+def system_de(doc: dict) -> str:
+    return SYSTEM_CE if doc.get("formato") == "ce" else SYSTEM
+
 
 class CotaDiariaEsgotada(Exception):
     """429 do free tier: nada a fazer hoje, o progresso já está salvo."""
@@ -60,11 +80,16 @@ def montar_partes(doc: dict, q: dict) -> list:
         f"Questão {q['numero']} | Disciplina: {q.get('disciplina')}\n\n"
     )
     if q.get("texto_apoio"):
-        texto += f"Texto de apoio:\n{q['texto_apoio']}\n\n"
-    texto += f"Enunciado:\n{q['enunciado']}\n\nAlternativas:\n"
-    for letra, alt in q["alternativas"].items():
-        texto += f"({letra}) {alt}\n"
-    texto += f"\nGabarito oficial: ({q['gabarito']})"
+        texto += f"Texto de apoio (comando do bloco):\n{q['texto_apoio']}\n\n"
+    if doc.get("formato") == "ce":
+        rotulo = "CERTO" if q["gabarito"] == "C" else "ERRADO"
+        texto += (f"Item a julgar:\n{q['enunciado']}\n\n"
+                  f"Gabarito oficial: {rotulo}")
+    else:
+        texto += f"Enunciado:\n{q['enunciado']}\n\nAlternativas:\n"
+        for letra, alt in q["alternativas"].items():
+            texto += f"({letra}) {alt}\n"
+        texto += f"\nGabarito oficial: ({q['gabarito']})"
 
     partes = []
     for rel in q.get("imagens") or []:
@@ -84,7 +109,7 @@ def gerar(api_key: str, doc: dict, q: dict, tentativas: int = 3) -> tuple[str, i
     url = (f"https://generativelanguage.googleapis.com/v1beta/models/"
            f"{MODEL}:generateContent?key={api_key}")
     payload = {
-        "system_instruction": {"parts": [{"text": SYSTEM}]},
+        "system_instruction": {"parts": [{"text": system_de(doc)}]},
         "contents": [{"role": "user", "parts": montar_partes(doc, q)}],
         "generationConfig": {"maxOutputTokens": 2048, "temperature": 0.3},
     }

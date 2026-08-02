@@ -1,8 +1,8 @@
 # 🎯 Concurso Data Lake
 
-> Sistema pessoal de treino com **questões reais de concurso** (FGV e FCC),
-> repetição espaçada, justificativas por IA e treino de redação — focado nos
-> cargos **Dataprev — Perfil 4 / Inteligência da Informação (FGV)** e
+> Sistema pessoal de treino com **questões reais de concurso** (FGV, FCC e
+> Cebraspe), repetição espaçada, justificativas por IA e treino de redação —
+> focado nos cargos **Dataprev — Perfil 4 / Inteligência da Informação (FGV)** e
 > **ABGF — E05 (FCC)**.
 
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)
@@ -10,7 +10,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-data-003B57?logo=sqlite&logoColor=white)
 ![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-frontend-F7DF1E?logo=javascript&logoColor=black)
 
-**670 questões** extraídas de 9 provas reais (2023–2026), com gabarito
+**790 questões** extraídas de 10 provas reais (2022–2026), com gabarito
 oficial, tagueadas por disciplina e assunto, prontas para treinar no
 navegador.
 
@@ -77,6 +77,7 @@ a mesma repetição espaçada, os mesmos filtros e as mesmas estatísticas.
 | | |
 |---|---|
 | 📴 **Offline** | Um service worker guarda o app e as questões no aparelho: funciona em túnel, metrô e ônibus sem sinal. Os recortes de PDF entram no cache conforme você esbarra neles |
+| 👤 **Perfis** | Mais de uma pessoa usando o mesmo aparelho: cada perfil tem seu histórico, sua repetição espaçada, suas redações e sua chave do Gemini |
 | 💾 **Progresso local** | Respostas, revisões e redações ficam no `localStorage` **deste aparelho** — não sincroniza com o PC |
 | 📤 **Backup** | Aba **Ajustes** exporta e importa o progresso em JSON (a importação mescla, então dá para juntar aparelhos) |
 | 🌙 **Modo escuro** | Automático, seguindo o tema do celular |
@@ -84,10 +85,36 @@ a mesma repetição espaçada, os mesmos filtros e as mesmas estatísticas.
 | 📵 **Fora dos buscadores** | `robots.txt` + `X-Robots-Tag: noindex` — é conteúdo de prova das bancas |
 
 O histórico que você já fez no PC viaja junto no primeiro acesso: o export
-leva as tentativas do SQLite e o site as semeia uma única vez.
+leva as tentativas do SQLite e o site as semeia uma única vez — **no primeiro
+perfil apenas**, para que um perfil novo não comece com as respostas de outra
+pessoa.
 
-> ⚠️ A URL da Netlify é pública (proteção por senha só existe no plano pago).
-> Não divulgue o link.
+### 👤 Perfis
+
+O site tem **uma senha só** (Basic Auth na edge function da Netlify): quem a
+tem, entra. Os perfis não são autenticação — são a separação do progresso de
+cada pessoa **dentro de um mesmo aparelho**. O nome de quem está estudando
+fica sempre visível no cabeçalho; tocar nele abre a tela de trocar/criar.
+
+| | |
+|---|---|
+| Onde ficam | `tc.<id>.tentativas`, `tc.<id>.redacoes`, `tc.<id>.geminiKey` no `localStorage` |
+| Quem cria | Qualquer pessoa que passe da senha do site cria o próprio perfil |
+| Migração | Quem já usava o site antes dos perfis tem o histórico movido para o perfil "Meu progresso" na primeira abertura — nada se perde |
+| Backup | Exporta e importa **o perfil aberto**; o arquivo carrega o nome do perfil e a importação avisa se você estiver misturando históricos de pessoas diferentes |
+
+⚠️ Perfis **não** sincronizam entre aparelhos: quem estudar no celular e no PC
+terá dois históricos (use o backup em JSON para juntar). Também não protegem
+um do outro — qualquer pessoa com o aparelho pode trocar de perfil, como no
+seletor de perfis da Netflix.
+
+O app FastAPI do PC (`app/main.py`) continua de usuário único: lá o histórico
+é o próprio SQLite.
+
+> ⚠️ A senha do site é única e compartilhada, e roda na borda
+> (`netlify/edge-functions/auth.ts`, variáveis `SITE_USER`/`SITE_PASS`), antes
+> de qualquer arquivo — inclusive `dados/questoes.json` e os recortes de PDF.
+> Quem recebe a senha tem o banco de provas inteiro: divulgue com critério.
 
 ---
 
@@ -156,7 +183,7 @@ aprendizagem:
 | Erro repetido no mesmo assunto | 20–30 min de teoria focada, depois voltar às questões |
 | 1x por semana | **Redação** com cronômetro + correção por IA |
 
-⚠️ Questões não cobrem o edital sozinhas: o que nunca caiu nessas 9 provas
+⚠️ Questões não cobrem o edital sozinhas: o que nunca caiu nessas 10 provas
 você nunca vai errar aqui. Cruze a aba Desempenho com o edital de tempos em
 tempos.
 
@@ -187,7 +214,7 @@ PROVAS CONCURSO/               ← bronze: PDFs originais (provas + gabaritos + 
     └── site/                  ← gerado: é o que a Netlify publica
 ```
 
-O extrator tem dois estilos de parse:
+O extrator tem três estilos de parse:
 
 - **`fgv`** — duas colunas, número da questão em linha própria, textos de
   apoio "Use the following TEXT..." atribuídos às próximas N questões.
@@ -197,6 +224,15 @@ O extrator tem dois estilos de parse:
   ponto, e ressincronização quando o marcador da questão se perde — questões
   com defeito residual ganham flag `revisar` + recorte PNG, nada fica
   intreinável.
+- **`cespe`** — itens certo/errado, número inline ("51 A Constituição..."),
+  sem alternativas impressas no caderno. O comando do bloco ("Acerca de X,
+  julgue os itens a seguir") e os textos de apoio não têm marcador nenhum:
+  são detectados por **espaçamento vertical** — o item só termina em fim de
+  frase, e daí um espaço maior (ou a virada de coluna) indica outro bloco,
+  que vira o `texto_apoio` corrente até ser substituído. O primeiro item de
+  cada bloco leva junto o recorte do apoio, para que planilhas e imagens sem
+  camada de texto (Excel, Outlook) apareçam na tela. `colunas_por_pagina`
+  cobre as páginas que trocam de diagramação no meio do caderno.
 
 ---
 
@@ -213,8 +249,21 @@ O extrator tem dois estilos de parse:
 | FCC 2023 · TRT-15 · Analista Judiciário TI (Tipo 2) | 60 | q21–60 |
 | FCC 2023 · TRT-18 · Analista Judiciário Área Judiciária | 60 | (Direito) |
 | FCC 2025 · Prefeitura de SP · Analista TIC | 90 | q21–90 |
+| CEBRASPE 2022 · INSS · Técnico do Seguro Social (caderno 787, 11/12) | 120 (2 anuladas) | (certo/errado) |
 
-**Total: 670 questões (661 respondíveis; 660 no site do celular).**
+**Total: 790 questões (779 respondíveis; 778 no site do celular).**
+
+⚠️ O INSS 2022 aplicou a prova **duas vezes**, com cadernos e gabaritos
+diferentes: **760** (27/11/2022) e **787** (11/12/2022). O código fica no
+cabeçalho de cada página (`787CB1_01N500940`) e precisa bater com o número do
+arquivo de gabarito — parear errado não quebra nada, só troca a resposta de
+dezenas de itens em silêncio. Por isso o config declara `caderno` e o extrator
+confere (`conferir_caderno`).
+
+A prova do INSS é **certo/errado**, não múltipla escolha: cada item vale um
+julgamento e o app desenha só os botões **(C) Certo** e **(E) Errado**. O
+formato fica gravado em `provas.formato` (`ce` ou `abcde`), então provas das
+duas bancas convivem no mesmo banco e na mesma sessão de treino.
 
 A ALEGO q61 ("selecione a visualização do tipo Boxplot") fica de fora do site
 estático: as cinco alternativas são gráficos que a extração não capturou, e
@@ -236,8 +285,8 @@ cinco letras para você escolher lendo a imagem.
 
 ## 💡 Justificativas por IA
 
-**Cobertura atual: 661/661 questões respondíveis (100%)** — as nove provas
-têm justificativa em todas as questões.
+**Cobertura atual: 778/778 questões do site (100%)** — as dez provas têm
+justificativa em todas as questões respondíveis.
 
 O bloco de Ciência de Dados/ML e Matemática da Dataprev (q41–70) tem
 justificativas **escritas e revisadas manualmente**; o restante foi gerado em
@@ -289,7 +338,8 @@ para o modelo ler o que a extração de texto não captura.
 
 ## 🗺️ Roadmap
 
-- [x] Extração FGV (6 provas) e FCC (3 provas) com validação de gabarito
+- [x] Extração FGV (6 provas), FCC (3 provas) e Cebraspe certo/errado (1 prova)
+      com validação de gabarito e conferência do caderno
 - [x] App de treino com filtros, correção imediata e recortes de PDF
 - [x] Justificativas (manuais + geração em lote via Claude API)
 - [x] Sessão do dia com repetição espaçada (1/3/7/15 dias)

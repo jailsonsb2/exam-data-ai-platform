@@ -65,6 +65,7 @@ const ctx = {
   window: { scrollTo() {}, addEventListener() {} },
   alert: (m) => console.log("   [alert]", m),
   confirm: () => true,
+  prompt: (_m, padrao) => padrao,
   fetch: async (u) => ({ ok: true, status: 200, json: async () => JSON.parse(dados) }),
   setInterval: () => 0, clearInterval: () => {},
   Blob: function () {}, URL: { createObjectURL: () => "", revokeObjectURL() {} },
@@ -90,7 +91,9 @@ setTimeout(() => {
   const nq = rodar("DADOS.questoes.length");
   ok("questoes carregadas", nq > 600, `${nq}`);
   ok("mapa de questoes", rodar("QUESTOES.size") === nq);
-  ok("provas carregadas", rodar("PROVAS.size") === 9);
+  ok("provas carregadas",
+     rodar("PROVAS.size") === rodar("DADOS.provas.length"),
+     `${rodar("PROVAS.size")}`);
   ok("tentativas semeadas do SQLite", rodar("lerTentativas().length") === 10,
      `${rodar("lerTentativas().length")}`);
   ok("filtros de disciplina montados",
@@ -255,10 +258,111 @@ setTimeout(() => {
   ok("questao normal desenha as alternativas com texto",
      rodar("_botoes2.length") === 5 &&
      rodar("_botoes2.every(b => !b.classList.contains('so-letra'))"));
+  // provas certo/errado (Cebraspe): duas alternativas, mesmo com recorte do PDF
+  rodar(`
+    const provaCE = [...PROVAS.values()].find(p => p.formato === "ce");
+    const ce = provaCE
+      ? DADOS.questoes.filter(q => q.prova_id === provaCE.id)
+      : [];
+    globalThis._ce = ce.length;
+    if (ce.length) {
+      estado.fila = [ce.find(q => (q.imagens||[]).length) || ce[0]];
+      estado.indice = 0; renderQuestao();
+      globalThis._botoesCE = document.getElementById('q-alternativas')._filhos;
+    }
+  `);
+  if (rodar("_ce")) {
+    ok("prova certo/errado desenha so as letras C e E",
+       rodar("_botoesCE.map(b => b.dataset.letra).join('')") === "CE",
+       rodar("_botoesCE.map(b => b.dataset.letra).join(',')"));
+    ok("as alternativas certo/errado vem com texto",
+       rodar("_botoesCE.every(b => !b.classList.contains('so-letra'))"));
+    ok("o gabarito das questoes certo/errado e sempre C ou E",
+       rodar(`DADOS.questoes.filter(q => PROVAS.get(q.prova_id).formato === "ce")
+                            .every(q => q.gabarito === "C" || q.gabarito === "E")`));
+  }
+
   ok("toda questao tem enunciado ou imagem",
      rodar("DADOS.questoes.every(q => (q.enunciado && q.enunciado.trim()) || (q.imagens||[]).length)"));
   ok("toda questao aponta para uma prova valida",
      rodar("DADOS.questoes.every(q => PROVAS.has(q.prova_id))"));
+
+  // por último: mexer em perfil troca o namespace e zeraria os testes acima
+  console.log("\n=== perfis ===");
+  ok("abre com um perfil ativo",
+     rodar("lerPerfis().length") === 1 && !!rodar("perfilAtual.nome"),
+     rodar("perfilAtual.nome"));
+  ok("as chaves de dados seguem o perfil",
+     rodar("CHAVES.tentativas") === `tc.${rodar("perfilAtual.id")}.tentativas`,
+     rodar("CHAVES.tentativas"));
+
+  rodar(`
+    globalThis._p1 = perfilAtual.id;
+    globalThis._n1 = lerTentativas().length;
+    globalThis._novo = criarPerfil("Fulano");
+    usarPerfil(_novo.id);
+  `);
+  ok("perfil novo comeca sem historico",
+     rodar("lerTentativas().length") === 0,
+     `${rodar("lerTentativas().length")} respostas`);
+  ok("perfil novo nao herda o historico semeado do PC",
+     rodar("lerTentativas().length") === 0 && rodar("_n1") > 0);
+
+  rodar(`
+    gravar(CHAVES.tentativas, [{
+      questao_id: DADOS.questoes[0].id, resposta: "A", correta: 1,
+      respondida_em: new Date().toISOString(),
+    }]);
+    globalThis._nFulano = lerTentativas().length;
+    usarPerfil(_p1);
+  `);
+  ok("voltar ao perfil anterior devolve o historico dele",
+     rodar("lerTentativas().length") === rodar("_n1"),
+     `${rodar("lerTentativas().length")} de ${rodar("_n1")}`);
+  ok("o historico de um perfil nao vaza para o outro",
+     rodar("_nFulano") === 1 && rodar("lerTentativas().length") !== 1);
+
+  rodar(`
+    globalThis._antes = lerPerfis().length;
+    apagarPerfil(_novo.id);
+    globalThis._depois = lerPerfis().length;
+    globalThis._sobrou = localStorage.getItem("tc." + _novo.id + ".tentativas");
+  `);
+  ok("apagar perfil remove o perfil e os dados dele",
+     rodar("_depois") === rodar("_antes") - 1 && rodar("_sobrou") === null);
+
+  rodar(`
+    globalThis._unico = (() => { try { apagarPerfil(perfilAtual.id); } catch (e) {}
+                                 return lerPerfis().length; })();
+  `);
+  ok("nao da para apagar o unico perfil", rodar("_unico") === 1);
+
+  rodar(`
+    const reciclado = criarPerfil("Beltrano");
+    globalThis._idReciclado = reciclado.id === _novo.id;
+    apagarPerfil(reciclado.id);
+  `);
+  ok("o id de um perfil apagado nao volta a ser usado",
+     rodar("_idReciclado") === false);
+
+  // instalação anterior aos perfis: o histórico não pode sumir na atualização
+  armazem.clear();
+  rodar(`
+    localStorage.setItem("tc.tentativas", JSON.stringify([{
+      questao_id: DADOS.questoes[0].id, resposta: "A", correta: 1,
+      respondida_em: "2026-01-01T00:00:00.000Z",
+    }]));
+    localStorage.setItem("tc.geminiKey", "chave-antiga");
+    garantirPerfil();
+    globalThis._migradas = lerTentativas().length;
+    globalThis._chave = localStorage.getItem(CHAVES.apiKey);
+    globalThis._legado = localStorage.getItem("tc.tentativas");
+  `);
+  ok("instalacao antiga migra o historico para o primeiro perfil",
+     rodar("_migradas") === 1, `${rodar("_migradas")} respostas`);
+  ok("a chave da API tambem migra", rodar("_chave") === "chave-antiga");
+  ok("as chaves sem perfil somem depois de migradas",
+     rodar("_legado") === null);
 
   console.log(falhas ? `\n${falhas} FALHA(S)` : "\nTodos os testes passaram.");
   process.exit(falhas ? 1 : 0);

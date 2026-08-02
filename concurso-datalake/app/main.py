@@ -63,7 +63,8 @@ class Resposta(BaseModel):
 def filtros():
     con = db()
     provas = [dict(r) for r in con.execute(
-        "SELECT id, chave, banca, ano, orgao, cargo FROM provas ORDER BY ano DESC")]
+        "SELECT id, chave, banca, ano, orgao, cargo, formato "
+        "FROM provas ORDER BY ano DESC")]
     disciplinas = [dict(r) for r in con.execute(
         """SELECT disciplina, COUNT(*) AS n FROM questoes
            WHERE gabarito IS NOT NULL GROUP BY disciplina ORDER BY MIN(numero)""")]
@@ -101,7 +102,8 @@ def questoes(prova_id: int | None = None, disciplina: str | None = None,
     sql = f"""
         SELECT q.id, q.numero, q.pagina, q.disciplina, q.assunto, q.texto_apoio,
                q.enunciado, q.alt_a, q.alt_b, q.alt_c, q.alt_d, q.alt_e,
-               q.revisar, q.imagens, p.banca, p.ano, p.orgao, p.cargo, p.pdf
+               q.revisar, q.imagens, p.banca, p.ano, p.orgao, p.cargo,
+               p.formato, p.pdf
         FROM questoes q JOIN provas p ON p.id = q.prova_id
         WHERE {' AND '.join(where)}
         ORDER BY RANDOM() LIMIT ?"""
@@ -117,7 +119,8 @@ def questoes(prova_id: int | None = None, disciplina: str | None = None,
 CAMPOS_QUESTAO = """
         SELECT q.id, q.numero, q.pagina, q.disciplina, q.assunto, q.texto_apoio,
                q.enunciado, q.alt_a, q.alt_b, q.alt_c, q.alt_d, q.alt_e,
-               q.revisar, q.imagens, p.banca, p.ano, p.orgao, p.cargo, p.pdf
+               q.revisar, q.imagens, p.banca, p.ano, p.orgao, p.cargo,
+               p.formato, p.pdf
         FROM questoes q JOIN provas p ON p.id = q.prova_id"""
 
 

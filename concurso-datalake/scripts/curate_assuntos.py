@@ -66,7 +66,59 @@ REGRAS = [
      "Infra, Cloud e APIs"),
     (r"[ée]tica|vi[ée]s algor[íi]tmico|explicabilidade|XAI", "Ética e IA Responsável"),
 ]
-REGRAS = [(re.compile(p, re.I), a) for p, a in REGRAS]
+
+# o bloco de conhecimentos específicos do INSS é uma disciplina só com 70 itens:
+# sem uma tag fina não dá para treinar por tema dentro dela
+DISCIPLINAS_PREVIDENCIARIO = re.compile(
+    r"Previdenci[áa]rio|Seguridade Social", re.I)
+
+REGRAS_PREVIDENCIARIO = [
+    (r"\bLOAS\b|Lei Org[âa]nica da Assist[êe]ncia Social"
+     r"|benef[íi]cio de presta[çc][ãa]o continuada|aux[íi]lio-inclus[ãa]o",
+     "Assistência Social (LOAS e BPC)"),
+    (r"pens[ãa]o especial|ex-combatente|anistiado|hemodi[áa]lise"
+     r"|acidente nuclear|hansen[íi]ase|zika|talidomida|seguro-desemprego",
+     "Pensões Especiais e Anistia"),
+    (r"certid[ãa]o de tempo de contribui[çc][ãa]o|contagem rec[íi]proca"
+     r"|compensa[çc][ãa]o (financeira|previdenci[áa]ria)",
+     "Certidão de Tempo de Contribuição e Compensação"),
+    (r"decad[êe]ncia|prescri[çc][ãa]o|prazo de|apropria[çc][ãa]o ind[ée]bita"
+     r"|sonega[çc][ãa]o previdenci[áa]ria|estelionato|fraudulentamente|fraude"
+     r"|cassar o benef[íi]cio",
+     "Decadência, Prescrição e Crimes Previdenciários"),
+    (r"pens[ãa]o por morte|dependente|enteado|menor (sob guarda|tutelado)"
+     r"|companheir|c[ôo]njuge|concubinato|uni[ãa]o est[áa]vel",
+     "Dependentes e Pensão por Morte"),
+    (r"aposentadoria por (invalidez|incapacidade)|incapacita|incapacidade"
+     r"|aux[íi]lio-doen[çc]a|aux[íi]lio-acidente|acidente de trabalho|acident[áa]rio",
+     "Benefícios por Incapacidade e Acidente"),
+    (r"sal[áa]rio de contribui[çc][ãa]o|al[íi]quota|custeio"
+     r"|financiamento da seguridade|contribui[çc][ãa]o (social|previdenci[áa]ria)"
+     r"|isen[çc][ãa]o|receita da seguridade|recolh|leil[ãa]o",
+     "Custeio e Salário de Contribuição"),
+    (r"segurado (obrigat[óo]rio|especial|facultativ)|contribuinte individual"
+     r"|trabalhador avulso|emprega(do|dor) dom[ée]stico|pesca artesanal"
+     r"|pescador|motorista de aplicativo",
+     "Segurados do RGPS"),
+    (r"filia[çc][ãa]o|filiar|inscri[çc][ãa]o|inscrever",
+     "Filiação e Inscrição no RGPS"),
+    (r"sal[áa]rio de benef[íi]cio|car[êe]ncia|renda mensal|reajust"
+     r"|per[íi]odo de gra[çc]a|atividades concomitantes|tempo de contribui[çc][ãa]o",
+     "Plano de Benefícios: Cálculo e Carência"),
+    (r"aposentadoria|aposentar", "Aposentadorias"),
+    (r"compete ao INSS|compet[êe]ncia|Receita Federal",
+     "Competências do INSS e da RFB"),
+    (r"princ[íi]pio|fonte (formal|do direito)|hist[óo]ric|Constitui[çc][ãa]o"
+     r"|seguridade social|assist[êe]ncia social|analogia|costumes|lacuna",
+     "Seguridade Social: Conceito, Fontes e Princípios"),
+]
+
+# (disciplinas que a regra cobre, regras)
+GRUPOS = [
+    (DISCIPLINAS_DADOS, [(re.compile(p, re.I), a) for p, a in REGRAS]),
+    (DISCIPLINAS_PREVIDENCIARIO,
+     [(re.compile(p, re.I), a) for p, a in REGRAS_PREVIDENCIARIO]),
+]
 
 
 def main():
@@ -82,16 +134,19 @@ def main():
         alvo = sem_tag = novos = 0
         for q in doc["questoes"]:
             disc = q.get("disciplina") or ""
-            if not DISCIPLINAS_DADOS.search(disc):
+            regras = next((r for gate, r in GRUPOS if gate.search(disc)), None)
+            if regras is None:
                 continue
             alvo += 1
             k = str(q["numero"])
             if assuntos.get(k):
                 continue  # curadoria manual prevalece
+            # nas provas certo/errado as "alternativas" são fixas (Certo/Errado)
+            # e não dizem nada; o comando do bloco é que dá o contexto
             texto = " ".join([q["enunciado"]]
                              + list(q["alternativas"].values())
                              + ([q["texto_apoio"]] if q.get("texto_apoio") else []))
-            for rx, assunto in REGRAS:
+            for rx, assunto in regras:
                 if rx.search(texto):
                     assuntos[k] = assunto
                     novos += 1
@@ -101,7 +156,7 @@ def main():
 
         cur_path.write_text(
             json.dumps(cur, ensure_ascii=False, indent=1), encoding="utf-8")
-        print(f"{chave}: {alvo} questões de dados, +{novos} tags novas, "
+        print(f"{chave}: {alvo} questões elegíveis, +{novos} tags novas, "
               f"{sem_tag} sem tag")
 
 

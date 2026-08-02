@@ -37,6 +37,26 @@ SYSTEM = (
     "texto da justificativa."
 )
 
+# itens certo/errado (Cebraspe) não têm distratoras: o que importa é apontar a
+# palavra ou o requisito que torna a assertiva certa ou errada
+SYSTEM_CE = (
+    "Você é um professor especialista em concursos públicos, explicando itens "
+    "de prova da banca Cebraspe (formato certo/errado).\n"
+    "Para cada item, escreva uma justificativa em português com 3 a 6 frases:\n"
+    "1) diga por que o item está CERTO ou ERRADO, citando a base legal "
+    "(artigo da lei, decreto ou súmula) quando houver;\n"
+    "2) se estiver errado, aponte exatamente a palavra ou o requisito que o "
+    "torna incorreto e como seria a redação correta;\n"
+    "3) se houver conta, mostre o cálculo de forma compacta em texto plano "
+    "(sem LaTeX).\n"
+    "Não repita o enunciado. Não use markdown nem títulos. Responda apenas com o "
+    "texto da justificativa."
+)
+
+
+def system_de(doc: dict) -> str:
+    return SYSTEM_CE if doc.get("formato") == "ce" else SYSTEM
+
 
 def montar_conteudo(doc: dict, q: dict) -> list:
     texto = (
@@ -44,11 +64,16 @@ def montar_conteudo(doc: dict, q: dict) -> list:
         f"Questão {q['numero']} | Disciplina: {q.get('disciplina')}\n\n"
     )
     if q.get("texto_apoio"):
-        texto += f"Texto de apoio:\n{q['texto_apoio']}\n\n"
-    texto += f"Enunciado:\n{q['enunciado']}\n\nAlternativas:\n"
-    for letra, alt in q["alternativas"].items():
-        texto += f"({letra}) {alt}\n"
-    texto += f"\nGabarito oficial: ({q['gabarito']})"
+        texto += f"Texto de apoio (comando do bloco):\n{q['texto_apoio']}\n\n"
+    if doc.get("formato") == "ce":
+        rotulo = "CERTO" if q["gabarito"] == "C" else "ERRADO"
+        texto += (f"Item a julgar:\n{q['enunciado']}\n\n"
+                  f"Gabarito oficial: {rotulo}")
+    else:
+        texto += f"Enunciado:\n{q['enunciado']}\n\nAlternativas:\n"
+        for letra, alt in q["alternativas"].items():
+            texto += f"({letra}) {alt}\n"
+        texto += f"\nGabarito oficial: ({q['gabarito']})"
 
     conteudo = []
     for rel in q.get("imagens") or []:
@@ -89,7 +114,7 @@ def processar_prova(client: anthropic.Anthropic, gold_file: Path, limit: int) ->
                 model=MODEL,
                 max_tokens=2048,
                 thinking={"type": "adaptive"},
-                system=SYSTEM,
+                system=system_de(doc),
                 messages=[{"role": "user", "content": montar_conteudo(doc, q)}],
             )
         except anthropic.RateLimitError:

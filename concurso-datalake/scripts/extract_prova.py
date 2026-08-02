@@ -344,6 +344,65 @@ PROVAS = {
             r"^\d{1,2}$",
         ],
     },
+    "cebraspe-2022-inss-tecnico-seguro-social": {
+        "pdf": "cebraspe-2022-inss-tecnico-do-seguro-social-prova.pdf",
+        "banca": "CEBRASPE",
+        "ano": 2022,
+        "orgao": "INSS",
+        "cargo": "Técnico do Seguro Social",
+        "tipo": "Aplicação 11/12/2022",
+        "estilo": "cespe",
+        "formato": "ce",
+        # código do caderno impresso no cabeçalho: amarra a prova ao gabarito
+        "caderno": "787",
+        "colunas": 2,
+        # a página do raciocínio lógico (itens 46-50) é impressa em uma coluna só
+        "colunas_por_pagina": {4: 1},
+        # itens cuja planilha/imagem só existe como figura no PDF
+        "revisar_extra": (44, 45),
+        "n_questoes": 120,
+        # Gabaritos oficiais DEFINITIVOS ('X' = item anulado):
+        #   itens 1-50   → 787_INSS_CB1_01 (conhecimentos básicos)
+        #   itens 51-120 → 787_INSS_001_01 (conhecimentos específicos)
+        #
+        # ATENÇÃO: o INSS 2022 teve DUAS aplicações, com cadernos e gabaritos
+        # diferentes — 760 (27/11/2022) e 787 (11/12/2022). O código do caderno
+        # aparece no cabeçalho de cada página da prova ("787CB1_01N500940"), e
+        # é ele que precisa bater com o número do arquivo de gabarito. Parear
+        # errado passa despercebido: a extração valida, o app funciona, e só o
+        # gabarito fica trocado em ~40% dos itens.
+        "gabarito": (
+            "E C C E E E C C E C E C E E C C E C E E "
+            "C C C E C E E C C E E E C E C E E C E C "
+            "C X E E E C E E C E "
+            "C E E C C C C E C E E E C C E E E C X C "
+            "E E E C C E E C C C E E E C C C E E C C "
+            "C E E C C E E E C C E E C C E E C E C C "
+            "C C E E E C C C E C"
+        ).split(),
+        "crop_top": 42,
+        "crop_bottom": 28,
+        "disciplinas": [
+            (1, 14, "Língua Portuguesa"),
+            (15, 20, "Ética no Serviço Público"),
+            (21, 30, "Noções de Direito Constitucional"),
+            (31, 40, "Noções de Direito Administrativo"),
+            (41, 45, "Noções de Informática"),
+            (46, 50, "Raciocínio Lógico"),
+            (51, 120, "Direito Previdenciário e Seguridade Social"),
+        ],
+        # os banners centralizados da capa ficam partidos ao meio pelo recorte
+        # de colunas ("-- CADERNO DE PRO" | "OVAS OBJETIVAS --"), então os
+        # padrões precisam casar com os dois pedaços
+        "noise": [
+            r"\d{3}(?:CB\d|\d{3})_\d+[A-Z]\d+\s+CEBRASPE.*",
+            r"--\s*CADERNO DE PRO\w*",
+            r"O?VAS OBJETIVAS\s*--",
+            r"--\s*CONHECIMENTO?S?\b",
+            r"^\w{0,3}OS (?:B[ÁA]SICOS|ESPEC[ÍI]FICOS)\s*--",
+            r"^Espa[çc]o livre$",
+        ],
+    },
 }
 
 # fecho tolerante a OCR: "(D)", "(Dj", "(Bj)", "(D]"
@@ -370,6 +429,11 @@ def token_ocr_igual(token: str, num: int) -> bool:
     if len(token) != len(s):
         return False
     return all(ch in OCR_DIGITOS[d] for ch, d in zip(token, s))
+# estilo CEBRASPE: item "certo/errado" com o número inline ("51 A Constituição...")
+CESPE_NUM_RE = re.compile(r"^(\d{1,3})\s+(\S.*)$")
+# fim de sentença: separa o texto de um item do bloco de comando que vem depois
+TERM_RE = re.compile(r"[.!?][\"'”’)\]]?$")
+CESPE_ALTS = {"C": "Certo", "E": "Errado"}
 # estilo FCC: texto de apoio com faixa explícita de questões
 FCC_ATENCAO_RE = re.compile(
     r"^Aten[çc][ãa]o:.*quest(?:[ãa]o|[õo]es)\s+de\s+n[úu]meros?\s+"
@@ -390,10 +454,12 @@ FIG_RE = re.compile(
 RENDER_DPI = 160
 
 
-def extract_lines(pdf_path, crop_top, crop_bottom, colunas=2):
+def extract_lines(pdf_path, crop_top, crop_bottom, colunas=2, por_pagina=None):
     """Extrai linhas na ordem de leitura (coluna esquerda, depois direita).
 
-    `colunas=1` para provas de coluna única (FCC); 2 para FGV.
+    `colunas=1` para provas de coluna única (FCC); 2 para FGV. `por_pagina`
+    ({número da página: colunas}) cobre os cadernos que trocam de diagramação
+    no meio da prova.
     Retorna lista de (meta, texto), onde meta identifica página, coluna e a
     posição vertical da linha — usado depois para renderizar a região da
     questão como imagem.
@@ -402,7 +468,8 @@ def extract_lines(pdf_path, crop_top, crop_bottom, colunas=2):
     with pdfplumber.open(pdf_path) as pdf:
         for i, page in enumerate(pdf.pages, start=1):
             w, h = page.width, page.height
-            if colunas == 1:
+            n_col = (por_pagina or {}).get(i, colunas)
+            if n_col == 1:
                 faixas = ((0, w),)
             else:
                 faixas = ((0, w / 2), (w / 2, w))
@@ -459,6 +526,15 @@ def parse_questoes(lines, cfg):
     current = None
     expected = 1
     apoio_atual = None   # FGV: {"texto", "restantes"} | FCC: {"texto", "numeros"}
+    # CEBRASPE: o comando ("... julgue os itens a seguir") e os textos de apoio
+    # vêm em blocos separados por espaço em branco, sem marcador nenhum. O que
+    # cai entre um item e o próximo vira o apoio corrente, que vale até que
+    # outro bloco apareça.
+    gap_apoio = cfg.get("gap_apoio", 6.0)
+    bloco_pendente = []          # linhas do bloco que ainda não virou apoio
+    metas_pendentes = []
+    apoio_corrente = None
+    prev_meta = prev_txt = None
 
     def close_current():
         if current is not None:
@@ -491,6 +567,17 @@ def parse_questoes(lines, cfg):
         stripped = ln.strip()
         if not stripped:
             continue
+        if estilo == "cespe":
+            # o item só termina em fim de frase; a partir daí, um espaço maior
+            # (ou a virada de coluna/página) indica que começou outro bloco
+            if prev_txt is not None and TERM_RE.search(prev_txt):
+                mudou_coluna = (prev_meta["page"] != meta["page"]
+                                or prev_meta["col"] != meta["col"])
+                if (mudou_coluna
+                        or meta["top"] - prev_meta["bottom"] > gap_apoio):
+                    close_current()
+                    current = None
+            prev_meta, prev_txt = meta, stripped
         if stripped.startswith("@@APOIO"):
             close_current()
             current = None
@@ -514,7 +601,13 @@ def parse_questoes(lines, cfg):
             stripped = str(expected)
         resto_inicial = None
         inicia = False
-        if estilo == "fcc":
+        if estilo == "cespe":
+            m_ce = CESPE_NUM_RE.match(stripped)
+            if (m_ce and expected <= n_total
+                    and int(m_ce.group(1)) == expected):
+                inicia = True
+                resto_inicial = m_ce.group(2).strip()
+        elif estilo == "fcc":
             m_num = FCC_NUM_OCR_RE.match(stripped)
             num_visto = None
             if m_num and expected <= n_total:
@@ -560,19 +653,34 @@ def parse_questoes(lines, cfg):
             inicia = True
         if inicia:
             close_current()
+            metas_do_apoio = []
+            if estilo == "cespe":
+                if bloco_pendente:
+                    apoio_corrente = " ".join(bloco_pendente).strip() or None
+                    # só o primeiro item do bloco carrega o recorte do apoio:
+                    # é ali que ficam a planilha, o e-mail, o texto etc.
+                    metas_do_apoio = metas_pendentes
+                    bloco_pendente, metas_pendentes = [], []
+                apoio = apoio_corrente
+            else:
+                apoio = apoio_para(expected)
             current = {
                 "numero": expected,
                 "pagina": meta["page"],
-                "texto_apoio": apoio_para(expected),
+                "texto_apoio": apoio,
                 "enunciado_linhas": ([resto_inicial] if resto_inicial else []),
                 "alternativas": {},
                 "_alt_atual": None,
                 "_metas": [meta],
+                "_metas_apoio": metas_do_apoio,
             }
             expected += 1
             continue
         if current is None:
-            if apoio_atual is not None:
+            if estilo == "cespe":
+                bloco_pendente.append(stripped)
+                metas_pendentes.append(meta)
+            elif apoio_atual is not None:
                 apoio_atual["texto"].append(stripped)
             continue
         current["_metas"].append(meta)
@@ -623,11 +731,28 @@ def parse_questoes(lines, cfg):
     for q in questoes:
         num = q["numero"]
         enunciado = "\n".join(q["enunciado_linhas"]).strip()
-        alts = {k: " ".join(v).strip() for k, v in q["alternativas"].items()}
+        if estilo == "cespe":
+            # itens certo/errado: as alternativas não estão impressas no caderno
+            alts = dict(CESPE_ALTS)
+        else:
+            alts = {k: " ".join(v).strip() for k, v in q["alternativas"].items()}
         resposta = gab[num - 1] if num <= len(gab) else None
+        anulada = resposta in ("*", "X")
         texto_completo = re.sub(
             r"\s+", " ", " ".join([enunciado] + list(alts.values())))
         enunciado_flat = re.sub(r"\s+", " ", enunciado)
+        if estilo == "cespe":
+            # sem alternativas impressas, o que sobra é fórmula/figura no PDF
+            revisar = bool(MATH_RE.search(enunciado_flat)
+                           or FIG_RE.search(enunciado_flat)
+                           or not enunciado
+                           or num in cfg.get("revisar_extra", ()))
+        else:
+            revisar = bool(MATH_RE.search(texto_completo)
+                           or FIG_RE.search(enunciado_flat)
+                           or len(alts) < 5
+                           or any(not v for v in alts.values())
+                           or q.get("_forcar_revisar"))
         out.append({
             "numero": num,
             "pagina": q["pagina"],
@@ -636,17 +761,14 @@ def parse_questoes(lines, cfg):
             "texto_apoio": q["texto_apoio"],
             "enunciado": enunciado,
             "alternativas": alts,
-            "gabarito": None if resposta == "*" else resposta,
-            "anulada": resposta == "*",
+            "gabarito": None if anulada else resposta,
+            "anulada": anulada,
             # fórmula/tabela/figura que o parser de texto não captura bem,
             # ou alternativas incompletas (OCR ruim) — o recorte PNG cobre
-            "revisar": bool(MATH_RE.search(texto_completo)
-                            or FIG_RE.search(enunciado_flat)
-                            or len(alts) < 5
-                            or any(not v for v in alts.values())
-                            or q.get("_forcar_revisar")),
+            "revisar": revisar,
             "imagens": [],
             "_metas": q["_metas"],
+            "_metas_apoio": q.get("_metas_apoio") or [],
         })
     return out
 
@@ -685,9 +807,13 @@ def render_questoes(questoes, cfg, chave, pdf_path):
         for idx, q in enumerate(questoes):
             if not q["revisar"]:
                 continue
-            segs = segmentos(q["_metas"])
+            # o comando/texto de apoio (planilha, e-mail, texto base) entra no
+            # recorte junto com o item que o inaugura
+            segs = segmentos(q.get("_metas_apoio", []) + q["_metas"])
             prox = questoes[idx + 1] if idx + 1 < len(questoes) else None
-            prox_meta = prox["_metas"][0] if prox else None
+            prox_meta = (prox.get("_metas_apoio") or prox["_metas"])[0] if prox else None
+            ant = questoes[idx - 1] if idx else None
+            ant_meta = ant["_metas"][-1] if ant else None
             for si, s in enumerate(segs):
                 page = pdf.pages[s["page"] - 1]
                 col_fim = page.height - cfg["crop_bottom"]
@@ -713,6 +839,14 @@ def render_questoes(questoes, cfg, chave, pdf_path):
                             bottom = max(bottom, ob["bottom"])
                     bottom += 8
                 topo = max(s["top"] - 4, cfg["crop_top"])
+                if si == 0 and q.get("_metas_apoio"):
+                    # o apoio pode começar por uma figura sem texto (planilha,
+                    # e-mail): sobe até o fim da questão anterior na coluna
+                    limite = cfg["crop_top"]
+                    if (ant_meta and ant_meta["page"] == s["page"]
+                            and ant_meta["col"] == s["col"]):
+                        limite = ant_meta["bottom"] + 2
+                    topo = max(min(topo, limite), cfg["crop_top"])
                 base = min(bottom, col_fim)
                 if base <= topo + 4:
                     continue  # região degenerada (ex.: placeholder de OCR)
@@ -731,15 +865,45 @@ def render_questoes(questoes, cfg, chave, pdf_path):
                 q["imagens"].append(f"img/{chave}/{nome}")
 
 
+CADERNO_RE = re.compile(r"\b(\d{3})(?:CB\d|\d{3})_\d")
+
+
+def conferir_caderno(pdf_path, cfg):
+    """Confere que a prova é do caderno de onde veio o gabarito do config.
+
+    Bancas que aplicam a mesma prova em datas diferentes publicam um gabarito
+    por caderno (o INSS 2022 teve o 760, de 27/11, e o 787, de 11/12). Parear
+    errado não quebra nada — a extração valida, o app funciona — e o gabarito
+    fica trocado em dezenas de itens sem nenhum sinal. Daí a conferência ser
+    explícita. Lê o topo da página, que o `crop_top` descarta na extração.
+    """
+    caderno = cfg.get("caderno")
+    if not caderno:
+        return None
+    achados = set()
+    with pdfplumber.open(pdf_path) as pdf:
+        for page in pdf.pages[:3]:
+            faixa = page.crop((0, 0, page.width, min(cfg["crop_top"] + 10,
+                                                     page.height)))
+            achados.update(CADERNO_RE.findall(faixa.extract_text() or ""))
+    if caderno in achados:
+        return None
+    return (f"caderno esperado {caderno} não aparece no cabeçalho do PDF"
+            f" (achei: {sorted(achados) or 'nenhum'}) — o gabarito do config"
+            f" pode ser de outra aplicação")
+
+
 def validar(questoes, cfg):
     problemas = []
+    esperadas = (["C", "E"] if cfg.get("estilo") == "cespe"
+                 else ["A", "B", "C", "D", "E"])
     numeros = [q["numero"] for q in questoes]
     faltando = sorted(set(range(1, cfg["n_questoes"] + 1)) - set(numeros))
     if faltando:
         problemas.append(f"questões faltando: {faltando}")
     for q in questoes:
         letras = sorted(q["alternativas"].keys())
-        if letras != ["A", "B", "C", "D", "E"]:
+        if letras != esperadas:
             problemas.append(f"q{q['numero']}: alternativas {letras}")
         if not q["enunciado"]:
             problemas.append(f"q{q['numero']}: enunciado vazio")
@@ -757,18 +921,24 @@ def main():
     GOLD.mkdir(parents=True, exist_ok=True)
 
     lines = extract_lines(pdf_path, cfg["crop_top"], cfg["crop_bottom"],
-                          cfg.get("colunas", 2))
+                          cfg.get("colunas", 2),
+                          cfg.get("colunas_por_pagina"))
     (SILVER / f"{chave}.txt").write_text(
         "\n".join(f"[p{m['page']}c{m['col']}] {ln}" for m, ln in lines),
         encoding="utf-8")
+
+    problema_caderno = conferir_caderno(pdf_path, cfg)
 
     lines = clean_lines(lines, cfg["noise"], cfg.get("estilo", "fgv"))
     questoes = parse_questoes(lines, cfg)
     render_questoes(questoes, cfg, chave, pdf_path)
     problemas = validar(questoes, cfg)
+    if problema_caderno:
+        problemas.insert(0, problema_caderno)
 
     for q in questoes:
         del q["_metas"]
+        q.pop("_metas_apoio", None)
 
     doc = {
         "prova": chave,
@@ -777,6 +947,8 @@ def main():
         "orgao": cfg["orgao"],
         "cargo": cfg["cargo"],
         "tipo": cfg["tipo"],
+        # "abcde" (múltipla escolha) ou "ce" (certo/errado, estilo Cebraspe)
+        "formato": cfg.get("formato", "abcde"),
         "pdf": cfg["pdf"],
         "questoes": questoes,
     }

@@ -13,6 +13,7 @@
 <body>
   <header>
     <h1>🎯 Treino Concursos</h1>
+    <button id="perfil-chip" title="Trocar de perfil">👤</button>
     <nav>
       <button id="nav-treino" class="active">Treinar</button>
       <button id="nav-redacao">Redação</button>
@@ -154,9 +155,37 @@
       </div>
     </section>
 
+    <!-- ===== perfis ===== -->
+    <section id="tela-perfis" class="oculto">
+      <h2>Quem está estudando?</h2>
+      <p class="dica">Cada perfil tem o próprio histórico de respostas, a
+        própria repetição espaçada e as próprias redações. Tudo fica
+        <strong>neste aparelho</strong>: o progresso não acompanha você em
+        outro celular ou no PC.</p>
+
+      <div id="perfis-lista"></div>
+
+      <h3>Criar um perfil</h3>
+      <label class="campo">Nome
+        <input id="perfil-novo-nome" type="text" maxlength="40"
+               placeholder="Ex.: Maria" autocomplete="off">
+      </label>
+      <div class="acoes">
+        <button id="perfil-criar" class="primario">Criar perfil</button>
+        <button id="perfil-voltar">Voltar</button>
+      </div>
+    </section>
+
     <!-- ===== ajustes ===== -->
     <section id="tela-ajustes" class="oculto">
       <h2>Ajustes</h2>
+
+      <h3>Perfil</h3>
+      <p class="dica">O site tem uma senha só, compartilhada. Os perfis
+        separam o progresso de cada pessoa dentro deste aparelho.</p>
+      <div class="acoes">
+        <button id="btn-perfis" class="primario">Trocar ou criar perfil</button>
+      </div>
 
       <h3>Backup do progresso</h3>
       <p class="dica">Seu histórico de respostas e as redações ficam salvos

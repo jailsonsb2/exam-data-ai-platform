@@ -48,7 +48,7 @@ def exportar_dados() -> dict:
     con.row_factory = sqlite3.Row
 
     provas = [dict(r) for r in con.execute(
-        """SELECT id, chave, banca, ano, orgao, cargo, pdf
+        """SELECT id, chave, banca, ano, orgao, cargo, formato, pdf
            FROM provas ORDER BY ano DESC, orgao""")]
 
     questoes = []
