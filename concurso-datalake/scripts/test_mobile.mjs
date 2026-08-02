@@ -43,6 +43,29 @@ for (const t of TELAS) {
      rolagem.scroll <= rolagem.tela + 1,
      `scrollWidth ${rolagem.scroll} vs ${rolagem.tela}`);
 
+  // 1b) cabecalho: o nome do perfil divide a linha com o titulo, e nao ocupa
+  //     uma faixa so dele — em tela de celular altura no topo e cara
+  const cabecalho = await page.evaluate(() => {
+    const h1 = document.querySelector("header h1").getBoundingClientRect();
+    const chip = document.getElementById("perfil-chip").getBoundingClientRect();
+    return {
+      alturaHeader: Math.round(
+        document.querySelector("header").getBoundingClientRect().height),
+      mesmaLinha: chip.top < h1.bottom && h1.top < chip.bottom,
+      chipDireita: chip.left > h1.left,
+      larguraChip: Math.round(chip.width),
+      alturaChip: Math.round(chip.height),
+      tela: document.documentElement.clientWidth,
+    };
+  });
+  ok("nome do perfil na mesma linha do titulo", cabecalho.mesmaLinha);
+  ok("nome do perfil alinhado a direita", cabecalho.chipDireita);
+  ok("chip do perfil nao toma metade da tela",
+     cabecalho.larguraChip <= cabecalho.tela * 0.5,
+     `${cabecalho.larguraChip}px de ${cabecalho.tela}px`);
+  ok("cabecalho compacto", cabecalho.alturaHeader <= 130,
+     `${cabecalho.alturaHeader}px`);
+
   // 2) nenhum elemento visivel pode vazar a largura da tela
   const vazando = await page.evaluate(() => {
     const larg = document.documentElement.clientWidth;
@@ -138,7 +161,32 @@ for (const t of TELAS) {
        `${r.scroll} vs ${r.tela}`);
   }
 
+  // 8) tela de perfis: lista empilhada, botoes lado a lado sem vazar
+  await page.click("#btn-perfis");
+  await page.waitForSelector("#tela-perfis:not(.oculto)");
+  const perfis = await page.evaluate(() => {
+    const larg = document.documentElement.clientWidth;
+    const linhas = [...document.querySelectorAll(".perfil")];
+    const botoes = [...document.querySelectorAll(".perfil-acoes button")];
+    return {
+      quantas: linhas.length,
+      vaza: [...linhas, ...botoes].some((el) => {
+        const r = el.getBoundingClientRect();
+        return r.right > larg + 1 || r.left < -1;
+      }),
+      botaoBaixo: botoes.some((b) => b.getBoundingClientRect().height < 36),
+      scroll: document.documentElement.scrollWidth, tela: larg,
+    };
+  });
+  ok("tela de perfis lista o perfil atual", perfis.quantas >= 1,
+     `${perfis.quantas}`);
+  ok("perfis nao vazam a tela", !perfis.vaza);
+  ok("botoes do perfil com altura de toque", !perfis.botaoBaixo);
+  ok("tela-perfis sem rolagem horizontal", perfis.scroll <= perfis.tela + 1,
+     `${perfis.scroll} vs ${perfis.tela}`);
+
   await page.screenshot({ path: `mobile-${t.w}.png`, fullPage: true });
+  await page.screenshot({ path: `mobile-perfis-${t.w}.png` });
   await ctx.close();
 }
 

@@ -10,3 +10,6 @@ segredos*.json
 # capturas geradas pelo test_mobile.mjs
 mobile-*.png
 tela-*.png
+
+# dependência só de teste: npm install playwright-core --no-save
+node_modules/
