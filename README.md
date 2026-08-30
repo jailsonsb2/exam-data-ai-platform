@@ -1,306 +1,340 @@
-# 🎯 Concurso Data Lake
+# 🎯 Exam Data & AI Platform
 
-Sistema pessoal de preparação para concursos que transforma questões previamente processadas em uma plataforma de treino com **FastAPI, SQLite, JavaScript, engenharia de dados e IA**.
+### Data Engineering · Backend · Applied AI · Learning Systems
 
-O projeto combina pipeline de dados, aplicação web, repetição espaçada, análise de desempenho, justificativas assistidas por IA e treino de redação.
+A full-stack learning platform that transforms semi-structured exam content into structured data, adaptive study workflows and AI-assisted feedback.
 
-> **Nota sobre os dados:** os PDFs originais de provas, gabaritos e editais não fazem parte deste repositório. O banco e os dados estruturados preservam apenas o material previamente processado utilizado pela aplicação.
+Built with **Python, FastAPI, SQLite and JavaScript**, the project combines document processing, ETL, Medallion-inspired data layers, backend APIs, spaced repetition, performance analytics and LLM integration in a single working application.
+
+> **Data note:** original exam, answer-key and notice PDFs are not distributed in this repository. The application uses previously processed structured data required for its operation.
 
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-backend-009688?logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-data-003B57?logo=sqlite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-frontend-F7DF1E?logo=javascript&logoColor=black)
+![AI](https://img.shields.io/badge/Applied_AI-LLM-8A2BE2)
 
 ---
 
-## ✨ Funcionalidades
+## 🚀 What This Project Demonstrates
 
-| Recurso | Descrição |
+This repository is more than a study application. It is an end-to-end engineering project covering:
+
+- **Document processing** for heterogeneous and imperfect source formats
+- **Data Engineering** with Silver, Gold and Curated layers
+- **ETL and data quality** for semi-structured content
+- **Backend Engineering** with Python and FastAPI
+- **Relational serving** and user-state persistence with SQLite
+- **Applied AI / LLM integration** for enrichment and structured feedback
+- **Learning algorithms** through spaced repetition
+- **Frontend development** with JavaScript, HTML and CSS
+- **Product engineering** around a real personal use case
+
+---
+
+## ✨ Features
+
+| Feature | Description |
 |---|---|
-| 🗓️ **Sessão do dia** | Combina revisões de questões erradas com novas questões usando intervalos de 1 → 3 → 7 → 15 dias |
-| 🎯 **Sessão manual** | Filtros por prova, disciplina, assunto, estado da questão e quantidade |
-| ✅ **Correção imediata** | Feedback instantâneo com o gabarito armazenado |
-| 💡 **Justificativas** | Explicações manuais e assistidas por IA para respostas e alternativas |
-| 🖼️ **Imagens de apoio** | Questões cujo conteúdo textual é insuficiente podem utilizar imagens previamente processadas |
-| ✍️ **Treino de redação** | Temas dissertativos, cronômetro, histórico e avaliação assistida por IA |
-| 📊 **Desempenho** | Taxa de acerto por assunto para direcionar o estudo |
+| 🗓️ **Daily Session** | Combines due reviews with new questions using 1 → 3 → 7 → 15 day intervals |
+| 🎯 **Custom Sessions** | Filter by exam, discipline, topic, question state and quantity |
+| ✅ **Immediate Feedback** | Instant correction based on the stored answer key |
+| 💡 **Explanations** | Manual and AI-assisted explanations for answers and distractors |
+| 🖼️ **Visual Context** | Previously processed images support questions where text extraction is insufficient |
+| ✍️ **Essay Training** | Timed writing practice, history and AI-assisted evaluation |
+| 📊 **Performance Analytics** | Accuracy by topic helps identify areas that require more study |
 
 ---
 
-## 🏗️ Arquitetura
+## 🏗️ Architecture
 
-O projeto utiliza uma organização inspirada na **Medallion Architecture**, separando extração, estruturação, curadoria e camada de aplicação.
+The data pipeline follows a **Medallion-inspired architecture**, separating extraction, structured data, enrichment and application serving.
 
 ```text
-Dados de origem
-      ↓
-┌──────────────┐
-│    Silver    │  texto e dados intermediários
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│     Gold     │  questões estruturadas
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│   Curated    │  assuntos e justificativas
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│    SQLite    │  questões + histórico do usuário
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│   FastAPI    │  API e regras da aplicação
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│ Web Frontend │
-└──────────────┘
+Semi-Structured Sources
+          ↓
+┌──────────────────┐
+│      Silver      │  extracted / intermediate data
+└────────┬─────────┘
+         ↓
+┌──────────────────┐
+│       Gold       │  structured questions
+└────────┬─────────┘
+         ↓
+┌──────────────────┐
+│     Curated      │  topics + explanations
+└────────┬─────────┘
+         ↓
+┌──────────────────┐
+│      SQLite      │  serving + user history
+└────────┬─────────┘
+         ↓
+┌──────────────────┐
+│     FastAPI      │  API + application logic
+└────────┬─────────┘
+         ↓
+┌──────────────────┐
+│   Web Frontend   │
+└──────────────────┘
 ```
 
-### Estrutura principal
+### Project Structure
 
 ```text
 concurso-datalake/
 ├── data/
-│   ├── silver/            # dados intermediários
-│   ├── gold/              # questões estruturadas
-│   ├── curated/           # classificação e justificativas
-│   └── concurso.db        # SQLite e histórico de uso
+│   ├── silver/            # intermediate extracted data
+│   ├── gold/              # structured questions
+│   ├── curated/           # topics and explanations
+│   └── concurso.db        # application data and study history
 ├── scripts/
 │   ├── extract_prova.py
 │   ├── curate_assuntos.py
 │   ├── gen_justificativas.py
 │   └── build_db.py
 └── app/
-    ├── main.py            # API FastAPI
-    └── static/            # frontend HTML/CSS/JavaScript
+    ├── main.py            # FastAPI application
+    └── static/            # HTML/CSS/JavaScript frontend
 ```
 
 ---
 
-## 🔄 Pipeline de dados
+## 🔄 Data Pipeline
 
-O pipeline foi criado para transformar documentos de prova em dados estruturados consumíveis pela aplicação.
+### Silver — Extraction & Intermediate Representation
 
-### Silver
+The Silver layer stores intermediate representations produced during document processing. It provides a boundary between raw document interpretation and the structured application model.
 
-Camada intermediária responsável pela representação do conteúdo extraído e normalizado.
+### Gold — Structured Question Data
 
-### Gold
+The Gold layer converts extracted content into structured entities containing fields such as:
 
-Transforma o conteúdo em entidades estruturadas de questão, incluindo campos como prova, disciplina, assunto, alternativas e resposta esperada.
+- exam
+- discipline
+- topic
+- statement
+- alternatives
+- expected answer
+- processing flags
 
-### Curated
+### Curated — Enrichment
 
-Adiciona enriquecimento utilizado pela experiência de estudo, incluindo classificação temática e justificativas.
+The Curated layer adds information used by the learning experience, including topic classification and explanations.
 
-### Serving / Application
+Manual curation can coexist with automated enrichment, allowing deterministic information to remain independent from generative content.
 
-Os dados são consolidados em **SQLite**, que também mantém tentativas, desempenho, ciclos de revisão e redações.
+### Serving Layer
 
-A aplicação expõe essas funcionalidades por meio de uma API **FastAPI** consumida por um frontend web em JavaScript.
+Structured data is consolidated into **SQLite**, which also stores:
 
----
+- attempts
+- performance history
+- review cycles
+- essays
+- application state
 
-## 🧩 Engenharia de extração
-
-O pipeline suporta diferentes padrões de documentos e estratégias de parsing.
-
-Entre os problemas tratados estão:
-
-- layouts de uma ou múltiplas colunas;
-- textos de apoio associados a grupos de questões;
-- diferenças de formatação entre bancas;
-- caracteres degradados durante extração/OCR;
-- marcadores inconsistentes de questões e alternativas;
-- ressincronização do parser quando a estrutura esperada é perdida;
-- identificação de questões que exigem revisão ou representação visual.
-
-O objetivo é evitar que uma falha localizada de parsing invalide todo o processamento do documento.
+A **FastAPI** backend exposes these capabilities to the web frontend.
 
 ---
 
-## 🧠 Repetição espaçada
+## 🧩 Document Processing Engineering
 
-Questões respondidas incorretamente entram em um ciclo progressivo de revisão:
+A central challenge is converting heterogeneous exam documents into reliable structured data.
+
+The parser handles problems such as:
+
+- single-column and multi-column layouts;
+- support text associated with groups of questions;
+- formatting differences between document providers;
+- degraded characters from text extraction or OCR;
+- inconsistent question and alternative markers;
+- parser resynchronization when expected markers are missing;
+- visual fallback for questions containing tables, formulas or code;
+- localized validation instead of failing an entire document because of one malformed question.
+
+This makes the extraction pipeline resilient to real-world document inconsistencies rather than assuming perfectly structured input.
+
+---
+
+## 🧠 Spaced Repetition
+
+Incorrectly answered questions enter a progressive review cycle:
 
 ```text
-Erro
- ↓
-1 dia
- ↓
-3 dias
- ↓
-7 dias
- ↓
-15 dias
- ↓
-Graduação
+Incorrect Answer
+       ↓
+     1 day
+       ↓
+     3 days
+       ↓
+     7 days
+       ↓
+    15 days
+       ↓
+   Graduated
 ```
 
-Uma resposta correta em uma etapa avança a questão para o próximo intervalo. Isso permite que a sessão diária combine automaticamente **revisões pendentes + questões novas**.
+A successful review advances the question to the next interval. The daily session can therefore combine **due reviews and unseen questions automatically**.
+
+The learning state is persisted in the database rather than being derived only from the current browser session.
 
 ---
 
-## 🤖 IA aplicada
+## 🤖 Applied AI
 
-A IA é utilizada como camada complementar da aplicação, principalmente para:
+LLMs are used as an **enrichment and feedback layer**, not as the authoritative source of exam answers.
 
-- geração de justificativas;
-- explicação das alternativas;
-- apoio à identificação de pegadinhas;
-- avaliação de redações;
-- feedback estruturado ao usuário.
+Current AI-assisted capabilities include:
 
-Quando necessário, questões com elementos visuais podem utilizar imagens previamente processadas como contexto adicional para o modelo.
+- explanation generation;
+- distractor analysis;
+- structured study feedback;
+- essay evaluation;
+- multimodal context for questions requiring visual information.
 
-A aplicação continua mantendo separação entre **resposta/gabarito armazenado** e **explicação gerada por modelo**, evitando tratar a saída generativa como fonte primária da resposta correta.
+A key design decision is the separation between:
+
+```text
+Deterministic / Stored Data     Generative Layer
+───────────────────────────     ────────────────
+Answer key                  →   Explanation
+Question structure          →   Feedback
+Study history               →   Recommendations
+```
+
+This prevents generated text from silently replacing the structured source of truth used by the application.
 
 ---
 
-## 📊 Base estruturada
+## 📊 Dataset
 
-A base atual contém **670 questões previamente processadas**, provenientes de diferentes provas e áreas, com **661 questões respondíveis**.
+The current application database contains **670 previously processed questions**, of which **661 are answerable** by the training engine.
 
-Os documentos PDF utilizados originalmente para a extração **não estão incluídos no repositório**.
+The original PDFs used during extraction are **not included in the repository**.
 
-O projeto mantém os dados estruturados necessários para funcionamento da aplicação e histórico de estudo.
+The structured dataset and application database are retained so the project can demonstrate the complete data-to-product workflow.
 
 ---
 
-## 🚀 Executando localmente
+## ⚙️ Running Locally
 
-### Dependências
+### Install dependencies
 
 ```bash
 pip install pdfplumber fastapi "uvicorn[standard]" anthropic
 ```
 
-### Iniciar a aplicação
+### Start the application
 
 ```bash
 cd concurso-datalake
 python -m uvicorn app.main:app --port 8000
 ```
 
-A aplicação ficará disponível em:
+Open:
 
 ```text
 http://127.0.0.1:8000
 ```
 
-### Recursos de IA
+### AI Features
 
-Para funcionalidades que utilizam API externa, configure a chave por variável de ambiente.
+Configure external AI credentials through environment variables.
 
 Windows:
 
 ```powershell
-set ANTHROPIC_API_KEY=sua-chave
+set ANTHROPIC_API_KEY=your-key
 ```
 
 Linux/macOS:
 
 ```bash
-export ANTHROPIC_API_KEY="sua-chave"
+export ANTHROPIC_API_KEY="your-key"
 ```
 
-Nenhuma chave de API deve ser versionada no repositório.
+API keys and credentials should never be committed to the repository.
 
 ---
 
-## 💡 Geração de justificativas
+## 💡 Incremental AI Enrichment
 
-O pipeline permite gerar justificativas de forma incremental:
+Explanations can be generated incrementally:
 
 ```bash
 python scripts/gen_justificativas.py all
 python scripts/build_db.py
 ```
 
-O processamento incremental permite interromper e continuar a geração sem necessariamente reconstruir todo o conjunto desde o início.
+The workflow is designed so enrichment can be interrupted and resumed without requiring the entire dataset to be regenerated from scratch.
 
 ---
 
-## 🔧 Tecnologias
+## 🛠️ Technology Stack
 
-**Backend**
+### Backend
 
-- Python
-- FastAPI
-- SQLite
-- REST APIs
+**Python · FastAPI · SQLite · REST APIs**
 
-**Data Engineering**
+### Data Engineering
 
-- ETL
-- Medallion Architecture
-- Silver / Gold / Curated layers
-- Data normalization
-- Data quality
-- Structured datasets
+**ETL · Medallion Architecture · Data Pipelines · Data Normalization · Data Quality · Structured Datasets**
 
-**AI**
+### Applied AI
 
-- LLM integration
-- Prompt-based enrichment
-- AI-assisted explanations
-- AI-assisted essay evaluation
+**LLM Integration · AI-assisted Enrichment · Structured Feedback · Multimodal Context**
 
-**Frontend**
+### Frontend
 
-- JavaScript
-- HTML
-- CSS
+**JavaScript · HTML · CSS**
 
 ---
 
-## 🎯 Decisões de engenharia
+## 🎯 Engineering Decisions
 
-Algumas decisões importantes do projeto:
+Several architectural choices are intentionally visible in this project:
 
-- separar documentos de origem dos dados consumidos pela aplicação;
-- preservar uma camada intermediária antes da estruturação final;
-- manter curadoria independente do processo de extração;
-- separar gabarito estruturado de explicações generativas;
-- preservar o histórico do usuário durante reconstruções do banco;
-- tratar erros de parsing de maneira localizada;
-- utilizar banco relacional leve para o serving da aplicação;
-- manter dados de estudo e regras da aplicação desacoplados da interface.
+- Separate source-document processing from application-serving data
+- Preserve intermediate representations before producing final structured entities
+- Keep manual curation independent from automated enrichment
+- Separate deterministic answer data from generative explanations
+- Preserve user history when rebuilding the structured question database
+- Contain parsing failures instead of invalidating complete processing runs
+- Use a lightweight relational database for application serving
+- Keep learning state and application rules independent from the frontend
+- Make AI an enrichment component rather than the system's source of truth
 
 ---
 
 ## 🗺️ Roadmap
 
-- [x] Pipeline de extração e estruturação
-- [x] Camadas Silver / Gold / Curated
-- [x] Aplicação FastAPI
-- [x] Frontend web para treino
-- [x] Correção imediata
-- [x] Repetição espaçada 1/3/7/15 dias
-- [x] Análise de desempenho
-- [x] Justificativas manuais e assistidas por IA
-- [x] Treino de redação com avaliação assistida por IA
-- [ ] Pipeline OCR mais robusto para documentos digitalizados
-- [ ] Geração controlada de questões inéditas
-- [ ] Experimentação do pipeline em ambiente Databricks
-- [ ] Mentor de estudos com estado e orquestração baseada em grafo
+- [x] Document extraction and structuring pipeline
+- [x] Silver / Gold / Curated data layers
+- [x] FastAPI application
+- [x] Web training interface
+- [x] Immediate correction
+- [x] 1/3/7/15-day spaced repetition
+- [x] Performance analytics
+- [x] Manual and AI-assisted explanations
+- [x] Essay training with AI-assisted evaluation
+- [ ] More robust OCR pipeline for scanned documents
+- [ ] Controlled generation of novel practice questions
+- [ ] Lakehouse pipeline experimentation in Databricks
+- [ ] Stateful AI study mentor with graph-based orchestration
 
 ---
 
-## 🔒 Dados e propriedade intelectual
+## 🔒 Data & Intellectual Property
 
-Este repositório demonstra a arquitetura e a implementação da plataforma de estudo.
+This repository demonstrates the engineering implementation of the platform.
 
-Os **PDFs originais de provas, gabaritos e editais não são distribuídos** neste repositório. Marcas, provas e conteúdos de terceiros pertencem aos respectivos titulares.
+Original exam PDFs, answer-key PDFs and public notices are **not redistributed** here. Third-party trademarks and source materials remain the property of their respective owners.
 
-O projeto é destinado a estudo, experimentação de engenharia de software, engenharia de dados e IA aplicada.
+The project is intended for learning, experimentation and demonstration of **software engineering, data engineering and applied AI** techniques.
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Author
 
 **Jailson Bezerra**
 
