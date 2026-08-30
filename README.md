@@ -6,7 +6,7 @@ A full-stack learning platform that transforms semi-structured exam content into
 
 Built with **Python, FastAPI, SQLite and JavaScript**, the project combines document processing, ETL, Medallion-inspired data layers, backend APIs, spaced repetition, performance analytics and LLM integration in a single working application.
 
-> **Data note:** original exam, answer-key and notice PDFs are not distributed in this repository. The application uses previously processed structured data required for its operation.
+> **Data note:** in the original pipeline, the **Bronze layer is composed of the source PDFs** (exam papers, answer keys and public notices) preserved in their raw form. Those original PDFs are intentionally **not distributed in this public repository**. The repository keeps the processed layers and application data required to demonstrate the architecture and run the platform.
 
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-backend-009688?logo=fastapi&logoColor=white)
@@ -21,7 +21,7 @@ Built with **Python, FastAPI, SQLite and JavaScript**, the project combines docu
 This repository is more than a study application. It is an end-to-end engineering project covering:
 
 - **Document processing** for heterogeneous and imperfect source formats
-- **Data Engineering** with Silver, Gold and Curated layers
+- **Data Engineering** with Bronze, Silver, Gold and Curated layers
 - **ETL and data quality** for semi-structured content
 - **Backend Engineering** with Python and FastAPI
 - **Relational serving** and user-state persistence with SQLite
@@ -48,11 +48,15 @@ This repository is more than a study application. It is an end-to-end engineerin
 
 ## 🏗️ Architecture
 
-The data pipeline follows a **Medallion-inspired architecture**, separating extraction, structured data, enrichment and application serving.
+The data pipeline follows a **Medallion-inspired architecture**, separating raw source preservation, extraction, structured data, enrichment and application serving.
 
 ```text
-Semi-Structured Sources
-          ↓
+┌──────────────────┐
+│      Bronze      │  original source PDFs
+│  exams / keys /  │  raw, unmodified inputs
+│     notices      │
+└────────┬─────────┘
+         ↓
 ┌──────────────────┐
 │      Silver      │  extracted / intermediate data
 └────────┬─────────┘
@@ -78,11 +82,14 @@ Semi-Structured Sources
 └──────────────────┘
 ```
 
+> The **Bronze layer exists in the original data workflow**, but its source PDFs are excluded from this public repository. This keeps the architectural model accurate without redistributing third-party documents.
+
 ### Project Structure
 
 ```text
 concurso-datalake/
 ├── data/
+│   ├── bronze/            # original source PDFs (not distributed publicly)
 │   ├── silver/            # intermediate extracted data
 │   ├── gold/              # structured questions
 │   ├── curated/           # topics and explanations
@@ -101,21 +108,45 @@ concurso-datalake/
 
 ## 🔄 Data Pipeline
 
+### Bronze — Raw Source Preservation
+
+The **Bronze layer is the raw source layer** of the pipeline.
+
+In this project it is composed of the original documents used as input, including:
+
+- exam PDFs;
+- official answer-key PDFs;
+- public notices or related source documents when needed by the extraction workflow.
+
+These files are preserved without semantic transformation so the extraction process can always be traced back to the original document.
+
+For the public GitHub version, the Bronze PDFs are **intentionally omitted**. This does not change the pipeline design: Bronze remains the conceptual and operational entry point of the data flow.
+
 ### Silver — Extraction & Intermediate Representation
 
-The Silver layer stores intermediate representations produced during document processing. It provides a boundary between raw document interpretation and the structured application model.
+The Silver layer stores intermediate representations produced from the Bronze documents during extraction and normalization. It provides a boundary between raw document interpretation and the structured application model.
+
+Typical responsibilities include:
+
+- extracted text;
+- page-level content;
+- normalized characters;
+- parser checkpoints;
+- intermediate question boundaries;
+- references to visual crops when text extraction alone is insufficient.
 
 ### Gold — Structured Question Data
 
 The Gold layer converts extracted content into structured entities containing fields such as:
 
-- exam
-- discipline
-- topic
-- statement
-- alternatives
-- expected answer
-- processing flags
+- exam;
+- discipline;
+- topic;
+- statement;
+- alternatives;
+- expected answer;
+- page/source reference;
+- processing flags.
 
 ### Curated — Enrichment
 
@@ -127,11 +158,11 @@ Manual curation can coexist with automated enrichment, allowing deterministic in
 
 Structured data is consolidated into **SQLite**, which also stores:
 
-- attempts
-- performance history
-- review cycles
-- essays
-- application state
+- attempts;
+- performance history;
+- review cycles;
+- essays;
+- application state.
 
 A **FastAPI** backend exposes these capabilities to the web frontend.
 
@@ -139,7 +170,7 @@ A **FastAPI** backend exposes these capabilities to the web frontend.
 
 ## 🧩 Document Processing Engineering
 
-A central challenge is converting heterogeneous exam documents into reliable structured data.
+A central challenge is converting heterogeneous exam PDFs from the Bronze layer into reliable structured data.
 
 The parser handles problems such as:
 
@@ -208,11 +239,11 @@ This prevents generated text from silently replacing the structured source of tr
 
 ## 📊 Dataset
 
-The current application database contains **670 previously processed questions**, of which **661 are answerable** by the training engine.
+The application uses a structured dataset generated from previously processed public exam documents.
 
-The original PDFs used during extraction are **not included in the repository**.
+The **original PDFs belong to the Bronze layer**, but they are not included in this public repository. Silver/Gold/Curated outputs, visual crops required by specific questions and the application database are retained where needed to demonstrate and operate the platform.
 
-The structured dataset and application database are retained so the project can demonstrate the complete data-to-product workflow.
+This allows the repository to show the complete **Bronze → Silver → Gold → Curated → Serving** architecture without acting as a mirror for the original PDF collections.
 
 ---
 
@@ -278,7 +309,7 @@ The workflow is designed so enrichment can be interrupted and resumed without re
 
 ### Data Engineering
 
-**ETL · Medallion Architecture · Data Pipelines · Data Normalization · Data Quality · Structured Datasets**
+**ETL · Medallion Architecture · Bronze / Silver / Gold / Curated · Data Pipelines · Data Normalization · Data Quality · Structured Datasets**
 
 ### Applied AI
 
@@ -294,7 +325,8 @@ The workflow is designed so enrichment can be interrupted and resumed without re
 
 Several architectural choices are intentionally visible in this project:
 
-- Separate source-document processing from application-serving data
+- Treat the original PDFs as an immutable **Bronze source layer**
+- Separate raw source-document preservation from extracted application data
 - Preserve intermediate representations before producing final structured entities
 - Keep manual curation independent from automated enrichment
 - Separate deterministic answer data from generative explanations
@@ -308,6 +340,7 @@ Several architectural choices are intentionally visible in this project:
 
 ## 🗺️ Roadmap
 
+- [x] Bronze source-document layer
 - [x] Document extraction and structuring pipeline
 - [x] Silver / Gold / Curated data layers
 - [x] FastAPI application
@@ -328,7 +361,7 @@ Several architectural choices are intentionally visible in this project:
 
 This repository demonstrates the engineering implementation of the platform.
 
-Original exam PDFs, answer-key PDFs and public notices are **not redistributed** here. Third-party trademarks and source materials remain the property of their respective owners.
+The architecture defines the **Bronze layer as the original exam, answer-key and notice PDFs** used as raw input. Those source files are intentionally **not redistributed** in this public repository. Third-party trademarks and source materials remain the property of their respective owners.
 
 The project is intended for learning, experimentation and demonstration of **software engineering, data engineering and applied AI** techniques.
 
