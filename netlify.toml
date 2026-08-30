@@ -9,19 +9,14 @@
   publish = "concurso-datalake/site"
   command = ""
 
-# A proteção por usuário e senha é a edge function netlify/edge-functions/auth.ts,
-# que se declara sozinha (export const config) e cobre "/*" — inclusive
-# dados/questoes.json e os recortes de PDF. As credenciais ficam nas variáveis
-# de ambiente SITE_USER e SITE_PASS do painel da Netlify, nunca neste arquivo.
+# Site público: não há autenticação por usuário/senha na borda.
 
-# O conteúdo é de provas das bancas: fora dos buscadores.
 [[headers]]
   for = "/*"
   [headers.values]
-    X-Robots-Tag = "noindex, nofollow"
     X-Content-Type-Options = "nosniff"
     X-Frame-Options = "DENY"
-    Referrer-Policy = "no-referrer"
+    Referrer-Policy = "strict-origin-when-cross-origin"
     Permissions-Policy = "geolocation=(), camera=(), microphone=()"
     Content-Security-Policy = "default-src 'self'; img-src 'self' data:; style-src 'self'; script-src 'self'; connect-src 'self' https://generativelanguage.googleapis.com; form-action 'none'; frame-ancestors 'none'; base-uri 'self'"
 
